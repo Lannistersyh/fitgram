@@ -5,7 +5,7 @@ const root=path.resolve(__dirname,'..'),sandbox={window:{}};
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync(path.join(root,'js/catalog-data.js'),'utf8'),sandbox);
 const data=sandbox.window.FITGRAM_CATALOG,list=data.items,categories=['shoes','pants','shirts'];
-const allow=['adidas.com','adidas.com.cn','puma.com','converse.com','converse.co.jp','vans.com','vans.com.mx','newbalance.com','nike.com','nike.com.cn','drmartens.com','onitsukatiger.com','asics.com','levi.com','levi.com.sg','dickies.com','dickieslife.com','dickiesaustralia.com','carhartt-wip.com','gramicci.com','gramicci.co.uk','uniqlo.com','tonywack.com'];
+const allow=['adidas.com','adidas.com.cn','puma.com','converse.com','converse.co.jp','vans.com','vans.com.mx','newbalance.com','nike.com','nike.com.cn','drmartens.com','onitsukatiger.com','asics.com','levi.com','levi.com.sg','dickies.com','dickieslife.com','dickiesaustralia.com','carhartt-wip.com','gramicci.com','gramicci.co.uk','uniqlo.com','tonywack.com','iteshop.com','ralphlauren.cn','newbalance.com.cn','drmartens.com.cn'];
 const hashes=new Set();
 function https(s){return new URL(s).protocol==='https:';}
 assert.equal(list.length,30);assert.equal(new Set(list.map(p=>p.id)).size,30);assert.equal(new Set(list.map(p=>p.productUrl)).size,30);
@@ -24,5 +24,10 @@ for(const p of list){
   assert(!p.artistExactMatch,'搭配选品不能自动升级为艺人同款');
 }
 assert(data.outfits.length>=3);
+const pref=data.preferences;assert.equal(pref.market,'中国大陆');assert.equal(pref.currency,'CNY');assert.equal(pref.min,1000);assert.equal(pref.max,3000);
+const cn=list.filter(p=>['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY'),within=cn.filter(p=>p.price>=pref.min&&p.price<=pref.max);
+assert(cn.length>=20,'多数选品需有大陆价格证据');assert(within.length>15,'预算内款式需占多数');
+for(const p of list){assert(['verified','catalog','unverified'].includes(p.mainlandStatus));assert(p.mainlandNote);if(p.mainlandStatus!=='unverified'){assert.equal(p.currency,'CNY');assert(p.storeName);assert(p.evidence||p.sourceEvidence);if(p.purchaseMode==='official-store-search'){assert(p.purchaseUrl==='https://drmartens.tmall.com');assert(p.mainlandNote.includes('证书'));}if(p.purchaseMode==='official-mini-program')assert.equal(p.mainlandStatus,'catalog');}}
+
 for(const r of data.outfits){assert.equal(r.items.length,3);assert.deepEqual([...new Set(r.items.map(id=>list.find(p=>p.id===id)?.category))].sort(),[...categories].sort());}
-console.log(JSON.stringify({passed:true,items:30,images:hashes.size,categories:Object.fromEntries(categories.map(c=>[c,10])),brands:new Set(list.map(p=>p.brand)).size,outfits:data.outfits.length,priced:list.filter(p=>p.price!==null).length},null,2));
+console.log(JSON.stringify({passed:true,items:30,images:hashes.size,categories:Object.fromEntries(categories.map(c=>[c,10])),brands:new Set(list.map(p=>p.brand)).size,outfits:data.outfits.length,priced:list.filter(p=>p.price!==null).length,mainlandCNY:cn.length,inBudget:within.length,overseasReferences:list.length-cn.length},null,2));

@@ -1,5 +1,307 @@
 [
   {
+    "id": "shoes-nb2002r",
+    "category": "shoes",
+    "brand": "New Balance",
+    "name": "2002R 大象灰复古跑鞋",
+    "model": "2002R",
+    "sku": "U2002RAS",
+    "color": "大象灰",
+    "image": "assets/catalog/shoes/nb2002r.jpg",
+    "imageSource": "https://itg-tezign-files.tezign.com/t429/MTc1Njk3NzMyMzQwNzMyNGVkMTkxLTNjYWQtNDI4OC1iYzQw.jpg?image_process=resize,l_900&angle=Left",
+    "productUrl": "https://www.newbalance.com.cn/productDetail/U2002RAS",
+    "price": 1099,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "复古跑鞋",
+      "灰色基础",
+      "日常耐看"
+    ],
+    "reason": "深浅灰拼接适合日常高频穿搭，能自然连接蓝色衬衫、黑灰裤与牛仔裤。",
+    "styling": "配黑色宽直筒牛仔裤和浅蓝牛津纺衬衫；也可穿灰裤与白色内搭，用衬衫增加亮度。",
+    "fitNote": "穿常用袜子比较相邻尺码，检查后跟滑动与前掌挤压；站立和行走都要舒适。",
+    "availability": "大陆官网目录标价已核验；通过官方微信小程序查询尺码库存及购买",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。",
+    "purchaseMode": "official-mini-program",
+    "storeName": "New Balance 中国官网",
+    "sourceEvidence": {
+      "productPage": "https://www.newbalance.com.cn/productDetail/U2002RAS",
+      "imagePage": "https://www.newbalance.com.cn/productDetail/U2002RAS",
+      "fields": {
+        "nameSku": "公开商品详情及当前HTML列出 U2002RAS / 2002R。",
+        "color": "当前商品配色：大象灰。",
+        "price": "当前大陆官方详情标价 1099 CNY；未换汇，未用划线价代替折后价。",
+        "image": "同一大陆官方商品页的首张无模特单品图，已下载并目视核验。",
+        "purchase": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。"
+      },
+      "relationship": "根据年轻男团私服方向选品；不声称艺人穿着同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-nb1906a",
+    "category": "shoes",
+    "brand": "New Balance",
+    "name": "1906A 白灰解构跑鞋",
+    "model": "1906A",
+    "sku": "M1906AD",
+    "color": "白色 / 灰色",
+    "image": "assets/catalog/shoes/nb1906a.jpg",
+    "imageSource": "https://itg-tezign-files.tezign.com/t429/MTcxOTIyNzY5NDYzMWE5YzlhZWNhLWQzN2ItNDA1YS1hYzIx.jpg?image_process=resize,l_900&angle=Left",
+    "productUrl": "https://www.newbalance.com.cn/productDetail/M1906AD",
+    "price": 1299,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "解构跑鞋",
+      "白灰层次",
+      "运动混搭"
+    ],
+    "reason": "白灰叠层与露出的解构细节，比基础跑鞋更有存在感，能与宽牛仔、格纹衬衫组合出年轻的运动感。",
+    "styling": "配灰蓝宽牛仔裤、白色内搭和敞开的格纹衬衫；裤脚轻覆鞋面，保留鞋头。",
+    "fitNote": "试穿时检查前掌宽度、脚背压力和后跟固定；根据实际脚感选码，不为宽松视觉刻意买大。",
+    "availability": "大陆官网目录标价已核验；通过官方微信小程序查询尺码库存及购买",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。",
+    "purchaseMode": "official-mini-program",
+    "storeName": "New Balance 中国官网",
+    "sourceEvidence": {
+      "productPage": "https://www.newbalance.com.cn/productDetail/M1906AD",
+      "imagePage": "https://www.newbalance.com.cn/productDetail/M1906AD",
+      "fields": {
+        "nameSku": "公开商品详情及当前HTML列出 M1906AD / 1906A。",
+        "color": "当前商品配色：白色 / 灰色。",
+        "price": "当前大陆官方详情标价 1299 CNY；未换汇，未用划线价代替折后价。",
+        "image": "同一大陆官方商品页的首张无模特单品图，已下载并目视核验。",
+        "purchase": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。"
+      },
+      "relationship": "根据年轻男团私服方向选品；不声称艺人穿着同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-nb9060",
+    "category": "shoes",
+    "brand": "New Balance",
+    "name": "9060 深灰雕塑厚底鞋",
+    "model": "9060",
+    "sku": "U9060SG",
+    "color": "深灰色",
+    "image": "assets/catalog/shoes/nb9060.jpg",
+    "imageSource": "https://itg-tezign-files.tezign.com/t429/MTY5NjkyODM3MDQyODQxZGMyZDkxLWQ5NjYtNDJlNS1hYTc5.jpg?image_process=resize,l_900&angle=Left",
+    "productUrl": "https://www.newbalance.com.cn/productDetail/U9060SG",
+    "price": 1199,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "厚底轮廓",
+      "深灰色",
+      "阔腿搭档"
+    ],
+    "reason": "分段外扩的鞋底轮廓能撑住宽裤下摆，适合想把造型做得更有体积感的人。",
+    "styling": "配深蓝宽牛仔裤或黑色阔腿裤，上身用白内搭与短衬衫减少堆叠；避免鞋和裤一起拖地。",
+    "fitNote": "试穿后观察外扩鞋底是否影响自己的步态；确认脚跟稳定，裤脚不会被鞋后跟压住。",
+    "availability": "大陆官网目录标价已核验；通过官方微信小程序查询尺码库存及购买",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。",
+    "purchaseMode": "official-mini-program",
+    "storeName": "New Balance 中国官网",
+    "sourceEvidence": {
+      "productPage": "https://www.newbalance.com.cn/productDetail/U9060SG",
+      "imagePage": "https://www.newbalance.com.cn/productDetail/U9060SG",
+      "fields": {
+        "nameSku": "公开商品详情及当前HTML列出 U9060SG / 9060。",
+        "color": "当前商品配色：深灰色。",
+        "price": "当前大陆官方详情标价 1199 CNY；未换汇，未用划线价代替折后价。",
+        "image": "同一大陆官方商品页的首张无模特单品图，已下载并目视核验。",
+        "purchase": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。"
+      },
+      "relationship": "根据年轻男团私服方向选品；不声称艺人穿着同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-nb990v6",
+    "category": "shoes",
+    "brand": "New Balance",
+    "name": "MADE in USA 990v6 奶白跑鞋",
+    "model": "MADE in USA 990v6",
+    "sku": "U990GB6",
+    "color": "白色 / 灰白 / 奶白",
+    "image": "assets/catalog/shoes/nb990v6.jpg",
+    "imageSource": "https://itg-tezign-files.tezign.com/t429/MTc0MzA2ODY2MjAwMTkzOTU1YWIxLTQ3YTMtNDlmMS1iOWQ1.jpg?image_process=resize,l_900&angle=Left",
+    "productUrl": "https://www.newbalance.com.cn/productDetail/U990GB6/MADE%20in%20USA%20990v6/WALG",
+    "price": 1999,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "奶白色系",
+      "复古跑鞋",
+      "干净层次"
+    ],
+    "reason": "奶白和灰白把复杂鞋面收得更柔和，适合宽西裤、素色衬衫这类干净私服方向。",
+    "styling": "配浅灰阔腿西裤、白色内搭与蓝白条纹衬衫；裤长以能看见鞋头且不踩裤脚为准。",
+    "fitNote": "先核对中国官网与小程序提供的鞋宽选项；试穿时检查前掌、足弓和后跟，而不只看脚长。",
+    "availability": "大陆官网目录标价已核验；通过官方微信小程序查询尺码库存及购买",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。",
+    "purchaseMode": "official-mini-program",
+    "storeName": "New Balance 中国官网",
+    "sourceEvidence": {
+      "productPage": "https://www.newbalance.com.cn/productDetail/U990GB6/MADE%20in%20USA%20990v6/WALG",
+      "imagePage": "https://www.newbalance.com.cn/productDetail/U990GB6/MADE%20in%20USA%20990v6/WALG",
+      "fields": {
+        "nameSku": "公开商品详情及当前HTML列出 U990GB6 / MADE in USA 990v6。",
+        "color": "当前商品配色：白色 / 灰白 / 奶白。",
+        "price": "当前大陆官方详情标价 1999 CNY；未换汇，未用划线价代替折后价。",
+        "image": "同一大陆官方商品页的首张无模特单品图，已下载并目视核验。",
+        "purchase": "New Balance 中国官网自 2026 年 8 月 4 日起停止网页直接购物，保留商品详情展示；官方公告指引通过官方微信小程序浏览、购买及获取相关服务。页面标价是大陆目录参考，库存与成交价请在官方小程序确认。"
+      },
+      "relationship": "根据年轻男团私服方向选品；不声称艺人穿着同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-adrian",
+    "category": "shoes",
+    "brand": "Dr. Martens",
+    "name": "Adrian 黑色流苏乐福鞋",
+    "model": "Adrian Smooth Leather Tassel Loafers",
+    "sku": "14573001",
+    "color": "Black / Polished Smooth",
+    "image": "assets/catalog/shoes/adrian.jpg",
+    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_14573001.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
+    "productUrl": "https://www.drmartens.com.cn/detail/94",
+    "price": 1499,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "流苏乐福",
+      "学院感",
+      "黑皮鞋"
+    ],
+    "reason": "流苏与圆头能给宽西裤和衬衫增加学院感，适合从运动鞋切换到更整洁的私服。",
+    "styling": "配灰色宽腿西裤、白袜和条纹衬衫；也可配深蓝直筒牛仔裤，保持裤脚不过度堆积。",
+    "fitNote": "乐福鞋重点检查走路时后跟是否滑脱、脚背是否压迫；不要依靠过小尺码来固定后跟。",
+    "availability": "大陆目录价已核验；官方天猫店内按货号查找，库存与成交价未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.drmartens.com.cn/detail/94",
+      "imagePage": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
+      "fields": {
+        "nameSku": "中国官网当前HTML列出 14573001，与原美国官方单品图对应货号一致。",
+        "color": "中国官网当前配色为黑色。",
+        "price": "中国官网静态HTML标价 1499 元，未经汇率换算；实际成交价以官方旗舰店结算为准。",
+        "image": "保留同货号官方美国站无模特单品图。",
+        "purchase": "中国官网商品按钮实际出站 https://detail.tmall.com/item.htm?id=558963582934，页眉页脚官方天猫旗舰店为 https://drmartens.tmall.com；静态访问无法核验旧商品ID是否仍可购，因此购买CTA指向官方店铺首页，按货号搜索。",
+        "retrieval": "公开静态页面读取；中国官网TLS证书过期，未使用登录态或输入任何个人资料。"
+      },
+      "relationship": "搭配选品，未声称艺人同款",
+      "purchaseUrl": "https://detail.tmall.com/item.htm?id=558963582934",
+      "storeUrl": "https://drmartens.tmall.com"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "品牌中国官网证书已过期，目录仅作为型号与标价依据。请进入官网指向的 Dr. Martens 官方天猫旗舰店，按货号 14573001 搜索；尺码库存与实际成交价以店铺为准。",
+    "purchaseMode": "official-store-search",
+    "storeName": "Dr. Martens 中国官网",
+    "purchaseUrl": "https://drmartens.tmall.com"
+  },
+  {
+    "id": "shoes-doc1461",
+    "category": "shoes",
+    "brand": "Dr. Martens",
+    "name": "1461 黑色三孔皮鞋",
+    "model": "1461 Smooth Leather Oxford Shoes",
+    "sku": "11838002",
+    "color": "Black / Smooth Leather",
+    "image": "assets/catalog/shoes/doc1461.jpg",
+    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_11838002.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
+    "productUrl": "https://www.drmartens.com.cn/detail/114",
+    "price": 1399,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "系带黑皮鞋",
+      "圆头",
+      "衬衫搭档"
+    ],
+    "reason": "圆头和厚实底型能配宽西裤，适合衬衫造型加一点偏硬朗的质感。",
+    "styling": "配黑色宽腿西裤、白袜和浅蓝衬衫；衣摆可半塞，避免衬衫与裤子都过长。",
+    "fitNote": "试穿时检查脚背压迫、鞋口摩擦和后跟移动；在店内走动、上下台阶后再决定。",
+    "availability": "大陆目录价已核验；官方天猫店内按货号查找，库存与成交价未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.drmartens.com.cn/detail/114",
+      "imagePage": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
+      "fields": {
+        "nameSku": "中国官网当前HTML列出 11838002，与原美国官方单品图对应货号一致。",
+        "color": "中国官网当前配色为黑色。",
+        "price": "中国官网静态HTML标价 1399 元，未经汇率换算；实际成交价以官方旗舰店结算为准。",
+        "image": "保留同货号官方美国站无模特单品图。",
+        "purchase": "中国官网商品按钮实际出站 https://detail.tmall.com/item.htm?id=563073357604，页眉页脚官方天猫旗舰店为 https://drmartens.tmall.com；静态访问无法核验旧商品ID是否仍可购，因此购买CTA指向官方店铺首页，按货号搜索。",
+        "retrieval": "公开静态页面读取；中国官网TLS证书过期，未使用登录态或输入任何个人资料。"
+      },
+      "relationship": "搭配选品，未声称艺人同款",
+      "purchaseUrl": "https://detail.tmall.com/item.htm?id=563073357604",
+      "storeUrl": "https://drmartens.tmall.com"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观",
+    "mainlandStatus": "catalog",
+    "mainlandNote": "品牌中国官网证书已过期，目录仅作为型号与标价依据。请进入官网指向的 Dr. Martens 官方天猫旗舰店，按货号 11838002 搜索；尺码库存与实际成交价以店铺为准。",
+    "purchaseMode": "official-store-search",
+    "storeName": "Dr. Martens 中国官网",
+    "purchaseUrl": "https://drmartens.tmall.com"
+  },
+  {
+    "id": "shoes-vomero5",
+    "category": "shoes",
+    "brand": "Nike",
+    "name": "Zoom Vomero 5 灰红复古跑鞋",
+    "model": "Nike Zoom Vomero 5",
+    "sku": "FB9149-009",
+    "color": "尘光子色 / 雾灰 / 沙丘红 / 山峰白",
+    "image": "assets/catalog/shoes/vomero5.jpg",
+    "imageSource": "https://static.nike.com.cn/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b7e1bbab-a65a-434c-81f7-6d3e5167c16e/NIKE+ZOOM+VOMERO+5.png",
+    "productUrl": "https://www.nike.com.cn/t/zoom-vomero-5-%E8%80%90%E5%85%8B%E8%BF%88%E6%9F%94%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-ziuDsHuK",
+    "price": 789,
+    "currency": "CNY",
+    "market": "中国大陆",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "千禧跑鞋",
+      "灰红细节",
+      "折后选项"
+    ],
+    "reason": "灰白鞋面加少量暗红细节，适合运动与衬衫混搭；当前折后价低于预算，按实价保留。",
+    "styling": "配灰色宽腿运动裤、白色内搭与蓝色衬衫；暗红细节可呼应格纹衬衫中的一点红色。",
+    "fitNote": "穿常用袜子试走，检查前掌和后跟包裹；日常搭配先看裤脚是否自然落在鞋面上。",
+    "availability": "中国官网结构化数据标记有货；具体尺码库存与成交价格以页面为准",
+    "mainlandStatus": "verified",
+    "mainlandNote": "Nike 中国官网当前页面核验；同一网址会切换在售配色，请在加入购物车前核对货号 FB9149-009 和显示颜色。",
+    "purchaseMode": "official-online",
+    "storeName": "Nike 中国官网",
+    "sourceEvidence": {
+      "productPage": "https://www.nike.com.cn/t/zoom-vomero-5-%E8%80%90%E5%85%8B%E8%BF%88%E6%9F%94%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-ziuDsHuK",
+      "imagePage": "https://www.nike.com.cn/t/zoom-vomero-5-%E8%80%90%E5%85%8B%E8%BF%88%E6%9F%94%E7%94%B7%E5%AD%90%E8%BF%90%E5%8A%A8%E9%9E%8B-ziuDsHuK",
+      "fields": {
+        "nameSku": "公开商品详情及当前HTML列出 FB9149-009 / Nike Zoom Vomero 5。",
+        "color": "当前商品配色：尘光子色 / 雾灰 / 沙丘红 / 山峰白。",
+        "price": "当前大陆官方详情标价 789 CNY；未换汇，未用划线价代替折后价。",
+        "image": "同一大陆官方商品页的首张无模特单品图，已下载并目视核验。",
+        "purchase": "官方 Product JSON-LD 报价 789 CNY，标记 InStock；当前款式 FB9149-009，未采用搜索缓存中的 FB9149-201。"
+      },
+      "relationship": "根据年轻男团私服方向选品；不声称艺人穿着同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
     "id": "shoes-samba",
     "category": "shoes",
     "brand": "adidas",
@@ -34,44 +336,11 @@
       },
       "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
     },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-spezial",
-    "category": "shoes",
-    "brand": "adidas",
-    "name": "Handball Spezial 海军蓝麂皮鞋",
-    "model": "Handball Spezial Shoes",
-    "sku": "BD7633",
-    "color": "Collegiate Navy / Clear Sky / Gum",
-    "image": "assets/catalog/shoes/spezial.jpg",
-    "imageSource": "https://assets.adidas.com/images/w_1000,f_auto,q_auto/82d433384c7c435f9a2fa96d0101d323_9366/Handball_Spezial_Shoes_Blue_BD7633_01_00_standard.jpg",
-    "productUrl": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
-    "price": 110,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "复古薄底",
-      "海军蓝",
-      "麂皮"
-    ],
-    "reason": "深蓝鞋面配浅蓝条纹，有颜色又不会太跳，适合给灰、黑、牛仔蓝穿搭增加一点层次。",
-    "styling": "配浅蓝宽直筒牛仔裤、灰色 T 恤和蓝白条纹衬衫；衬衫敞开，露出腰线。",
-    "fitNote": "试穿时观察脚背与系带区域是否挤压；裤脚别长到踩在后跟下。",
-    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
-      "imagePage": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
-      "fields": {
-        "nameSku": "官方商品页标题 Handball Spezial Shoes，URL 与图文件含 BD7633。",
-        "color": "当前配色 Collegiate Navy / Clear Sky / Gum。",
-        "price": "美国页面现价 110 USD。",
-        "image": "官方商品页首张鞋侧面单品图。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "已核验海外官方型号与商品图；未取得同货号的中国大陆官方详情、人民币现价及库存，不是大陆购买入口。请先按完整货号向大陆官方门店核对。",
+    "purchaseMode": "overseas-reference",
+    "storeName": "adidas 海外官网"
   },
   {
     "id": "shoes-speedcat",
@@ -109,7 +378,11 @@
       },
       "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
     },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "已核验海外官方型号与商品图；未取得同货号的中国大陆官方详情、人民币现价及库存，不是大陆购买入口。请先按完整货号向大陆官方门店核对。",
+    "purchaseMode": "overseas-reference",
+    "storeName": "PUMA 海外官网"
   },
   {
     "id": "shoes-chuck70",
@@ -146,230 +419,10 @@
       },
       "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
     },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-oldskool",
-    "category": "shoes",
-    "brand": "Vans",
-    "name": "Old Skool 黑白滑板鞋",
-    "model": "Old Skool Shoe",
-    "sku": "VN000D3HY28",
-    "color": "Black / White",
-    "image": "assets/catalog/shoes/oldskool.jpg",
-    "imageSource": "https://assets.vans.com/images/t_img/c_fill,g_center,f_auto,h_1000,e_unsharp_mask:100,w_1000/dpr_1.0/v1747942442/VN000D3HY28-HERO/Old-Skool-Shoe-VANS-Black-White-HERO.png",
-    "productUrl": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
-    "price": 75,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "滑板低帮",
-      "黑白侧条",
-      "宽裤搭档"
-    ],
-    "reason": "白色侧条让黑鞋在宽裤下仍然有辨识度，适合偏滑板、休闲的男团私服方向。",
-    "styling": "配宽松工装裤或深蓝牛仔裤，上身白 T 恤外加牛仔衬衫；裤脚留一到两道自然堆叠。",
-    "fitNote": "试走时注意后跟是否磨擦、脚趾能否自然展开；用实际常穿的袜子试。",
-    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
-      "imagePage": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
-      "fields": {
-        "nameSku": "新版美国详情页直接列出 Style VN000D3HY28。",
-        "color": "当前色 Black / White。",
-        "price": "新版美国页现价 75 USD，未采用旧索引中 70 USD。",
-        "image": "美国商品页 HERO 单品图，资源路径含 VN000D3HY28-HERO。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-nb530",
-    "category": "shoes",
-    "brand": "New Balance",
-    "name": "530 白银深蓝复古跑鞋",
-    "model": "530",
-    "sku": "MR530SG",
-    "color": "White with Natural Indigo",
-    "image": "assets/catalog/shoes/nb530.jpg",
-    "imageSource": "https://nb.scene7.com/is/image/NB/mr530sg_nb_02_i?%24pdpflexf2%24=&hei=1000&wid=1000",
-    "productUrl": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
-    "price": 109.99,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "复古跑鞋",
-      "白银深蓝",
-      "运动日常"
-    ],
-    "reason": "白银鞋面比纯白更有层次，鞋体能撑住宽松裤脚，适合宽裤与运动元素混搭。",
-    "styling": "配深灰阔腿西裤与白色内搭，外搭浅蓝牛津纺衬衫；也可换成宽松尼龙裤。",
-    "fitNote": "试穿时同时检查脚长、前掌宽度与后跟包裹；不同品牌的 US 码不要直接互相照搬。",
-    "availability": "美国官网显示会员购买限制；具体尺码库存及大陆渠道请另行确认",
-    "sourceEvidence": {
-      "productPage": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
-      "imagePage": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
-      "fields": {
-        "nameSku": "美国官网标题 530；Style MR530SG。",
-        "color": "当前色 WHITE with NATURAL INDIGO。",
-        "price": "商品页现价 109.99 USD。",
-        "image": "官方图链 nb.scene7.com / mr530sg_nb_02_i。",
-        "access": "页面有美国会员限定购买提示。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-p6000",
-    "category": "shoes",
-    "brand": "Nike",
-    "name": "P-6000 白银黑复古跑鞋",
-    "model": "Nike P-6000",
-    "sku": "CD6404-107",
-    "color": "White / Metallic Silver / Black / Black",
-    "image": "assets/catalog/shoes/p6000.jpg",
-    "imageSource": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c0bef76c-db55-40d4-a8e4-996c31f13f65/NIKE+P-6000.png",
-    "productUrl": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
-    "price": 115,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "千禧跑鞋",
-      "银色网面",
-      "运动混搭"
-    ],
-    "reason": "密集线条和银色叠层适合年轻男团的运动感，搭配素色衬衫时鞋子会成为重点。",
-    "styling": "配灰色宽腿运动裤、白 T 恤和短一点的黑色衬衫；或换蓝色宽牛仔裤，保持上身简单。",
-    "fitNote": "穿常用袜子试走，检查脚背、足弓和后跟的贴合；先保证走路自然，再看裤脚比例。",
-    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
-      "imagePage": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
-      "fields": {
-        "nameSku": "官网 Style CD6404-107；ProductGroup 的变体 mpn 相同。",
-        "color": "页面 Shown 为 White/Metallic Silver/Black/Black。",
-        "price": "官网页及对应变体报价均为 115 USD。",
-        "image": "同一详情页展示的 static.nike.com 商品图，已核对鞋型和当前配色。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-mexico66",
-    "category": "shoes",
-    "brand": "Onitsuka Tiger",
-    "name": "MEXICO 66 白色薄底鞋",
-    "model": "MEXICO 66",
-    "sku": "1183C102-104",
-    "color": "White / White",
-    "image": "assets/catalog/shoes/mexico66.jpg",
-    "imageSource": "https://asics.scene7.com/is/image/asics/1183C102_104_SR_RT_GLB?wid=1200&qlt=90",
-    "productUrl": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
-    "price": 16500,
-    "currency": "JPY",
-    "market": "日本",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "薄底复古",
-      "白色系",
-      "轻盈轮廓"
-    ],
-    "reason": "同色虎爪纹更安静，适合把宽裤、衬衫的比例放在前面；与黑色鞋款形成另一种日常选择。",
-    "styling": "配米白或浅卡其宽裤、蓝白条纹衬衫和白背心；裤脚轻触鞋面，保留鞋身轮廓。",
-    "fitNote": "薄底鞋先试走再判断适合自己的日常距离；检查鞋头余量、脚背与后跟是否贴合。",
-    "availability": "日本官网显示会员限定；尺码库存与中国大陆配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
-      "imagePage": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
-      "fields": {
-        "nameSku": "日本商品 URL / 元数据为 1183C102_104，型号 MEXICO 66。",
-        "color": "官网产品变体数据中 1183C102_104 的 color 为 WHITE/WHITE。",
-        "price": "日本页含税价 16500 JPY，product:price:currency 为 JPY。",
-        "image": "官网首图 asics.scene7.com / 1183C102_104_SR_RT_GLB。",
-        "access": "页面提示会员限定；具体尺码未核实。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-doc1461",
-    "category": "shoes",
-    "brand": "Dr. Martens",
-    "name": "1461 黑色三孔皮鞋",
-    "model": "1461 Smooth Leather Oxford Shoes",
-    "sku": "11838002",
-    "color": "Black / Smooth Leather",
-    "image": "assets/catalog/shoes/doc1461.jpg",
-    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_11838002.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
-    "productUrl": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
-    "price": 160,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "系带黑皮鞋",
-      "圆头",
-      "衬衫搭档"
-    ],
-    "reason": "圆头和厚实底型能配宽西裤，适合衬衫造型加一点偏硬朗的质感。",
-    "styling": "配黑色宽腿西裤、白袜和浅蓝衬衫；衣摆可半塞，避免衬衫与裤子都过长。",
-    "fitNote": "试穿时检查脚背压迫、鞋口摩擦和后跟移动；在店内走动、上下台阶后再决定。",
-    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
-      "imagePage": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
-      "fields": {
-        "nameSku": "官网标题 1461 Smooth Leather Oxford Shoes；Product code 11838002。",
-        "color": "官方页当前 Smooth Leather / BLACK。",
-        "price": "美国官方页现价 160 USD。",
-        "image": "官网首图 CDN 资源 NX_11838002.80，为无模特单品图。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
-  },
-  {
-    "id": "shoes-adrian",
-    "category": "shoes",
-    "brand": "Dr. Martens",
-    "name": "Adrian 黑色流苏乐福鞋",
-    "model": "Adrian Smooth Leather Tassel Loafers",
-    "sku": "14573001",
-    "color": "Black / Polished Smooth",
-    "image": "assets/catalog/shoes/adrian.jpg",
-    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_14573001.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
-    "productUrl": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
-    "price": 160,
-    "currency": "USD",
-    "market": "美国",
-    "verifiedAt": "2026-10-21",
-    "tags": [
-      "流苏乐福",
-      "学院感",
-      "黑皮鞋"
-    ],
-    "reason": "流苏与圆头能给宽西裤和衬衫增加学院感，适合从运动鞋切换到更整洁的私服。",
-    "styling": "配灰色宽腿西裤、白袜和条纹衬衫；也可配深蓝直筒牛仔裤，保持裤脚不过度堆积。",
-    "fitNote": "乐福鞋重点检查走路时后跟是否滑脱、脚背是否压迫；不要依靠过小尺码来固定后跟。",
-    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
-    "sourceEvidence": {
-      "productPage": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
-      "imagePage": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
-      "fields": {
-        "nameSku": "官网 Product code 14573001，名称 Adrian Smooth，页面标题为流苏乐福鞋。",
-        "color": "官方页 BLACK；材质章节 Polished Smooth。",
-        "price": "美国官方页现价 160 USD。",
-        "image": "官网首图 CDN 资源 NX_14573001.80，为无模特单品图。"
-      },
-      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
-    },
-    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "已核验海外官方型号与商品图；未取得同货号的中国大陆官方详情、人民币现价及库存，不是大陆购买入口。请先按完整货号向大陆官方门店核对。",
+    "purchaseMode": "overseas-reference",
+    "storeName": "Converse 海外官网"
   }
 ]

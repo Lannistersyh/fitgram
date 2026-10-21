@@ -1,0 +1,10 @@
+{
+  "market": "中国大陆",
+  "currency": "CNY",
+  "min": 1000,
+  "max": 3000,
+  "priority": "mainland-official-channel",
+  "confirmedAt": "2026-10-21",
+  "userStatement": "大陆购买；每件以 ¥1,000–3,000 为主",
+  "exceptions": "搭配价值明确的低价基础款可保留；外币参考不参与人民币预算筛选。"
+}

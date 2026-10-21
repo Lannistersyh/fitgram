@@ -133,3 +133,33 @@
 .catalog-preview p:not(.eyebrow){font-size:11px;color:var(--text-secondary);line-height:1.8;margin-bottom:15px}
 
 .product-card--shoes .product-card__visual{aspect-ratio:1}
+
+.catalog-budget-note{background:var(--bg-secondary);border:1px solid var(--border);border-left:3px solid var(--ink);border-radius:3px;padding:19px 22px;display:flex;justify-content:space-between;align-items:center;gap:25px;margin:22px 0 12px}
+.catalog-budget-note strong{display:block;font-size:14px;margin:7px 0}
+.catalog-budget-note p{font-size:11px;line-height:1.8;color:var(--text-secondary)}
+.catalog-budget-note>div:last-child{display:flex;flex-direction:column;gap:7px;font-size:10px;color:var(--text-secondary);white-space:nowrap}
+.catalog-budget-note b{font:20px var(--mono);color:var(--text)}
+.product-card__price .catalog-budget-tag{font-size:9px;width:fit-content;padding:4px 7px;margin-top:6px;border:1px solid var(--border);border-radius:3px;color:var(--text-secondary)}
+.product-card__price .catalog-budget-tag.is-priority{background:var(--sage);border-color:var(--sage);color:var(--ink)}
+.catalog-buying-filter select{background:var(--bg);color:var(--text);font-size:11px;border:1px solid var(--border);border-radius:4px;padding:10px 7px;max-width:180px}
+@media(max-width:767px){.catalog-budget-note{padding:16px;gap:12px;align-items:flex-start;flex-direction:column}.catalog-budget-note>div:last-child{flex-direction:row;align-items:center;gap:18px}.catalog-budget-note strong{font-size:13px}.catalog-buying-filter{margin-left:auto}.catalog-buying-filter select{max-width:180px}.catalog-toolbar #catalog-count{flex-basis:100%;text-align:right}}
+
+.catalog-recipes .catalog-recipe__price{font-size:10px;color:var(--text-secondary);margin:-5px 0 16px}.catalog-recipe__price strong{font:11px var(--mono);color:var(--text)}
+/* 购买偏好加入后收紧首屏，让单品更早进入视线。 */
+.catalog-hero{padding:28px 32px}
+.catalog-hero h1{font-size:32px;margin:12px 0}
+.catalog-hero__meta{margin-top:16px}
+.catalog-hero__index b{font-size:85px;margin:10px 0 5px}
+@media(max-width:767px){
+.catalog-hero{padding:20px;grid-template-columns:1fr .4fr}
+.catalog-hero h1{font-size:24px;margin:9px 0}
+.catalog-hero__index b{font-size:58px}
+.catalog-hero__meta{display:none}
+.catalog-context{margin-top:12px;margin-bottom:12px;font-size:10px}
+.catalog-budget-note{margin-top:12px;padding:13px 15px}
+.catalog-budget-note .eyebrow{display:none}
+.catalog-budget-note strong{margin:0 0 5px}
+.catalog-budget-note p{font-size:10px}
+.catalog-budget-note>div:last-child{font-size:9px}
+.catalog-budget-note b{font-size:16px}
+}
