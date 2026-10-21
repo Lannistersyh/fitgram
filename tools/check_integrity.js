@@ -46,6 +46,8 @@ function checkSource(source){
   assert(knownSources.has(handle),'清单外来源：'+handle);
   assert.equal(source.id,'ig-'+handle,'真实来源不能沿用虚构ID');
   assert(source.isFictional===false&&kinds.has(source.sourceKind));
+  if(source.sourceKind==='group')assert.equal(source.region,'kr','Current boy-group regions');
+  if(source.region==='jp')assert(['ryo__takashima','yooshiakiii'].includes(handle),'Only approved Japanese creators');
   assert(https(source.profileUrl)&&source.profileUrl===source.sourceUrl,'来源主页链接缺失');
   assert.equal(new URL(source.profileUrl).hostname,'www.instagram.com');
   assert.equal(source.posts,data.posts.filter(p=>p.bloggerId===source.id).length);
