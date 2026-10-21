@@ -1,0 +1,1330 @@
+{
+  "version": 1,
+  "brand": "TONYWACK",
+  "verifiedAt": "2026-10-21",
+  "sourceFile": "assets/research/raw_posts.json",
+  "method": "原帖caption明确品名与颜色 → 官方分类页发现详情链接 → 实抓官方商品详情页，品名归一化完全匹配，再读取官方价格meta和尺码报价JSON-LD。",
+  "scope": "品牌官方原帖中明确列出的单品；不凭图片猜品牌或型号。中文name为本站译名，英文原名保留。",
+  "verifiedCount": 27,
+  "captionOnlyCount": 1,
+  "coveredSourceCodes": [
+    "Ddkj1caTZDe",
+    "DdkjO_6THkP",
+    "DdkjtCAzztl",
+    "DdkkM5lzVpt",
+    "DdkkhBgzgVd",
+    "DeY3LFcEytN",
+    "DeY4YEDE8qf",
+    "DeeB8xiE3ap",
+    "DejK7hOkxDu"
+  ],
+  "notes": [
+    "搜索摘要仅作发现入口，不用作商品页确认。",
+    "availability来自商品详情页JSON-LD，可能随尺码变化；未进行结账库存验证。",
+    "原帖含多套LOOK时，已确认品名不等于确认全部商品都出现在首张图。",
+    "未找到官方商品页的记录productUrl、price、currency与availability保持null。",
+    "没有自动汇总整套预算，未核实每张照片是否展示完整商品清单。",
+    "采集caption含重复系列标题时，商品官网匹配已确认，但各文本块是否均属同一原帖、以及对应哪一图片帧仍须由主任务复核。"
+  ],
+  "items": [
+    {
+      "modelName": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+      "sourceCode": "DdkkhBgzgVd",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "sourceQuote": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkhBgzgVd",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "sourceQuote": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+      "officialPageTitle": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/brushed-shaggy-dog-v-neck-knit-camel/4603/category/492/display/1/",
+      "price": 185000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "拉毛Shaggy Dog V领针织衫（驼色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+      "sourceCode": "DdkkhBgzgVd",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "sourceQuote": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkhBgzgVd",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "sourceQuote": "RE-CUT FLARED DENIM JEANS_ WORN BLUE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+      "officialPageTitle": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/re-cut-flared-denim-jeans-worn-blue/4637/category/492/display/1/",
+      "price": 165000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "重构微喇牛仔裤（水洗蓝）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+      "sourceCode": "DejK7hOkxDu",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "sourceQuote": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+      "officialPageTitle": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/high-neck-merino-wool-button-up-knitted-blouson-taupe/4590/category/492/display/1/",
+      "price": 238000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "高领美利奴羊毛纽扣针织夹克（灰褐色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+      "sourceCode": "DejK7hOkxDu",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "sourceQuote": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN"
+        },
+        {
+          "sourceCode": "DeY3LFcEytN",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "sourceQuote": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+      "officialPageTitle": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/wool-blend-flared-trousers-deep-brown/4702/category/492/display/1/",
+      "price": 208000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "羊毛混纺微喇西裤（深棕）",
+      "availabilityStates": [
+        "InStock",
+        "OutOfStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+      "sourceCode": "DejK7hOkxDu",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "sourceQuote": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO"
+        },
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+      "officialPageTitle": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/souven-boots-in-suede-calfskin-sandalo/4922/category/492/display/1/",
+      "price": 535000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "SOUVEN小牛麂皮靴（Sandalo色）",
+      "availabilityStates": [
+        "InStock",
+        "OutOfStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+      "sourceCode": "DejK7hOkxDu",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "sourceQuote": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+      "officialPageTitle": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/herringbone-wool-double-breasted-coat-moss-brown/4904/category/492/display/1/",
+      "price": 475000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "人字纹羊毛双排扣大衣（苔棕）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+      "sourceCode": "DejK7hOkxDu",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "sourceQuote": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DejK7hOkxDu",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "sourceQuote": "WOOL BLEND FLARED TROUSERS_ SLATE GREY"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+      "officialPageTitle": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/wool-blend-flared-trousers-slate-grey/4700/category/492/display/1/",
+      "price": 208000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "羊毛混纺微喇西裤（石板灰）",
+      "availabilityStates": [
+        "InStock",
+        "OutOfStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+      "sourceCode": "DdkkM5lzVpt",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "sourceQuote": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkM5lzVpt",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "sourceQuote": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+      "officialPageTitle": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/lamb-shearling-leather-bomber-jacket-faded-brown/4652/category/492/display/1/",
+      "price": 1380000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "羔羊毛皮飞行夹克（褪色棕）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+      "sourceCode": "DdkkM5lzVpt",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "sourceQuote": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkM5lzVpt",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "sourceQuote": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU"
+        },
+        {
+          "sourceCode": "DdkjO_6THkP",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "sourceQuote": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+      "officialPageTitle": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/loose-straight-buckle-back-jeans-ecru/4638/category/492/display/1/",
+      "price": 175000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "宽直筒后腰调节扣牛仔裤（本白）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+      "sourceCode": "DdkkM5lzVpt",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "sourceQuote": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkM5lzVpt",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "sourceQuote": "SOUVEN BOOTS IN CALFSKIN_ BLACK"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+      "officialPageTitle": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/souven-boots-in-calfskin-black/4921/category/492/display/1/",
+      "price": 565000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "SOUVEN小牛皮靴（黑色）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "AGED LAMB LEATHER CARCOAT_ DARK BROWN"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+      "officialPageTitle": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/aged-lamb-leather-carcoat-dark-brown/4658/category/492/display/1/",
+      "price": 895000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "做旧羊皮短大衣（深棕）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+      "officialPageTitle": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/loose-straight-denim-jeans-mid-blue/4641/category/492/display/1/",
+      "price": 158000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "宽直筒牛仔裤（中蓝）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+      "officialPageTitle": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/soft-wool-essential-scarf-red-check/4926/category/492/display/1/",
+      "price": 85000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "柔软羊毛围巾（红格纹）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "STAND COLLAR EPAULETTE BLOUSON_ BLACK"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+      "officialPageTitle": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/stand-collar-epaulette-blouson-black/4689/category/492/display/1/",
+      "price": 325000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "立领肩章夹克（黑色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+      "officialPageTitle": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/pinstriped-wool-belted-trousers-black-pinstripe/4913/category/492/display/1/",
+      "price": 242000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "细条纹羊毛腰带西裤（黑色细条纹）",
+      "availabilityStates": [
+        "InStock",
+        "OutOfStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+      "sourceCode": "Ddkj1caTZDe",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+      "sourceQuote": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "Ddkj1caTZDe",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "sourceQuote": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+      "officialPageTitle": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/herringbone-wool-double-breasted-jacket-saffron-beige/4691/category/492/display/1/",
+      "price": 352000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "人字纹羊毛双排扣西装（Saffron Beige色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+      "sourceCode": "Ddkj1caTZDe",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+      "sourceQuote": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+      "sourceEvidence": [
+        {
+          "sourceCode": "Ddkj1caTZDe",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "sourceQuote": "FLARED-LEG DENIM JEANS_ RINSED INDIGO"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+      "officialPageTitle": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/flared-leg-denim-jeans-rinsed-indigo/4643/category/492/display/1/",
+      "price": 158000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "微喇牛仔裤（原洗靛蓝）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+      "sourceCode": "DdkjtCAzztl",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "sourceQuote": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkjtCAzztl",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "sourceQuote": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+      "officialPageTitle": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/vintage-lamb-leather-bomber-jacket-black/4153/category/492/display/1/",
+      "price": 618000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "复古羊皮飞行夹克（黑色）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+      "sourceCode": "DdkjtCAzztl",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "sourceQuote": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkjtCAzztl",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "sourceQuote": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+      "officialPageTitle": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/pinstriped-wool-blend-relaxed-tailored-jacket-navy-pinstripe/4915/category/492/display/1/",
+      "price": 325000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "细条纹羊毛混纺宽松西装（藏青细条纹）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+      "sourceCode": "DdkjtCAzztl",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "sourceQuote": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkjtCAzztl",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "sourceQuote": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+      "officialPageTitle": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/pinstriped-wool-belted-trousers-navy-pinstripe/4914/category/492/display/1/",
+      "price": 208000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "细条纹羊毛腰带西裤（藏青细条纹）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+      "sourceCode": "DeY4YEDE8qf",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "sourceQuote": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeY4YEDE8qf",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "sourceQuote": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+      "officialPageTitle": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/garment-washed-cotton-field-jacket-olive/4681/category/492/display/1/",
+      "price": 368000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "成衣水洗棉质野战夹克（橄榄绿）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+      "sourceCode": "DeY4YEDE8qf",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "sourceQuote": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeY4YEDE8qf",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "sourceQuote": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+      "officialPageTitle": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/ribbed-wool-side-button-turtleneck-midnight/4578/category/492/display/1/",
+      "price": 185000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "罗纹羊毛侧扣高领衫（Midnight色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+      "sourceCode": "DeY4YEDE8qf",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "sourceQuote": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeY4YEDE8qf",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "sourceQuote": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+      "officialPageTitle": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/re-cut-wide-leg-cargo-pants-olive/4618/category/492/display/1/",
+      "price": 195000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "重构阔腿工装裤（橄榄绿）",
+      "availabilityStates": [
+        "InStock",
+        "OutOfStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "BRUSHED COTTON BARN JACKET_ GREEN",
+      "sourceCode": "DdkjO_6THkP",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+      "sourceQuote": "BRUSHED COTTON BARN JACKET_ GREEN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkjO_6THkP",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "sourceQuote": "BRUSHED COTTON BARN JACKET_ GREEN"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "BRUSHED COTTON BARN JACKET_ GREEN",
+      "officialPageTitle": "BRUSHED COTTON BARN JACKET_ GREEN",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/brushed-cotton-barn-jacket-green/4665/category/492/display/1/",
+      "price": 275000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "磨毛棉质谷仓夹克（绿色）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "BRUSHED COTTON BARN JACKET_ GREEN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "BRUSHED COTTON BARN JACKET_ BLACK",
+      "sourceCode": "DeY3LFcEytN",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+      "sourceQuote": "BRUSHED COTTON BARN JACKET_ BLACK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeY3LFcEytN",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "sourceQuote": "BRUSHED COTTON BARN JACKET_ BLACK"
+        }
+      ],
+      "brand": "TONYWACK",
+      "enName": "BRUSHED COTTON BARN JACKET_ BLACK",
+      "officialPageTitle": "BRUSHED COTTON BARN JACKET_ BLACK",
+      "documentTitle": "TONYWACK",
+      "productUrl": "https://www.tonywack.com/product/brushed-cotton-barn-jacket-black/4666/category/492/display/1/",
+      "price": 275000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "磨毛棉质谷仓夹克（黑色）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "BRUSHED COTTON BARN JACKET_ BLACK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "brandHomepage": "https://www.tonywack.com/",
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    },
+    {
+      "modelName": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "sourceQuote": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeeB8xiE3ap",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "sourceQuote": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT"
+        },
+        {
+          "sourceCode": "DeY3LFcEytN",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "sourceQuote": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT"
+        }
+      ],
+      "productUrl": "https://www.tonywack.com/product/high-density-striped-cotton-shirt-sky-cobalt/4627/category/492/display/1/",
+      "brandHomepage": "https://www.tonywack.com/",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "brand": "TONYWACK",
+      "enName": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+      "officialPageTitle": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+      "documentTitle": "TONYWACK",
+      "price": 145000,
+      "currency": "KRW",
+      "availability": "InStock",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "高密度条纹棉衬衫（Sky Cobalt色）",
+      "availabilityStates": [
+        "InStock"
+      ],
+      "availabilityLabel": "结构化数据标为有货",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+      "sourceCode": "DeY4YEDE8qf",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "sourceQuote": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DeY4YEDE8qf",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "sourceQuote": "SILK COTTON ESSENTIAL SHIRT_ BLACK"
+        }
+      ],
+      "productUrl": "https://www.tonywack.com/product/silk-cotton-essential-shirt-black/4634/category/492/display/1/",
+      "brandHomepage": "https://www.tonywack.com/",
+      "verificationStatus": "caption-explicit-and-official-title-exact",
+      "brand": "TONYWACK",
+      "enName": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+      "officialPageTitle": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+      "documentTitle": "TONYWACK",
+      "price": 205000,
+      "currency": "KRW",
+      "availability": "mixed-variants",
+      "availabilityBasis": "官方详情页JSON-LD offers；非下单库存验证",
+      "verifiedAt": "2026-10-21",
+      "officialEvidence": {
+        "nameField": "页面product_name",
+        "priceField": "product:price:amount",
+        "currencyField": "product:price:currency",
+        "availabilityField": "JSON-LD offers.availability"
+      },
+      "name": "丝棉基础衬衫（黑色）",
+      "availabilityStates": [
+        "OutOfStock",
+        "InStock"
+      ],
+      "availabilityLabel": "部分尺码有货、部分售罄",
+      "officialProductVerified": true,
+      "identification": "exact",
+      "evidenceText": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": "官网商品详情页标价；保持KRW原币种，未换汇，未验证下单运费与税费。",
+      "sourceCaptionBlockCount": 2,
+      "sourceAssociationStatus": "multi-block-capture-needs-check"
+    },
+    {
+      "modelName": "LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+      "sourceCode": "DdkkhBgzgVd",
+      "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "sourceQuote": "LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+      "sourceEvidence": [
+        {
+          "sourceCode": "DdkkhBgzgVd",
+          "sourceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "sourceQuote": "LEATHER TRIM SUEDE TOTE BAG_ BROWN"
+        }
+      ],
+      "productUrl": null,
+      "brandHomepage": "https://www.tonywack.com/",
+      "verificationStatus": "caption-explicit-official-page-not-found",
+      "name": "皮革饰边麂皮托特包（棕色）",
+      "enName": "LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+      "brand": "TONYWACK",
+      "officialPageTitle": null,
+      "price": null,
+      "currency": null,
+      "availability": null,
+      "verifiedAt": "2026-10-21",
+      "availabilityStates": [],
+      "availabilityLabel": "未核实",
+      "officialProductVerified": false,
+      "identification": "exact",
+      "evidenceText": "LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+      "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+      "frameAssignment": null,
+      "imageAssociationNote": "原帖caption明确给出品名；尚未逐一核对该单品出现于轮播的哪一帧，不能把多套LOOK的全部商品自动挂到首图。",
+      "priceBasis": null,
+      "sourceCaptionBlockCount": 1,
+      "sourceAssociationStatus": "captured-caption-explicit"
+    }
+  ],
+  "excludedPosts": [
+    {
+      "sourceCode": "DeiTv7ez0aG",
+      "reason": "招聘帖，不作为穿搭商品证据。"
+    },
+    {
+      "sourceCode": "Deq4sYGE82H",
+      "reason": "幕后花絮caption未列出具体品名。"
+    },
+    {
+      "sourceCode": "DeRFX8tE_7J",
+      "reason": "仅有系列标题，未列出具体品名。"
+    }
+  ],
+  "browserTabsOpened": 0
+}

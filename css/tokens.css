@@ -1,0 +1,68 @@
+/* 全站视觉令牌：色彩、排版、间距和动效的唯一入口。 */
+:root{color-scheme:light;
+  --bg:#fff;
+  --bg-secondary:#fafafa;
+  --bg-elevated:#fff;
+  --border:#dbdbdb;
+  --border-strong:#c7c7c7;
+  --text:#262626;
+  --text-secondary:#6b6b6b;
+  --text-tertiary:#6b6b6b;
+  --accent:#0089e6;
+  --accent-hover:#1877f2;
+  --like:#ed4956;
+  --hover-overlay:rgba(0,0,0,.5);
+  --shadow:0 4px 12px rgba(0,0,0,.15);
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans","Noto Sans CJK SC","Apple SD Gothic Neo",sans-serif;
+  --mono:"SFMono-Regular",Consolas,monospace;
+  --ease:cubic-bezier(.25,.1,.25,1);
+  --transition:200ms var(--ease);
+  --sidebar:244px;
+  --content:935px;
+  --post:470px;
+  --radius-image:4px;
+  --radius-card:8px;
+  --radius-modal:12px;
+  --warm:#f3f0e9;
+  --sage:#e4e9e0;
+  --ink:#353d36;
+  --ring:conic-gradient(from 200deg,#f9ce34,#ee2a7b,#6228d7,#f9ce34);
+  --overlay:rgba(0,0,0,.7);
+  --focus:#0078c9;
+  --white:#fff;
+  --black:#000;
+  --success:#467351;
+  --space:8px}
+
+[data-theme="dark"]{color-scheme:dark;
+  --bg:#000;
+  --bg-secondary:#121212;
+  --bg-elevated:#171717;
+  --border:#262626;
+  --border-strong:#555;
+  --text:#f5f5f5;
+  --text-secondary:#a8a8a8;
+  --text-tertiary:#a8a8a8;
+  --like:#ff3040;
+  --warm:#24231f;
+  --sage:#273029;
+  --ink:#d8e0d7;
+  --focus:#50b6ff}
+
+
+:root{--story-bg:#141614;
+  --story-media:#292f29;
+  --detail-media:#171916;
+  --image-glass:rgba(255,255,255,.9);
+  --image-border:rgba(255,255,255,.5);
+  --image-soft:rgba(255,255,255,.16);
+  --image-soft-active:rgba(255,255,255,.28);
+  --image-overlay:rgba(0,0,0,.75);
+  --image-shade:rgba(0,0,0,.4);
+  --image-shadow:rgba(0,0,0,.3);
+  --image-hairline:rgba(0,0,0,.1);
+  --swatch-border:rgba(127,127,127,.15)}
+
+
+:root{--link:#006fba}[data-theme="dark"]{--link:#57b5f3;
+  --success:#98bd95}

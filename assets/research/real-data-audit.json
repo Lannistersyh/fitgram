@@ -1,0 +1,22 @@
+{
+  "sources": 11,
+  "posts": 48,
+  "originalPosts": 40,
+  "analysisKeys": 48,
+  "items": 212,
+  "verifiedPriceItems": 31,
+  "identification": {
+    "exact": 36,
+    "visual": 151,
+    "brand": 25
+  },
+  "localPhotos": 48,
+  "unknownDates": 20,
+  "unknownTemperatures": 48,
+  "unknownLikes": 20,
+  "inventedPrices": 0,
+  "inventedBudgets": 0,
+  "mockComments": 0,
+  "browserTabsOpened": 0,
+  "warnings": []
+}

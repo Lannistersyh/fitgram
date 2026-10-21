@@ -1,0 +1,1114 @@
+{
+  "posts": {
+    "DdkkhBgzgVd": {
+      "title": "驼色 V 领针织，接一条水洗喇叭牛仔",
+      "caption": "官方造型把驼色V领针织叠在白衬衫和深色领带外，水洗蓝牛仔从膝盖以下展开。上身用清楚的领口收紧，下身保留宽度；棕色托特包接住针织的暖色。原帖列出了针织、牛仔裤和包的完整品名，衬衫与鞋履则未标型号。",
+      "styles": [
+        "Ivy/Preppy",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "通勤"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "白衬衫领口和袖口可见，深色领带在V领中间。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "驼色V领针织外叠，原帖给出完整品名。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "水洗蓝喇叭牛仔裤接棕色鞋头。"
+        }
+      ],
+      "items": [
+        {
+          "name": "驼色拉绒 V 领针织",
+          "modelName": "BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+          "brand": "TONYWACK",
+          "category": "中层",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.34
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：BRUSHED SHAGGY DOG V-NECK KNIT_ CAMEL",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "productUrl": null
+        },
+        {
+          "name": "水洗蓝重裁喇叭牛仔裤",
+          "modelName": "RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.66
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：RE-CUT FLARED DENIM JEANS_ WORN BLUE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色皮革饰边麂皮托特包",
+          "modelName": "LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+          "brand": "TONYWACK",
+          "category": "包袋",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.42
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：LEATHER TRIM SUEDE TOTE BAG_ BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "productUrl": null
+        },
+        {
+          "name": "白色衬衫与深色领带",
+          "modelName": null,
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.235
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.48,
+            "y": 0.9
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkhBgzgVd/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#8d4e2d",
+        "#4b92ba",
+        "#f1f0e9",
+        "#3b3531"
+      ],
+      "aspect": "1350:1687",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DejK7hOkxDu": {
+      "title": "高领针织短上装，把深棕长裤拉直",
+      "caption": "这张图用灰褐色高领扣式针织配深棕喇叭长裤，衣摆停在髋部附近，裤脚落到鞋面。上下颜色接近，靠针织表面与裤面的差别分层。手中的黑色大包加强了下半身重量；原帖同时写了另一套大衣造型，本页只标首图对应的三件单品。",
+      "styles": [
+        "韩系极简"
+      ],
+      "scenes": [
+        "通勤",
+        "约会"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "灰褐高领针织扣合，贴身内搭没有完整露出。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "这张没有额外外套，不补写大衣。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "深棕喇叭裤接浅棕靴头。"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰褐色高领美利奴羊毛扣式针织",
+          "modelName": "HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.36
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：HIGH NECK MERINO WOOL BUTTON-UP KNITTED BLOUSON_ TAUPE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        },
+        {
+          "name": "深棕羊毛混纺喇叭裤",
+          "modelName": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.67
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        },
+        {
+          "name": "Sandalo 麂皮 Souven 靴",
+          "modelName": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+          "brand": "TONYWACK",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.9
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色大号手提包",
+          "modelName": null,
+          "brand": null,
+          "category": "包袋",
+          "hotspot": {
+            "x": 0.69,
+            "y": 0.66
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#8b7a64",
+        "#302c2b",
+        "#70503b",
+        "#eeeae1"
+      ],
+      "aspect": "1088:1344",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DdkkM5lzVpt": {
+      "title": "做旧棕夹克与本白牛仔，留出明暗差",
+      "caption": "棕色毛领夹克的下摆和腰带垂在本白牛仔裤上，深浅交界比全身同色更清楚。裤腿保留直筒余量，黑色靴头只在裤脚下露出一点。官方原帖明确列出羔羊毛皮夹克、扣袢后腰牛仔裤与Souven靴，内层没有充分露出，不能补成指定款针织。",
+      "styles": [
+        "Y2K 复古",
+        "日系工装"
+      ],
+      "scenes": [
+        "街拍"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "内层被夹克遮挡，不能确认具体款式。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "棕色毛领夹克配垂下的腰带。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "本白宽直筒裤接黑色靴头。"
+        }
+      ],
+      "items": [
+        {
+          "name": "褪色棕羔羊毛皮飞行夹克",
+          "modelName": "LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.35
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：LAMB SHEARLING LEATHER BOMBER JACKET_ FADED BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "productUrl": null
+        },
+        {
+          "name": "本白宽直筒后腰扣袢牛仔裤",
+          "modelName": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.67
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色小牛皮 Souven 靴",
+          "modelName": "SOUVEN BOOTS IN CALFSKIN_ BLACK",
+          "brand": "TONYWACK",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.9
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：SOUVEN BOOTS IN CALFSKIN_ BLACK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkkM5lzVpt/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#63513e",
+        "#c79348",
+        "#edece2",
+        "#282627"
+      ],
+      "aspect": "1350:1687",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DeeB8xiE3ap": {
+      "title": "深棕皮衣配蓝牛仔，用红格围巾提亮",
+      "caption": "首图以深棕长皮衣覆盖蓝色直筒牛仔裤，红格围巾成为唯一清晰的亮色。衣摆比短夹克长，牛仔裤仍留出足够的纵向线条；浅色靴头让脚下不至于太重。原帖有两组清单，这里只对应皮衣、牛仔裤和红格围巾这一组，不混入另一套黑夹克。",
+      "styles": [
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "领口内层被围巾遮挡。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "红格围巾位于长皮衣门襟中间。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "蓝色牛仔裤接浅色靴头。"
+        }
+      ],
+      "items": [
+        {
+          "name": "深棕做旧羔羊皮 Carcoat",
+          "modelName": "AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.4
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：AGED LAMB LEATHER CARCOAT_ DARK BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "中蓝宽直筒牛仔裤",
+          "modelName": "LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.68
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：LOOSE STRAIGHT DENIM JEANS_ MID BLUE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "红格羊毛围巾",
+          "modelName": "SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+          "brand": "TONYWACK",
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.32
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：SOFT WOOL ESSENTIAL SCARF_ RED CHECK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "浅棕鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.48,
+            "y": 0.9
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#332e28",
+        "#46779a",
+        "#a22b26",
+        "#c4b28e"
+      ],
+      "aspect": "1088:1344",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "Ddkj1caTZDe": {
+      "title": "藏青内搭压住暖米色双排扣",
+      "caption": "暖米色双排扣夹克与深靛蓝牛仔裤形成明确的上下分区，藏青衬衫从领口和袖口露出。外套保持直落轮廓，裤腿在膝下略展开，比收脚裤更能接住夹克宽度。官方清单明确了鱼骨纹羊毛夹克和牛仔裤；衬衫与深色鞋的制造品牌没有被标注。",
+      "styles": [
+        "Ivy/Preppy",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "通勤",
+        "约会"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "藏青衬衫从领口和袖口露出。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "暖米色双排扣夹克直落。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "深靛蓝牛仔裤在膝下略展开。"
+        }
+      ],
+      "items": [
+        {
+          "name": "Saffron Beige 鱼骨纹羊毛双排扣夹克",
+          "modelName": "HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.37
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：HERRINGBONE WOOL DOUBLE-BREASTED JACKET_ SAFFRON BEIGE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "productUrl": null
+        },
+        {
+          "name": "Rinsed Indigo 喇叭牛仔裤",
+          "modelName": "FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.68
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：FLARED-LEG DENIM JEANS_ RINSED INDIGO",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "productUrl": null
+        },
+        {
+          "name": "藏青衬衫",
+          "modelName": null,
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.245
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "productUrl": null
+        },
+        {
+          "name": "深色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/Ddkj1caTZDe/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#b38b4a",
+        "#25323b",
+        "#212936",
+        "#e7e3d8"
+      ],
+      "aspect": "1350:1687",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DdkjtCAzztl": {
+      "title": "皮革与细条纹，深色也有前后层次",
+      "caption": "黑色皮革飞行夹克敞开穿，里面的藏青细条纹西装和长裤把线条连起来。外套的光泽与西装的哑光相邻，不需要额外亮色也能区分层次。裤脚放长，轮廓从肩一直落到地面；三件主服装均有官方原帖品名，手套和鞋履仍按可见外观记录。",
+      "styles": [
+        "韩系极简"
+      ],
+      "scenes": [
+        "演出/夜出",
+        "通勤"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "领口内层只露少量，具体贴身层未知。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "黑皮夹克叠在细条纹西装外。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "藏青细条纹长裤与西装相接。"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色复古羔羊皮飞行夹克",
+          "modelName": "VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.36
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：VINTAGE LAMB LEATHER BOMBER JACKET_ BLACK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "productUrl": null
+        },
+        {
+          "name": "藏青细条纹羊毛混纺宽松西装",
+          "modelName": "PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+          "brand": "TONYWACK",
+          "category": "中层",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.41
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：PINSTRIPED WOOL BLEND RELAXED TAILORED JACKET_ NAVY PINSTRIPE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "productUrl": null
+        },
+        {
+          "name": "藏青细条纹羊毛腰带长裤",
+          "modelName": "PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.68
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：PINSTRIPED WOOL BELTED TROUSERS_ NAVY PINSTRIPE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjtCAzztl/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#242527",
+        "#30303a",
+        "#414348",
+        "#e5e2d9"
+      ],
+      "aspect": "1350:1687",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DeY4YEDE8qf": {
+      "title": "军绿田野夹克，颜色收在黑与绿之间",
+      "caption": "军绿田野夹克盖过腰头，内层与裤子都压成深色，亮点只留在鞋底边缘。口袋和前门襟构成主要细节，适合观察工装外套怎样穿得安静。原帖同时列出另一套高领针织与工装裤，本页只确认首图的军绿夹克和黑色衬衫，不把两套清单交叉使用。",
+      "styles": [
+        "日系工装",
+        "韩系极简"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "黑色衬衫只露出领口与门襟。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "军绿田野夹克盖过腰头。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "深色裤脚与浅色鞋底边缘相接。"
+        }
+      ],
+      "items": [
+        {
+          "name": "橄榄绿成衣水洗棉田野夹克",
+          "modelName": "GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.37
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：GARMENT WASHED COTTON FIELD JACKET_ OLIVE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色丝棉基础衬衫",
+          "modelName": "SILK COTTON ESSENTIAL SHIRT_ BLACK",
+          "brand": "TONYWACK",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.27
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：SILK COTTON ESSENTIAL SHIRT_ BLACK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "深色宽长裤",
+          "modelName": null,
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.69
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "深色鞋面配浅色鞋底的鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#343c32",
+        "#222627",
+        "#3c4446",
+        "#ece9e0"
+      ],
+      "aspect": "1088:1344",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DdkjO_6THkP": {
+      "title": "绿夹克配本白裤，让衣摆停在腰胯",
+      "caption": "绿调Barn夹克敞开，露出偏棕的内层，本白直筒牛仔裤让下半身显得轻。上衣下摆停在腰胯附近，鞋头保持细长轮廓，整体比例来自长裤与短上装的衔接。原帖明确列出拉绒棉夹克和后腰扣袢牛仔裤，内搭、腰带与鞋只做外观判断。",
+      "styles": [
+        "日系工装",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "周末咖啡",
+        "街拍"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "棕调内层从门襟露出，品牌型号未标。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "绿色Barn夹克停在腰胯。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "本白牛仔裤接棕色鞋头。"
+        }
+      ],
+      "items": [
+        {
+          "name": "绿色拉绒棉 Barn 夹克",
+          "modelName": "BRUSHED COTTON BARN JACKET_ GREEN",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.37
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：BRUSHED COTTON BARN JACKET_ GREEN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "productUrl": null
+        },
+        {
+          "name": "本白宽直筒后腰扣袢牛仔裤",
+          "modelName": "LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.68
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：LOOSE STRAIGHT BUCKLE-BACK JEANS_ ECRU",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "productUrl": null
+        },
+        {
+          "name": "棕调内搭上衣",
+          "modelName": null,
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.29
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DdkjO_6THkP/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#315154",
+        "#ece8da",
+        "#675441",
+        "#e5e2d7"
+      ],
+      "aspect": "1339:1661",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DeY3LFcEytN": {
+      "title": "黑夹克与蓝条纹，把颜色留在门襟",
+      "caption": "黑色Barn夹克压在亮蓝条纹衬衫外，深棕长裤把下半身收住。蓝色集中在领口和门襟，领带顺着竖线垂落，整体没有再增加另一块亮色。官方原帖列出了夹克、条纹棉衬衫和深棕喇叭裤；领带及鞋履未在清单中，不能顺带推定为同品牌。",
+      "styles": [
+        "韩系极简",
+        "Ivy/Preppy"
+      ],
+      "scenes": [
+        "通勤"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口与内搭",
+          "desc": "蓝色条纹衬衫和领带露在门襟中间。"
+        },
+        {
+          "name": "上身叠层",
+          "desc": "黑色Barn夹克压住肩部轮廓。"
+        },
+        {
+          "name": "下装衔接",
+          "desc": "深棕喇叭裤延续下半身直线。"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色拉绒棉 Barn 夹克",
+          "modelName": "BRUSHED COTTON BARN JACKET_ BLACK",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.37
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：BRUSHED COTTON BARN JACKET_ BLACK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "productUrl": null
+        },
+        {
+          "name": "Sky Cobalt 高密度条纹棉衬衫",
+          "modelName": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+          "brand": "TONYWACK",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.28
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "productUrl": null
+        },
+        {
+          "name": "深棕羊毛混纺喇叭裤",
+          "modelName": "WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.69
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖品名清单明确列出：WOOL BLEND FLARED TROUSERS_ DEEP BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "productUrl": null
+        },
+        {
+          "name": "深色条纹领带",
+          "modelName": null,
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.35
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据此张原图可见的颜色与轮廓；原帖没有标注该单品型号或品牌。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY3LFcEytN/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#272c2d",
+        "#477fa7",
+        "#40382f",
+        "#e7e4dc"
+      ],
+      "aspect": "1080:1350",
+      "analysisBasis": "原帖首图视觉观察；完整英文品名来自该官方原帖清单，非凭外观猜测。"
+    },
+    "DejK7hOkxDu_s2": {
+      "sourceCode": "DejK7hOkxDu",
+      "sourceImageIndex": 2,
+      "title": "深色长大衣，用棕色靴头收尾",
+      "caption": "这套来自官方原帖第二张图。长大衣覆盖大部分裤面，露出的深灰裤脚与棕色靴头把下半身分成两段；双排扣和直落衣摆提供主要线条。原帖明示Moss Brown鱼骨纹羊毛大衣、Slate Grey喇叭裤与Sandalo靴，内搭被遮挡，不能据图指定。",
+      "styles": [
+        "韩系极简"
+      ],
+      "scenes": [
+        "通勤"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口",
+          "desc": "只记录图中确实露出的领口，遮挡部分不补成具体单品。"
+        },
+        {
+          "name": "上身",
+          "desc": "Moss Brown 鱼骨纹羊毛双排扣大衣，与原帖第二张图对应。"
+        },
+        {
+          "name": "下装",
+          "desc": "裤脚与鞋头相接，具体品名按原帖第二组清单核对。"
+        }
+      ],
+      "items": [
+        {
+          "name": "Moss Brown 鱼骨纹羊毛双排扣大衣",
+          "modelName": "HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.53,
+            "y": 0.45
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：HERRINGBONE WOOL DOUBLE-BREASTED COAT_ MOSS BROWN",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        },
+        {
+          "name": "Slate Grey 羊毛混纺喇叭裤",
+          "modelName": "WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.8
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：WOOL BLEND FLARED TROUSERS_ SLATE GREY",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        },
+        {
+          "name": "Sandalo 麂皮 Souven 靴",
+          "modelName": "SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+          "brand": "TONYWACK",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.93
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：SOUVEN BOOTS IN SUEDE CALFSKIN_ SANDALO",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DejK7hOkxDu/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#29302f",
+        "#63705d",
+        "#d5d7cf",
+        "#72503a"
+      ],
+      "aspect": "1088:1344"
+    },
+    "DeeB8xiE3ap_s2": {
+      "sourceCode": "DeeB8xiE3ap",
+      "sourceImageIndex": 2,
+      "title": "蓝条纹领口，接黑色立领夹克",
+      "caption": "第二张图把蓝色条纹衬衫放在黑色立领夹克里面，打开的门襟留出窄窄的亮色。黑色细条纹长裤延续直线，大包放在身体一侧。原帖两套清单分开：这一张对应肩袢立领夹克、Sky Cobalt衬衫和黑细条纹腰带裤，不沿用第一张皮衣与牛仔裤的型号。",
+      "styles": [
+        "韩系极简"
+      ],
+      "scenes": [
+        "通勤",
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口",
+          "desc": "只记录图中确实露出的领口，遮挡部分不补成具体单品。"
+        },
+        {
+          "name": "上身",
+          "desc": "黑色立领肩袢 Blouson 夹克，与原帖第二张图对应。"
+        },
+        {
+          "name": "下装",
+          "desc": "裤脚与鞋头相接，具体品名按原帖第二组清单核对。"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色立领肩袢 Blouson 夹克",
+          "modelName": "STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+          "brand": "TONYWACK",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.4
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：STAND COLLAR EPAULETTE BLOUSON_ BLACK",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "Sky Cobalt 高密度条纹棉衬衫",
+          "modelName": "HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+          "brand": "TONYWACK",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.27
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：HIGH DENSITY STRIPED COTTON SHIRT_ SKY COBALT",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色细条纹羊毛腰带裤",
+          "modelName": "PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.7
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：PINSTRIPED WOOL BELTED TROUSERS_ BLACK PINSTRIPE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色手提包",
+          "modelName": null,
+          "brand": null,
+          "category": "包袋",
+          "hotspot": {
+            "x": 0.66,
+            "y": 0.68
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据原帖第二张照片的可见外观；未标明品牌或型号。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeeB8xiE3ap/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#29302f",
+        "#63705d",
+        "#d5d7cf",
+        "#72503a"
+      ],
+      "aspect": "1088:1344"
+    },
+    "DeY4YEDE8qf_s2": {
+      "sourceCode": "DeY4YEDE8qf",
+      "sourceImageIndex": 2,
+      "title": "高领针织塞进宽工装裤，腰线保持可见",
+      "caption": "第二张图用深色高领针织配橄榄绿宽工装裤，腰头和皮带没有被下摆盖住。裤腿保持宽度，侧袋的体积集中在大腿，鞋尖只露出一点暖棕。原帖明确列出Midnight侧扣羊毛高领与Olive重裁工装裤；手套和鞋没有对应品名，不能自动当作同品牌同款。",
+      "styles": [
+        "日系工装",
+        "韩系极简"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "layers": [
+        {
+          "name": "领口",
+          "desc": "只记录图中确实露出的领口，遮挡部分不补成具体单品。"
+        },
+        {
+          "name": "上身",
+          "desc": "Midnight 侧扣罗纹羊毛高领针织，与原帖第二张图对应。"
+        },
+        {
+          "name": "下装",
+          "desc": "裤脚与鞋头相接，具体品名按原帖第二组清单核对。"
+        }
+      ],
+      "items": [
+        {
+          "name": "Midnight 侧扣罗纹羊毛高领针织",
+          "modelName": "RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+          "brand": "TONYWACK",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.36
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：RIBBED WOOL SIDE-BUTTON TURTLENECK_ MIDNIGHT",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "Olive 重裁宽腿工装裤",
+          "modelName": "RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+          "brand": "TONYWACK",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.69
+          },
+          "identification": "exact",
+          "evidenceText": "官方原帖第二套清单明示：RE-CUT WIDE LEG CARGO PANTS_ OLIVE",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色鞋履",
+          "modelName": null,
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.92
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据原帖第二张照片的可见外观；未标明品牌或型号。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色手套",
+          "modelName": null,
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.66,
+            "y": 0.49
+          },
+          "identification": "visual",
+          "evidenceText": "仅依据原帖第二张照片的可见外观；未标明品牌或型号。",
+          "evidenceUrl": "https://www.instagram.com/tonywack_official/p/DeY4YEDE8qf/",
+          "productUrl": null
+        }
+      ],
+      "palette": [
+        "#29302f",
+        "#63705d",
+        "#d5d7cf",
+        "#72503a"
+      ],
+      "aspect": "1088:1344"
+    }
+  }
+}
