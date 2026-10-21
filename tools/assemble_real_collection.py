@@ -7,8 +7,9 @@ ROOT=Path(__file__).resolve().parents[1]
 R=ROOT/'assets/research'
 load=lambda name:json.loads((R/name).read_text())
 raw=load('raw_posts.json'); by_code={p['code']:p for p in raw['posts']}
+manifest=load('collection.json')
 analyses={}
-for name in ['analysis-jp.json','analysis-jp-extra.json','analysis-kr.json','analysis-tony.json']:
+for name in manifest['analysisFiles']:
     if (R/name).exists():analyses.update(load(name)['posts'])
 verified=load('product_verification.json')['items']
 normalize=lambda name:re.sub(r'\W+','',str(name or '').upper())
@@ -43,7 +44,7 @@ for key,analysis in analyses.items():
     selected.append(post)
 # 先展现有官方同款的造型，再轮流展现各来源；ID保持不随顺序变化。
 def official_count(post):return sum(i.get('officialProductVerified') is True for i in analyses[post['analysisKey']].get('items',[]))
-selected.sort(key=lambda p:(-official_count(p),p['sourceHandle'],p['analysisKey']))
+selected.sort(key=lambda p:(-analyses[p['analysisKey']].get('feedPriority',0),-official_count(p),p['sourceHandle'],p['analysisKey']))
 (R/'selected_posts.json').write_text(json.dumps(dict(collectedAt=raw['collectedAt'],posts=selected),ensure_ascii=False,indent=2))
 (R/'analysis.json').write_text(json.dumps(dict(posts=analyses),ensure_ascii=False,indent=2))
 print(json.dumps(dict(looks=len(selected),originalPosts=len(set(x['code'] for x in selected)),sourcesUsed=len(set(x['sourceHandle'] for x in selected)),officialLinks=sum(official_count(x) for x in selected),captionRange=[min(len(x['caption']) for x in analyses.values()),max(len(x['caption']) for x in analyses.values())]),ensure_ascii=False,indent=2))

@@ -43,7 +43,7 @@
     return blogger&&blogger.verified===true?'<span class="verified" title="采集时已核实的平台认证" aria-label="采集时已核实的平台认证">'+C.icon('check',10)+'</span>':'';
   };
   C.sourceKind=function(blogger){
-    return ({creator:'个人创作者',curation:'穿搭选辑',magazine:'时尚媒体',brand:'品牌账号'})[(blogger||{}).sourceKind]||'来源账号';
+    return ({creator:'个人创作者',curation:'穿搭选辑',magazine:'时尚媒体',brand:'品牌账号',group:'男团官方'})[(blogger||{}).sourceKind]||'来源账号';
   };
   C.sourceDate=function(post){
     const date=post.sourceDate||post.date;
@@ -110,7 +110,7 @@
   };
   C.renderPostHeader=function(post){
     const b=U.blogger(post.bloggerId)||{},handle=post.sourceHandle||b.handle||'来源账号';
-    const meta=[C.sourceKind(b),post.location].filter(Boolean).join(' · ');
+    const meta=[C.sourceKind(b),post.lookContext||post.location].filter(Boolean).join(' · ');
     return '<header class="post-card__header"><a href="#/blogger/'+E(b.id)+'" aria-label="查看 '+E(handle)+'">'+C.avatar(b,32)+'</a><div class="post-card__identity"><div><a class="post-card__handle" href="#/blogger/'+E(b.id)+'">'+E(handle)+'</a>'+C.verified(b)+'</div><span class="post-card__location">'+E(meta)+'</span></div>'+C.sourceLink(post,'原帖')+'<button class="icon-button" data-action="more-post" data-id="'+E(post.id)+'" aria-label="更多来源与造型操作">'+C.icon('more')+'</button></header>';
   };
   C.renderActions=function(post,detail=false){

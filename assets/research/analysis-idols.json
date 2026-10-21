@@ -1,0 +1,1940 @@
+{
+  "posts": {
+    "Dea5mY7GtO-_s5": {
+      "sourceCode": "Dea5mY7GtO-",
+      "sourceImageIndex": 5,
+      "title": "CORTIS｜灰色短外搭与白色高帮",
+      "caption": "这套看合照中间的灰色短外搭，白色内层从敞开的门襟露出，黑色多口袋裤在小腿附近收住，白色高帮鞋把脚下提亮。上身的短长分界与裤腰很接近，侧面口袋补充了体积；其他成员的衣服不计入这套清单。",
+      "styles": [
+        "街头廓形",
+        "Gorpcore"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "灰色短外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "内搭",
+          "desc": "白色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色多口袋裤在小腿附近收住，脚下为白色高帮鞋。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰色短外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.55,
+            "y": 0.54
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "白色内层上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.54
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色多口袋裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.69
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "白色高帮鞋",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.84
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 220,
+      "focusPerson": "合照中央灰色外搭人物",
+      "lookContext": "男团官方原帖造型"
+    },
+    "Deq4vfBGlJU_s3": {
+      "sourceCode": "Deq4vfBGlJU",
+      "sourceImageIndex": 3,
+      "title": "CORTIS｜白色印花与深色直筒裤",
+      "caption": "白色印花上衣配深色牛仔外观长裤，没有用复杂叠穿抢走重点。衣摆落在腰带附近，裤腿向下保留直线，背后的乐器店只是原帖日常场景。可借鉴短上身与长裤的比例，印花文字不自动等于服装品牌。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#292c2b",
+        "#8d9eab",
+        "#e9e5d9"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "白色印花短袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色直筒长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        },
+        {
+          "name": "配饰",
+          "desc": "黑色腰带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        }
+      ],
+      "items": [
+        {
+          "name": "白色印花短袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.54,
+            "y": 0.3
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        },
+        {
+          "name": "深色直筒长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.6
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色腰带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.56,
+            "y": 0.45
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 205,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Deq4vfBGlJU_s5": {
+      "sourceCode": "Deq4vfBGlJU",
+      "sourceImageIndex": 5,
+      "title": "CORTIS｜灰绿针织的轻松体积",
+      "caption": "灰绿色长袖上衣把颜色控制得很轻，领口的开口与墨镜形成两个清楚的细节。深色裤装留在下方，衣摆没有拉得很长，整体更像随手出门的比例。照片只能确认可见纹理，不能据此指定羊毛成分或型号。",
+      "styles": [
+        "Clean Fit",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#7e816a",
+        "#343835",
+        "#dfded5"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "灰绿色长袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        },
+        {
+          "name": "配饰",
+          "desc": "深色窄框太阳镜，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰绿色长袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.43
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        },
+        {
+          "name": "深色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.69
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        },
+        {
+          "name": "深色窄框太阳镜",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.25
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 201,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "DeoT7tpA9RJ_s1": {
+      "sourceCode": "DeoT7tpA9RJ",
+      "sourceImageIndex": 1,
+      "title": "CORTIS｜黑色窄线条与浅色鞋",
+      "caption": "这张原帖视频封面保留了完整站姿：黑色领口上衣配修长的破洞裤，浅色厚底鞋把重心停在脚下。上下身都偏窄，重点是裤脚和鞋口的衔接；它适合作为另一种比例参考，不必把男团穿搭都理解成宽大廓形。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "黑色领口上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色破洞长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/"
+        },
+        {
+          "name": "鞋履",
+          "desc": "浅色厚底鞋，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色领口上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.38
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色破洞长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.64
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色厚底鞋",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.85
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/reel/DeoT7tpA9RJ/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 194,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Deq4vfBGlJU_s4": {
+      "sourceCode": "Deq4vfBGlJU",
+      "sourceImageIndex": 4,
+      "title": "CORTIS｜格纹衬衫的背面层次",
+      "caption": "乐器店里的背面照片，保留了格纹上装下摆与深色裤面的关系。上衣没有收得很紧，手臂和背部留出活动量，格纹承担主要信息。这里分析能看见的上装与裤装，不补写被画面裁掉的鞋履或衬衫内层。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#655c4d",
+        "#b8b4a6",
+        "#252d2c"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深色格纹长袖衬衫，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色格纹长袖衬衫",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.48
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        },
+        {
+          "name": "深色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.79
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Deq4vfBGlJU/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 184,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Dea5mY7GtO-_s6": {
+      "sourceCode": "Dea5mY7GtO-",
+      "sourceImageIndex": 6,
+      "title": "CORTIS｜酒红上衣与银色配饰",
+      "caption": "酒红色短袖上衣没有复杂图案，层次由多条银色项链和腕部配饰补出。画面重点在领口与上半身，近景能参考配饰疏密，不能据此还原整套裤装与鞋履。深色领口和暖色布面让金属细节更容易看清。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#7b2e41",
+        "#222326",
+        "#b8b8b4"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "酒红色短袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "配饰",
+          "desc": "多层银色项链，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "配饰",
+          "desc": "腕部金属外观配饰，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        }
+      ],
+      "items": [
+        {
+          "name": "酒红色短袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.41,
+            "y": 0.58
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "多层银色项链",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.45,
+            "y": 0.57
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "腕部金属外观配饰",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.69,
+            "y": 0.72
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 180,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Dea5mY7GtO-_s7": {
+      "sourceCode": "Dea5mY7GtO-",
+      "sourceImageIndex": 7,
+      "title": "CORTIS｜无袖上身与宽长裤",
+      "caption": "黑色无袖上衣接宽松长裤，整套的松量集中在下半身。领口的项链与手部动作让纯黑有了局部节奏，裤腿直落后在脚面附近收住。日常复制时可以先学上窄下宽的比例，照片没有提供的具体衣物型号保持未知。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "黑色无袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色宽松长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "配饰",
+          "desc": "银色长项链，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色无袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.38
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.67
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "银色长项链",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.34
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 177,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Dea5mY7GtO-_s8": {
+      "sourceCode": "Dea5mY7GtO-",
+      "sourceImageIndex": 8,
+      "title": "CORTIS｜灰黑短袖收在腰线上",
+      "caption": "这套灰黑上衣配深色牛仔外观长裤，把衣摆留在腰线上方，腰带成为横向分界。项链的细线条与紧凑上身配合，整体没有堆叠很多单品。照片更适合观察腰部比例，品牌与价格不从印花或相似款式反推。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "灰黑色印花短袖，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色修长裤装，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "配饰",
+          "desc": "黑色腰带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰黑色印花短袖",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.36
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "深色修长裤装",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.52,
+            "y": 0.68
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色腰带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.52
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "细链项链",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.53,
+            "y": 0.27
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 174,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    },
+    "Dea5mY7GtO-_s2": {
+      "sourceCode": "Dea5mY7GtO-",
+      "sourceImageIndex": 2,
+      "title": "CORTIS｜拼色插肩袖的近景",
+      "caption": "合照上方的拼色插肩袖上衣，用深色袖子围住浅色胸前印花，深色裤装只露出一部分。它的参考点是领口、肩线和上身长度，其他人的衣服不混进同一清单。近景没有提供的鞋履与材质信息不作补写。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "深浅拼色插肩袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色长裤可见部分，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深浅拼色插肩袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.39,
+            "y": 0.27
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        },
+        {
+          "name": "深色长裤可见部分",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.37,
+            "y": 0.53
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Dea5mY7GtO-/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 170,
+      "focusPerson": "合照上方拼色插肩袖人物",
+      "lookContext": "男团官方原帖造型"
+    },
+    "Den2GRzmkFf_s4": {
+      "sourceCode": "Den2GRzmkFf",
+      "sourceImageIndex": 4,
+      "title": "CORTIS｜紫色背心叠穿",
+      "caption": "这张来自原帖标明的音乐节后台。重点看左侧人物：紫色连帽无袖外层叠在浅色图案短袖外，灰色宽裤和红白鞋接住了鲜明上身。搭配适合拆解颜色与层次，演出后台造型与成员自行选择的日常私服不作混同。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#655083",
+        "#83857c",
+        "#ece5d7",
+        "#aa343d"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "紫色连帽无袖外层。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "内搭",
+          "desc": "浅色图案短袖内层。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "灰色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "紫色连帽无袖外层",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.32,
+            "y": 0.47
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色图案短袖内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.29,
+            "y": 0.3
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "灰色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.3,
+            "y": 0.72
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "红白拼色鞋",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.28,
+            "y": 0.9
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 166,
+      "focusPerson": "左侧紫色叠穿人物",
+      "lookContext": "NOL FESTIVAL 后台造型"
+    },
+    "Den2GRzmkFf_s5": {
+      "sourceCode": "Den2GRzmkFf",
+      "sourceImageIndex": 5,
+      "title": "CORTIS｜白色短外层与蓝色内搭",
+      "caption": "同一音乐节后台原帖中的右侧造型，白色外层留出敞开的门襟，亮蓝色内搭向下连接深色裤面。颜色集中在中间，鞋履回到黑色。照片明确属于后台记录，这里参考可见搭配关系，不把它标成已确认的私人衣橱。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#e2e1d7",
+        "#5eb5bc",
+        "#323c42"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "白色短袖外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "内搭",
+          "desc": "亮蓝色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "深色长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "白色短袖外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.47
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "亮蓝色内层上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.52
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "深色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.76
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.91
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 163,
+      "focusPerson": "右侧白色外搭人物",
+      "lookContext": "NOL FESTIVAL 后台造型"
+    },
+    "Den2GRzmkFf_s1": {
+      "sourceCode": "Den2GRzmkFf",
+      "sourceImageIndex": 1,
+      "title": "CORTIS｜灰色无袖层与宽裤",
+      "caption": "后台合照左侧的灰色无袖层，叠在同色系短袖上衣外面，下面用灰绿色长裤保持低饱和。重点是肩部的两层边界和宽松裤腿，鞋面留在深色区。拍摄视角偏高，比例只按这张照片中可见的部分来观察。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "灰色无袖外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "内搭",
+          "desc": "灰色短袖内层，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "灰绿色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰色无袖外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.19,
+            "y": 0.48
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "灰色短袖内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.19,
+            "y": 0.53
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "灰绿色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.23,
+            "y": 0.72
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.23,
+            "y": 0.88
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 160,
+      "focusPerson": "合照左侧灰色无袖外搭人物",
+      "lookContext": "NOL FESTIVAL 后台造型"
+    },
+    "Den2GRzmkFf_s2": {
+      "sourceCode": "Den2GRzmkFf",
+      "sourceImageIndex": 2,
+      "title": "CORTIS｜棕色外搭留出红白领口",
+      "caption": "重点看合照右侧的棕色外搭，红白条纹内层从门襟和领口露出，亮色裤装只显示一部分。短外层把色块切在腰部附近，上下没有连成一整块。这里属于音乐节后台记录，未公开的单品品牌和材质继续留空。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#59483c",
+        "#8a8881",
+        "#252523"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "棕色短外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "内搭",
+          "desc": "红白条纹内层，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "亮色裤装可见部分，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "棕色短外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.85,
+            "y": 0.66
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "红白条纹内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.82,
+            "y": 0.7
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        },
+        {
+          "name": "亮色裤装可见部分",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.84,
+            "y": 0.94
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/cortis/p/Den2GRzmkFf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 156,
+      "focusPerson": "合照右侧棕色外搭人物",
+      "lookContext": "NOL FESTIVAL 后台造型"
+    },
+    "DerbC5YRa_j_s1": {
+      "sourceCode": "DerbC5YRa_j",
+      "sourceImageIndex": 1,
+      "title": "BOYNEXTDOOR｜短西装与宽脚裤",
+      "caption": "户外合照看右侧人物，深色短西装搭白色衬衫和斜纹领带，灰绿色宽脚裤把体积放在下方。黑色厚底鞋与深色外层呼应，上衣下摆停在腰部附近。它的重点是学院单品与宽松裤型的搭配，不靠镜头去猜真实腿长。",
+      "styles": [
+        "Ivy/Preppy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#19263a",
+        "#dfded5",
+        "#6c705a"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深色短西装，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/"
+        },
+        {
+          "name": "内搭",
+          "desc": "白色衬衫，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/"
+        },
+        {
+          "name": "配饰",
+          "desc": "斜纹领带，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色短西装",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.56
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/",
+          "productUrl": null
+        },
+        {
+          "name": "白色衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.62,
+            "y": 0.59
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/",
+          "productUrl": null
+        },
+        {
+          "name": "斜纹领带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.62,
+            "y": 0.59
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/",
+          "productUrl": null
+        },
+        {
+          "name": "灰绿色宽脚长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.61,
+            "y": 0.75
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色厚底鞋",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.69,
+            "y": 0.86
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DerbC5YRa_j/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 190,
+      "focusPerson": "合照右侧短西装人物",
+      "lookContext": "男团官方原帖造型"
+    },
+    "Deq4vf6xvPw_s1": {
+      "sourceCode": "Deq4vf6xvPw",
+      "sourceImageIndex": 1,
+      "title": "男团合作｜V领外层与红色衬衫",
+      "caption": "原帖标明与 NCT WISH 的合作内容。这里看右侧人物，深色V领针织外层叠红色衬衫，衬衫领口、袖口和下摆都露出，米色宽裤与棕色鞋接在下方。高角度会改变比例，参考的是内外层长度和三块颜色之间的关系。",
+      "styles": [
+        "Ivy/Preppy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#152035",
+        "#ba2733",
+        "#c2bda6"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深色V领针织外层，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/"
+        },
+        {
+          "name": "内搭",
+          "desc": "红色衬衫，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/"
+        },
+        {
+          "name": "裤装",
+          "desc": "米色宽松长裤，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色V领针织外层",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.7,
+            "y": 0.5
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/",
+          "productUrl": null
+        },
+        {
+          "name": "红色衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.68,
+            "y": 0.5
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/",
+          "productUrl": null
+        },
+        {
+          "name": "米色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.64,
+            "y": 0.69
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.55,
+            "y": 0.8
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deq4vf6xvPw/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 185,
+      "focusPerson": "合作合照右侧人物",
+      "lookContext": "原帖标注 NCT WISH 合作"
+    },
+    "Deqx6xLRerv_s1": {
+      "sourceCode": "Deqx6xLRerv",
+      "sourceImageIndex": 1,
+      "title": "男团合作｜红色修身上衣",
+      "caption": "原帖标明与 SUNG HANBIN 的合作内容，重点看右侧红色上衣人物。修身上装与黑色裤装之间，用醒目的门襟和腰部细节连接起来。画面带广角变形，适合参考红黑配色和紧凑上身，不能从镜头效果推断真实尺码。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#7b2e41",
+        "#222326",
+        "#b8b8b4"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "红色修身拉链上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/"
+        },
+        {
+          "name": "配饰",
+          "desc": "腰部系带外观细节，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/"
+        }
+      ],
+      "items": [
+        {
+          "name": "红色修身拉链上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.68,
+            "y": 0.41
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.67,
+            "y": 0.72
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/",
+          "productUrl": null
+        },
+        {
+          "name": "腰部系带外观细节",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.67,
+            "y": 0.57
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Deqx6xLRerv/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 179,
+      "focusPerson": "合作合照右侧红色上衣人物",
+      "lookContext": "原帖标注 SUNG HANBIN 合作"
+    },
+    "DenxqRzRHNm_s1": {
+      "sourceCode": "DenxqRzRHNm",
+      "sourceImageIndex": 1,
+      "title": "男团合作｜黄色连帽与浅色牛仔",
+      "caption": "原帖标明与 Xdinary Heroes 的合作。看左侧黄色连帽上衣，白色内层在下摆露出，浅色宽裤让明亮上装有了柔和过渡。整套重点是上衣长度和裤腿余量，运动鞋保留浅灰色，不把合作对象身份凭人脸补写。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#d8b13b",
+        "#a0aeb2",
+        "#ece9de"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "黄色连帽上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/"
+        },
+        {
+          "name": "内搭",
+          "desc": "白色内层下摆，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/"
+        },
+        {
+          "name": "裤装",
+          "desc": "浅色宽松牛仔外观裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黄色连帽上衣",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.3,
+            "y": 0.4
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/",
+          "productUrl": null
+        },
+        {
+          "name": "白色内层下摆",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.3,
+            "y": 0.56
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色宽松牛仔外观裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.31,
+            "y": 0.7
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/",
+          "productUrl": null
+        },
+        {
+          "name": "浅灰色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.35,
+            "y": 0.94
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/DenxqRzRHNm/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 175,
+      "focusPerson": "左侧黄色连帽上衣人物",
+      "lookContext": "原帖标注 Xdinary Heroes 合作"
+    },
+    "Den4fwXx_Ca_s1": {
+      "sourceCode": "Den4fwXx_Ca",
+      "sourceImageIndex": 1,
+      "title": "男团合作｜黄色套装的松量",
+      "caption": "合作原帖标明 TREASURE。这里看右侧黄色上衣人物，宽松短袖与同色系裤装构成连续色块，胸前印花提供小范围变化。高角度会压缩腿部比例，参考时以衣物的松量和配色为主；未显示的纤维成分与型号不作确认。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "演出/夜出"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#d8b13b",
+        "#a0aeb2",
+        "#ece9de"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "黄色印花短袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黄色宽松长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/"
+        },
+        {
+          "name": "鞋履",
+          "desc": "深色鞋履，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黄色印花短袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.72,
+            "y": 0.4
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/",
+          "productUrl": null
+        },
+        {
+          "name": "黄色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.71,
+            "y": 0.65
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/",
+          "productUrl": null
+        },
+        {
+          "name": "深色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.69,
+            "y": 0.86
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Den4fwXx_Ca/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 169,
+      "focusPerson": "右侧黄色上衣人物",
+      "lookContext": "原帖标注 TREASURE 合作"
+    },
+    "Det5AVaRLAf_s1": {
+      "sourceCode": "Det5AVaRLAf",
+      "sourceImageIndex": 1,
+      "title": "BOYNEXTDOOR｜黑短袖与浅色裤",
+      "caption": "生日合照中的中间人物，用黑色短袖搭配浅色宽松裤，腰部留出一条浅色分界。白灰运动鞋把下半身提亮，配色并不复杂。这里保留原帖真实场景，只分析中间人物，旁边的格纹上衣不计入这套清单。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "黑色短袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "浅蓝色宽松长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/"
+        },
+        {
+          "name": "配饰",
+          "desc": "浅色腰带外观细节，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色短袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.46
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/",
+          "productUrl": null
+        },
+        {
+          "name": "浅蓝色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.7
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色腰带外观细节",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.55
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/",
+          "productUrl": null
+        },
+        {
+          "name": "白灰色运动鞋",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.94
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/boynextdoor_official/reel/Det5AVaRLAf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 165,
+      "focusPerson": "生日合照中间黑色上衣人物",
+      "lookContext": "男团官方原帖造型"
+    },
+    "DelvGoME1q5_s1": {
+      "sourceCode": "DelvGoME1q5",
+      "sourceImageIndex": 1,
+      "title": "RIIZE｜三道条纹与宽松黑裤",
+      "caption": "楼梯上坐姿把黑色连帽外层和宽裤放在同一条深色线上，棕色靴子落在画面边缘，袖侧白色条纹成为主要装饰。原帖明确标注 adidas 广告合作，因此保留这条品牌线索，具体夹克与裤装型号仍未核实，不提供猜测的购买链接。",
+      "styles": [
+        "街头廓形",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "黑色三道条纹连帽外层，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/"
+        },
+        {
+          "name": "内搭",
+          "desc": "浅色领口内层，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色三道条纹连帽外层",
+          "brand": "adidas",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.61,
+            "y": 0.36
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 adidas；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色领口内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.61,
+            "y": 0.39
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.4,
+            "y": 0.65
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色系带靴",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.08,
+            "y": 0.61
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/p/DelvGoME1q5/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 182,
+      "focusPerson": null,
+      "lookContext": "adidas 广告合作原帖"
+    },
+    "Delg8C8zTuu_s1": {
+      "sourceCode": "Delg8C8zTuu",
+      "sourceImageIndex": 1,
+      "title": "RIIZE｜灰帽衫叠橄榄色外层",
+      "caption": "坐姿近景能看清橄榄色外层、灰色连帽层与白色印花内层的三层关系。黑色裤装只露出上半段，鞋履没有展示。适合借鉴领口之间的距离和低饱和配色，原帖没有明示的外套品牌与型号保持未核实。",
+      "styles": [
+        "街头廓形",
+        "Y2K 复古"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#7e816a",
+        "#343835",
+        "#dfded5"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "橄榄色短外层，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/"
+        },
+        {
+          "name": "内搭",
+          "desc": "灰色连帽内层，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/"
+        },
+        {
+          "name": "内搭",
+          "desc": "白色印花内层，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/"
+        }
+      ],
+      "items": [
+        {
+          "name": "橄榄色短外层",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.48,
+            "y": 0.54
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/",
+          "productUrl": null
+        },
+        {
+          "name": "灰色连帽内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.56,
+            "y": 0.44
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/",
+          "productUrl": null
+        },
+        {
+          "name": "白色印花内层",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.59
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色裤装可见部分",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.65,
+            "y": 0.83
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/riize_official/reel/Delg8C8zTuu/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 173,
+      "focusPerson": null,
+      "lookContext": "男团官方原帖造型"
+    }
+  }
+}

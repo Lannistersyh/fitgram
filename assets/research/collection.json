@@ -1,0 +1,32 @@
+{
+  "revision": "cortis-focus-2026-10-21",
+  "analysisFiles": [
+    "analysis-idols.json",
+    "analysis-jp-v2.json",
+    "analysis-kr.json",
+    "analysis-tony.json"
+  ],
+  "sourceHandles": [
+    "cortis",
+    "boynextdoor_official",
+    "riize_official",
+    "ryo__takashima",
+    "yooshiakiii",
+    "0neonones_",
+    "tonywack_official"
+  ],
+  "retiredHandles": [
+    "japan_streetstyle_",
+    "i_am_kentadesu_",
+    "nanikajapan",
+    "kabuki_610",
+    "mensnonnojp",
+    "gentlemans_seoul",
+    "alyxtsu",
+    "coor_official",
+    "solidhomme"
+  ],
+  "japanMinimumFollowers": 400000,
+  "targetLooks": 48,
+  "focus": "年轻男团造型参考与高粉日本创作者"
+}

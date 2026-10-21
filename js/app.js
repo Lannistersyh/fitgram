@@ -163,7 +163,7 @@
       A.router.render(true);
     }
     ,
-    'official-filter':()=>{A.state.filters.officialOnly=!A.state.filters.officialOnly;A.views.updateExplore();},'shop-looks':()=>{A.views.resetFilters();A.state.filters.officialOnly=true;if(location.hash==='#/explore')A.router.render();else location.hash='#/explore';},
+    'groups-filter':()=>{A.state.filters.groupsOnly=!A.state.filters.groupsOnly;A.views.updateExplore();},'official-filter':()=>{A.state.filters.officialOnly=!A.state.filters.officialOnly;A.views.updateExplore();},'shop-looks':()=>{A.views.resetFilters();A.state.filters.officialOnly=true;if(location.hash==='#/explore')A.router.render();else location.hash='#/explore';},
     filter:filter,'reset-filters':()=>A.views.resetFilters(),'explore-region':b=>{
       A.state.filters.region=b.dataset.region;
       A.views.updateExplore();

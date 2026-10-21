@@ -57,7 +57,7 @@
   }
   function renderPalette(post){
     if(!(post.palette||[]).length)return '';
-    return '<section class="detail-section"><div class="detail-section__heading"><span class="eyebrow">COLOR NOTES</span><h2>照片配色参考</h2></div><p class="detail-section__hint">屏幕取色为视觉近似，点击可复制 HEX。</p><div class="detail-palette">'+post.palette.map(color=>'<button class="detail-palette__color" data-action="copy-color" data-value="'+E(color)+'" style="--swatch-color:'+E(color)+'" aria-label="复制配色 '+E(color)+'"><span></span><small>'+E(color.toUpperCase())+'</small></button>').join('')+'</div></section>';
+    return '<section class="detail-section"><div class="detail-section__heading"><span class="eyebrow">COLOR NOTES</span><h2>照片配色参考</h2></div><p class="detail-section__hint">按服装可见颜色近似记录，点击可复制 HEX。</p><div class="detail-palette">'+post.palette.map(color=>'<button class="detail-palette__color" data-action="copy-color" data-value="'+E(color)+'" style="--swatch-color:'+E(color)+'" aria-label="复制配色 '+E(color)+'"><span></span><small>'+E(color.toUpperCase())+'</small></button>').join('')+'</div></section>';
   }
   function localComments(id){return C.localComments(id);}
   function renderComments(post){

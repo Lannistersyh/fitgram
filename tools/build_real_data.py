@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RESEARCH = ROOT / 'assets/research'
 SOURCE_REGIONS = dict.fromkeys(['japan_streetstyle_', 'i_am_kentadesu_', 'nanikajapan', 'kabuki_610', 'mensnonnojp'], 'jp')
 SOURCE_REGIONS.update(dict.fromkeys(['0neonones_', 'gentlemans_seoul', 'alyxtsu', 'coor_official', 'tonywack_official', 'solidhomme'], 'kr'))
-SOURCE_KINDS = {'creator', 'curation', 'magazine', 'brand'}
+SOURCE_KINDS = {'creator', 'curation', 'magazine', 'brand', 'group'}
 KIND_ALIASES = {'individual': 'creator', 'media': 'magazine'}
 STYLES = {'City Boy', 'Clean Fit', 'Gorpcore', 'Ivy/Preppy', 'Y2K 复古', '日系工装', '韩系极简', '街头廓形', 'All Grey 全灰', '无性别 Archive'}
 TEMP_BANDS = {'15-20', '10-15', '5-10', '0-5', '-5-0'}
@@ -69,7 +69,7 @@ def iso_date(value):
 def source_kind(value):
     value = KIND_ALIASES.get(value, value)
     if value and value not in SOURCE_KINDS:
-        raise ValueError(f'sourceKind必须为creator/curation/magazine/brand：{value}')
+        raise ValueError(f'sourceKind必须为creator/curation/magazine/brand/group：{value}')
     return value or None
 
 
@@ -214,6 +214,9 @@ def make_post(raw, analysis, source, index):
         item, ref = make_item(row, post_id, item_index, source_url); items.append(item); refs.append(ref)
     post = dict(id=post_id, code=code, bloggerId=source['id'], title=analysis.get('title') or f'{source["handle"]} · 原帖造型', date=iso_date(raw.get('date')), dateRaw=raw.get('date'), tempBand=temp_band, styles=styles, scenes=analysis.get('scenes') or [], location=raw.get('location') or '地点未注明', aspect=analysis.get('aspect') or raw.get('aspect') or '4:5', images=images or ['assets/placeholder/neutral.svg'], remoteImages=remote, placeholder='assets/placeholder/neutral.svg', likes=number_or_null(counts.get('likes', raw.get('likes'))), comments=number_or_null(counts.get('comments', raw.get('comments'))), saves=number_or_null(counts.get('saves', raw.get('saves'))), caption=caption, captionRaw=raw.get('captionRaw') or '', tags=analysis.get('tags') or ['#' + value.replace(' ', '') for value in styles], palette=analysis.get('palette') or [], layers=make_layers(analysis.get('layers'), source_url), items=refs, budget=None, budgetMin=None, budgetMax=None, commentsMock=[], alt=(raw.get('altTexts') or [analysis.get('alt') or f'{source["handle"]}公开原帖中的穿搭照片'])[0])
     post.update(sourceUrl=source_url, sourceHandle=source['handle'], originalCaption=post['captionRaw'], altTexts=raw.get('altTexts') or [], taggedBrands=normalized_brands(raw.get('taggedBrands')), editorial=True, editorialLabel='本站观察', temperatureType='editorial-recommendation' if temp_band != 'unknown' else 'unverified', temperatureNote=analysis.get('temperatureNote') or ('温度带为本站穿搭参考，不代表拍摄时实测气温' if temp_band != 'unknown' else '原帖未提供气温，不从照片推断实际天气'), capturedAt=raw.get('collectedAt') or raw.get('capturedAt'), imageWidth=number_or_null(raw.get('imageWidth')), imageHeight=number_or_null(raw.get('imageHeight')), imageDimensions=raw.get('imageDimensions') or [], sourceDate=iso_date(raw.get('date')), imageEvidence=raw.get('imageEvidence') or [], isFictional=False, dataOrigin='public-instagram-source', analysisNotes=analysis.get('notes') or '')
+    post['feedPriority']=number_or_null(analysis.get('feedPriority')) or 0
+    post['focusPerson']=analysis.get('focusPerson')
+    post['lookContext']=analysis.get('lookContext')
     post.update(analysisKey=raw.get('analysisKey') or post_id, originalSourceCode=raw.get('originalSourceCode') or raw.get('originalCode') or code, sourceImageIndex=raw.get('sourceImageIndex'), sourceImageIndices=raw.get('sourceImageIndices') or [])
     return post, items
 

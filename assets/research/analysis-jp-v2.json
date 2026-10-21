@@ -1,0 +1,1130 @@
+{
+  "posts": {
+    "Deq7inKmY1t_s1": {
+      "sourceCode": "Deq7inKmY1t",
+      "sourceImageIndex": 1,
+      "title": "Ryo｜棕色成套与黑色内层",
+      "caption": "这套用棕色短夹克和同色宽裤构成连续块面，黑色内层、鞋和手袋将轮廓收住。裤脚很宽，上身仍停在腰附近，正面比例清楚。原帖逐项列出了服装、鞋与包的品牌，具体款式和价格没有在这条记录中确认。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#9e5c32",
+        "#b47c48",
+        "#242323"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "棕色短夹克，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/"
+        },
+        {
+          "name": "内搭",
+          "desc": "黑色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/"
+        },
+        {
+          "name": "裤装",
+          "desc": "棕色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/"
+        }
+      ],
+      "items": [
+        {
+          "name": "棕色短夹克",
+          "brand": "CLESSTE",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.36
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色内层上衣",
+          "brand": "CLESSTE",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.39
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色宽松长裤",
+          "brand": "CLESSTE",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.7
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色运动鞋",
+          "brand": "HOKA",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.91
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 HOKA；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色手提包",
+          "brand": "CLESSTE",
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.73,
+            "y": 0.59
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deq7inKmY1t/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 160,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DegZyq5Gef7_s1": {
+      "sourceCode": "DegZyq5Gef7",
+      "sourceImageIndex": 1,
+      "title": "Ryo｜亮面骑士外层与褪色裤",
+      "caption": "黑色亮面骑士外层配深色内搭，下面用褪色灰裤形成明暗变化。腰带与袖口细节集中在短外搭边缘，体积主要留在肩袖。原帖给出了外层、内搭与裤装品牌清单，照片没有展示完整鞋面，因此不添加鞋履判断。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "黑色亮面骑士外层，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/"
+        },
+        {
+          "name": "内搭",
+          "desc": "深灰色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/"
+        },
+        {
+          "name": "裤装",
+          "desc": "褪色灰色长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色亮面骑士外层",
+          "brand": "ANCELLM",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.43
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 ANCELLM；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/",
+          "productUrl": null
+        },
+        {
+          "name": "深灰色内层上衣",
+          "brand": "OUR LEGACY",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.46
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 OUR LEGACY；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/",
+          "productUrl": null
+        },
+        {
+          "name": "褪色灰色长裤",
+          "brand": "ANCELLM",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.81
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 ANCELLM；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DegZyq5Gef7/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 157,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DeeIHfXmSMH_s1": {
+      "sourceCode": "DeeIHfXmSMH",
+      "sourceImageIndex": 1,
+      "title": "Ryo｜灰条纹衬衫与肩披棕色",
+      "caption": "灰色细条纹衬衫配棕色宽裤，肩上再搭一件棕色针织外观上衣。它的变化来自不同深浅的棕色，以及宽裤与厚底鞋的衔接。原帖明确列出衬衫、裤、鞋和包的品牌；肩披单品没有被单独列名，继续按视觉观察记录。",
+      "styles": [
+        "City Boy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#59483c",
+        "#8a8881",
+        "#252523"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "灰色细条纹衬衫，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/"
+        },
+        {
+          "name": "外套",
+          "desc": "棕色肩披上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/"
+        },
+        {
+          "name": "裤装",
+          "desc": "棕色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/"
+        }
+      ],
+      "items": [
+        {
+          "name": "灰色细条纹衬衫",
+          "brand": "CLESSTE",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.39
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色肩披上衣",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.29
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色宽松长裤",
+          "brand": "CLESSTE",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.48,
+            "y": 0.68
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/",
+          "productUrl": null
+        },
+        {
+          "name": "棕白拼色运动鞋",
+          "brand": "MIZUNO",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.48,
+            "y": 0.91
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 MIZUNO；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色手提包",
+          "brand": "CLESSTE",
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.72,
+            "y": 0.61
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DeeIHfXmSMH/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 155,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "Deol5GnGc8J_s1": {
+      "sourceCode": "Deol5GnGc8J",
+      "sourceImageIndex": 1,
+      "title": "Ryo｜黑色按扣外搭与浅洗裤",
+      "caption": "黑色按扣外搭敞开穿，里面仍用深色上衣，浅洗牛仔外观裤把下半身提亮。外搭长度与裤腰的位置很接近，适合观察短上身与宽裤的组合。品牌对应来自原帖逐项说明，未用相似外观去猜具体型号或材质成分。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#292c2b",
+        "#8d9eab",
+        "#e9e5d9"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "黑色亮面按扣外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/"
+        },
+        {
+          "name": "内搭",
+          "desc": "黑色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/"
+        },
+        {
+          "name": "裤装",
+          "desc": "浅洗蓝色长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/"
+        }
+      ],
+      "items": [
+        {
+          "name": "黑色亮面按扣外搭",
+          "brand": "A.PRESSE",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.43
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 A.PRESSE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色内层上衣",
+          "brand": "OUR LEGACY",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.46
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 OUR LEGACY；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/",
+          "productUrl": null
+        },
+        {
+          "name": "浅洗蓝色长裤",
+          "brand": "ANCELLM",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.81
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 ANCELLM；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/Deol5GnGc8J/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 153,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DebegGXgbuf_s1": {
+      "sourceCode": "DebegGXgbuf",
+      "sourceImageIndex": 1,
+      "title": "Ryo｜浅领口提亮深色短夹克",
+      "caption": "浅色领口从深色短外层中露出，棕色宽裤将上身的短线条延伸到鞋面。手上携带的棕色上衣与裤面呼应，黑包作为侧面的深色块。原帖列出外层、内层、裤、鞋与包的品牌，具体款式与售价仍需商品级证据。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深色浅领口短夹克，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/"
+        },
+        {
+          "name": "内搭",
+          "desc": "浅色内层上衣，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/"
+        },
+        {
+          "name": "裤装",
+          "desc": "棕色宽松长裤，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色浅领口短夹克",
+          "brand": "ssstein",
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.37
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 ssstein；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色内层上衣",
+          "brand": "CLESSTE",
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.4
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/",
+          "productUrl": null
+        },
+        {
+          "name": "棕色宽松长裤",
+          "brand": "CLESSTE",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.69
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/",
+          "productUrl": null
+        },
+        {
+          "name": "棕白拼色运动鞋",
+          "brand": "MIZUNO",
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.91
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 MIZUNO；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色手提包",
+          "brand": "CLESSTE",
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.73,
+            "y": 0.61
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 CLESSTE；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/ryo__takashima/p/DebegGXgbuf/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 151,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DdLyVngkskG_s1": {
+      "sourceCode": "DdLyVngkskG",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜格纹背心的学院层次",
+      "caption": "看画面右侧，格纹无袖层叠在条纹衬衫外，领口再留一条细领带，深色裤装只展示上半段。不同图案通过相近的棕灰色连接。原帖明确提到穿着 GU 牛仔裤，其他服装不能仅因为活动由 GU 举办就一并归给品牌。",
+      "styles": [
+        "Ivy/Preppy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#655c4d",
+        "#b8b4a6",
+        "#252d2c"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "棕灰格纹无袖外层，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/"
+        },
+        {
+          "name": "内搭",
+          "desc": "细条纹衬衫，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/"
+        },
+        {
+          "name": "配饰",
+          "desc": "细领带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/"
+        }
+      ],
+      "items": [
+        {
+          "name": "棕灰格纹无袖外层",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.77,
+            "y": 0.39
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/",
+          "productUrl": null
+        },
+        {
+          "name": "细条纹衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.77,
+            "y": 0.44
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/",
+          "productUrl": null
+        },
+        {
+          "name": "细领带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.77,
+            "y": 0.32
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/",
+          "productUrl": null
+        },
+        {
+          "name": "深色牛仔外观裤",
+          "brand": "GU",
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.76,
+            "y": 0.76
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 GU；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdLyVngkskG/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 149,
+      "focusPerson": "画面右侧格纹背心人物",
+      "lookContext": "创作者原帖造型"
+    },
+    "DdGqJoiEiCj_s1": {
+      "sourceCode": "DdGqJoiEiCj",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜白色外层与斜纹领带",
+      "caption": "白色短外搭和白色裤装形成大面积浅色，领口的细条纹与斜纹领带提供变化。它不需要依赖很多配饰，重点是领带宽度和短外搭的边界。原帖属于护肤活动记录，活动品牌不能用来证明服装品牌，衣物信息分开标注。",
+      "styles": [
+        "Ivy/Preppy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#f1ede3",
+        "#b5aaa0",
+        "#9a9b94"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "白色短外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/"
+        },
+        {
+          "name": "内搭",
+          "desc": "浅色衬衫，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/"
+        },
+        {
+          "name": "配饰",
+          "desc": "斜纹领带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/"
+        }
+      ],
+      "items": [
+        {
+          "name": "白色短外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.41
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/",
+          "productUrl": null
+        },
+        {
+          "name": "浅色衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.42
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/",
+          "productUrl": null
+        },
+        {
+          "name": "斜纹领带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.44
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/",
+          "productUrl": null
+        },
+        {
+          "name": "白色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.75
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DdGqJoiEiCj/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 147,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "Dc5udT9kpg1_s1": {
+      "sourceCode": "Dc5udT9kpg1",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜深色条纹与白色鞋",
+      "caption": "深色条纹长袖上衣配黑色裤装，坐姿中用一双白鞋把脚边提亮，旁边的深色小包没有抢走上身图案。原帖文字提到夏日，这里只取长袖、长裤和鞋履的搭配关系作叠穿基础参考，不把拍摄气温改写为秋冬实测。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "深色条纹长袖上衣，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/"
+        },
+        {
+          "name": "鞋履",
+          "desc": "白色鞋履，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色条纹长袖上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.56,
+            "y": 0.35
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.55
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/",
+          "productUrl": null
+        },
+        {
+          "name": "白色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.42,
+            "y": 0.66
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/",
+          "productUrl": null
+        },
+        {
+          "name": "深色小包",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.71,
+            "y": 0.64
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dc5udT9kpg1/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 145,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DcyDyo9kq4E_s1": {
+      "sourceCode": "DcyDyo9kq4E",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜长外层接细条纹裤",
+      "caption": "深色长外层敞开，灰色衬衫和领带把注意力留在胸前，细条纹裤向下延伸。整套适合观察长衣摆、裤宽和领口的连接。原帖是香水活动，不意味着衣服也属于同一品牌；具体服装型号和价格仍保持未核实。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#242323",
+        "#e9e5d9",
+        "#676963"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深色长外层，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/"
+        },
+        {
+          "name": "内搭",
+          "desc": "灰色衬衫，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/"
+        },
+        {
+          "name": "配饰",
+          "desc": "细领带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深色长外层",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.4
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/",
+          "productUrl": null
+        },
+        {
+          "name": "灰色衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.36
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/",
+          "productUrl": null
+        },
+        {
+          "name": "细领带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.38
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/",
+          "productUrl": null
+        },
+        {
+          "name": "深色细条纹长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.73
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcyDyo9kq4E/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 143,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "Dci5dZ9kr58_s1": {
+      "sourceCode": "Dci5dZ9kr58",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜深绿短外搭与亮色手袋",
+      "caption": "深绿色短外搭搭白色衬衫和深色领带，橙色手袋成为画面中最明确的亮色。裤装回到黑色，整套重点是上身长度与手袋位置。原帖标注品牌开店活动，但没有逐件说明服装归属，所以只保留可见搭配与活动来源。",
+      "styles": [
+        "Ivy/Preppy",
+        "Clean Fit"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#153e33",
+        "#e3e0d8",
+        "#d58b27"
+      ],
+      "layers": [
+        {
+          "name": "外套",
+          "desc": "深绿色短外搭，对应图片编号 1。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/"
+        },
+        {
+          "name": "内搭",
+          "desc": "白色衬衫，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/"
+        },
+        {
+          "name": "配饰",
+          "desc": "深色领带，对应图片编号 3。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/"
+        }
+      ],
+      "items": [
+        {
+          "name": "深绿色短外搭",
+          "brand": null,
+          "category": "外套",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.4
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/",
+          "productUrl": null
+        },
+        {
+          "name": "白色衬衫",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.5,
+            "y": 0.37
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/",
+          "productUrl": null
+        },
+        {
+          "name": "深色领带",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.51,
+            "y": 0.38
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/",
+          "productUrl": null
+        },
+        {
+          "name": "黑色长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.49,
+            "y": 0.73
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/",
+          "productUrl": null
+        },
+        {
+          "name": "橙色手提包",
+          "brand": null,
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.53,
+            "y": 0.69
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/Dci5dZ9kr58/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 141,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    },
+    "DcgEYrKEucs_s1": {
+      "sourceCode": "DcgEYrKEucs",
+      "sourceImageIndex": 1,
+      "title": "Yoshiaki｜豹纹开领与深色宽裤",
+      "caption": "台阶上的高角度照片，橄榄底色的豹纹开领上衣搭深色宽裤，白鞋在脚下提亮，粗框眼镜提供靠近面部的细节。视角会缩短下半身，参考时以纹样与色块为主。原帖明确标注 JINS 眼镜合作，其他衣物不因此获得品牌归属。",
+      "styles": [
+        "Clean Fit",
+        "街头廓形"
+      ],
+      "scenes": [
+        "街拍",
+        "周末咖啡"
+      ],
+      "tempBand": null,
+      "palette": [
+        "#777348",
+        "#282b2c",
+        "#ebe9df"
+      ],
+      "layers": [
+        {
+          "name": "内搭",
+          "desc": "豹纹开领上衣，按照片可见部分记录。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/"
+        },
+        {
+          "name": "裤装",
+          "desc": "黑色长裤，对应图片编号 2。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/"
+        },
+        {
+          "name": "鞋履",
+          "desc": "白色鞋履，未记录不存在的肩包。",
+          "identification": "visual",
+          "evidenceText": "可见服装结构，未推断隐藏层次。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/"
+        }
+      ],
+      "items": [
+        {
+          "name": "橄榄底色豹纹开领上衣",
+          "brand": null,
+          "category": "内搭",
+          "hotspot": {
+            "x": 0.58,
+            "y": 0.57
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/",
+          "productUrl": null
+        },
+        {
+          "name": "深色宽松长裤",
+          "brand": null,
+          "category": "裤装",
+          "hotspot": {
+            "x": 0.6,
+            "y": 0.73
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/",
+          "productUrl": null
+        },
+        {
+          "name": "白色鞋履",
+          "brand": null,
+          "category": "鞋履",
+          "hotspot": {
+            "x": 0.56,
+            "y": 0.77
+          },
+          "identification": "visual",
+          "evidenceText": "只记录对应照片中可见的颜色、轮廓与位置；品牌、型号及成分未核实。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/",
+          "productUrl": null
+        },
+        {
+          "name": "深色眼镜",
+          "brand": "JINS",
+          "category": "配饰",
+          "hotspot": {
+            "x": 0.39,
+            "y": 0.48
+          },
+          "identification": "brand",
+          "evidenceText": "原帖逐项列出该类别品牌 JINS；具体型号未提供。",
+          "evidenceUrl": "https://www.instagram.com/yooshiakiii/p/DcgEYrKEucs/",
+          "productUrl": null
+        }
+      ],
+      "feedPriority": 139,
+      "focusPerson": null,
+      "lookContext": "创作者原帖造型"
+    }
+  }
+}

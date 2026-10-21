@@ -1,19 +1,19 @@
 {
-  "sources": 11,
+  "sources": 7,
   "posts": 48,
-  "originalPosts": 40,
+  "originalPosts": 36,
   "analysisKeys": 48,
-  "items": 212,
+  "items": 184,
   "verifiedPriceItems": 31,
   "identification": {
-    "exact": 36,
-    "visual": 151,
-    "brand": 25
+    "visual": 129,
+    "brand": 23,
+    "exact": 32
   },
   "localPhotos": 48,
-  "unknownDates": 20,
+  "unknownDates": 23,
   "unknownTemperatures": 48,
-  "unknownLikes": 20,
+  "unknownLikes": 23,
   "inventedPrices": 0,
   "inventedBudgets": 0,
   "mockComments": 0,

@@ -11,7 +11,7 @@
   U.post = id => A.data.posts.find(p => p.id === id);
   U.item = id => A.data.items.find(i => i.id === id);
   U.temp = t => ({'15-20':'15～20℃','10-15':'10～15℃','5-10':'5～10℃','0-5':'0～5℃','-5-0':'−5～0℃',unknown:'原帖未标温度'}[t] || '原帖未标温度');
-  U.sourceKind = kind => ({creator:'个人创作者',curation:'街拍合集',magazine:'杂志媒体',brand:'品牌官方'}[kind] || '来源账号');
+  U.sourceKind = kind => ({creator:'个人创作者',curation:'街拍合集',magazine:'杂志媒体',brand:'品牌官方',group:'男团官方'}[kind] || '来源账号');
   U.safeURL = value => /^https?:\/\//i.test(String(value || '')) ? String(value) : '';
   U.imageFallback = function (img) {
     const step = Number(img.dataset.fallback || 0);

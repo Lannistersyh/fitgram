@@ -6,8 +6,9 @@ const context={window:{}};
 vm.createContext(context);
 vm.runInContext(fs.readFileSync(path.join(root,'js/data.js'),'utf8'),context,{timeout:5000});
 const data=context.window.FITGRAM_DATA;
-const knownSources=new Set(['japan_streetstyle_','i_am_kentadesu_','nanikajapan','kabuki_610','mensnonnojp','0neonones_','gentlemans_seoul','alyxtsu','coor_official','tonywack_official','solidhomme']);
-const kinds=new Set(['creator','curation','magazine','brand']),levels=new Set(['exact','brand','visual']);
+const manifest=JSON.parse(fs.readFileSync(path.join(root,'assets/research/collection.json'),'utf8'));
+const knownSources=new Set(manifest.sourceHandles);
+const kinds=new Set(['creator','curation','magazine','brand','group']),levels=new Set(['exact','brand','visual']);
 const styles=new Map(),evidenceCounts={exact:0,brand:0,visual:0},imageFiles=new Set();
 const official=JSON.parse(fs.readFileSync(path.join(root,'assets/research/product_verification.json'),'utf8'));
 const catalog=new Map(official.items.filter(i=>i.officialProductVerified).map(i=>[i.productUrl,i]));
@@ -128,11 +129,14 @@ function checkCode(){
   assert(!/<script[^>]+type=["']module/i.test(html),'file协议不能依赖ES Module');
   for(const match of html.matchAll(/(?:src|href)=["']([^"']+)["']/g)){
     const value=match[1];if(value.startsWith('#')||value.startsWith('data:')||/^https?:/.test(value))continue;
-    localFile(value);
+    localFile(value.split(/[?#]/)[0]);
   }
   return {files:files.length,longest};
 }
-assert.equal(data.mode,'real-sources');assert.equal(data.bloggers.length,11);assert.equal(data.posts.length,48);
+assert.equal(data.mode,'real-sources');assert.equal(data.bloggers.length,manifest.sourceHandles.length);assert.equal(data.posts.length,manifest.targetLooks);
+assert(data.bloggers.filter(b=>b.region==='jp').every(b=>b.followers>=manifest.japanMinimumFollowers),'Japanese follower threshold');
+assert(data.bloggers.every(b=>!manifest.retiredHandles.includes(b.handle.replace('@',''))),'Retired source cannot return');
+assert(data.posts.filter(p=>data.bloggers.find(b=>b.id===p.bloggerId).sourceKind==='group').length>=20,'At least 20 group looks');
 unique(data.bloggers.map(b=>b.id),'来源ID');unique(data.posts.map(p=>p.id),'造型ID');
 unique(data.posts.map(p=>p.analysisKey),'分析键');unique(data.items.map(i=>i.id),'单品ID');
 data.bloggers.forEach(checkSource);data.items.forEach(checkItem);data.posts.forEach(checkPost);
