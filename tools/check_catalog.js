@@ -1,0 +1,28 @@
+/* 单品图鉴验收：检查来源、实际图片、型号唯一性与搭配引用。 */
+'use strict';
+const fs=require('fs'),path=require('path'),vm=require('vm'),assert=require('assert'),crypto=require('crypto');
+const root=path.resolve(__dirname,'..'),sandbox={window:{}};
+vm.createContext(sandbox);
+vm.runInContext(fs.readFileSync(path.join(root,'js/catalog-data.js'),'utf8'),sandbox);
+const data=sandbox.window.FITGRAM_CATALOG,list=data.items,categories=['shoes','pants','shirts'];
+const allow=['adidas.com','adidas.com.cn','puma.com','converse.com','converse.co.jp','vans.com','vans.com.mx','newbalance.com','nike.com','nike.com.cn','drmartens.com','onitsukatiger.com','asics.com','levi.com','levi.com.sg','dickies.com','dickieslife.com','dickiesaustralia.com','carhartt-wip.com','gramicci.com','gramicci.co.uk','uniqlo.com','tonywack.com'];
+const hashes=new Set();
+function https(s){return new URL(s).protocol==='https:';}
+assert.equal(list.length,30);assert.equal(new Set(list.map(p=>p.id)).size,30);assert.equal(new Set(list.map(p=>p.productUrl)).size,30);
+for(const c of categories){assert.equal(list.filter(p=>p.category===c).length,10);const source=JSON.parse(fs.readFileSync(path.join(root,'assets/research/catalog-'+c+'.json'),'utf8'));assert.equal(JSON.stringify(list.filter(p=>p.category===c)),JSON.stringify(source));}
+for(const p of list){
+  for(const key of ['id','brand','name','model','sku','color','image','imageSource','productUrl','market','verifiedAt','reason','styling','fitNote','availability'])assert(typeof p[key]==='string'&&p[key].trim(),'缺少 '+key+': '+p.id);
+  assert(Array.isArray(p.tags)&&p.tags.length>=2);
+  assert(https(p.productUrl)&&https(p.imageSource));
+  const hostname=new URL(p.productUrl).hostname;assert(allow.some(host=>hostname===host||hostname.endsWith('.'+host)),'非已核实官方域名：'+hostname);
+  assert(p.image.startsWith('assets/catalog/'+p.category+'/')&&!p.image.includes('..'));
+  const bytes=fs.readFileSync(path.join(root,p.image));assert(bytes.length>2000,'图片为空或过小：'+p.id);
+  assert(bytes[0]===255&&bytes[1]===216,'发布资源应为经解码检查的JPEG：'+p.id);
+  const hash=crypto.createHash('sha256').update(bytes).digest('hex');assert(!hashes.has(hash),'不同型号复用了同一图片：'+p.id);hashes.add(hash);
+  assert(p.price===null||(Number.isFinite(p.price)&&p.price>0));
+  if(p.price!==null)assert(/^[A-Z]{3}$/.test(p.currency),'数值价格必须明确原币种：'+p.id);
+  assert(!p.artistExactMatch,'搭配选品不能自动升级为艺人同款');
+}
+assert(data.outfits.length>=3);
+for(const r of data.outfits){assert.equal(r.items.length,3);assert.deepEqual([...new Set(r.items.map(id=>list.find(p=>p.id===id)?.category))].sort(),[...categories].sort());}
+console.log(JSON.stringify({passed:true,items:30,images:hashes.size,categories:Object.fromEntries(categories.map(c=>[c,10])),brands:new Set(list.map(p=>p.brand)).size,outfits:data.outfits.length,priced:list.filter(p=>p.price!==null).length},null,2));

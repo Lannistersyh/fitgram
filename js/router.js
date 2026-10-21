@@ -2,7 +2,7 @@
 (function (A) {
   'use strict';
   const V = A.views, U = A.utils;
-  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
+  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/catalog':'单品图鉴','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
   let first = true;
 
   function renderPage(route) {
@@ -12,6 +12,7 @@
       return V.renderExplore();
     }
     if (name === 'home') return V.renderHome();
+    if (name === 'catalog') return V.renderCatalog(path[1]);
     if (name === 'explore') return V.renderExplore();
     if (name === 'blogger') return V.renderBlogger(path[1]);
     const views = {bloggers:'renderBloggers',compare:'renderCompare',trends:'renderTrends',closet:'renderCloset',about:'renderAbout',reels:'renderReels'};
@@ -21,6 +22,7 @@
 
   function mount(route) {
     if (route === '/') V.mountHome();
+    if (route.startsWith('/catalog')) A.catalog.mount();
     if (V.mountExtra) V.mountExtra(route.replace(/^\//, ''));
   }
 
@@ -31,7 +33,7 @@
 
   function updateNavigation(route) {
     document.querySelectorAll('[data-route]').forEach(el => {
-      const active = route === el.dataset.route || (el.dataset.route === '/bloggers' && route.startsWith('/blogger/'));
+      const active = route === el.dataset.route || (el.dataset.route === '/catalog' && route.startsWith('/catalog/')) || (el.dataset.route === '/bloggers' && route.startsWith('/blogger/'));
       el.classList.toggle('is-active', active);
       if (active) el.setAttribute('aria-current', 'page');
       else el.removeAttribute('aria-current');
@@ -40,7 +42,7 @@
 
   function updateMeta(route) {
     updateNavigation(route);
-    document.title = 'FITGRAM · ' + (titles[route] || '穿搭图鉴');
+    document.title = 'FITGRAM · ' + (titles[route] || (route.startsWith('/catalog/')?'单品图鉴':'穿搭图鉴'));
     A.store.set('recent', [route, ...(A.store.get('recent') || []).filter(x => x !== route)].slice(0, 12));
   }
 
@@ -72,11 +74,12 @@
     }
     mount(route);
     updateMeta(route);
-    if (preserveScroll) window.scrollTo(0, y);
+    if (preserveScroll) window.scrollTo({top:y,behavior:'instant'});
     else {
-      window.scrollTo(0, 0);
+      window.scrollTo({top:0,behavior:'instant'});
       if (!first) document.getElementById('main').focus({preventScroll:true});
     }
+    if (route.startsWith('/catalog')) A.catalog.jump();
     first = false;
   }
 

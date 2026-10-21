@@ -12,11 +12,11 @@
   }
   ;
   function renderNavigation(){
-    const links=[['/','home','首页'],['/explore','compass','发现'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
+    const links=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','单品图鉴'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
     const item=([route,icon,label])=>'<a class="nav-link" href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></a>';
     const action=(name,icon,label)=>'<button class="nav-link" data-action="'+name+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></button>';
     document.getElementById('desktop-nav').innerHTML=links.map(item).join('')+action('messages','external','来源链接')+action('notifications','info','资料状态')+action('create','plus-square','创建')+item(['/closet','hanger','我的衣橱']);
-    document.getElementById('mobile-nav').innerHTML=[['/','home','首页'],['/explore','compass','发现'],['/reels','reels','造型速览'],['/closet','bookmark','我的衣橱'],['/bloggers','user','来源图鉴']].map(([route,icon,label])=>'<a href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'</a>').join('');
+    document.getElementById('mobile-nav').innerHTML=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','单品图鉴'],['/closet','bookmark','我的衣橱'],['/bloggers','user','来源图鉴']].map(([route,icon,label])=>'<a href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'</a>').join('');
     document.querySelectorAll('[data-icon]').forEach(el=>el.innerHTML=C.icon(el.dataset.icon));
   }
   A.syncPost=function(id){
@@ -163,6 +163,7 @@
       A.router.render(true);
     }
     ,
+    'catalog-preview':b=>A.catalog.preview(b.dataset.id),'catalog-save':b=>A.catalog.save(b.dataset.id),'catalog-saved':()=>A.catalog.toggleSaved(),'catalog-copy':b=>A.catalog.copy(b.dataset.id),
     'groups-filter':()=>{A.state.filters.groupsOnly=!A.state.filters.groupsOnly;A.views.updateExplore();},'official-filter':()=>{A.state.filters.officialOnly=!A.state.filters.officialOnly;A.views.updateExplore();},'shop-looks':()=>{A.views.resetFilters();A.state.filters.officialOnly=true;if(location.hash==='#/explore')A.router.render();else location.hash='#/explore';},
     filter:filter,'reset-filters':()=>A.views.resetFilters(),'explore-region':b=>{
       A.state.filters.region=b.dataset.region;
@@ -179,7 +180,7 @@
     }
     ,
     'close-panel':()=>A.closePanel(),messages:()=>openPanel('来源链接',renderMessages()),message:b=>openPanel('原账号',renderMessages(b.dataset.id)),notifications:notifications,create:createPanel,
-    'more-post':b=>morePost(b.dataset.id),more:()=>openPanel('继续发现','<div class="panel-menu"><a href="#/compare">日韩对照 '+C.icon('arrow-right',16)+'</a><a href="#/trends">造型观察 '+C.icon('arrow-right',16)+'</a><a href="#/bloggers">来源图鉴 '+C.icon('arrow-right',16)+'</a><button data-action="create">我的穿搭笔记 '+C.icon('edit',16)+'</button><a href="#/about">关于与免责声明 '+C.icon('info',16)+'</a></div>'),
+    'more-post':b=>morePost(b.dataset.id),more:()=>openPanel('继续发现','<div class="panel-menu"><a href="#/catalog">单品图鉴 '+C.icon('hanger',16)+'</a><a href="#/reels">造型速览 '+C.icon('reels',16)+'</a><a href="#/compare">日韩对照 '+C.icon('arrow-right',16)+'</a><a href="#/trends">造型观察 '+C.icon('arrow-right',16)+'</a><a href="#/bloggers">来源图鉴 '+C.icon('arrow-right',16)+'</a><button data-action="create">我的穿搭笔记 '+C.icon('edit',16)+'</button><a href="#/about">关于与免责声明 '+C.icon('info',16)+'</a></div>'),
     follow:follow,'profile-tab':b=>A.views.setProfileTab(b.dataset.id||A.state.route.split('/')[2],b.dataset.tab),'closet-tab':b=>{
       A.state.closetTab=b.dataset.tab;
       A.router.render(true);
@@ -272,6 +273,7 @@
     }
     );
     document.addEventListener('input',e=>{
+      if(e.target.id==='catalog-search')A.catalog.search(e.target.value);
       if(e.target.id==='explore-search'){
         A.state.filters.query=e.target.value;
         A.views.updateExplore();

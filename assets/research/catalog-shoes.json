@@ -1,0 +1,375 @@
+[
+  {
+    "id": "shoes-samba",
+    "category": "shoes",
+    "brand": "adidas",
+    "name": "Samba OG 黑白胶底鞋",
+    "model": "Samba OG Shoes",
+    "sku": "B75807",
+    "color": "Core Black / Cloud White / Gum",
+    "image": "assets/catalog/shoes/samba.jpg",
+    "imageSource": "https://assets.adidas.com/images/w_1000,f_auto,q_auto/4c70105150234ac4b948a8bf01187e0c_9366/Samba_OG_Shoes_Black_B75807_01_standard.jpg",
+    "productUrl": "https://www.adidas.com/us/samba-og-shoes/B75807.html",
+    "price": 100,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "复古薄底",
+      "日常基础",
+      "黑白"
+    ],
+    "reason": "黑色低帮与胶底能收住宽裤的体积，适合从男团造型里提取易穿的运动元素。",
+    "styling": "配灰色阔腿西裤或直筒牛仔裤，上身穿白色背心与敞开的条纹衬衫；裤脚落在鞋面附近。",
+    "fitNote": "试穿时检查前掌两侧和小脚趾是否受压；带上常穿袜子，走动后再决定尺码。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.adidas.com/us/samba-og-shoes/B75807.html",
+      "imagePage": "https://www.adidas.com/us/samba-og-shoes/B75807.html",
+      "fields": {
+        "nameSku": "商品标题为 Samba OG Shoes，URL 及官方商品图文件含 B75807。",
+        "color": "商品页当前配色 Core Black / Cloud White / Gum。",
+        "price": "美国页面现价 100 USD。",
+        "image": "商品页首张单品图，文件名 Samba_OG_Shoes_Black_B75807_01_standard.jpg。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-spezial",
+    "category": "shoes",
+    "brand": "adidas",
+    "name": "Handball Spezial 海军蓝麂皮鞋",
+    "model": "Handball Spezial Shoes",
+    "sku": "BD7633",
+    "color": "Collegiate Navy / Clear Sky / Gum",
+    "image": "assets/catalog/shoes/spezial.jpg",
+    "imageSource": "https://assets.adidas.com/images/w_1000,f_auto,q_auto/82d433384c7c435f9a2fa96d0101d323_9366/Handball_Spezial_Shoes_Blue_BD7633_01_00_standard.jpg",
+    "productUrl": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
+    "price": 110,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "复古薄底",
+      "海军蓝",
+      "麂皮"
+    ],
+    "reason": "深蓝鞋面配浅蓝条纹，有颜色又不会太跳，适合给灰、黑、牛仔蓝穿搭增加一点层次。",
+    "styling": "配浅蓝宽直筒牛仔裤、灰色 T 恤和蓝白条纹衬衫；衬衫敞开，露出腰线。",
+    "fitNote": "试穿时观察脚背与系带区域是否挤压；裤脚别长到踩在后跟下。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
+      "imagePage": "https://www.adidas.com/us/handball-spezial-shoes/BD7633.html",
+      "fields": {
+        "nameSku": "官方商品页标题 Handball Spezial Shoes，URL 与图文件含 BD7633。",
+        "color": "当前配色 Collegiate Navy / Clear Sky / Gum。",
+        "price": "美国页面现价 110 USD。",
+        "image": "官方商品页首张鞋侧面单品图。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-speedcat",
+    "category": "shoes",
+    "brand": "PUMA",
+    "name": "Speedcat OG 黑白赛车鞋",
+    "model": "Speedcat OG Sneakers",
+    "sku": "398846_01",
+    "color": "PUMA Black-PUMA White",
+    "image": "assets/catalog/shoes/speedcat.jpg",
+    "imageSource": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/398846/01/sv01/fnd/PNA/fmt/png/Speedcat-OG-Sneakers",
+    "productUrl": "https://us.puma.com/us/en/pd/speedcat-og-sneakers-unisex/398846?swatch=01",
+    "price": 100,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "赛车薄底",
+      "修长轮廓",
+      "黑白"
+    ],
+    "reason": "狭长轮廓能把松垮牛仔裤的下摆拉得更利落，适合偏年轻、带一点摇滚感的造型。",
+    "styling": "配黑灰水洗牛仔裤和白 T 恤，外搭暗色格纹衬衫；裤脚轻覆鞋面，保留鞋头。",
+    "fitNote": "重点试脚趾空间与鞋头宽度；不要只为了显瘦而选压脚的尺码。",
+    "availability": "美国官网该配色标记有货；具体尺码及大陆配送请另行确认",
+    "sourceEvidence": {
+      "productPage": "https://us.puma.com/us/en/pd/speedcat-og-sneakers-unisex/398846?swatch=01",
+      "imagePage": "https://us.puma.com/us/en/pd/speedcat-og-sneakers-unisex/398846?swatch=01",
+      "fields": {
+        "nameSku": "官方页 Style 398846_01；结构化数据 model 398846。",
+        "color": "页面及结构化数据均为 PUMA Black-PUMA White。",
+        "price": "官方 Product JSON-LD 报价 100 USD。",
+        "image": "同一 Product JSON-LD 的 image[0]，global/398846/01/sv01。",
+        "stock": "官方 JSON-LD 标记 InStock，未核对所有尺码。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-chuck70",
+    "category": "shoes",
+    "brand": "Converse",
+    "name": "Chuck 70 黑色低帮帆布鞋",
+    "model": "Chuck 70 Canvas",
+    "sku": "162058C",
+    "color": "Black / Black / Egret",
+    "image": "assets/catalog/shoes/chuck70.jpg",
+    "imageSource": "https://818a2e-converse.akinoncloudcdn.com/products/2026/09/02/1103/11962926-61bd-48e6-ab48-85f6a27a1f84_size3840x3840_cropCenter.jpg",
+    "productUrl": "https://www.converse.com/shop/p/chuck-70-canvas-unisex-low-top-shoe/162058C_070.html",
+    "price": 90,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "帆布低帮",
+      "复古奶油底",
+      "校园"
+    ],
+    "reason": "黑色帆布和米白包边容易接上宽松牛仔、格纹衬衫，是这一组里较轻松的基础鞋型。",
+    "styling": "配蓝色宽直筒牛仔裤、白 T 恤与红黑格纹衬衫；露出少量白袜，整体更有校园感。",
+    "fitNote": "前往门店时同时比较合适的相邻尺码；检查脚趾余量、后跟滑动及鞋带系紧后的脚背压力。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.converse.com/shop/p/chuck-70-canvas-unisex-low-top-shoe/162058C_070.html",
+      "imagePage": "https://www.converse.com.tr/urun/converse-chuck-70-unisex-siyah-sneaker/162058c-001-1/",
+      "fields": {
+        "nameSku": "美国页标题 Chuck 70 Canvas，SKU 162058C。",
+        "color": "美国页当前色 Black/Black/Egret。土耳其同货号 162058C.001 为黑色低帮，图片显示米白鞋底。",
+        "price": "美国商品页显示 90 USD；不把土耳其折扣价换算成人民币。",
+        "image": "美国图片端点受限，使用 Converse 土耳其官方同货号产品 JSON-LD 首图。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-oldskool",
+    "category": "shoes",
+    "brand": "Vans",
+    "name": "Old Skool 黑白滑板鞋",
+    "model": "Old Skool Shoe",
+    "sku": "VN000D3HY28",
+    "color": "Black / White",
+    "image": "assets/catalog/shoes/oldskool.jpg",
+    "imageSource": "https://assets.vans.com/images/t_img/c_fill,g_center,f_auto,h_1000,e_unsharp_mask:100,w_1000/dpr_1.0/v1747942442/VN000D3HY28-HERO/Old-Skool-Shoe-VANS-Black-White-HERO.png",
+    "productUrl": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
+    "price": 75,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "滑板低帮",
+      "黑白侧条",
+      "宽裤搭档"
+    ],
+    "reason": "白色侧条让黑鞋在宽裤下仍然有辨识度，适合偏滑板、休闲的男团私服方向。",
+    "styling": "配宽松工装裤或深蓝牛仔裤，上身白 T 恤外加牛仔衬衫；裤脚留一到两道自然堆叠。",
+    "fitNote": "试走时注意后跟是否磨擦、脚趾能否自然展开；用实际常穿的袜子试。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
+      "imagePage": "https://www.vans.com/en-us/p/shoes/icons/old-skool-5205/old-skool-shoe-VN000D3HY28",
+      "fields": {
+        "nameSku": "新版美国详情页直接列出 Style VN000D3HY28。",
+        "color": "当前色 Black / White。",
+        "price": "新版美国页现价 75 USD，未采用旧索引中 70 USD。",
+        "image": "美国商品页 HERO 单品图，资源路径含 VN000D3HY28-HERO。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-nb530",
+    "category": "shoes",
+    "brand": "New Balance",
+    "name": "530 白银深蓝复古跑鞋",
+    "model": "530",
+    "sku": "MR530SG",
+    "color": "White with Natural Indigo",
+    "image": "assets/catalog/shoes/nb530.jpg",
+    "imageSource": "https://nb.scene7.com/is/image/NB/mr530sg_nb_02_i?%24pdpflexf2%24=&hei=1000&wid=1000",
+    "productUrl": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
+    "price": 109.99,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "复古跑鞋",
+      "白银深蓝",
+      "运动日常"
+    ],
+    "reason": "白银鞋面比纯白更有层次，鞋体能撑住宽松裤脚，适合宽裤与运动元素混搭。",
+    "styling": "配深灰阔腿西裤与白色内搭，外搭浅蓝牛津纺衬衫；也可换成宽松尼龙裤。",
+    "fitNote": "试穿时同时检查脚长、前掌宽度与后跟包裹；不同品牌的 US 码不要直接互相照搬。",
+    "availability": "美国官网显示会员购买限制；具体尺码库存及大陆渠道请另行确认",
+    "sourceEvidence": {
+      "productPage": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
+      "imagePage": "https://www.newbalance.com/pd/530/MR530SG-D-06.html",
+      "fields": {
+        "nameSku": "美国官网标题 530；Style MR530SG。",
+        "color": "当前色 WHITE with NATURAL INDIGO。",
+        "price": "商品页现价 109.99 USD。",
+        "image": "官方图链 nb.scene7.com / mr530sg_nb_02_i。",
+        "access": "页面有美国会员限定购买提示。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-p6000",
+    "category": "shoes",
+    "brand": "Nike",
+    "name": "P-6000 白银黑复古跑鞋",
+    "model": "Nike P-6000",
+    "sku": "CD6404-107",
+    "color": "White / Metallic Silver / Black / Black",
+    "image": "assets/catalog/shoes/p6000.jpg",
+    "imageSource": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c0bef76c-db55-40d4-a8e4-996c31f13f65/NIKE+P-6000.png",
+    "productUrl": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
+    "price": 115,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "千禧跑鞋",
+      "银色网面",
+      "运动混搭"
+    ],
+    "reason": "密集线条和银色叠层适合年轻男团的运动感，搭配素色衬衫时鞋子会成为重点。",
+    "styling": "配灰色宽腿运动裤、白 T 恤和短一点的黑色衬衫；或换蓝色宽牛仔裤，保持上身简单。",
+    "fitNote": "穿常用袜子试走，检查脚背、足弓和后跟的贴合；先保证走路自然，再看裤脚比例。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
+      "imagePage": "https://www.nike.com/t/p-6000-mens-shoes-nX3hJMZg/CD6404-107",
+      "fields": {
+        "nameSku": "官网 Style CD6404-107；ProductGroup 的变体 mpn 相同。",
+        "color": "页面 Shown 为 White/Metallic Silver/Black/Black。",
+        "price": "官网页及对应变体报价均为 115 USD。",
+        "image": "同一详情页展示的 static.nike.com 商品图，已核对鞋型和当前配色。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-mexico66",
+    "category": "shoes",
+    "brand": "Onitsuka Tiger",
+    "name": "MEXICO 66 白色薄底鞋",
+    "model": "MEXICO 66",
+    "sku": "1183C102-104",
+    "color": "White / White",
+    "image": "assets/catalog/shoes/mexico66.jpg",
+    "imageSource": "https://asics.scene7.com/is/image/asics/1183C102_104_SR_RT_GLB?wid=1200&qlt=90",
+    "productUrl": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
+    "price": 16500,
+    "currency": "JPY",
+    "market": "日本",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "薄底复古",
+      "白色系",
+      "轻盈轮廓"
+    ],
+    "reason": "同色虎爪纹更安静，适合把宽裤、衬衫的比例放在前面；与黑色鞋款形成另一种日常选择。",
+    "styling": "配米白或浅卡其宽裤、蓝白条纹衬衫和白背心；裤脚轻触鞋面，保留鞋身轮廓。",
+    "fitNote": "薄底鞋先试走再判断适合自己的日常距离；检查鞋头余量、脚背与后跟是否贴合。",
+    "availability": "日本官网显示会员限定；尺码库存与中国大陆配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
+      "imagePage": "https://www.onitsukatiger.com/jp/ja-jp/product/mexico-66/1183c102_104.html?glCountry=JP&glCurrency=JPY",
+      "fields": {
+        "nameSku": "日本商品 URL / 元数据为 1183C102_104，型号 MEXICO 66。",
+        "color": "官网产品变体数据中 1183C102_104 的 color 为 WHITE/WHITE。",
+        "price": "日本页含税价 16500 JPY，product:price:currency 为 JPY。",
+        "image": "官网首图 asics.scene7.com / 1183C102_104_SR_RT_GLB。",
+        "access": "页面提示会员限定；具体尺码未核实。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-doc1461",
+    "category": "shoes",
+    "brand": "Dr. Martens",
+    "name": "1461 黑色三孔皮鞋",
+    "model": "1461 Smooth Leather Oxford Shoes",
+    "sku": "11838002",
+    "color": "Black / Smooth Leather",
+    "image": "assets/catalog/shoes/doc1461.jpg",
+    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_11838002.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
+    "productUrl": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
+    "price": 160,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "系带黑皮鞋",
+      "圆头",
+      "衬衫搭档"
+    ],
+    "reason": "圆头和厚实底型能配宽西裤，适合衬衫造型加一点偏硬朗的质感。",
+    "styling": "配黑色宽腿西裤、白袜和浅蓝衬衫；衣摆可半塞，避免衬衫与裤子都过长。",
+    "fitNote": "试穿时检查脚背压迫、鞋口摩擦和后跟移动；在店内走动、上下台阶后再决定。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
+      "imagePage": "https://www.drmartens.com/us/en/1461-smooth-leather-oxford-shoes-black/p/11838002",
+      "fields": {
+        "nameSku": "官网标题 1461 Smooth Leather Oxford Shoes；Product code 11838002。",
+        "color": "官方页当前 Smooth Leather / BLACK。",
+        "price": "美国官方页现价 160 USD。",
+        "image": "官网首图 CDN 资源 NX_11838002.80，为无模特单品图。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  },
+  {
+    "id": "shoes-adrian",
+    "category": "shoes",
+    "brand": "Dr. Martens",
+    "name": "Adrian 黑色流苏乐福鞋",
+    "model": "Adrian Smooth Leather Tassel Loafers",
+    "sku": "14573001",
+    "color": "Black / Polished Smooth",
+    "image": "assets/catalog/shoes/adrian.jpg",
+    "imageSource": "https://cdn.media.amplience.net/i/drmartens/NX_14573001.80?fmt=auto&qlt=80&sm=center&upscale=false&w=1200",
+    "productUrl": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
+    "price": 160,
+    "currency": "USD",
+    "market": "美国",
+    "verifiedAt": "2026-10-21",
+    "tags": [
+      "流苏乐福",
+      "学院感",
+      "黑皮鞋"
+    ],
+    "reason": "流苏与圆头能给宽西裤和衬衫增加学院感，适合从运动鞋切换到更整洁的私服。",
+    "styling": "配灰色宽腿西裤、白袜和条纹衬衫；也可配深蓝直筒牛仔裤，保持裤脚不过度堆积。",
+    "fitNote": "乐福鞋重点检查走路时后跟是否滑脱、脚背是否压迫；不要依靠过小尺码来固定后跟。",
+    "availability": "官网可选尺码；具体尺码库存请在官网确认，中国大陆售价及配送未核实",
+    "sourceEvidence": {
+      "productPage": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
+      "imagePage": "https://www.drmartens.com/us/en/adrian-smooth-leather-tassel-loafers-black/p/14573001",
+      "fields": {
+        "nameSku": "官网 Product code 14573001，名称 Adrian Smooth，页面标题为流苏乐福鞋。",
+        "color": "官方页 BLACK；材质章节 Polished Smooth。",
+        "price": "美国官方页现价 160 USD。",
+        "image": "官网首图 CDN 资源 NX_14573001.80，为无模特单品图。"
+      },
+      "relationship": "搭配选品，未声称 CORTIS 或任何艺人穿过这一款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG；透明图以白底显示，保留商品外观"
+  }
+]
