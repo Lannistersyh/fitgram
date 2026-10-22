@@ -172,3 +172,36 @@
 /* 手机鞋类首屏优先展示商品，详细风格说明保留在卡片。 */
 .catalog-search input{padding:0;min-height:22px}
 @media(max-width:767px){.page--catalog-shoes .catalog-hero h1{font-size:22px;letter-spacing:-.5px;line-height:1.4;margin:7px 0 0}.page--catalog-shoes .catalog-context,.page--catalog-shoes .catalog-shoe-filters p{display:none}.page--catalog-shoes .catalog-hero{padding:17px 20px}.page--catalog-shoes .catalog-shoe-filters{margin-bottom:16px}}
+
+/* 国际选品与购买清单各有入口，所有单品沿用同一套阅读和收藏方式。 */
+.catalog-scope-tabs{display:flex;gap:12px;margin:22px 0 16px}
+.catalog-scope-tabs a{display:flex;align-items:center;gap:12px;border:1px solid var(--border);border-radius:4px;padding:12px 18px;font-size:13px;color:var(--text-secondary)}
+.catalog-scope-tabs a[aria-current="page"]{background:var(--ink);border-color:var(--ink);color:var(--bg);font-weight:650}
+.catalog-scope-tabs span{font:10px var(--mono);opacity:.75}
+.catalog-editor-note{border-bottom:1px solid var(--border);padding:7px 0 22px;margin-bottom:12px}
+.catalog-editor-note strong{display:block;font-size:17px;margin:9px 0}
+.catalog-editor-note p:not(.eyebrow){font-size:12px;color:var(--text-secondary);line-height:1.9;max-width:650px}
+.catalog-editor-note>div{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:10px;color:var(--text-secondary);margin-top:13px}
+.catalog-tabs{overflow-x:auto;max-width:100%;scrollbar-width:thin}
+.catalog-tabs a{flex-shrink:0}
+.product-card--jewelry .product-card__visual{aspect-ratio:1}
+.catalog-recipe__images--four{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:767px){
+.catalog-scope-tabs{gap:8px;margin:14px 0}
+.catalog-scope-tabs a{flex:1;justify-content:space-between;gap:5px;padding:10px 11px;font-size:12px}
+.catalog-editor-note{padding:1px 0 15px}
+.catalog-editor-note .eyebrow{display:none}
+.catalog-editor-note strong{font-size:14px;margin:5px 0}
+.catalog-editor-note p:not(.eyebrow){font-size:10px;line-height:1.8}
+.catalog-editor-note>div{font-size:9px;gap:8px 14px;margin-top:8px}
+.catalog-tabs{gap:16px;margin-bottom:16px}
+.catalog-tabs a{font-size:12px;gap:5px}
+.page--catalog-international .catalog-hero{grid-template-columns:1fr;padding:17px 20px}
+.page--catalog-international .catalog-hero__index,.page--catalog-international .catalog-hero p:not(.eyebrow){display:none}
+.page--catalog-international .catalog-hero h1{font-size:23px;line-height:1.4;margin:7px 0 0;letter-spacing:-.5px}
+}
+.catalog-wear{position:absolute;z-index:2;bottom:10px;right:9px;background:rgba(255,255,255,.94);color:#333;border:1px solid #dededb;border-radius:3px;font-size:9px;padding:6px 8px;min-height:29px}
+.catalog-wear:hover{background:#fff}
+.catalog-preview__switch{display:flex;gap:8px;margin-bottom:12px}
+.catalog-preview__switch button{border:1px solid var(--border);border-radius:4px;font-size:11px;padding:9px 13px}
+.catalog-preview__switch button[aria-pressed="true"]{background:var(--sage);border-color:var(--border-strong);color:var(--ink)}

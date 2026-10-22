@@ -14,5 +14,17 @@
     "圆头、稍厚底的德比鞋／乐福鞋，偏年轻男团私服",
     "切尔西靴、系带短靴"
   ],
-  "footwearChoice": "用户明确选择 1、3"
+  "footwearChoice": "用户明确选择 1、3",
+  "internationalSelection": {
+    "confirmedAt": "2026-10-22",
+    "userStatement": "除了中国大陆可以买，也看看其他国家的鞋、衬衫、外套、男士首饰，不一定能买，但是要保证审美在线。",
+    "priority": "真实商品图与设计判断优先，不以大陆可购或原有人民币预算限制国际选品",
+    "categories": [
+      "shoes",
+      "shirts",
+      "outerwear",
+      "jewelry"
+    ],
+    "separateFromMainlandBudget": true
+  }
 }

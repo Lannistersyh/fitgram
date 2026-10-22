@@ -12,7 +12,7 @@
       return V.renderExplore();
     }
     if (name === 'home') return V.renderHome();
-    if (name === 'catalog') return V.renderCatalog(path[1]);
+    if (name === 'catalog') return V.renderCatalog(path[1],path[2]);
     if (name === 'explore') return V.renderExplore();
     if (name === 'blogger') return V.renderBlogger(path[1]);
     const views = {bloggers:'renderBloggers',compare:'renderCompare',trends:'renderTrends',closet:'renderCloset',about:'renderAbout',reels:'renderReels'};

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "global-ol-camion",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Camion 黑色侧拉链靴",
+    "model": "Camion Boot",
+    "sku": "COCBB",
+    "color": "Black",
+    "image": "assets/catalog/shoes/global-ol-camion.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/7160_71cc672312-cocbb_edit-1-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/our-legacy-camion-boot-cocbb",
+    "price": 590,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "方圆鞋头",
+      "侧拉链",
+      "流畅皮面"
+    ],
+    "reason": "方圆鞋头、顺直的靴筒和不外扩的鞋底，让宽裤下的线条连成一体。",
+    "styling": "配黑色宽直筒裤、灰色格纹衬衫和短皮夹克；裤脚盖住靴筒，露出完整鞋头。",
+    "fitNote": "比较前掌宽度、脚背高度和踝部弯折；侧拉链款无法像系带靴那样大幅调节松紧。",
+    "material": "意大利小牛皮",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/our-legacy-camion-boot-cocbb",
+      "text": "意大利小牛皮"
+    },
+    "availability": "官网尺码记录中部分项目可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/our-legacy-camion-boot-cocbb",
+      "imagePage": "https://www.ourlegacy.com/our-legacy-camion-boot-cocbb",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "意大利小牛皮",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中部分项目可售"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "shoeType": "boots",
+    "upperMaterial": "意大利小牛皮",
+    "editorialOrder": 0
+  },
+  {
+    "id": "global-ol-camion-mule",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Camion 黑色毛感皮革穆勒鞋",
+    "model": "Camion Mule",
+    "sku": "camion-mule-black-hair-on-hide",
+    "color": "Black Hair On Hide",
+    "image": "assets/catalog/shoes/global-ol-camion-mule.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/9154_1cc3419500-9154_a2e3425709-a4227ccsse_4602-original-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/camion-mule-black-hair-on-hide",
+    "price": 400,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "毛面皮革",
+      "金属扣",
+      "露跟穆勒"
+    ],
+    "reason": "毛感鞋面、银扣和露跟结构，把黑色皮鞋的体量做得轻松，适合宽牛仔的日常比例。",
+    "styling": "配水洗灰宽牛仔、松衬衫和短款外套；裤长停在鞋跟上方，不把裤脚踩进鞋内。",
+    "fitNote": "检查走动时前掌固定与后跟离地感；露跟结构不能按包跟皮鞋的稳定性来预期。",
+    "material": "意大利毛面皮革，皮革内里",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/camion-mule-black-hair-on-hide",
+      "text": "意大利毛面皮革，皮革内里"
+    },
+    "availability": "官网尺码记录中未见可售项，保留作款式档案参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/camion-mule-black-hair-on-hide",
+      "imagePage": "https://www.ourlegacy.com/camion-mule-black-hair-on-hide",
+      "fields": {
+        "nameSku": "官网标题与颜色为 Black Hair On Hide；页面 sku 字段与图文件中的编码不同，因此以官网款式路径标识，不把有冲突的编码写成完整制造商货号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "意大利毛面皮革，皮革内里",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中未见可售项，保留作款式档案参考"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "shoeType": "other",
+    "upperMaterial": "意大利毛面皮革，皮革内里",
+    "editorialOrder": 22,
+    "skuType": "website"
+  },
+  {
+    "id": "global-adieu-134",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "ADIEU",
+    "name": "Type 134 黑色厚底德比鞋",
+    "model": "Type 134 derby - Black",
+    "sku": "DI-PERM-M-T134SB",
+    "color": "Black",
+    "image": "assets/catalog/shoes/global-adieu-134.jpg",
+    "imageSource": "https://adieu-paris.com/7183-product_large/type134sb.jpg",
+    "productUrl": "https://adieu-paris.com/en/e-shop/1741-type134sb.html",
+    "price": 440,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "圆钝鞋头",
+      "齿纹厚底",
+      "抛光皮革"
+    ],
+    "reason": "低帮圆钝鞋头接上有分量的齿纹底，宽裤下依然看得出鞋型。",
+    "styling": "配炭灰宽西裤、蓝条纹衬衫和黑色短外套；裤脚轻覆鞋带区域，留出鞋头。",
+    "fitNote": "以男款页面的欧码表为准；试穿时检查鞋口摩擦、前掌宽度和鞋底重量。",
+    "material": "抛光皮革鞋面；注塑橡胶底",
+    "materialEvidence": {
+      "url": "https://adieu-paris.com/en/e-shop/1741-type134sb.html",
+      "text": "抛光皮革鞋面；注塑橡胶底"
+    },
+    "availability": "官网采集报价中对应尺码未标记可售，作为款式参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "ADIEU 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://adieu-paris.com/en/e-shop/1741-type134sb.html",
+      "imagePage": "https://adieu-paris.com/en/e-shop/1741-type134sb.html",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "抛光皮革鞋面；注塑橡胶底",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中对应尺码未标记可售，作为款式参考"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "shoeType": "derby",
+    "upperMaterial": "抛光皮革鞋面；注塑橡胶底",
+    "editorialOrder": 18
+  },
+  {
+    "id": "global-adieu-159",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "ADIEU",
+    "name": "Type 159 黑色齿纹底乐福鞋",
+    "model": "Type 159 - Black",
+    "sku": "DI-PERM-M-T159BLK",
+    "color": "Black",
+    "image": "assets/catalog/shoes/global-adieu-159.jpg",
+    "imageSource": "https://adieu-paris.com/6705-product_large/type159blk.jpg",
+    "productUrl": "https://adieu-paris.com/en/e-shop/1973-type159blk.html",
+    "price": 430,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "厚底乐福",
+      "齿纹边缘",
+      "圆鞋头"
+    ],
+    "reason": "便士横带搭配外露齿纹底，有学院元素，也能接住宽裤的下摆。",
+    "styling": "配黑灰宽牛仔、素色袜子和松开的格纹衬衫；上身用短外套收住衣长。",
+    "fitNote": "乐福鞋主要看脚背与后跟贴合，前掌不能为固定脚跟而受挤压；按男款尺码表试穿。",
+    "material": "抛光皮革鞋面；注塑橡胶底",
+    "materialEvidence": {
+      "url": "https://adieu-paris.com/en/e-shop/1973-type159blk.html",
+      "text": "抛光皮革鞋面；注塑橡胶底"
+    },
+    "availability": "官网采集报价中至少一个对应尺码标记可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "ADIEU 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://adieu-paris.com/en/e-shop/1973-type159blk.html",
+      "imagePage": "https://adieu-paris.com/en/e-shop/1973-type159blk.html",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "抛光皮革鞋面；注塑橡胶底",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中至少一个对应尺码标记可售"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "shoeType": "loafer",
+    "upperMaterial": "抛光皮革鞋面；注塑橡胶底",
+    "editorialOrder": 4
+  },
+  {
+    "id": "global-nm-spiral",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "No Maintenance",
+    "name": "Spiral Nero 不对称拉链靴",
+    "model": "Spiral Zip Boot",
+    "sku": "spiral-zip-boot",
+    "color": "Nero",
+    "image": "assets/catalog/shoes/global-nm-spiral.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/FW26_Footwear_Shopify.jpg?v=1787171686",
+    "productUrl": "https://nomaintenance.us/products/spiral-zip-boot",
+    "price": 550,
+    "currency": "USD",
+    "market": "美国 USD 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "不对称拉链",
+      "旧化表面",
+      "方圆鞋头"
+    ],
+    "reason": "不对称拉链和旧化皮面让简洁的靴筒带一点锋利细节，适合黑灰牛仔和短皮衣。",
+    "styling": "配深灰直筒或微喇牛仔、灰紫格纹衬衫与贴身短皮衣；裤脚覆盖拉链上缘。",
+    "fitNote": "官网建议介于两码之间时考虑小半码，实际仍需结合脚长与脚宽；先对照品牌尺码表。",
+    "material": "植鞣全粒面 Vachetta 小牛皮",
+    "materialEvidence": {
+      "url": "https://nomaintenance.us/products/spiral-zip-boot",
+      "text": "植鞣全粒面 Vachetta 小牛皮"
+    },
+    "availability": "官网采集报价中对应尺码未标记可售，作为款式参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "No Maintenance 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://nomaintenance.us/products/spiral-zip-boot",
+      "imagePage": "https://nomaintenance.us/products/spiral-zip-boot",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；页面标识保留原商品路径，不冒称制造商货号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "植鞣全粒面 Vachetta 小牛皮",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中对应尺码未标记可售，作为款式参考"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "skuType": "website",
+    "shoeType": "boots",
+    "upperMaterial": "植鞣全粒面 Vachetta 小牛皮",
+    "editorialOrder": 10
+  },
+  {
+    "id": "global-nm-moc",
+    "category": "shoes",
+    "collection": "international",
+    "brand": "No Maintenance",
+    "name": "Moc Toe Nero 围裙缝乐福鞋",
+    "model": "Moc Toe Loafer",
+    "sku": "moc-toe-loafer",
+    "color": "Nero",
+    "image": "assets/catalog/shoes/global-nm-moc.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/FW26_Footwear_Shopify12.jpg?v=1787171579",
+    "productUrl": "https://nomaintenance.us/products/moc-toe-loafer",
+    "price": 450,
+    "currency": "USD",
+    "market": "美国 USD 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "围裙缝鞋头",
+      "低帮套脚",
+      "旧化底边"
+    ],
+    "reason": "立体的 U 形围裙缝线与宽圆鞋头，能在宽裤下保留清楚的鞋型。",
+    "styling": "配深蓝宽牛仔、白袜与短袖蓝衬衫；天气转凉时外搭短牛仔夹克。",
+    "fitNote": "官网标注偏大半码，先按其尺码表比对；试走时检查脚背压力和后跟滑动。",
+    "material": "意大利牛皮；皮革内里",
+    "materialEvidence": {
+      "url": "https://nomaintenance.us/products/moc-toe-loafer",
+      "text": "意大利牛皮；皮革内里"
+    },
+    "availability": "官网采集报价中至少一个对应尺码标记可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "No Maintenance 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://nomaintenance.us/products/moc-toe-loafer",
+      "imagePage": "https://nomaintenance.us/products/moc-toe-loafer",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；页面标识保留原商品路径，不冒称制造商货号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "意大利牛皮；皮革内里",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中至少一个对应尺码标记可售"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "skuType": "website",
+    "shoeType": "loafer",
+    "upperMaterial": "意大利牛皮；皮革内里",
+    "editorialOrder": 14
+  }
+]

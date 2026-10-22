@@ -1,0 +1,308 @@
+[
+  {
+    "id": "global-ol-tear",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Tear 泪滴容器吊坠项链",
+    "model": "Tear Container Necklace",
+    "sku": "A4268TS",
+    "color": "Sterling Silver",
+    "image": "assets/catalog/jewelry/global-ol-tear.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15340_74733a7750-a4268ts_1-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/tear-container-necklace-sterling-silver",
+    "price": 990,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "泪滴吊坠",
+      "刻眼细节",
+      "长链焦点"
+    ],
+    "reason": "泪滴形吊坠和刻眼细节能落在素色内搭前，给深色衬衫与皮衣增加一个垂直焦点。",
+    "styling": "配白 T、敞开格纹衬衫和短皮衣；让坠子落在可见内搭上，手部最多再加一枚简单戒指。",
+    "fitNote": "先按官网链长和坠子尺寸判断落点；同一张上身图的落点会随身高、颈围和衣领改变。",
+    "material": "925 标准银",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/tear-container-necklace-sterling-silver",
+      "text": "925 标准银"
+    },
+    "availability": "官网尺码记录中未见可售项，保留作款式档案参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/tear-container-necklace-sterling-silver",
+      "imagePage": "https://www.ourlegacy.com/tear-container-necklace-sterling-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "925 标准银",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中未见可售项，保留作款式档案参考"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "necklace",
+    "editorialOrder": 11
+  },
+  {
+    "id": "global-ab-round-ring",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "All Blues",
+    "name": "Round 抛光银开口圆戒",
+    "model": "Round ring",
+    "sku": "102183",
+    "color": "Polished 925 sterling silver",
+    "image": "assets/catalog/jewelry/global-ab-round-ring.jpg",
+    "imageSource": "https://allblues.centracdn.net/client/dynamic/images/748_60e1f2616a-round_ring_silver_p_1.jpg",
+    "productUrl": "https://www.allblues.se/product/round-ring-silver",
+    "price": 190,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "圆柱戒圈",
+      "抛光银",
+      "干净线条"
+    ],
+    "reason": "圆柱戒圈以一道开口留出轻巧感，适合先用一枚戒指给整身衣服收尾。",
+    "styling": "配蓝条纹衬衫、灰裤和黑皮鞋；卷起一折袖口，让戒圈露出一点即可。",
+    "fitNote": "按指围选择官网戒号；开口设计不代表可以随意掰动扩码，需结合实际佩戴松紧。",
+    "material": "再生 925 银；环宽 3.6 mm，开口约 3 mm",
+    "materialEvidence": {
+      "url": "https://www.allblues.se/product/round-ring-silver",
+      "text": "再生 925 银；环宽 3.6 mm，开口约 3 mm"
+    },
+    "availability": "所选规格官网尺码记录存在可售项目；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "All Blues 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.allblues.se/product/round-ring-silver",
+      "imagePage": "https://www.allblues.se/product/round-ring-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网资料同时提供多个价目；本记录固定 EUR 价目 priceList=23，未换汇。",
+        "material": "再生 925 银；环宽 3.6 mm，开口约 3 mm",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "所选规格官网尺码记录存在可售项目"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "ring",
+    "editorialOrder": 23
+  },
+  {
+    "id": "global-ab-rauk",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "All Blues",
+    "name": "Rauk 手工雕刻窄版银戒",
+    "model": "Rauk ring narrow",
+    "sku": "101483",
+    "color": "Carved 925 sterling silver",
+    "image": "assets/catalog/jewelry/global-ab-rauk.jpg",
+    "imageSource": "https://allblues.centracdn.net/client/dynamic/images/55_cf43ac2b50-rauk_ring_narrow_silver_p_1.jpg",
+    "productUrl": "https://www.allblues.se/product/rauk-ring-narrow-silver",
+    "price": 350,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "雕刻棱面",
+      "窄版戒圈",
+      "925 银"
+    ],
+    "reason": "不规则棱面会留下碎小反光，能与蜡感皮衣、粗纹牛仔形成材质呼应。",
+    "styling": "配深棕皮夹克、灰黑格纹衬衫和黑裤；让它成为手部主要首饰。",
+    "fitNote": "核对指围与戒号；官网提示宽度随尺码变化，商品照片不能替代实际尺寸。",
+    "material": "再生 925 银；手工雕刻表面，宽度随尺码变化",
+    "materialEvidence": {
+      "url": "https://www.allblues.se/product/rauk-ring-narrow-silver",
+      "text": "再生 925 银；手工雕刻表面，宽度随尺码变化"
+    },
+    "availability": "所选规格官网尺码记录存在可售项目；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "All Blues 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.allblues.se/product/rauk-ring-narrow-silver",
+      "imagePage": "https://www.allblues.se/product/rauk-ring-narrow-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网资料同时提供多个价目；本记录固定 EUR 价目 priceList=23，未换汇。",
+        "material": "再生 925 银；手工雕刻表面，宽度随尺码变化",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "所选规格官网尺码记录存在可售项目"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "ring",
+    "editorialOrder": 3
+  },
+  {
+    "id": "global-ab-cuban",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "All Blues",
+    "name": "Cuban 42 cm 古巴银链",
+    "model": "Cuban necklace",
+    "sku": "102163S",
+    "color": "Polished 925 sterling silver, 42 cm",
+    "image": "assets/catalog/jewelry/global-ab-cuban.jpg",
+    "imageSource": "https://allblues.centracdn.net/client/dynamic/images/728_49b905e0db-cuban_necklace_silver_p_1.jpg",
+    "productUrl": "https://www.allblues.se/product/cuban-necklace-silver",
+    "price": 320,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "4 mm 古巴链",
+      "T 形扣",
+      "领口细节"
+    ],
+    "reason": "4 毫米链节形成连续反光，适合放在开领衬衫与素色内搭之间。",
+    "styling": "配灰紫开领衬衫和黑色短外套，领口露一段链节；其他配饰保持简洁。",
+    "fitNote": "这条记录对应 42 cm，效果偏靠近颈部；先按颈围和领口开度确认，不默认是宽松长链。",
+    "material": "再生 925 银；链宽 4 mm，本记录为 42 cm",
+    "materialEvidence": {
+      "url": "https://www.allblues.se/product/cuban-necklace-silver",
+      "text": "再生 925 银；链宽 4 mm，本记录为 42 cm"
+    },
+    "availability": "所选规格官网尺码记录存在可售项目；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "All Blues 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.allblues.se/product/cuban-necklace-silver",
+      "imagePage": "https://www.allblues.se/product/cuban-necklace-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网资料同时提供多个价目；本记录固定 EUR 价目 priceList=23，未换汇。",
+        "material": "再生 925 银；链宽 4 mm，本记录为 42 cm",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "所选规格官网尺码记录存在可售项目"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "necklace",
+    "editorialOrder": 15
+  },
+  {
+    "id": "global-ab-cuff",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "All Blues",
+    "name": "Round 抛光银开口手镯",
+    "model": "Round bracelet",
+    "sku": "101197",
+    "color": "Polished 925 sterling silver",
+    "image": "assets/catalog/jewelry/global-ab-cuff.jpg",
+    "imageSource": "https://allblues.centracdn.net/client/dynamic/images/125_4e2a381036-round_bracelet_polished_silver_p_1.jpg",
+    "productUrl": "https://www.allblues.se/product/round-bracelet-polished-silver",
+    "price": 350,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "开口手镯",
+      "圆润银线",
+      "3 mm 宽"
+    ],
+    "reason": "细圆银线能在宽袖口下露出一点亮度，适合不想把手腕堆满的搭配。",
+    "styling": "配浅蓝衬衫、灰宽裤与乐福鞋；袖口卷一折，手腕留一只手镯即可。",
+    "fitNote": "按官网腕围和尺寸图确认开口与内圈，不把商品图上的大小当作实际上手比例。",
+    "material": "再生 925 银；宽 3 mm",
+    "materialEvidence": {
+      "url": "https://www.allblues.se/product/round-bracelet-polished-silver",
+      "text": "再生 925 银；宽 3 mm"
+    },
+    "availability": "所选规格官网尺码记录存在可售项目；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "All Blues 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.allblues.se/product/round-bracelet-polished-silver",
+      "imagePage": "https://www.allblues.se/product/round-bracelet-polished-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网资料同时提供多个价目；本记录固定 EUR 价目 priceList=23，未换汇。",
+        "material": "再生 925 银；宽 3 mm",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "所选规格官网尺码记录存在可售项目"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "bracelet",
+    "editorialOrder": 19
+  },
+  {
+    "id": "global-ab-string",
+    "category": "jewelry",
+    "collection": "international",
+    "brand": "All Blues",
+    "name": "String 42 cm 细银链",
+    "model": "String necklace",
+    "sku": "101362S",
+    "color": "Polished 925 sterling silver, 42 cm",
+    "image": "assets/catalog/jewelry/global-ab-string.jpg",
+    "imageSource": "https://allblues.centracdn.net/client/dynamic/images/481_9c6253ac60-string_necklace_silver_p_1.jpg",
+    "productUrl": "https://www.allblues.se/product/string-necklace-silver",
+    "price": 170,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "3 mm 细链",
+      "T 形扣",
+      "抛光银"
+    ],
+    "reason": "细链与小横杆扣保留轻量的线条，适合格纹、印花或外套已经比较有细节的一身。",
+    "styling": "配淡灰点描衬衫或白 T，外搭黑色飞行夹克；把链条留在领口附近。",
+    "fitNote": "本记录为 42 cm；先量颈围并看尺寸图，宽领口与扣紧领口会产生不同落点。",
+    "material": "再生 925 银；链宽 3 mm，本记录为 42 cm",
+    "materialEvidence": {
+      "url": "https://www.allblues.se/product/string-necklace-silver",
+      "text": "再生 925 银；链宽 3 mm，本记录为 42 cm"
+    },
+    "availability": "所选规格官网尺码记录存在可售项目；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "All Blues 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.allblues.se/product/string-necklace-silver",
+      "imagePage": "https://www.allblues.se/product/string-necklace-silver",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网资料同时提供多个价目；本记录固定 EUR 价目 priceList=23，未换汇。",
+        "material": "再生 925 银；链宽 3 mm，本记录为 42 cm",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "所选规格官网尺码记录存在可售项目"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "jewelryType": "necklace",
+    "editorialOrder": 7
+  }
+]

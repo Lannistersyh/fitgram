@@ -1,0 +1,32 @@
+[
+  {
+    "name": "暗格纹 × 深棕皮衣，线条拉长",
+    "items": [
+      "global-ol-camion",
+      "global-ol-nocturne",
+      "global-ol-mini",
+      "global-ab-rauk"
+    ],
+    "note": "下身用黑色宽直筒裤。短皮夹克收住腰线，格纹衣摆只露少量；侧拉链靴藏在裤脚下，雕刻戒指呼应皮面纹理。"
+  },
+  {
+    "name": "淡印花 × 飞行夹克，体量集中",
+    "items": [
+      "global-adieu-159",
+      "global-ol-pointillism",
+      "global-es-echo",
+      "global-ab-string"
+    ],
+    "note": "下身用炭灰宽裤，裤脚轻覆乐福鞋。飞行夹克留肩部体积，淡灰印花放在中间，细银链只在领口出现。"
+  },
+  {
+    "name": "浅蓝衬衫 × 黑长大衣，层次克制",
+    "items": [
+      "global-adieu-134",
+      "global-ol-faubourg",
+      "global-ol-whale",
+      "global-ab-cuff"
+    ],
+    "note": "下身用灰色宽西裤。大衣敞开时保留衬衫的竖线，袖口露出一点手镯；齿纹底皮鞋撑住下摆。"
+  }
+]

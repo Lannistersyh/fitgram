@@ -1,0 +1,323 @@
+[
+  {
+    "id": "global-ol-nocturne",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Above 暗色夜幕格纹衬衫",
+    "model": "Above Shirt",
+    "sku": "M4262AFN",
+    "color": "Faded Nocturne Check Flannel",
+    "image": "assets/catalog/shirts/global-ol-nocturne.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15414_4029960de9-m4262afn_1-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/above-shirt-faded-nocturne-check-flannel",
+    "price": 360,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "灰黑格纹",
+      "微宽松",
+      "法兰绒"
+    ],
+    "reason": "模糊的灰黑格纹和柔和表面，让宽松衬衫在黑色皮衣下仍有层次。",
+    "styling": "白 T 打底，衬衫敞开或只扣中间几颗；配短皮夹克、黑灰宽牛仔与侧拉链靴。",
+    "fitNote": "官网标注 slightly oversized；比较肩宽、胸围与衣长，确认叠穿后下摆露出的长度。",
+    "material": "100% 棉；意大利格纹法兰绒",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/above-shirt-faded-nocturne-check-flannel",
+      "text": "100% 棉；意大利格纹法兰绒"
+    },
+    "availability": "官网尺码记录中部分项目可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/above-shirt-faded-nocturne-check-flannel",
+      "imagePage": "https://www.ourlegacy.com/above-shirt-faded-nocturne-check-flannel",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "100% 棉；意大利格纹法兰绒",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中部分项目可售",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "wearImage": "assets/catalog/shirts/global-ol-nocturne-worn.jpg",
+    "wearImageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15414_7f1753ea0f-m4262afn_1-rtail-big.jpg",
+    "editorialOrder": 8
+  },
+  {
+    "id": "global-ol-pointillism",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Beyond 淡灰点描印花衬衫",
+    "model": "Beyond Shirt",
+    "sku": "M4262BPA",
+    "color": "Pointillism Allegory Print",
+    "image": "assets/catalog/shirts/global-ol-pointillism.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15429_d73ad1e816-m4262bpa_1-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/beyond-shirt-pointillism-allegory-print",
+    "price": 360,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "淡灰点描",
+      "轻垂感",
+      "直身版型"
+    ],
+    "reason": "白底淡灰点描把细节留在胸前，外套敞开时能露出一段柔和图案。",
+    "styling": "配黑色宽裤与黑色飞行夹克，领口打开一两颗扣；银饰选细链或单枚戒指。",
+    "fitNote": "官网标注 regular fit；先看胸围与衣长，保留面料垂落的空间，再决定是否放大尺码。",
+    "material": "100% 莱赛尔纤维",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/beyond-shirt-pointillism-allegory-print",
+      "text": "100% 莱赛尔纤维"
+    },
+    "availability": "官网尺码记录中未见可售项，保留作款式档案参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/beyond-shirt-pointillism-allegory-print",
+      "imagePage": "https://www.ourlegacy.com/beyond-shirt-pointillism-allegory-print",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "100% 莱赛尔纤维",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中未见可售项，保留作款式档案参考",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "wearImage": "assets/catalog/shirts/global-ol-pointillism-worn.jpg",
+    "wearImageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15429_M4262BPA_0385-rtail-big.jpg",
+    "editorialOrder": 5
+  },
+  {
+    "id": "global-ol-faubourg",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "Our Legacy",
+    "name": "Above 浅蓝细条纹衬衫",
+    "model": "Above Shirt",
+    "sku": "M4262AFS",
+    "color": "Faubourg Stripe Super Poplin",
+    "image": "assets/catalog/shirts/global-ol-faubourg.jpg",
+    "imageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15415_e758cbe86a-m4262afs_1-rtail-big.jpg",
+    "productUrl": "https://www.ourlegacy.com/above-shirt-faubourg-stripe-super-poplin",
+    "price": 390,
+    "currency": "EUR",
+    "market": "欧洲 EUR 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "浅蓝细条纹",
+      "微宽松",
+      "贝壳扣"
+    ],
+    "reason": "细条纹和轻挺的府绸让宽衬衫保持轮廓，适合搭长外套或短夹克。",
+    "styling": "配深灰宽裤、黑色圆头皮鞋和黑色长大衣；只塞前摆一小段，保留侧面的长度。",
+    "fitNote": "以官网成衣胸围和衣长判断微宽松效果；肩部活动舒适，袖口不要被外套卡住。",
+    "material": "100% 棉；高捻棉府绸",
+    "materialEvidence": {
+      "url": "https://www.ourlegacy.com/above-shirt-faubourg-stripe-super-poplin",
+      "text": "100% 棉；高捻棉府绸"
+    },
+    "availability": "官网尺码记录中部分项目可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "Our Legacy 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://www.ourlegacy.com/above-shirt-faubourg-stripe-super-poplin",
+      "imagePage": "https://www.ourlegacy.com/above-shirt-faubourg-stripe-super-poplin",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；保留官方款号。",
+        "price": "官网 EUR 价目 priceAsNumber；不是换汇。",
+        "material": "100% 棉；高捻棉府绸",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网尺码记录中部分项目可售",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "wearImage": "assets/catalog/shirts/global-ol-faubourg-worn.jpg",
+    "wearImageSource": "https://ourlegacy.centracdn.net/client/dynamic/images/15415_000f6efe18-m4262afs_3-rtail-big.jpg",
+    "editorialOrder": 17
+  },
+  {
+    "id": "global-nm-cpo",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "No Maintenance",
+    "name": "CPO 靛蓝青年布工装衬衫",
+    "model": "CPO Work Long Sleeve Shirt - Indigo Chambray",
+    "sku": "cpo-work-longsleeve-shirt-indigo-chambray",
+    "color": "Indigo Chambray",
+    "image": "assets/catalog/shirts/global-nm-cpo.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/CHAMBRAYSHIRTFRONT_copy.jpg?v=1780613176",
+    "productUrl": "https://nomaintenance.us/products/cpo-work-longsleeve-shirt-indigo-chambray",
+    "price": 190,
+    "currency": "USD",
+    "market": "美国 USD 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "靛蓝青年布",
+      "双胸袋",
+      "中等厚度"
+    ],
+    "reason": "竹节布纹理和双胸袋让蓝衬衫有真实的工装质感，适合当轻外层穿。",
+    "styling": "内搭白 T，下穿黑灰宽牛仔，配围裙缝乐福鞋；外套选不抢纹理的黑色飞行夹克。",
+    "fitNote": "官网描述为中等厚度、宽松但有结构；胸围应容纳内搭，查看扣上后的肩背活动量。",
+    "material": "100% 棉；竹节纹理青年布",
+    "materialEvidence": {
+      "url": "https://nomaintenance.us/products/cpo-work-longsleeve-shirt-indigo-chambray",
+      "text": "100% 棉；竹节纹理青年布"
+    },
+    "availability": "官网采集报价中至少一个对应尺码标记可售；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "No Maintenance 国际官网",
+    "catalogAvailable": true,
+    "sourceEvidence": {
+      "productPage": "https://nomaintenance.us/products/cpo-work-longsleeve-shirt-indigo-chambray",
+      "imagePage": "https://nomaintenance.us/products/cpo-work-longsleeve-shirt-indigo-chambray",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；页面标识保留原商品路径，不冒称制造商货号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "100% 棉；竹节纹理青年布",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中至少一个对应尺码标记可售",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "skuType": "website",
+    "wearImage": "assets/catalog/shirts/global-nm-cpo-worn.jpg",
+    "wearImageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/NewStandardEcomm_56_d03977d3-0f5a-4f6a-a63a-146f20c5fc21.jpg?v=1790875616",
+    "editorialOrder": 21
+  },
+  {
+    "id": "global-nm-mauve",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "No Maintenance",
+    "name": "50s 灰紫格纹开领衬衫",
+    "model": "50s Spread Collar Long Sleeve Shirt - Mauve Plaid",
+    "sku": "50s-spread-collar-longsleeve-shirt-mauve-plaid",
+    "color": "Mauve Plaid",
+    "image": "assets/catalog/shirts/global-nm-mauve.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/Mauve1_b8954e54-1407-408f-9a68-b1e6bb7f59b8.jpg?v=1781565031",
+    "productUrl": "https://nomaintenance.us/products/50s-spread-collar-longsleeve-shirt-mauve-plaid",
+    "price": 210,
+    "currency": "USD",
+    "market": "美国 USD 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "灰紫格纹",
+      "复古开领",
+      "轻薄织物"
+    ],
+    "reason": "灰紫色藏在低饱和格纹里，开领能给皮夹克的硬朗线条留一点松弛。",
+    "styling": "配黑色短皮夹克、深灰宽牛仔和旧化拉链靴；衬衫下摆略长于外套即可。",
+    "fitNote": "面料轻薄，先核对透感和内搭颜色；按胸围、肩宽与衣长确定开领后的比例。",
+    "material": "日本有机棉平纹薄布；官网未列成分百分比",
+    "materialEvidence": {
+      "url": "https://nomaintenance.us/products/50s-spread-collar-longsleeve-shirt-mauve-plaid",
+      "text": "日本有机棉平纹薄布；官网未列成分百分比"
+    },
+    "availability": "官网采集报价中对应尺码未标记可售，作为款式参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "No Maintenance 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://nomaintenance.us/products/50s-spread-collar-longsleeve-shirt-mauve-plaid",
+      "imagePage": "https://nomaintenance.us/products/50s-spread-collar-longsleeve-shirt-mauve-plaid",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；页面标识保留原商品路径，不冒称制造商货号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "日本有机棉平纹薄布；官网未列成分百分比",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中对应尺码未标记可售，作为款式参考",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "skuType": "website",
+    "wearImage": "assets/catalog/shirts/global-nm-mauve-worn.jpg",
+    "wearImageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/NewStandardEcomm_46_copy_3a19a2c6-2025-411b-ac56-d13e2081f9ba.jpg?v=1789683261",
+    "editorialOrder": 1
+  },
+  {
+    "id": "global-nm-vip",
+    "category": "shirts",
+    "collection": "international",
+    "brand": "No Maintenance",
+    "name": "VIP 浅蓝提花条纹短袖衬衫",
+    "model": "VIP Oxford Short Sleeve Shirt - Blue Dobby Stripe",
+    "sku": "vip-oxford-shortsleeve-shirt-blue-dobby-stripe",
+    "color": "Blue Dobby Stripe",
+    "image": "assets/catalog/shirts/global-nm-vip.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/BLUEDOBBYSTRIPESSFRONT.jpg?v=1780611819",
+    "productUrl": "https://nomaintenance.us/products/vip-oxford-shortsleeve-shirt-blue-dobby-stripe",
+    "price": 170,
+    "currency": "USD",
+    "market": "美国 USD 价目",
+    "verifiedAt": "2026-10-22",
+    "tags": [
+      "箱型短袖",
+      "浅蓝纹理",
+      "开领"
+    ],
+    "reason": "短袖箱型轮廓和细小提花纹理，让浅蓝色保留干净、立体的表面。",
+    "styling": "配宽直筒深蓝牛仔和围裙缝乐福鞋；秋天外搭短牛仔夹克，领口留一段细银链。",
+    "fitNote": "留意袖口宽度和短袖长度；箱型效果看衣长与胸围关系，不必只凭尺码字母选大。",
+    "material": "100% 棉；细微提花织纹",
+    "materialEvidence": {
+      "url": "https://nomaintenance.us/products/vip-oxford-shortsleeve-shirt-blue-dobby-stripe",
+      "text": "100% 棉；细微提花织纹"
+    },
+    "availability": "官网采集报价中对应尺码未标记可售，作为款式参考；这是采集快照，具体尺码和现价以官网为准。",
+    "mainlandStatus": "unverified",
+    "mainlandNote": "国际审美与搭配参考；未核实中国大陆配送、到手价或代购渠道。价格固定为采集到的官网原币种，税费与地区切换可能改变结算。",
+    "purchaseMode": "international-reference",
+    "storeName": "No Maintenance 国际官网",
+    "catalogAvailable": false,
+    "sourceEvidence": {
+      "productPage": "https://nomaintenance.us/products/vip-oxford-shortsleeve-shirt-blue-dobby-stripe",
+      "imagePage": "https://nomaintenance.us/products/vip-oxford-shortsleeve-shirt-blue-dobby-stripe",
+      "fields": {
+        "nameSku": "官网具体商品名称、编号与所选颜色对应；页面标识保留原商品路径，不冒称制造商货号。",
+        "price": "官网商品结构化数据的报价及 priceCurrency，未使用划线价或换汇。",
+        "material": "100% 棉；细微提花织纹",
+        "image": "同一商品页的无模特单品图，人工核对。",
+        "stock": "官网采集报价中对应尺码未标记可售，作为款式参考",
+        "wornImage": "同一款式、同一配色的官方品牌上身图，用于观察比例，不代表用户穿着效果。"
+      },
+      "relationship": "编辑审美与搭配选品，不声称 CORTIS 或任何艺人穿过同款"
+    },
+    "imageOptimization": "官方原图等比例缩小并转为JPEG，保留商品外观；未生成或修改设计",
+    "skuType": "website",
+    "wearImage": "assets/catalog/shirts/global-nm-vip-worn.jpg",
+    "wearImageSource": "https://cdn.shopify.com/s/files/1/0422/9319/9005/files/50spreadcollarecomm2_fcda3495-ccc2-4e7b-b459-4a83590de124.jpg?v=1789081620",
+    "editorialOrder": 13
+  }
+]
