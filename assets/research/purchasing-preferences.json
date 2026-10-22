@@ -6,5 +6,13 @@
   "priority": "mainland-official-channel",
   "confirmedAt": "2026-10-21",
   "userStatement": "大陆购买；每件以 ¥1,000–3,000 为主",
-  "exceptions": "搭配价值明确的低价基础款可保留；外币参考不参与人民币预算筛选。"
+  "exceptions": "搭配价值明确的低价基础款可保留；外币参考不参与人民币预算筛选。",
+  "footwearPriority": "leather-shoes",
+  "footwearStatement": "我更在意皮鞋之类的，这款式",
+  "footwearConfirmedAt": "2026-10-22",
+  "footwearStyles": [
+    "圆头、稍厚底的德比鞋／乐福鞋，偏年轻男团私服",
+    "切尔西靴、系带短靴"
+  ],
+  "footwearChoice": "用户明确选择 1、3"
 }

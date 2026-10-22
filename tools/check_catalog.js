@@ -23,6 +23,10 @@ for(const p of list){
   if(p.price!==null)assert(/^[A-Z]{3}$/.test(p.currency),'数值价格必须明确原币种：'+p.id);
   assert(!p.artistExactMatch,'搭配选品不能自动升级为艺人同款');
 }
+// 皮鞋以实际鞋面资料为准，且覆盖用户确认的两类方向。
+const shoes=list.filter(p=>p.category==='shoes');
+for(const p of shoes){assert(['derby','loafer','boots'].includes(p.shoeType));assert(p.upperMaterial&&/皮|leather/i.test(p.upperMaterial));assert(p.materialEvidence&&https(p.materialEvidence.url)&&p.materialEvidence.text);assert(!/跑鞋|帆布鞋|运动鞋|Sneaker/i.test(p.name+' '+p.model));}
+assert.deepEqual(Object.fromEntries(['derby','loafer','boots'].map(type=>[type,shoes.filter(p=>p.shoeType===type).length])),{derby:2,loafer:4,boots:4});
 assert(data.outfits.length>=3);
 const pref=data.preferences;assert.equal(pref.market,'中国大陆');assert.equal(pref.currency,'CNY');assert.equal(pref.min,1000);assert.equal(pref.max,3000);
 const cn=list.filter(p=>['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY'),within=cn.filter(p=>p.price>=pref.min&&p.price<=pref.max);

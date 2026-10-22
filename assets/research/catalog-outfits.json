@@ -1,5 +1,29 @@
 [
-  {"name":"格纹 × 宽牛仔，日常街头","items":["shirt-cn-lmcst6fsh501rbwz","pants-beams-wide-denim","shoes-nb2002r"],"note":"白T打底，棕色格纹敞开穿，牛仔裤脚轻落灰色跑鞋。三件都在单件常用预算内；NB需按官网指引到官方小程序选购。"},
-  {"name":"蓝条纹 × 军绿，轻工装叠穿","items":["shirt-cn-4best111213xrblz","pants-carhartt-army-cargo","shoes-nb9060"],"note":"蓝白条纹配军绿工装裤，深灰鞋稳住下半身。其他单品保持纯色；NB需按官网指引到官方小程序选购。"},
-  {"name":"黑衬衫 × 阔腿西裤，晚上出门","items":["shirt-cn-polo-oxford-black","pants-fredperry-pleated","shoes-adrian"],"note":"领口打开一两颗纽扣，衬衫前摆少量塞入。藏青宽裤露出乐福鞋鞋头；鞋款请进入官方旗舰店按货号核对。"}
+  {
+    "name": "格纹 × 宽牛仔，日常街头",
+    "items": [
+      "shirt-cn-lmcst6fsh501rbwz",
+      "pants-beams-wide-denim",
+      "shoes-ghbass-chunky"
+    ],
+    "note": "白 T 打底，棕色格纹敞开穿；深蓝宽牛仔裤脚轻覆厚底系带皮鞋，保留圆鞋头。三件均在单件常用预算内。"
+  },
+  {
+    "name": "蓝条纹 × 军绿，轻工装叠穿",
+    "items": [
+      "shirt-cn-4best111213xrblz",
+      "pants-carhartt-army-cargo",
+      "shoes-doc1460"
+    ],
+    "note": "蓝白条纹配军绿工装裤，黑色八孔靴收住下半身。裤脚盖过靴筒，不堆到地上；鞋款请进入官方旗舰店按货号核对库存与成交价。"
+  },
+  {
+    "name": "黑衬衫 × 阔腿西裤，晚上出门",
+    "items": [
+      "shirt-cn-polo-oxford-black",
+      "pants-fredperry-pleated",
+      "shoes-adrian"
+    ],
+    "note": "领口打开一两颗纽扣，衬衫前摆少量塞入。藏青宽裤露出乐福鞋鞋头；鞋款请进入官方旗舰店按货号核对。"
+  }
 ]

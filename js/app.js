@@ -163,7 +163,7 @@
       A.router.render(true);
     }
     ,
-    'catalog-reset':()=>A.catalog.reset(),'catalog-preview':b=>A.catalog.preview(b.dataset.id),'catalog-save':b=>A.catalog.save(b.dataset.id),'catalog-saved':()=>A.catalog.toggleSaved(),'catalog-copy':b=>A.catalog.copy(b.dataset.id),
+    'catalog-shoe-type':b=>A.catalog.shoeType(b.dataset.type),'catalog-reset':()=>A.catalog.reset(),'catalog-preview':b=>A.catalog.preview(b.dataset.id),'catalog-save':b=>A.catalog.save(b.dataset.id),'catalog-saved':()=>A.catalog.toggleSaved(),'catalog-copy':b=>A.catalog.copy(b.dataset.id),
     'groups-filter':()=>{A.state.filters.groupsOnly=!A.state.filters.groupsOnly;A.views.updateExplore();},'official-filter':()=>{A.state.filters.officialOnly=!A.state.filters.officialOnly;A.views.updateExplore();},'shop-looks':()=>{A.views.resetFilters();A.state.filters.officialOnly=true;if(location.hash==='#/explore')A.router.render();else location.hash='#/explore';},
     filter:filter,'reset-filters':()=>A.views.resetFilters(),'explore-region':b=>{
       A.state.filters.region=b.dataset.region;

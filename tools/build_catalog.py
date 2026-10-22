@@ -19,7 +19,7 @@ for outfit in outfits:
     assert len(outfit['items']) == 3
     assert all(item_id in ids for item_id in outfit['items'])
     assert {next(p['category'] for p in items if p['id'] == item_id) for item_id in outfit['items']} == set(categories)
-data = {'version': 1, 'verifiedAt': '2026-10-21', 'type': 'editorial-shopping-selection',
+data = {'version': 1, 'verifiedAt': '2026-10-22', 'type': 'editorial-shopping-selection',
         'note': '搭配选品，不代表已证实的艺人同款。价格按官网地区保留原币种，非大陆到手价。',
         'preferences': json.loads((ROOT / 'assets/research/purchasing-preferences.json').read_text()),
         'items': items, 'outfits': outfits}
