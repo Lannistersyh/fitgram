@@ -1,0 +1,332 @@
+[
+  {
+    "id": "15",
+    "title": "蓝色长袖翻领上衣与卡其裤",
+    "scene": "咖啡馆",
+    "pose": "坐姿",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "tops",
+      "pants"
+    ],
+    "garments": [
+      "蓝色长袖Polo上衣",
+      "卡其色长裤"
+    ],
+    "analysis": "蓝色翻领上衣和卡其裤形成稳定的冷暖配色。照片只支持Polo领轮廓，胸前小标不足以确认具体款。",
+    "poseNote": "身体靠近桌沿，一只手放在桌面，另一只手抬起。",
+    "matches": [
+      {
+        "itemId": "pants-beamsplus-cuffed",
+        "note": "卡其休闲长裤的选品方向；照片裤脚未完整展示。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-polo",
+        "note": "蓝色Polo领的近似方向；该款是短袖双层领，照片是长袖。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/15.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/15.jpg",
+    "provenance": {
+      "sourceCollage": 5,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "c11bd1fa5cda177a2cd42181dd76241e743c88cb4e93d2fb6d529398e057c37f",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "16",
+    "title": "黑白棒球夹克与短裤",
+    "scene": "街道",
+    "pose": "蹲姿",
+    "palette": "黑白中性",
+    "categories": [
+      "outerwear",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "黑色衣身、白色袖子的棒球夹克",
+      "深色短裤",
+      "白色中筒袜与运动鞋"
+    ],
+    "analysis": "深浅拼接的夹克已经足够突出，短裤和白袜延续简洁配色。",
+    "poseNote": "蹲在低台前，两只手自然垂在膝盖之间。",
+    "matches": [
+      {
+        "itemId": "ref-schott-varsity",
+        "note": "同为棒球夹克款式；本款是黑皮袖与浅色罗纹，照片是白色袖子。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "黑白拼接 男士 棒球夹克 立领"
+    ],
+    "image": "assets/references/douyin78/full/16.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/16.jpg",
+    "provenance": {
+      "sourceCollage": 5,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "01c99faee459d7a375304e438bf97060912f0ac4e6e61159f18d4eb70a1155d7",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "17",
+    "title": "棕色亨利领与军绿工装裤",
+    "scene": "门口",
+    "pose": "蹲姿",
+    "palette": "棕黑暖调",
+    "categories": [
+      "tops",
+      "pants",
+      "jewelry",
+      "accessories"
+    ],
+    "garments": [
+      "棕色长袖亨利领上衣",
+      "军绿色宽腿工装裤",
+      "针织帽与层叠项链"
+    ],
+    "analysis": "棕与军绿靠近但不重合，低开的门襟露出项链；宽裤在蹲下时保留活动空间。",
+    "poseNote": "靠台阶蹲下，双手在两膝间向前伸，肩膀放松。",
+    "matches": [
+      {
+        "itemId": "pants-carhartt-army-cargo",
+        "note": "军绿色多口袋工装裤，照片的口袋与版型不保证一致。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "global-ab-cuban",
+        "note": "参考银链叠戴的位置，照片材质与型号未确认。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-strata",
+        "note": "长袖亨利门襟的近似款式；该款灰色带酒红缝线，照片是棕色。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-velum",
+        "note": "军绿宽松军装裤的另一个方向；此款直筒、无cargo侧袋，照片有大侧袋。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/17.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/17.jpg",
+    "provenance": {
+      "sourceCollage": 6,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "ba738e3c31998aca269532b1ffc7e95093ad6a320e756f2725b6bdd67fba9a42",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "18",
+    "title": "深色翻领外套与短檐帽",
+    "scene": "室内",
+    "pose": "站姿",
+    "palette": "全黑层次",
+    "categories": [
+      "outerwear",
+      "accessories"
+    ],
+    "garments": [
+      "深色翻领短外套",
+      "黑色短檐帽"
+    ],
+    "analysis": "短帽檐与外套立起的领口在脸部周围形成层次。下装未展示，不补配隐藏单品。",
+    "poseNote": "侧身站，头略转向窗外，让帽檐留出侧脸。",
+    "matches": [
+      {
+        "itemId": "global-nm-rivet",
+        "note": "深色翻领短夹克的轮廓参考；照片面料和衣身结构未核实。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "黑色 男士 短檐帽"
+    ],
+    "image": "assets/references/douyin78/full/18.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/18.jpg",
+    "provenance": {
+      "sourceCollage": 6,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "1e7ffab2861e76db3e5ab4078e19c557e6d29f742b344fcff5ab3499cbc7feab",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "19",
+    "title": "宽松白衬衫与深色短裤",
+    "scene": "公园",
+    "pose": "坐姿",
+    "palette": "黑白中性",
+    "categories": [
+      "shirts",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "白色宽松长袖衬衫",
+      "深色短裤",
+      "颈挂式头戴耳机"
+    ],
+    "analysis": "衬衫敞开领口、下摆自然落下，短裤缩短深色面积。耳机作为日常配件，不据外形判断型号。",
+    "poseNote": "靠着坐台坐下，双腿自然展开，抬头望向树冠。",
+    "matches": [
+      {
+        "itemId": "ref-asket-oxford",
+        "note": "纯白长袖衬衫的真实选品；该款为纽扣领牛津纺、经典直身版，照片领型和宽松程度不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "白色 男士 宽松 衬衫 长袖"
+    ],
+    "image": "assets/references/douyin78/full/19.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/19.jpg",
+    "provenance": {
+      "sourceCollage": 6,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "304c10bd5aaa1878dc885c91cbdb65cf7a1afd242c2c96c741179b0cff602b37",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "20",
+    "title": "淡黄色衬衫与深色短裤",
+    "scene": "露台",
+    "pose": "站姿",
+    "palette": "亮色点缀",
+    "categories": [
+      "shirts",
+      "pants"
+    ],
+    "garments": [
+      "淡黄色长袖衬衫",
+      "深灰色及膝短裤"
+    ],
+    "analysis": "黄色衬衫轻薄的视觉感受搭配深色短裤。仅凭照片不判断具体纤维成分。",
+    "poseNote": "侧身站在廊下，一只手抬起搭横梁，另一只手放松。",
+    "matches": [],
+    "searchTerms": [
+      "淡黄色 男士 宽松 长袖 衬衫"
+    ],
+    "image": "assets/references/douyin78/full/20.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/20.jpg",
+    "provenance": {
+      "sourceCollage": 6,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "2458fd9839a370d3c9604ad1d54ec3003701dfa9c63ebe3b4abc2a496cad814f",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "21",
+    "title": "浅色衬衫、灰色褶裥宽裤",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "黑白中性",
+    "categories": [
+      "shirts",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "浅灰白色卷袖衬衫",
+      "灰褐色高腰褶裥长裤",
+      "黑皮带、黑托特包与太阳镜"
+    ],
+    "analysis": "衬衫塞进裤腰，袖口卷起，让高腰和宽裤成为重点。照片没有足够细节核实包与腕表品牌。",
+    "poseNote": "一手拿手机，一手提包，站姿保持肩颈放松。",
+    "matches": [
+      {
+        "itemId": "ref-asket-oxford",
+        "note": "纯白长袖衬衫的真实选品；该款为纽扣领牛津纺、经典直身版，照片领型和宽松程度不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-fredperry-pleated",
+        "note": "褶裥阔腿裤的选品方向，本款为藏青而非照片灰褐色。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/21.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/21.jpg",
+    "provenance": {
+      "sourceCollage": 7,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "addbe0ea89b6afcbaa6b8746101c1883633a0e91af9fc16c554db70ccaf69391",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  }
+]

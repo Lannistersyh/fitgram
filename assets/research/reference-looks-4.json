@@ -1,0 +1,360 @@
+[
+  {
+    "id": "22",
+    "title": "黑色圆领针织与同色宽裤",
+    "scene": "室内",
+    "pose": "站姿",
+    "palette": "全黑层次",
+    "categories": [
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "黑色长袖圆领针织上衣",
+      "黑色宽松长裤",
+      "细框眼镜、斜挎小包与黑色凉拖"
+    ],
+    "analysis": "贴身圆领上衣与宽裤形成对比，小包的背带留下一条细线。脚上是露趾凉拖，没有把它作为皮鞋选品依据。",
+    "poseNote": "身体靠墙，单臂抬起搭在墙面，另一只手自然下垂。",
+    "matches": [
+      {
+        "itemId": "pants-insilence-black-cargo",
+        "note": "黑色宽裤的近似选择；工装口袋与照片款式不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-dylan",
+        "note": "同色黑裤搭配参考；本款为褶裥工作裤，照片裤型不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "黑色 男士 圆领 长袖 针织",
+      "黑色 男士 垂感 阔腿 长裤"
+    ],
+    "image": "assets/references/douyin78/full/22.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/22.jpg",
+    "provenance": {
+      "sourceCollage": 7,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "319bec41beccc6271a97d9bb5a9f521326133971b1f080895bd1f20f438e145d",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "23",
+    "title": "奶白亨利领与同色宽裤",
+    "scene": "书店",
+    "pose": "坐姿",
+    "palette": "柔和浅色",
+    "categories": [
+      "tops",
+      "pants"
+    ],
+    "garments": [
+      "奶白长袖亨利领上衣",
+      "奶白宽松长裤"
+    ],
+    "analysis": "奶白上下装靠布料的褶皱形成层次，门襟解开后领口更舒展。照片不支持直接确认棉麻成分。",
+    "poseNote": "把书打开在膝上，一条腿抬高，倚着书架读书。",
+    "matches": [
+      {
+        "itemId": "pants-carhartt-ivory",
+        "note": "米白宽松裤的近似选择，口袋结构不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "奶白色 亨利领 长袖 宽松 男士"
+    ],
+    "image": "assets/references/douyin78/full/23.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/23.jpg",
+    "provenance": {
+      "sourceCollage": 7,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "554ccb2eea908ef596b751e387e60fd94a4c06298f223ec8eb9eabd5334a4e7b",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "24",
+    "title": "黑白条纹短袖与黑色皮鞋",
+    "scene": "楼梯",
+    "pose": "坐姿",
+    "palette": "黑白中性",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "黑白横条纹短袖上衣",
+      "黑色宽松长裤",
+      "黑色低帮皮鞋与白袜"
+    ],
+    "analysis": "细横条纹是上身重点，黑裤和黑鞋相接，白袜把鞋口分开。这里是短袖上衣，不按背心分类。",
+    "poseNote": "坐在台阶上收起双腿，手臂搭膝，头微低。",
+    "matches": [
+      {
+        "itemId": "shoes-doc1461",
+        "note": "黑色三孔系带皮鞋可参考，照片鞋面和鞋底细节不足以核实同款。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-insilence-black-cargo",
+        "note": "黑色宽松裤的轮廓参考，口袋设计不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-dylan",
+        "note": "黑裤与黑皮鞋的近似搭配方向，具体版型不是照片同款。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "黑白 条纹 短袖 男士 船领"
+    ],
+    "image": "assets/references/douyin78/full/24.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/24.jpg",
+    "provenance": {
+      "sourceCollage": 7,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "80b8ccd84acd7b9e7f085dbc2a97d9360d258ba04930afa1dddedab84debda54",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "25",
+    "title": "深蓝西装外套与黑色乐福鞋",
+    "scene": "露台",
+    "pose": "坐姿",
+    "palette": "灰蓝日常",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "深蓝宽松西装外套",
+      "深色内搭",
+      "灰色宽松长裤",
+      "黑色乐福鞋与棒球帽"
+    ],
+    "analysis": "宽松西装外套配棒球帽，把正式感放松下来。灰裤在鞋面上留出褶皱，黑色乐福鞋收住下半身重心。",
+    "poseNote": "侧坐在折叠椅上，腿向前伸，一手搭在身旁。",
+    "matches": [
+      {
+        "itemId": "global-adieu-159",
+        "note": "黑色乐福鞋的近似方向；该款为厚底设计，照片鞋的型号和底部结构未核实。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "深蓝色 男士 宽松 西装外套 落肩"
+    ],
+    "image": "assets/references/douyin78/full/25.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/25.jpg",
+    "provenance": {
+      "sourceCollage": 8,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "7442ad5f502ef796630b2a74815a39428d6c71fafdef9510bad5675493c6ccf4",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "26",
+    "title": "黑白格纹、黑内搭与银链",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "黑白中性",
+    "categories": [
+      "shirts",
+      "tops",
+      "pants",
+      "jewelry"
+    ],
+    "garments": [
+      "黑白格纹敞开衬衫",
+      "黑色内搭与深色裤装",
+      "银色链状项链"
+    ],
+    "analysis": "格纹负责纹理，黑色内搭和裤子把整身连在一起。银链留在领口，照片无法确定银含量和链型编号。",
+    "poseNote": "一手抬起理头发，另一侧手臂放松，视线偏开。",
+    "matches": [
+      {
+        "itemId": "global-ol-nocturne",
+        "note": "灰黑格纹衬衫是近似选品；照片格纹与颜色不保证相同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "global-ab-cuban",
+        "note": "925银链的真实选品，与照片项链的材质和款号无直接证据。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-asket-tee",
+        "note": "黑色圆领内搭可参考；照片中的T恤型号与版型未确认。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/26.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/26.jpg",
+    "provenance": {
+      "sourceCollage": 8,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "fbc5f3669af369fa092a915b2b9d22e05354c7e63d2e1abf2a06d0b1df2c5a69",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "27",
+    "title": "浅紫开领衬衫与灰色长裤",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "亮色点缀",
+    "categories": [
+      "shirts",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "浅紫宽松长袖衬衫",
+      "灰色高腰宽腿长裤",
+      "黑色皮带与黑色低帮皮鞋"
+    ],
+    "analysis": "浅紫和灰搭在一起，靠黑皮带和皮鞋收住边界。宽裤略盖住鞋面，不判断照片鞋的品牌。",
+    "poseNote": "双臂抬到脑后，正面站立，给袖子留出展开的空间。",
+    "matches": [
+      {
+        "itemId": "global-nm-mauve",
+        "note": "灰紫色衬衫的近似配色；该款为格纹而非照片素色。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "global-adieu-159",
+        "note": "黑色厚底乐福鞋可参考裤脚覆盖鞋面的比例；鞋型不保证一致。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/27.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/27.jpg",
+    "provenance": {
+      "sourceCollage": 8,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "c61db698d7acdaad7e2b4bab1598400dfb9cd2e19d9ec8456d00a54a7783018b",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "28",
+    "title": "短皮衣、连帽内搭与深蓝工装裤",
+    "scene": "街道",
+    "pose": "镜前",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "深棕黑色翻领短皮衣",
+      "浅灰色连帽内搭",
+      "深蓝阔腿工装裤",
+      "棕色包与白色运动鞋"
+    ],
+    "analysis": "短皮衣与很宽的工装裤形成上下比例，浅色帽子和白鞋呼应，棕包加入暖色。",
+    "poseNote": "在街道反光面前拍摄，一手拿手机，一手把包夹在身侧。",
+    "matches": [
+      {
+        "itemId": "global-nm-rivet",
+        "note": "黑色短皮夹克的轮廓方向，照片颜色与版型不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-ralphlauren-navy-cargo",
+        "note": "深蓝宽松工装裤的相似方向，非照片同款。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/28.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/28.jpg",
+    "provenance": {
+      "sourceCollage": 8,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "469b334f8f0217ee0afa2a1a391d4c67c484d9be669ae5c925c8823971485769",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  }
+]

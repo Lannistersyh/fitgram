@@ -2,7 +2,7 @@
 (function(A){
   'use strict';
   const defaults={
-    likes:[],saves:[],catalogSaves:[],closet:[],comments:{
+    likes:[],saves:[],catalogSaves:[],referenceSaves:[],closet:[],comments:{
     }
     ,theme:'light',recent:[],seenStories:[],following:[]
   }

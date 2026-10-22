@@ -1,4 +1,16 @@
-# 单品图鉴 / 国际审美与大陆购买 / 2026-10-22
+# 分类图鉴 / 28 张参考与 61 件单品 / 2026-10-22
+
+## 照片与商品合并
+
+`#/catalog` 和 `#/catalog/atlas/:category` 展示 28 张不重复参考照片；`#/catalog/reference/:id` 为逐张详情。类别包含衬衫、针织/上衣、裤子、外套、皮鞋/靴子、首饰、配件，照片可以属于多个类别。场景、姿势、搜索与本地收藏可以组合筛选。
+
+25 张照片连接到实际商品，共 47 条 `similar-style` 关联；每条说明商品与照片的差异。照片中的款式观察不是品牌、纤维成分或货号鉴定。3 张未有合适商品的参考保留关键词；本批独立摄影原图和确切同款均未确认。
+
+`#/catalog/all` 按单品类别合并原 54 款与新增 7 款，`#/catalog/new` 单独查看本次补充；原国际和大陆清单仍可浏览。7 款来自 No Maintenance、ASKET、Schott，记录官网原币种、日期、材质依据、编号类型和实际对应颜色商品图。
+
+来源是「幸福小孩儿」抖音选辑，发布于 2026-10-20 18:38:09。8 张拼图保留原字节及 SHA256，后 7 张各裁 4 格共 28 张，封面 12 格不重复录入。单图原始裁切为 1080px 宽；网站只等比缩为 900px 及 360px，没有补绘。每条保留拼图序号、位置、坐标、原宽高和无损裁切校验值。选辑整理账号不视作独立摄影原作者。
+
+参考观察源文件 `reference-looks-{1,2,3,4}.json`、来源记录 `reference-source.json`、新增商品 `catalog-reference-additions.json` 经 `tools/build_catalog.py` 合并成普通全局脚本 `reference-data.js` 与 `catalog-data.js`。`node tools/check_atlas.js` 验证 28 张唯一照片、8 张来源拼图、图像尺寸、裁切坐标及全部商品关系；原商品与 IG 资料检查继续保留。
 
 ## 国际审美选品
 
@@ -12,7 +24,7 @@ Our Legacy 使用公开页面 Centra 商品数据的款名、sku、颜色、材�
 
 官网标记缺货的商品可作档案参考。国际记录全部为 `mainlandStatus=unverified`，不参与人民币预算筛选、不承诺发往大陆。价格是官网原币种采集记录，不是大陆成交价。
 
-新增路由：`#/catalog/international` 及其 `/shoes`、`/shirts`、`/outerwear`、`/jewelry` 子页。`#/catalog` 默认进入国际区，旧 `#/catalog/shoes`、`/pants`、`/shirts`、`/all` 仍进入大陆区。收藏跨区共用，点击条目跳到相应区域、类别和商品。
+新增路由：`#/catalog/international` 及其 `/shoes`、`/shirts`、`/outerwear`、`/jewelry` 子页。`#/catalog` 现进入穿搭参考图鉴；`#/catalog/all` 合并全部 61 件商品。`#/catalog/international` 保留国际区；旧 `#/catalog/shoes`、`/pants`、`/shirts` 保留大陆区。收藏跨区共用，点击条目跳到相应区域、类别和商品。
 
 国际资料按品类分别保存于 `assets/research/catalog-international-{shoes,shirts,outerwear,jewelry}.json`，组合在 `catalog-international-outfits.json`；每个文件小于 700 行。生成脚本合并为 `js/catalog-data.js`。
 

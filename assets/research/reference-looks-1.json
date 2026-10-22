@@ -1,0 +1,310 @@
+[
+  {
+    "id": "01",
+    "title": "奶黄与奶白，海边的松弛感",
+    "scene": "海边",
+    "pose": "坐姿",
+    "palette": "柔和浅色",
+    "categories": [
+      "tops"
+    ],
+    "garments": [
+      "奶黄圆领针织上衣",
+      "奶白针织披肩"
+    ],
+    "analysis": "浅黄与奶白相邻，肩上的一层针织让上半身有层次。下装与鞋没有完整展示。",
+    "poseNote": "用手托住脸，身体稍侧向桌面，让披肩自然垂落。",
+    "matches": [],
+    "searchTerms": [
+      "奶黄色 男士 圆领 针织 上衣",
+      "奶白色 针织 开衫 披肩"
+    ],
+    "image": "assets/references/douyin78/full/01.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/01.jpg",
+    "provenance": {
+      "sourceCollage": 2,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "2cae18317f2b836ba484c8793ef958c9e52474b4e76576f23093fed325cbfe3b",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "02",
+    "title": "黑色翻领上衣配浅色短裤",
+    "scene": "咖啡馆",
+    "pose": "坐姿",
+    "palette": "黑白中性",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes"
+    ],
+    "garments": [
+      "黑色短袖翻领上衣",
+      "浅灰短裤",
+      "黑色低帮皮鞋与白袜"
+    ],
+    "analysis": "深色翻领上衣收住上身，浅色短裤露出腿部，黑鞋与白袜把重心落回脚下。鞋型细节不足以确认型号。",
+    "poseNote": "交叠双腿，一手搭扶手，视线离开镜头。",
+    "matches": [
+      {
+        "itemId": "shoes-ghbass-penny",
+        "note": "黑色便士乐福鞋可参考这组黑鞋白袜的配法；鞋面款式未证实一致。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-polo",
+        "note": "深色翻领短袖的近似方向；此款深蓝双层领，与照片黑色开领不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/02.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/02.jpg",
+    "provenance": {
+      "sourceCollage": 2,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "4338f0d722a1ed3a7630047eac19846c89ef6e9b7cc90ac12a274ff0e8427288",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "03",
+    "title": "深蓝针织、卡其裤与翻折靴筒",
+    "scene": "咖啡馆",
+    "pose": "坐姿",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes"
+    ],
+    "garments": [
+      "深蓝圆领针织上衣",
+      "卡其宽松长裤",
+      "浅驼色搭扣靴，靴筒翻折"
+    ],
+    "analysis": "深蓝与卡其是主要色块，袖口露一截绿色内搭。照片里的靴子有搭扣与翻折靴筒，不按系带靴处理。",
+    "poseNote": "坐在低矮木台，把一条腿收起，杯子让手部动作自然。",
+    "matches": [
+      {
+        "itemId": "pants-beamsplus-cuffed",
+        "note": "参考卡其直筒裤与靴子相接的长度；本款带翻边，与照片裤型有区别。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/03.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/03.jpg",
+    "provenance": {
+      "sourceCollage": 2,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "d5e9f06e63c78687e657613edb9c626a6121edd668f6d01790fbbffd4d46ab48",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "04",
+    "title": "修身黑上衣与水洗深色牛仔",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "全黑层次",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes"
+    ],
+    "garments": [
+      "修身黑色短袖上衣",
+      "水洗深灰宽直筒牛仔裤",
+      "黑色低帮鞋"
+    ],
+    "analysis": "贴身上衣与较宽的裤腿形成对比。黑鞋仅见轮廓，不把它标成某款靴子。",
+    "poseNote": "一手插袋，另一侧手臂放松，身体倚靠卷帘门。",
+    "matches": [
+      {
+        "itemId": "pants-nomanual-washed-denim",
+        "note": "同为深色水洗牛仔方向；洗色与裤腿轮廓不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-asket-tee",
+        "note": "黑色圆领短袖可参考；ASKET 为常规直身，照片上衣更贴身。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/04.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/04.jpg",
+    "provenance": {
+      "sourceCollage": 2,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1441,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "ea09aec3d30e8ae03ecfac9e6957f6a788bbb3ad9bcfa5b84749d3535e104583",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "05",
+    "title": "浅米格纹西装与棕色领带",
+    "scene": "室内",
+    "pose": "镜前",
+    "palette": "柔和浅色",
+    "categories": [
+      "outerwear",
+      "shirts",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "浅米色格纹西装套装",
+      "浅色衬衫",
+      "棕色领带"
+    ],
+    "analysis": "低对比度西装用棕色领带压住中心。格纹、肩线和驳领是查款重点；现有短外套不作为西装替代款。",
+    "poseNote": "镜前略微前倾，让领带与驳领保持完整可见。",
+    "matches": [],
+    "searchTerms": [
+      "浅米 格纹 男士 西装 宽肩 双扣",
+      "棕色 纯色 领带"
+    ],
+    "image": "assets/references/douyin78/full/05.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/05.jpg",
+    "provenance": {
+      "sourceCollage": 3,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "e8b0c8fa3da4421c27f68ab4287b844e665ee94842254fcfefb9c4f2c3b70649",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "06",
+    "title": "深蓝短外套，领口留出空间",
+    "scene": "公园",
+    "pose": "站姿",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "outerwear",
+      "accessories"
+    ],
+    "garments": [
+      "深蓝翻领短外套",
+      "深色太阳镜"
+    ],
+    "analysis": "领口敞开、肩部宽松，整体依靠短外套的轮廓成立。图片没有足够细节判断面料成分。",
+    "poseNote": "侧身抬头，利用树荫和侧光，双臂自然向后。",
+    "matches": [
+      {
+        "itemId": "global-nm-trucker",
+        "note": "借鉴短款翻领外套的长度；此商品是靛蓝牛仔，不能当作照片面料同款。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/06.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/06.jpg",
+    "provenance": {
+      "sourceCollage": 3,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "e101e216508296cf70a2ecc1ec8c325e0c4285f1367bdb9807b37dcd32cedd0d",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "07",
+    "title": "灰色短袖与浅蓝牛仔",
+    "scene": "咖啡馆",
+    "pose": "坐姿",
+    "palette": "灰蓝日常",
+    "categories": [
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "灰色贴身短袖上衣",
+      "浅蓝水洗牛仔裤",
+      "深蓝字母棒球帽"
+    ],
+    "analysis": "上衣收窄、牛仔裤放宽，灰与浅蓝容易重复穿。字母帽的图案不足以确认品牌。",
+    "poseNote": "低头吃东西或拿杯子，让抓拍动作成为照片内容。",
+    "matches": [
+      {
+        "itemId": "pants-beams-wide-denim",
+        "note": "参考浅蓝阔腿牛仔的体积；洗色和具体版型不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/07.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/07.jpg",
+    "provenance": {
+      "sourceCollage": 3,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1440,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "c5775881cd5a396a8d73d0bb2c521416fdde0ffdf4785e2e52af4efd24ba4c99",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  }
+]

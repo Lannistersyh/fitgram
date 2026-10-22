@@ -1,0 +1,360 @@
+[
+  {
+    "id": "08",
+    "title": "白衬衫和深色阔腿裤",
+    "scene": "露台",
+    "pose": "坐姿",
+    "palette": "黑白中性",
+    "categories": [
+      "shirts",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "白色宽松衬衫",
+      "深色阔腿长裤",
+      "黑色框架眼镜"
+    ],
+    "analysis": "白衬衫解开领口，宽裤在坐下时形成褶皱。照片中没有领带，鞋未完整展示。",
+    "poseNote": "侧坐，双腿朝一个方向放松，低头看手机。",
+    "matches": [
+      {
+        "itemId": "ref-asket-oxford",
+        "note": "纯白长袖衬衫的真实选品；该款为纽扣领牛津纺、经典直身版，照片领型和宽松程度不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-fredperry-pleated",
+        "note": "深色褶饰阔腿裤的替代方向，照片型号未核实。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "白色 男士 宽松 长袖 衬衫 落肩"
+    ],
+    "image": "assets/references/douyin78/full/08.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/08.jpg",
+    "provenance": {
+      "sourceCollage": 3,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1440,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "8e0ef151590fb80108b5554a9d5e17985519f8cd7e1b335d76dfc3ed8c5ba3cf",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "09",
+    "title": "格纹外衬、白背心和浅色牛仔",
+    "scene": "露台",
+    "pose": "坐姿",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "shirts",
+      "tops",
+      "pants"
+    ],
+    "garments": [
+      "绿棕色格纹外穿衬衫",
+      "白色背心",
+      "浅蓝宽腿牛仔裤"
+    ],
+    "analysis": "把格纹衬衫敞开，白色背心露出足够面积；浅色牛仔延续轻松的体积感。",
+    "poseNote": "身体略向后，手托下巴，一条手臂松松放在椅背。",
+    "matches": [
+      {
+        "itemId": "shirt-cn-chxsti037122rgrd",
+        "note": "绿调格纹翻领衬衫是近似选品；格纹比例不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-beams-wide-denim",
+        "note": "浅蓝宽腿牛仔可参考，非已核实照片同款。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/09.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/09.jpg",
+    "provenance": {
+      "sourceCollage": 4,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "2fe157550f0851e54b2e7b4abd9417e20a2dece77cae391f444207e7c73ba4ef",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "10",
+    "title": "深蓝衬衫与奶白长裤",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "蓝色与卡其",
+    "categories": [
+      "shirts",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "深蓝宽松长袖衬衫",
+      "奶白宽松长裤",
+      "深色手拿包"
+    ],
+    "analysis": "长袖卷起一点，让深蓝上身不显得沉重。浅裤衔接日光，包作为深色小面积。",
+    "poseNote": "侧身靠墙，转头看向镜头，一手拿包。",
+    "matches": [
+      {
+        "itemId": "shirt-cn-chxsti033814rnyd",
+        "note": "藏青翻领衬衫可借鉴配色；双口袋结构不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-carhartt-ivory",
+        "note": "米白裤的近似颜色，口袋与版型不同。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/10.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/10.jpg",
+    "provenance": {
+      "sourceCollage": 4,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "b7c1382f64f1487311a155892c1851b12937066669e14022aaba72da3d27c482",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "11",
+    "title": "蓝衬衫，用红色针织做重点",
+    "scene": "门口",
+    "pose": "站姿",
+    "palette": "亮色点缀",
+    "categories": [
+      "shirts",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "亮蓝宽松衬衫",
+      "红色针织披肩",
+      "蓝色牛仔裤与深色皮带"
+    ],
+    "analysis": "蓝色面积大，红色只留在肩颈。衬衫下摆塞入裤腰，让腰线清楚。",
+    "poseNote": "倚门站立，头略侧，肩上针织两侧自然下垂。",
+    "matches": [
+      {
+        "itemId": "global-nm-cpo",
+        "note": "同为蓝色衬衫配牛仔的思路；该款为较深靛蓝，颜色和领型不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-beams-wide-denim",
+        "note": "用浅蓝宽腿牛仔延续整身蓝调。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "红色 圆领 羊毛 针织 男"
+    ],
+    "image": "assets/references/douyin78/full/11.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/11.jpg",
+    "provenance": {
+      "sourceCollage": 4,
+      "position": "左下",
+      "crop": {
+        "x": 0,
+        "y": 1440,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "2180026a5617c10d75cc7137423dff0c3f943337b88f40d0ec64649fdd4423ec",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "12",
+    "title": "黑色翻领皮衣与白色内搭",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "全黑层次",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "黑色翻领多口袋短皮衣",
+      "白色低领内搭",
+      "黑色牛仔裤与黑色皮带"
+    ],
+    "analysis": "白内搭在领口与下摆露出，短皮衣和黑裤围出清楚的腰线。此处按多口袋皮夹克观察，不标成斜拉链机车款。",
+    "poseNote": "一手抬到后脑，另一手拿包，肘部打开上半身轮廓。",
+    "matches": [
+      {
+        "itemId": "global-nm-rivet",
+        "note": "黑色短皮夹克的近似选择；门襟和口袋设计与照片不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-nomanual-washed-denim",
+        "note": "深色水洗牛仔可参考，但不是照片黑裤的同款。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/12.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/12.jpg",
+    "provenance": {
+      "sourceCollage": 4,
+      "position": "右下",
+      "crop": {
+        "x": 1080,
+        "y": 1440,
+        "width": 1080,
+        "height": 1440
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1440,
+      "originalCropSha256": "f25dd69a7bdd90660415610e321136e994f96523e2986f5398174b32555fab4d",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "13",
+    "title": "黑衬衫与深棕长裤",
+    "scene": "室内",
+    "pose": "坐姿",
+    "palette": "棕黑暖调",
+    "categories": [
+      "shirts",
+      "pants",
+      "jewelry"
+    ],
+    "garments": [
+      "黑色长袖衬衫",
+      "深棕色宽松长裤",
+      "细银色项链"
+    ],
+    "analysis": "黑与深棕靠材质明暗区分，项链只占领口小面积。照片中的裤面不能直接判断为灯芯绒。",
+    "poseNote": "坐在台沿，双手放在腿间，略含胸，视线偏向一侧。",
+    "matches": [
+      {
+        "itemId": "shirt-cn-polo-oxford-black",
+        "note": "黑色衬衫近似选品；牛津纺质感与照片未必相同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "pants-gramicci-corduroy",
+        "note": "借鉴棕色宽松裤的色块；本款明确是灯芯绒。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "global-ab-string",
+        "note": "细银链的佩戴思路，照片项链材质型号未证实。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [],
+    "image": "assets/references/douyin78/full/13.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/13.jpg",
+    "provenance": {
+      "sourceCollage": 5,
+      "position": "左上",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "1ce68b0040f480459d4106bd1288e9e5bc2eab0da36b87f7d0d905dc003aa04a",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  },
+  {
+    "id": "14",
+    "title": "短外套搭灰色宽裤，蓝帽点睛",
+    "scene": "街道",
+    "pose": "站姿",
+    "palette": "灰蓝日常",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "深色短外套",
+      "白色内搭",
+      "灰色宽松长裤",
+      "亮蓝棒球帽与白色运动鞋"
+    ],
+    "analysis": "白内搭露在短外套下方，灰裤把下半身放宽，亮蓝帽负责一点颜色。",
+    "poseNote": "把饮料抬至脸前，一腿略放松，不必正对镜头。",
+    "matches": [
+      {
+        "itemId": "global-nm-rivet",
+        "note": "可参考黑色短外套与白内搭的长度关系；外套细节不同。",
+        "level": "similar-style"
+      },
+      {
+        "itemId": "ref-nm-dylan",
+        "note": "参考宽松裤腿与短外套的比例；该款黑色直筒褶裥工作裤，不是照片灰色阔腿西裤。",
+        "level": "similar-style"
+      }
+    ],
+    "searchTerms": [
+      "灰色 男士 褶裥 阔腿 西裤"
+    ],
+    "image": "assets/references/douyin78/full/14.jpg",
+    "thumbnail": "assets/references/douyin78/thumb/14.jpg",
+    "provenance": {
+      "sourceCollage": 5,
+      "position": "右上",
+      "crop": {
+        "x": 1080,
+        "y": 0,
+        "width": 1080,
+        "height": 1441
+      },
+      "originalCropWidth": 1080,
+      "originalCropHeight": 1441,
+      "originalCropSha256": "064dea430a68cdc7177b359ea27775f824a3740cd8b30f45b31709b2c46e28bb",
+      "independentOriginalFound": false,
+      "originalPhotoUrl": null
+    }
+  }
+]

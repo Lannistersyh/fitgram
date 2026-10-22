@@ -22,6 +22,10 @@ for category in ('shoes', 'shirts', 'outerwear', 'jewelry'):
     international.extend(records)
 assert all(p.get('collection') == 'international' for p in international)
 items.extend(international)
+addition_path = ROOT / 'assets/research/catalog-reference-additions.json'
+additions = json.loads(addition_path.read_text()) if addition_path.exists() else []
+assert all(p.get('collection') == 'reference' for p in additions)
+items.extend(additions)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}
 for outfit in outfits:
@@ -34,9 +38,21 @@ for outfit in international_outfits:
     assert len(outfit['items']) == 4
     assert all(item_id in {p['id'] for p in international} for item_id in outfit['items'])
     assert {next(p['category'] for p in international if p['id'] == item_id) for item_id in outfit['items']} == {'shoes', 'shirts', 'outerwear', 'jewelry'}
-data = {'version': 2, 'verifiedAt': '2026-10-22', 'type': 'editorial-style-and-shopping-selection',
+data = {'version': 3, 'verifiedAt': '2026-10-22', 'type': 'editorial-style-and-shopping-selection',
         'note': '搭配选品，不代表已证实的艺人同款。价格按官网地区保留原币种，非大陆到手价。',
         'preferences': json.loads((ROOT / 'assets/research/purchasing-preferences.json').read_text()),
         'items': items, 'outfits': outfits, 'internationalOutfits': international_outfits}
 (ROOT / 'js/catalog-data.js').write_text('/* 真实商品目录；由 tools/build_catalog.py 从核验记录生成。 */\nwindow.FITGRAM_CATALOG = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n')
-print(json.dumps({'items': len(items), 'categories': {c: sum(p['category'] == c for p in items) for c in ('shoes', 'pants', 'shirts', 'outerwear', 'jewelry')}, 'international': len(international), 'outfits': len(outfits)}, ensure_ascii=False))
+print(json.dumps({'items': len(items), 'categories': {c: sum(p['category'] == c for p in items) for c in ('shoes', 'pants', 'shirts', 'outerwear', 'jewelry', 'tops')}, 'international': len(international), 'outfits': len(outfits)}, ensure_ascii=False))
+
+# 穿搭参考独立于原始 IG 档案，避免把整理选辑当作原作者帖文。
+reference_looks = []
+for index in range(1, 5):
+    reference_looks.extend(json.loads((ROOT / 'assets/research' / ('reference-looks-' + str(index) + '.json')).read_text()))
+assert len(reference_looks) == 28
+assert len({look['id'] for look in reference_looks}) == 28
+for look in reference_looks:
+    assert all(match['itemId'] in ids and match['level'] == 'similar-style' for match in look['matches'])
+references = {'version': 1, 'source': json.loads((ROOT / 'assets/research/reference-source.json').read_text()), 'looks': reference_looks}
+(ROOT / 'js/reference-data.js').write_text('/* 28 张真实照片及逐张观察，由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_REFERENCES = ' + json.dumps(references, ensure_ascii=False, separators=(',', ':')) + ';\n')
+print('Reference looks:', len(reference_looks))

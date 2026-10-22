@@ -12,11 +12,11 @@
   }
   ;
   function renderNavigation(){
-    const links=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','单品图鉴'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
+    const links=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','分类图鉴'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
     const item=([route,icon,label])=>'<a class="nav-link" href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></a>';
     const action=(name,icon,label)=>'<button class="nav-link" data-action="'+name+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></button>';
     document.getElementById('desktop-nav').innerHTML=links.map(item).join('')+action('messages','external','来源链接')+action('notifications','info','资料状态')+action('create','plus-square','创建')+item(['/closet','hanger','我的衣橱']);
-    document.getElementById('mobile-nav').innerHTML=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','单品图鉴'],['/closet','bookmark','我的衣橱'],['/bloggers','user','来源图鉴']].map(([route,icon,label])=>'<a href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'</a>').join('');
+    document.getElementById('mobile-nav').innerHTML=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','分类图鉴'],['/closet','bookmark','我的衣橱'],['/bloggers','user','来源图鉴']].map(([route,icon,label])=>'<a href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'</a>').join('');
     document.querySelectorAll('[data-icon]').forEach(el=>el.innerHTML=C.icon(el.dataset.icon));
   }
   A.syncPost=function(id){
@@ -180,7 +180,7 @@
     }
     ,
     'close-panel':()=>A.closePanel(),messages:()=>openPanel('来源链接',renderMessages()),message:b=>openPanel('原账号',renderMessages(b.dataset.id)),notifications:notifications,create:createPanel,
-    'more-post':b=>morePost(b.dataset.id),more:()=>openPanel('继续发现','<div class="panel-menu"><a href="#/catalog">单品图鉴 '+C.icon('hanger',16)+'</a><a href="#/reels">造型速览 '+C.icon('reels',16)+'</a><a href="#/compare">日韩对照 '+C.icon('arrow-right',16)+'</a><a href="#/trends">造型观察 '+C.icon('arrow-right',16)+'</a><a href="#/bloggers">来源图鉴 '+C.icon('arrow-right',16)+'</a><button data-action="create">我的穿搭笔记 '+C.icon('edit',16)+'</button><a href="#/about">关于与免责声明 '+C.icon('info',16)+'</a></div>'),
+    'more-post':b=>morePost(b.dataset.id),more:()=>openPanel('继续发现','<div class="panel-menu"><a href="#/catalog">分类图鉴 '+C.icon('hanger',16)+'</a><a href="#/reels">造型速览 '+C.icon('reels',16)+'</a><a href="#/compare">日韩对照 '+C.icon('arrow-right',16)+'</a><a href="#/trends">造型观察 '+C.icon('arrow-right',16)+'</a><a href="#/bloggers">来源图鉴 '+C.icon('arrow-right',16)+'</a><button data-action="create">我的穿搭笔记 '+C.icon('edit',16)+'</button><a href="#/about">关于与免责声明 '+C.icon('info',16)+'</a></div>'),
     follow:follow,'profile-tab':b=>A.views.setProfileTab(b.dataset.id||A.state.route.split('/')[2],b.dataset.tab),'closet-tab':b=>{
       A.state.closetTab=b.dataset.tab;
       A.router.render(true);

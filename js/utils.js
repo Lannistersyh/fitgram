@@ -35,5 +35,5 @@
     let timer;
     return function () { clearTimeout(timer); const args = arguments; timer = setTimeout(() => fn.apply(null, args), ms); };
   };
-  U.footer = () => '<footer class="footer"><div class="footer__links"><a href="#/catalog">单品图鉴</a><a href="#/about">关于与来源说明</a><a href="#/compare">日韩对照</a><a href="#/bloggers">来源图鉴</a><a href="#/trends">造型观察</a></div><p>本地穿搭资料索引。图片版权归原作者及品牌所有，每套均保留来源链接。单品按证据标注为已确认型号、仅确认品牌或视觉判断；未核实的型号、材质、价格和互动量不补造。收藏与评论只保存在本机，不会同步到 Instagram。</p><div class="footer__wordmark">FITGRAM · REAL LOOKS, TRACEABLE SOURCES</div></footer>';
+  U.footer = () => '<footer class="footer"><div class="footer__links"><a href="#/catalog">分类图鉴</a><a href="#/about">关于与来源说明</a><a href="#/compare">日韩对照</a><a href="#/bloggers">来源图鉴</a><a href="#/trends">造型观察</a></div><p>本地穿搭资料索引。图片版权归原作者及品牌所有，每套均保留来源链接。单品按证据标注为已确认型号、仅确认品牌或视觉判断；未核实的型号、材质、价格和互动量不补造。收藏与评论只保存在本机，不会同步到 Instagram。</p><div class="footer__wordmark">FITGRAM · REAL LOOKS, TRACEABLE SOURCES</div></footer>';
 })();
