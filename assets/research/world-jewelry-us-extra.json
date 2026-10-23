@@ -1,0 +1,58 @@
+[
+  {
+    "id": "more-us-giles-spike",
+    "brand": "Giles & Brother",
+    "name": "Giles & Brother 铁路钉仿古黄铜手镯",
+    "model": "Railroad Spike Original Cuff",
+    "color": "Antique Brass",
+    "price": 135,
+    "currency": "USD",
+    "jewelryType": "bracelet",
+    "sku": "MC0001AB",
+    "skuType": "manufacturer",
+    "productUrl": "https://gilesandbrother.com/products/the-original-railroad-spike?variant=21636006707260",
+    "storeName": "Giles & Brother 官网",
+    "sourceType": "official-brand",
+    "tags": [
+      "黄铜做旧",
+      "开口硬镯",
+      "铁路工装意象"
+    ],
+    "material": "实心黄铜，Antique Brass 仿古黄铜表面处理；此配色不是实银。",
+    "fitNote": "官网标示镯身约0.25英寸厚；本记录货号对应Large，另有Small与Medium，购买前按手腕尺寸核对。",
+    "reason": "把传统铁路钉折成开口手镯，钉头与做旧黄铜为牛仔、麂皮和靴子增加有重量感的细节。",
+    "styling": "搭原色牛仔、棕色皮带与工装夹克，先单戴一只，袖口稍微卷起露出钉头。",
+    "availability": "官网本次结构化资料显示Antique Brass / Large为InStock，其他尺码及结算库存请另行确认。",
+    "category": "jewelry",
+    "collection": "world",
+    "countryId": "us",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "USD 商品页价目快照",
+    "image": "assets/catalog/jewelry/more-us-giles-spike.jpg",
+    "imageSource": "https://gilesandbrother.com/cdn/shop/products/M246_Original_Railroad_Spike_Cuff_Giles_Brother_1024x1024_b5a0abf8-1281-4e79-88d4-eec2e78b3ece_1024x1024.jpg?v=1704206741",
+    "imageKind": "packshot",
+    "imageType": "同款同色单品图",
+    "catalogAvailable": true,
+    "editorialOrder": 210,
+    "mainlandNote": "作为国际款式与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属为编辑搭配方向，不代表制造地。",
+    "imageOptimization": "来源商品图等比例缩小转JPEG；不生成、不补绘、不改变款式。",
+    "materialEvidence": {
+      "url": "https://gilesandbrother.com/products/the-original-railroad-spike?variant=21636006707260",
+      "text": "实心黄铜，Antique Brass 仿古黄铜表面处理；此配色不是实银。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://gilesandbrother.com/products/the-original-railroad-spike?variant=21636006707260",
+      "imagePage": "https://gilesandbrother.com/products/the-original-railroad-spike?variant=21636006707260",
+      "fields": {
+        "nameSku": "官网ProductModel显示Antique Brass / Large变体货号MC0001AB；小号与中号对应WC0001AB。",
+        "price": "2026-10-23对应地区原始商品HTML及结构化Offer的原币种价格快照。",
+        "material": "实心黄铜，Antique Brass 仿古黄铜表面处理；此配色不是实银。",
+        "image": "来自对应商品页的同款同色单品图，已解码并以接触表目视核对。",
+        "stock": "官网本次结构化资料显示Antique Brass / Large为InStock，其他尺码及结算库存请另行确认。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    }
+  }
+]

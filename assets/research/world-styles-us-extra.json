@@ -1,0 +1,76 @@
+[
+  {
+    "id": "us-outdoor",
+    "countryId": "us",
+    "name": "复古户外",
+    "english": "RETRO OUTDOOR",
+    "summary": "奶白长绒、军绿工装与棕皮红鞋带徒步靴，把露营装备的材质带进城市周末。小腰包收住轮廓，保留美式户外的实用颜色。",
+    "silhouette": "有体积的短抓绒夹克 × 简单圆领 T × 军绿直筒裤 × 棕皮登山靴",
+    "palette": [
+      "奶白",
+      "森林绿",
+      "棕皮与红鞋带"
+    ],
+    "signatures": [
+      "绒面主体与对比色胸袋",
+      "金属登山扣、红鞋带和整片皮鞋面",
+      "小腰包＋自然垂落的直筒工装裤"
+    ],
+    "avoid": "把颜色集中在绒衣胸袋和鞋带，裤脚只轻落在靴面。这是城市散步和周末穿搭示例；去真实山地还需按路线、天气和负重选择完整装备。",
+    "styling": "先以黑色薄圆领 T 打底，奶白绒衣留出领口一小圈黑色，绿色胸袋与军绿裤形成深浅层次。裤腿自然盖住登山靴上缘，不把裤脚塞进靴筒。红鞋带作为全套的小亮点；奶白绿小包斜挎到腰侧，深蓝棒球帽呼应包的织带。黄铜钉形手镯只露一点，保留装备感而不过度装饰。",
+    "sources": [
+      {
+        "title": "Patagonia · 当前 Classic Retro-X 23057",
+        "url": "https://www.patagonia.com/product/mens-classic-retro-x-fleece-jacket/23057.html",
+        "note": "当前官网延续标志性的绒衣形态并说明新材料与宽松比例。DNLT 同色图及 EUR 价目另由 Shelta 商品页核验，不混作官网报价。"
+      },
+      {
+        "title": "Danner · Mountain Light Cascade Clovis",
+        "url": "https://www.danner.com/31528",
+        "note": "官网追溯 Mountain Light 至 1979 年，当前仍展示皮革鞋面、登山扣与 Vibram 外底，是复古徒步轮廓的具体锚点。"
+      },
+      {
+        "title": "Topo Designs · Best Sellers Crossbody",
+        "url": "https://topodesigns.com/collections/best-sellers-crossbody",
+        "note": "Mini Quick Pack 出现在官网畅销斜挎包分类。这里依据品牌主线延续与商品呈现做风格选择，不把它当作市场销量排行。"
+      }
+    ],
+    "slots": [
+      {
+        "slot": "bag",
+        "itemId": "more-us-topo-mini",
+        "why": "奶白绿小包补充随身容量，用途和原有双肩包、帆布书包不同。"
+      },
+      {
+        "slot": "shoes",
+        "itemId": "more-us-danner-mountain",
+        "why": "整片棕皮、登山扣和红鞋带构成复古户外识别点。"
+      },
+      {
+        "slot": "top",
+        "itemId": "ref-asket-tee",
+        "why": "复用简洁黑圆领，避免和胸袋、包、鞋带一起增加图案。"
+      },
+      {
+        "slot": "outerwear",
+        "itemId": "more-us-patagonia-retrox",
+        "why": "奶白长绒和绿胸袋建立这一套的材质与颜色中心。"
+      },
+      {
+        "slot": "pants",
+        "itemId": "pants-carhartt-army-cargo",
+        "why": "复用军绿多口袋直筒工装裤；裤腿留出覆盖靴口的余量。"
+      },
+      {
+        "slot": "jewelry",
+        "itemId": "more-us-giles-spike",
+        "why": "仿古黄铜铁路钉手镯保留工具形态，只作一处低调装饰。"
+      },
+      {
+        "slot": "accessory",
+        "itemId": "world-us-newera-cap",
+        "why": "复用深蓝棒球帽，呼应包的深蓝织带，维持周末实用气质。"
+      }
+    ]
+  }
+]

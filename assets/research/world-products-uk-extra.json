@@ -1,0 +1,170 @@
+[
+  {
+    "id": "more-uk-allsaints-milo",
+    "brand": "ALLSAINTS",
+    "category": "outerwear",
+    "name": "Milo 黑色斜拉链羊皮骑士夹克",
+    "model": "Milo Biker",
+    "color": "Black",
+    "price": 107800,
+    "currency": "JPY",
+    "tags": [
+      "黑色骑士夹克",
+      "斜拉链",
+      "窄身剪裁"
+    ],
+    "material": "日本官网该款标注：表层 100% 羔羊皮；身部和袖部里料均为 100% 聚酯纤维。",
+    "fitNote": "Slim fit；日本官网 M 码衣长约 67.5 cm、肩宽约 43.5 cm。先比较肩胸和活动余量，再考虑里面叠什么。",
+    "reason": "斜拉链、按扣翻领和袖口拉链提供摇滚方向的金属结构，与 Mod 的收口 Harrington 和 Polo 清楚区分。",
+    "styling": "配纯黑圆领 T、黑直筒褶裤和厚底系带靴；夹克敞开，腰带和戒指保留少量金属光。",
+    "availability": "日本官网保留 JPY 107,800 含税价目和尺码选择；未核实各尺码现货及海外配送，页面活动不等于最终结算优惠。",
+    "productUrl": "https://www.allsaints.jp/c/mens/M062LB-5",
+    "sku": "M062LB-5",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "uk",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "日本官网 JPY 含税价目",
+    "storeName": "ALLSAINTS 日本官网",
+    "image": "assets/catalog/outerwear/more-uk-allsaints-milo.jpg",
+    "imageSource": "https://allsaints.itembox.cloud/product/028/000000002866/000000002866-01.jpg?size=l&w=ODAw&t=20250331174233",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "imageType": "品牌同款真人上身图",
+    "editorialOrder": 203,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://www.allsaints.jp/c/mens/M062LB-5",
+      "text": "日本官网该款标注：表层 100% 羔羊皮；身部和袖部里料均为 100% 聚酯纤维。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.allsaints.jp/c/mens/M062LB-5",
+      "imagePage": "https://www.allsaints.jp/c/mens/M062LB-5",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "日本官网该款标注：表层 100% 羔羊皮；身部和袖部里料均为 100% 聚酯纤维。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "日本官网保留 JPY 107,800 含税价目和尺码选择；未核实各尺码现货及海外配送，页面活动不等于最终结算优惠。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "worn",
+    "outerwearType": "jacket"
+  },
+  {
+    "id": "more-uk-dm-satchel",
+    "brand": "Dr. Martens",
+    "category": "bags",
+    "name": "Buckle 7 Inch 全黑交叉扣带小皮包",
+    "model": "Buckle 7 Inch Leather Satchel",
+    "color": "Black + Black",
+    "price": 79,
+    "currency": "GBP",
+    "tags": [
+      "小号皮斜挎包",
+      "交叉双扣",
+      "全黑"
+    ],
+    "material": "100% 皮革；官网具体列 Kiev 与 Polished Smooth 两种皮革，不推定动物种类。",
+    "fitNote": "约 17.8 × 12.7 × 5.1 cm，肩带约 114 cm；小容量，先核对手机连壳尺寸。",
+    "reason": "交叉皮扣带带来结构感，小体积贴近身体，比 Mod 圆筒运动包更适合黑皮衣和厚底靴。",
+    "styling": "肩带缩短，让包落在腰胯；黑包身衔接皮衣，只留扣具的小面积反光。",
+    "availability": "英国官网明确标记已不再销售／缺货；GBP 79 为留存价目。保留作真实款式参考，不承诺可买到。",
+    "productUrl": "https://www.drmartens.com/uk/en_gb/7-leather-satchel-black-black/p/AC802001",
+    "sku": "AC802001",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "uk",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "国际官网 GBP 价目",
+    "storeName": "Dr. Martens 官方网站",
+    "image": "assets/catalog/bags/more-uk-dm-satchel.jpg",
+    "imageSource": "https://cdn.media.amplience.net/i/drmartens/AC802001.80?fmt=jpg&qlt=90&sm=center&upscale=false&w=1100",
+    "catalogAvailable": false,
+    "sourceType": "official-brand",
+    "imageType": "官方商品页同色单品图",
+    "editorialOrder": 204,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://www.drmartens.com/uk/en_gb/7-leather-satchel-black-black/p/AC802001",
+      "text": "100% 皮革；官网具体列 Kiev 与 Polished Smooth 两种皮革，不推定动物种类。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.drmartens.com/uk/en_gb/7-leather-satchel-black-black/p/AC802001",
+      "imagePage": "https://www.drmartens.com/uk/en_gb/7-leather-satchel-black-black/p/AC802001",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "100% 皮革；官网具体列 Kiev 与 Polished Smooth 两种皮革，不推定动物种类。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "英国官网明确标记已不再销售／缺货；GBP 79 为留存价目。保留作真实款式参考，不承诺可买到。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "packshot",
+    "bagType": "crossbody"
+  },
+  {
+    "id": "more-uk-allsaints-belt",
+    "brand": "ALLSAINTS",
+    "category": "accessories",
+    "name": "Cal Eyelet 黑色金属孔眼牛皮腰带",
+    "model": "Cal Eyelet Belt",
+    "color": "Black",
+    "price": 19800,
+    "currency": "JPY",
+    "tags": [
+      "金属孔眼",
+      "3cm窄腰带",
+      "黑牛皮"
+    ],
+    "material": "100% 牛皮；金属单针扣与孔眼饰钉，官网未标注五金合金成分。",
+    "fitNote": "宽约 30 mm；按官网腰围和裤耳宽度核对尺码，扣后余带收进皮带环。",
+    "reason": "连续金属孔眼比普通滚轴扣更有音乐街头感；窄带宽不会盖住短皮衣下面的腰线。",
+    "styling": "全黑上下装中只露一段孔眼，项链可省去，把首饰重点留给一枚黑珐琅银戒。",
+    "availability": "日本官网保留 JPY 19,800 含税价目；未逐一核实尺码和海外配送。",
+    "productUrl": "https://www.allsaints.jp/c/mens/m_slg/m_belt/M034XE-5",
+    "sku": "M034XE-5",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "uk",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "日本官网 JPY 含税价目",
+    "storeName": "ALLSAINTS 日本官网",
+    "image": "assets/catalog/accessories/more-uk-allsaints-belt.jpg",
+    "imageSource": "https://allsaints.itembox.cloud/product/127/000000012766/000000012766-01.jpg?size=l&w=ODAw&t=20260120112343",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "imageType": "官方商品页同色单品图",
+    "editorialOrder": 205,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://www.allsaints.jp/c/mens/m_slg/m_belt/M034XE-5",
+      "text": "100% 牛皮；金属单针扣与孔眼饰钉，官网未标注五金合金成分。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.allsaints.jp/c/mens/m_slg/m_belt/M034XE-5",
+      "imagePage": "https://www.allsaints.jp/c/mens/m_slg/m_belt/M034XE-5",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "100% 牛皮；金属单针扣与孔眼饰钉，官网未标注五金合金成分。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "日本官网保留 JPY 19,800 含税价目；未逐一核实尺码和海外配送。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "packshot",
+    "accessoryType": "belt"
+  }
+]

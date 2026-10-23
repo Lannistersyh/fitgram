@@ -1,0 +1,58 @@
+[
+  {
+    "id": "more-uk-serge-signet",
+    "brand": "Serge DeNimes",
+    "name": "Serge DeNimes Abyssal 黑珐琅星芒印章戒",
+    "model": "Silver Abyssal Signet Ring",
+    "color": "Silver / black enamel",
+    "price": 140,
+    "currency": "GBP",
+    "jewelryType": "ring",
+    "sku": "S-ABY-RNG-L",
+    "skuType": "manufacturer",
+    "productUrl": "https://www.sergedenimes.com/products/silver-abyssal-signet-ring?variant=39533996441713",
+    "storeName": "Serge DeNimes 官网",
+    "sourceType": "official-brand",
+    "tags": [
+      "黑色珐琅",
+      "八芒星",
+      "印章戒"
+    ],
+    "material": "925 Sterling Silver银，做旧处理；黑色珐琅戒面及透明立方氧化锆。",
+    "fitNote": "官网称约7g；有英国L、N、P、S、U、W尺码，记录货号对应L，需按官方内径表选码。",
+    "reason": "传统印章戒改成窄戒臂和黑色矩形戒面，小颗锆石嵌入八芒星，适合英伦街头的克制装饰。",
+    "styling": "搭Harrington或短款羊毛夹克与黑色德比鞋；单只印章戒即可，让星芒成为手部焦点。",
+    "availability": "官网本次结构化Offer显示L尺码为InStock及GBP140；其他尺码和实际结算价格请再核对。",
+    "category": "jewelry",
+    "collection": "world",
+    "countryId": "uk",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "GBP 商品页价目快照",
+    "image": "assets/catalog/jewelry/more-uk-serge-signet.jpg",
+    "imageSource": "https://www.sergedenimes.com/cdn/shop/files/Silver-Abyssal-Ring-Product-Shot-Tilt-White.jpg?v=1760094369&width=1200",
+    "imageKind": "packshot",
+    "imageType": "同款同色单品图",
+    "catalogAvailable": true,
+    "editorialOrder": 211,
+    "mainlandNote": "作为国际款式与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属为编辑搭配方向，不代表制造地。",
+    "imageOptimization": "来源商品图等比例缩小转JPEG；不生成、不补绘、不改变款式。",
+    "materialEvidence": {
+      "url": "https://www.sergedenimes.com/products/silver-abyssal-signet-ring?variant=39533996441713",
+      "text": "925 Sterling Silver银，做旧处理；黑色珐琅戒面及透明立方氧化锆。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.sergedenimes.com/products/silver-abyssal-signet-ring?variant=39533996441713",
+      "imagePage": "https://www.sergedenimes.com/products/silver-abyssal-signet-ring?variant=39533996441713",
+      "fields": {
+        "nameSku": "官网Product及Offer显示英国L尺码货号S-ABY-RNG-L；其他尺码有不同后缀。",
+        "price": "2026-10-23对应地区原始商品HTML及结构化Offer的原币种价格快照。",
+        "material": "925 Sterling Silver银，做旧处理；黑色珐琅戒面及透明立方氧化锆。",
+        "image": "来自对应商品页的同款同色单品图，已解码并以接触表目视核对。",
+        "stock": "官网本次结构化Offer显示L尺码为InStock及GBP140；其他尺码和实际结算价格请再核对。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    }
+  }
+]

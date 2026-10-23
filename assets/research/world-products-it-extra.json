@@ -1,0 +1,116 @@
+[
+  {
+    "id": "more-it-fila-settanta",
+    "brand": "FILA",
+    "category": "outerwear",
+    "name": "FILA Settanta 深蓝奶白撞片运动外套",
+    "model": "Peacoat Settanta Baseball Track Top",
+    "color": "Peacoat / Gardenia / Chinese Red",
+    "price": 75,
+    "currency": "GBP",
+    "tags": [
+      "1970年代运动语汇",
+      "奶白侧片",
+      "意大利风格选品"
+    ],
+    "material": "65%聚酯、35%棉。",
+    "fitNote": "拉链前襟、罗纹棒球领及袖口下摆，海军蓝主体与奶白侧片、红色窄条。",
+    "reason": "官方仍提供的 Settanta 档案式运动轮廓，用撞片和红白罗纹区别于极简运动开衫。",
+    "styling": "拉链停在胸口，露奶白竖条Polo；运动裤不过长，白球鞋保持轻盈。",
+    "availability": "官网对应商品页仍可查看；尺码库存和大陆配送未逐项核实，以购买前确认结果为准。",
+    "productUrl": "https://fila.co.uk/products/settanta-baseball-track-jacket-lm161rn1-411",
+    "sku": "LM161RN1-411",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "it",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "GBP 官网价目快照",
+    "storeName": "FILA 英国官网",
+    "image": "assets/catalog/outerwear/more-it-fila-settanta.jpg",
+    "imageSource": "https://fila.co.uk/cdn/shop/files/SETTANTA_JKT-LM161RN1-411_01_29e4bdf6-2759-4ac5-8c32-f32e7191794a.jpg?v=1776761750&width=1200",
+    "imageKind": "packshot",
+    "imageType": "品牌同款同色单品图",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "editorialOrder": 177,
+    "mainlandNote": "以国际官网款式作审美与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属是编辑搭配方向，不代表全部品牌国籍。",
+    "materialEvidence": {
+      "url": "https://fila.co.uk/products/settanta-baseball-track-jacket-lm161rn1-411",
+      "text": "65%聚酯、35%棉。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://fila.co.uk/products/settanta-baseball-track-jacket-lm161rn1-411",
+      "imagePage": "https://fila.co.uk/products/settanta-baseball-track-jacket-lm161rn1-411",
+      "fields": {
+        "nameSku": "官网名称、款号及该配色；FILA 使用 Style ID，不把尺码条码当作款号。",
+        "price": "2026-10-23 直接读取对应地区商品页及结构化 Offer，采用原币种；价格可能变化。",
+        "material": "65%聚酯、35%棉。",
+        "image": "来自对应官网商品页的单品展示照片，已目视核对款式及颜色。",
+        "stock": "仅确认当前可查看商品资料，未逐码验证结算和大陆配送。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    },
+    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。",
+    "outerwearType": "jacket",
+    "wearImage": "assets/catalog/outerwear/more-it-fila-settanta-worn.jpg",
+    "wearImageSource": "https://fila.co.uk/cdn/shop/files/SETTANTA_JKT-LM161RN1-411_15_ece07e26-49da-4f03-804b-9c2ce8c02579.jpg?v=1787146215&width=1920",
+    "wearImageType": "品牌同款同色真人上身图"
+  },
+  {
+    "id": "more-it-fila-bb1",
+    "brand": "FILA",
+    "category": "tops",
+    "name": "FILA BB1 奶白竖条纹运动 Polo",
+    "model": "Angora Performance Iconic BB1 Polo",
+    "color": "Angora / FILA Navy / FILA Red",
+    "price": 65,
+    "currency": "GBP",
+    "tags": [
+      "BB1竖条纹",
+      "红蓝领口",
+      "意大利风格选品"
+    ],
+    "material": "84%再生聚酯、16%氨纶；官网列165 g/m²面料。",
+    "fitNote": "短袖翻领与短门襟，奶白主体、细竖条纹和深蓝领口、红色小面积点缀。",
+    "reason": "以BB1档案条纹为核心的当前运动面料版本，给深色套装加入清楚的竖线。",
+    "styling": "穿在深蓝短运动夹克里；下装保持纯色，领子自然落在拉链内，不再叠项链抢领口。",
+    "availability": "官网对应商品页仍可查看；尺码库存和大陆配送未逐项核实，以购买前确认结果为准。",
+    "productUrl": "https://fila.co.uk/products/performance-iconic-bb1-polo-tm431119-922",
+    "sku": "TM431119-922",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "it",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "GBP 官网价目快照",
+    "storeName": "FILA 英国官网",
+    "image": "assets/catalog/tops/more-it-fila-bb1.jpg",
+    "imageSource": "https://fila.co.uk/cdn/shop/files/TM431119_922_01_e.jpg?v=1747841003&width=1920",
+    "imageKind": "packshot",
+    "imageType": "品牌同款同色单品图",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "editorialOrder": 178,
+    "mainlandNote": "以国际官网款式作审美与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属是编辑搭配方向，不代表全部品牌国籍。",
+    "materialEvidence": {
+      "url": "https://fila.co.uk/products/performance-iconic-bb1-polo-tm431119-922",
+      "text": "84%再生聚酯、16%氨纶；官网列165 g/m²面料。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://fila.co.uk/products/performance-iconic-bb1-polo-tm431119-922",
+      "imagePage": "https://fila.co.uk/products/performance-iconic-bb1-polo-tm431119-922",
+      "fields": {
+        "nameSku": "官网名称、款号及该配色；FILA 使用 Style ID，不把尺码条码当作款号。",
+        "price": "2026-10-23 直接读取对应地区商品页及结构化 Offer，采用原币种；价格可能变化。",
+        "material": "84%再生聚酯、16%氨纶；官网列165 g/m²面料。",
+        "image": "来自对应官网商品页的单品展示照片，已目视核对款式及颜色。",
+        "stock": "仅确认当前可查看商品资料，未逐码验证结算和大陆配送。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    },
+    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。"
+  }
+]

@@ -40,9 +40,22 @@ for country_id in ('us', 'uk', 'fr', 'it'):
         assert package['country']['id'] == country_id
         world_countries.append(package['country'])
         assert len(package['styles']) == 3, country_id
+        extra_style_path = ROOT / 'assets/research' / ('world-styles-' + country_id + '-extra.json')
+        if extra_style_path.exists():
+            extra_styles = json.loads(extra_style_path.read_text())
+            for style in extra_styles:
+                style['isNew'] = True
+            package['styles'].extend(extra_styles)
         for order, style in enumerate(package['styles'], 1):
             style['countryId'], style['order'] = country_id, order
             world_styles.append(style)
+for country_id in ('us', 'uk', 'fr', 'it'):
+    for stem in ('world-products-', 'world-jewelry-'):
+        extra_path = ROOT / 'assets/research' / (stem + country_id + '-extra.json')
+        if extra_path.exists():
+            records = json.loads(extra_path.read_text())
+            assert all(p.get('collection') == 'world' for p in records)
+            world_products.extend(records)
 items.extend(world_products)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}

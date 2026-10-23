@@ -38,7 +38,7 @@
 .world-signatures{display:flex;flex-wrap:wrap;gap:5px;margin-top:13px}
 .world-signatures span{font-size:9px;padding:5px 6px;background:var(--bg-secondary);border:1px solid var(--border);border-radius:2px}
 .world-open{display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:11px;border-bottom:1px solid var(--border);padding:14px 0 10px;margin-top:3px}
-.world-comparison{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;margin:0 0 26px}
+.world-comparison{display:grid;grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:15px;margin:0 0 26px}
 .world-comparison a{padding:17px;background:var(--bg-secondary);border:1px solid var(--border);min-width:0}
 .world-comparison strong{font-size:13px;display:block}
 .world-comparison span{display:block;font-size:11px;line-height:1.8;margin:8px 0;color:var(--text-secondary)}
@@ -102,3 +102,5 @@
 .world-breadcrumb{align-items:center;margin-bottom:23px}.world-breadcrumb a{font-size:10px}.world-breadcrumb>span{font-size:7px}.world-style-heading h1{font-size:29px}.world-style-heading p:not(.eyebrow){font-size:12px}.world-look{grid-template-columns:1fr;gap:25px}.world-board--full{padding:19px;gap:13px}.world-board--full a>span{font-size:9px}.world-look__notes h2{font-size:22px}.world-piece-section>.section-title{display:block}.world-piece-section>.section-title h2{font-size:19px;margin-bottom:8px}.world-piece-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:25px 13px}.world-piece h3{font-size:12px}.world-piece__why{font-size:10px}.world-piece__brand{font-size:8px}.world-piece__link{font-size:9px;line-height:1.8}.world-evidence>div{grid-template-columns:1fr}.world-evidence h2{font-size:18px}.world-evidence article a{font-size:11px}.world-note{font-size:10px}.world-peers>h2{font-size:19px}
 }
 .world-image-type{font-size:9px;color:var(--text-secondary);line-height:1.8;margin:8px 0}
+
+.world-new-badge{position:absolute;top:10px;left:10px;font-size:9px;line-height:1.6;padding:3px 6px;background:var(--bg);color:var(--text);border:1px solid var(--border);border-radius:2px}

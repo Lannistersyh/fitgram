@@ -59,7 +59,9 @@
       '<div class="product-card__price"><strong>'+E(money(p))+'</strong><span>'+E(channel(p))+'</span><span class="catalog-budget-tag '+(inBudget(p)?'is-priority':'')+'">'+E(budgetLabel(p))+'</span></div>'+
       '<details class="product-card__details"><summary>'+(isGlobal?'看设计 · 怎么搭':'怎么搭 · 购买前看')+' '+C.icon('chevron-down',14)+'</summary><dl><dt>搭配建议</dt><dd>'+E(p.styling)+'</dd>'+
       (mat?'<dt>'+(p.category==='shoes'?'鞋面材质 · 商品页资料':'材质与规格 · 商品页资料')+'</dt><dd>'+E(mat)+'</dd>':'')+
-      '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自品牌或官方零售商商品页。</dd></dl>'+
+      '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自所列品牌或零售商商品页。</dd>'+
+      (p.materialEvidence?.url&&p.materialEvidence.url!==p.productUrl?'<dt>材质资料出处</dt><dd>'+C.externalLink(p.materialEvidence.url,'查看材质依据')+'</dd>':'')+
+      '<dt>图片出处</dt><dd>'+C.externalLink(p.sourceEvidence?.imagePage||p.productUrl,(p.sourceType||'').includes('retailer')?'零售商图片所在页面':'品牌图片所在页面')+'</dd></dl>'+
       '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+'</div></article>';
   }
   function filtered(){
@@ -98,7 +100,7 @@
       A.atlas.navigation(state.scope)+
       scopeSummary()+'<nav class="catalog-tabs" aria-label="单品类别">'+[['all','全部'],...categories.map(c=>[c,labels[c]])].map(([id,label])=>'<a href="'+route(state.scope,id)+'" class="'+(state.category===id?'is-active':'')+'" '+(state.category===id?'aria-current="page"':'')+'>'+label+'<span>'+list.filter(p=>id==='all'||p.category===id).length+'</span></a>').join('')+'</nav>'+typeFilters()+toolbar()+
       '<div class="catalog-grid" id="catalog-grid"></div><aside class="catalog-shortlist" id="catalog-shortlist" aria-label="本地单品清单">'+shortlist()+'</aside>'+recipes()+'<dialog id="catalog-preview" class="catalog-preview" aria-labelledby="catalog-preview-title"></dialog>'+
-      '<div class="catalog-source-note"><strong>关于选品与来源</strong><p>图片来自品牌官网或官方零售商商品页，版权归品牌及摄影师。款名、材质、颜色、编号与图片对应具体来源；搭配观察为本站编辑判断，不代表已证实的艺人同款。国际选品保留官网原币种，作为设计与搭配参考，不承诺向大陆配送或有货。大陆清单保留原有预算偏好，目录价与实际成交价分别说明。各卡片注明核验日期，最终价格和库存以商店为准。</p></div>'+U.footer()+'</div>';
+      '<div class="catalog-source-note"><strong>关于选品与来源</strong><p>图片来自品牌官网与商品零售商页面，版权归品牌及摄影师。款名、材质、颜色、编号与图片对应具体来源；搭配观察为本站编辑判断，不代表已证实的艺人同款。国际选品保留官网原币种，作为设计与搭配参考，不承诺向大陆配送或有货。大陆清单保留原有预算偏好，目录价与实际成交价分别说明。各卡片注明核验日期，最终价格和库存以商店为准。</p></div>'+U.footer()+'</div>';
   };
   A.catalog={
     update:function(){

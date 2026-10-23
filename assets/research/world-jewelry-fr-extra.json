@@ -1,0 +1,58 @@
+[
+  {
+    "id": "more-fr-legramme-cable",
+    "brand": "Le Gramme",
+    "name": "Le Gramme Cable 7g 拉丝银缆手链",
+    "model": "Bracelet Cable 7g - Brushed Silver",
+    "color": "Brushed Silver",
+    "price": 450,
+    "currency": "EUR",
+    "jewelryType": "bracelet",
+    "sku": "CARBR05107H20-BROSSE",
+    "skuType": "retailer",
+    "productUrl": "https://www.allanjoseph.com/en/bracelets-/52-bracelet-cable-7g-brushed-silver.html",
+    "storeName": "Allan Joseph 商品资料",
+    "sourceType": "retailer",
+    "tags": [
+      "拉丝银",
+      "细缆结构",
+      "旋拧扣"
+    ],
+    "material": "商品页标示Silver 925，拉丝表面及旋拧闭合结构，法国制造；款名标重7g。",
+    "fitNote": "零售商标示扣直径5.8mm、长18mm、缆线直径1.8mm；需根据手腕周长选择15–21尺码。",
+    "reason": "细密扭绞银缆搭圆柱扣，比例精细且结构清楚，适合巴黎城市衣橱与干净衬衫袖口。",
+    "styling": "搭浅蓝衬衫、炭灰长裤和简洁皮鞋，只露一段银缆；不必再堆叠粗链手镯。",
+    "availability": "Allan Joseph商品页可查；当前默认15码结构化资料为OutOfStock，其他尺码未逐项核实，保留款式参考。",
+    "category": "jewelry",
+    "collection": "world",
+    "countryId": "fr",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "EUR 商品页价目快照",
+    "image": "assets/catalog/jewelry/more-fr-legramme-cable.jpg",
+    "imageSource": "https://www.allanjoseph.com/22538-large_default/bracelet-cable-7g-brushed-silver.jpg",
+    "imageKind": "packshot",
+    "imageType": "同款同色单品图",
+    "catalogAvailable": true,
+    "editorialOrder": 212,
+    "mainlandNote": "作为国际款式与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属为编辑搭配方向，不代表制造地。",
+    "imageOptimization": "来源商品图等比例缩小转JPEG；不生成、不补绘、不改变款式。",
+    "materialEvidence": {
+      "url": "https://www.allanjoseph.com/en/bracelets-/52-bracelet-cable-7g-brushed-silver.html",
+      "text": "商品页标示Silver 925，拉丝表面及旋拧闭合结构，法国制造；款名标重7g。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.allanjoseph.com/en/bracelets-/52-bracelet-cable-7g-brushed-silver.html",
+      "imagePage": "https://www.allanjoseph.com/en/bracelets-/52-bracelet-cable-7g-brushed-silver.html",
+      "fields": {
+        "nameSku": "货号取自零售商产品资料，未冒充品牌制造商款号。",
+        "price": "Allan Joseph当前原始HTML可见价及Product Offer均为EUR450；搜索索引旧EUR380未采用。",
+        "material": "商品页标示Silver 925，拉丝表面及旋拧闭合结构，法国制造；款名标重7g。",
+        "image": "来自对应商品页的同款同色单品图，已解码并以接触表目视核对。",
+        "stock": "Allan Joseph商品页可查；当前默认15码结构化资料为OutOfStock，其他尺码未逐项核实，保留款式参考。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    }
+  }
+]

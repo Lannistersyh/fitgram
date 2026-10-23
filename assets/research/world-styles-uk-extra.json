@@ -1,0 +1,76 @@
+[
+  {
+    "id": "uk-rock",
+    "countryId": "uk",
+    "name": "暗色摇滚",
+    "english": "BLACK LEATHER / ROCK",
+    "summary": "黑色斜拉链皮衣、圆领 T 和厚底系带靴建立紧凑上身与有分量的下半身。孔眼皮带、小皮包与黑珐琅银戒补上少量金属细节。",
+    "silhouette": "窄身短皮衣 × 黑圆领 T × 黑直筒褶裤 × 厚底高帮皮靴",
+    "palette": [
+      "黑皮革",
+      "哑黑棉布",
+      "银色"
+    ],
+    "signatures": [
+      "斜拉链、按扣翻领与袖口拉链",
+      "厚底系带靴与直筒裤的分量",
+      "孔眼皮带、交叉皮扣小包和一枚银戒"
+    ],
+    "avoid": "让皮衣结构成为重点，少堆乐队大图案、链条和满身铆钉。这里是借英国音乐穿衣文化做的日常摇滚编辑搭配，与 Mod 保持独立，也不当作完整历史 Punk 复刻。",
+    "styling": "黑色 T 恤衣长刚到裤腰附近，窄身皮衣敞开，让斜门襟和翻领自然形成两条线。黑直筒褶裤到靴面只留少量堆积，厚底 Jadon 压住下半身；更轻便时可换已有普通 1460。小皮包收在侧腰，不与皮衣拉链重叠。孔眼腰带露一小段，首饰选一枚黑珐琅银戒，不再叠粗链。",
+    "sources": [
+      {
+        "title": "ALLSAINTS · Milo Biker 日本官网",
+        "url": "https://www.allsaints.jp/c/mens/M062LB-5",
+        "note": "当前真实男款商品提供黑色羔羊皮、斜门襟、窄身剪裁与金属拉链；这里是日常摇滚的成衣方案。"
+      },
+      {
+        "title": "Dr. Martens · 品牌与音乐文化历史",
+        "url": "https://www.drmartens.com/ca/en_CA/history",
+        "note": "官网记录靴子与英国音乐社群及多种亚文化的关系；不把这些社群合称为同一种风格。"
+      },
+      {
+        "title": "ALLSAINTS · Cal Eyelet Belt",
+        "url": "https://www.allsaints.jp/c/mens/m_slg/m_belt/M034XE-5",
+        "note": "当前男士腰带用金属孔眼和单针扣补充具体细节，区别于原 Mod 方案的普通滚轴扣。"
+      }
+    ],
+    "slots": [
+      {
+        "slot": "bag",
+        "itemId": "more-uk-dm-satchel",
+        "why": "交叉扣带小皮包贴近身体；官网已缺货，保留为真实款式参考。"
+      },
+      {
+        "slot": "shoes",
+        "itemId": "shoes-jadon",
+        "why": "复用黑厚底八孔靴，与原 Mod 方案的普通 1460 拉开鞋底分量。"
+      },
+      {
+        "slot": "top",
+        "itemId": "ref-asket-tee",
+        "why": "复用黑圆领 T，让皮衣和金属细节获得清楚背景。"
+      },
+      {
+        "slot": "outerwear",
+        "itemId": "more-uk-allsaints-milo",
+        "why": "窄身斜拉链骑士夹克是核心，与西装、蜡棉和 Harrington 分开。"
+      },
+      {
+        "slot": "pants",
+        "itemId": "ref-nm-dylan",
+        "why": "复用黑色直筒褶工作裤，将舞台感收回日常；裤脚避免盖住整双靴子。"
+      },
+      {
+        "slot": "jewelry",
+        "itemId": "more-uk-serge-signet",
+        "why": "黑珐琅与锆石银印章戒，给全黑衣服一处小面积亮点。"
+      },
+      {
+        "slot": "accessory",
+        "itemId": "more-uk-allsaints-belt",
+        "why": "3 cm 金属孔眼腰带补充腰部线条，不再额外叠挂链。"
+      }
+    ]
+  }
+]

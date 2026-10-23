@@ -1,0 +1,58 @@
+[
+  {
+    "id": "more-it-raspini-crocodile",
+    "brand": "Giovanni Raspini",
+    "name": "Giovanni Raspini 立体鳄鱼银戒",
+    "model": "Crocodile Man’s Ring",
+    "color": "Burnished Silver",
+    "price": 385,
+    "currency": "USD",
+    "jewelryType": "ring",
+    "sku": "8677",
+    "skuType": "manufacturer",
+    "productUrl": "https://www.giovanniraspini.com/en-us/crocodile-man-s-ring-008677M01.html",
+    "storeName": "Giovanni Raspini 美国地区官网",
+    "sourceType": "official-brand",
+    "tags": [
+      "动物雕塑",
+      "做旧银",
+      "立体戒指"
+    ],
+    "material": "Sterling Silver银，做旧表面；官网称意大利手工制作，采用失蜡铸造工艺。",
+    "fitNote": "鳄鱼身体环绕指圈，戒面立体感强；官方使用意大利戒码，须按内径与周长对照选码。",
+    "reason": "把鳄鱼鳞片、头部和环绕尾部做成可佩戴的小雕塑，为意大利风格增加鲜明的手工银饰细节。",
+    "styling": "搭亚麻开领衬衫、深棕麂皮和浅色长裤；一只雕塑戒足够，其他首饰保持简洁。",
+    "availability": "美国地区官网本次结构化资料显示USD385及InStock；具体意大利戒码库存及目的地配送需另行确认。",
+    "category": "jewelry",
+    "collection": "world",
+    "countryId": "it",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "USD 商品页价目快照",
+    "image": "assets/catalog/jewelry/more-it-raspini-crocodile.jpg",
+    "imageSource": "https://www.giovanniraspini.com/dw/image/v2/BFXV_PRD/on/demandware.static/-/Sites-raspini_master_catalog/default/dw59759bc2/images/008677/008677M01TA012_B_01.jpg?q=80",
+    "imageKind": "packshot",
+    "imageType": "同款同色单品图",
+    "catalogAvailable": true,
+    "editorialOrder": 213,
+    "mainlandNote": "作为国际款式与搭配参考；未核实大陆配送、含税到手价或本地库存。风格归属为编辑搭配方向，不代表制造地。",
+    "imageOptimization": "来源商品图等比例缩小转JPEG；不生成、不补绘、不改变款式。",
+    "materialEvidence": {
+      "url": "https://www.giovanniraspini.com/en-us/crocodile-man-s-ring-008677M01.html",
+      "text": "Sterling Silver银，做旧表面；官网称意大利手工制作，采用失蜡铸造工艺。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.giovanniraspini.com/en-us/crocodile-man-s-ring-008677M01.html",
+      "imagePage": "https://www.giovanniraspini.com/en-us/crocodile-man-s-ring-008677M01.html",
+      "fields": {
+        "nameSku": "官网Details显示SKU 8677；结构化尺码货号008677M01TA022。",
+        "price": "2026-10-23对应地区原始商品HTML及结构化Offer的原币种价格快照。",
+        "material": "Sterling Silver银，做旧表面；官网称意大利手工制作，采用失蜡铸造工艺。",
+        "image": "来自对应商品页的同款同色单品图，已解码并以接触表目视核对。",
+        "stock": "美国地区官网本次结构化资料显示USD385及InStock；具体意大利戒码库存及目的地配送需另行确认。"
+      },
+      "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
+    }
+  }
+]

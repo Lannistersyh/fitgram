@@ -1,0 +1,75 @@
+[
+  {
+    "id": "it-retro-sport",
+    "name": "意式复古运动",
+    "english": "ITALIAN / RETRO SPORTSWEAR",
+    "summary": "Settanta奶白侧片、BB1竖条纹与红蓝罗纹，把意大利起源品牌的档案运动语汇穿进日常。短衣长和柔软直线裤，和软西装、浅亚麻及镜片机能服分别形成对照。",
+    "silhouette": "齐腰棒球领运动外套＋奶白条纹Polo＋宽直运动裤，低帮白球鞋压住下摆。",
+    "palette": [
+      "海军蓝",
+      "奶白色",
+      "少量红色"
+    ],
+    "signatures": [
+      "Settanta奶白侧片",
+      "BB1细竖条纹",
+      "红白罗纹与低帮球鞋"
+    ],
+    "avoid": "两件上衣的纹样已经足够，下装选素色直线；不再叠机能腿包、厚羽绒或商务领带。风格参考意大利运动档案，不代表所有品牌、所有者或产地都在意大利。",
+    "styling": "Polo奶白底色在深蓝外套中留出中间一条亮面，红色只出现在领口、罗纹和小标识。外套拉链半开，袖口不要推成一团；蓝色阔腿运动裤与白球鞋之间保持鞋舌清楚，先改裤长再决定尺码。黑奶白圆筒包手提，深蓝帽可选，银戒只作城市佩戴，运动前取下。这套使用英国官网的当前FILA款式资料，非中国市场同款承诺。",
+    "sources": [
+      {
+        "title": "FILA 2026 Heritage Collection 官方发布",
+        "url": "https://www.mistoholdings.com/newsroom/eng/press/detail/163.do",
+        "note": "2026-01-29官方公告说明Biella档案如何继续影响当季，并将Settanta与1976年款式联系；支持持续可见的运动传统，不声称销量排名。"
+      },
+      {
+        "title": "FILA UK 当前 Settanta 款式",
+        "url": "https://fila.co.uk/products/settanta-baseball-track-jacket-lm161rn1-411",
+        "note": "具体外套列Peacoat/Gardenia/Chinese Red、款号LM161RN1-411与棉聚混纺，和本套图片一致。"
+      },
+      {
+        "title": "FILA UK BB1 当前性能版本",
+        "url": "https://fila.co.uk/products/performance-iconic-bb1-polo-tm431119-922",
+        "note": "官网将BB1竖条纹以运动面料重新演绎；本套使用当前版本，不把它称为1970年代原版复刻。"
+      }
+    ],
+    "slots": [
+      {
+        "slot": "bag",
+        "itemId": "world-uk-barrel",
+        "why": "复用黑奶白圆筒手提包呼应运动更衣室语汇；它是英国品牌的跨国搭配。"
+      },
+      {
+        "slot": "shoes",
+        "itemId": "world-fr-lacoste-tclip",
+        "why": "白黑低帮皮面球鞋比前三套的棕麂皮乐福、厚底黑德比更轻快。"
+      },
+      {
+        "slot": "top",
+        "itemId": "more-it-fila-bb1",
+        "why": "奶白竖条Polo在深蓝外套里形成纵向亮面，红蓝小面积领口与罗纹呼应。"
+      },
+      {
+        "slot": "outerwear",
+        "itemId": "more-it-fila-settanta",
+        "why": "奶白侧片与棒球领是本套中心，区别于意式西装、牛仔夹克和镜片羽绒服。"
+      },
+      {
+        "slot": "pants",
+        "itemId": "pants-fredperry-track",
+        "why": "复用蓝色阔腿运动裤；与外套不是成套同色，试穿时用两种蓝的深浅层次区分。"
+      },
+      {
+        "slot": "jewelry",
+        "itemId": "more-it-raspini-crocodile",
+        "why": "单戴一枚立体鳄鱼银戒作为意式雕塑小细节；真正运动时先取下，避免勾挂。"
+      },
+      {
+        "slot": "accessory",
+        "itemId": "world-us-newera-cap",
+        "why": "深蓝软棒球帽为可选项，降低梳理感；是日常配饰，不代表意大利队徽。"
+      }
+    ]
+  }
+]

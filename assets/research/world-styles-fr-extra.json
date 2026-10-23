@@ -1,0 +1,75 @@
+[
+  {
+    "id": "fr-rock",
+    "name": "巴黎复古摇滚",
+    "english": "PARIS / RETRO ROCK",
+    "summary": "黑色短皮夹克、开领印花衬衫与原色牛仔，靠衣长、花纹和皮靴带出夜间气质。和安静长大衣、奶白工作服或明蓝运动衣的结构明显分开。",
+    "silhouette": "齐腰翻领皮夹克＋柔软开领衬衫＋高腰直腿牛仔，皮靴把裤口接成长线。",
+    "palette": [
+      "黑色",
+      "海军蓝",
+      "奶黄小面积印花"
+    ],
+    "signatures": [
+      "短羊皮夹克与金属拉链",
+      "佩斯利开领衬衫",
+      "原色牛仔与黑色侧拉链靴"
+    ],
+    "avoid": "花纹只留给一件衬衫；避免同时堆铆钉、豹纹、粗项链和夸张做旧。皮夹克选正常肩宽，不为摇滚感刻意勒紧。",
+    "styling": "印花衬衫开一两颗扣，前摆可轻收进牛仔裤，露出皮带但保持腰部平整。短皮夹克敞开，印花集中在身前一条窄区域；直腿裤不要紧裹小腿，让裤脚自然落在圆头黑靴上。棕色邮差包软化整身黑蓝，首饰只选一枚或一条。这是巴黎夜间复古语汇的跨品牌编辑搭配，非任何人物同款。",
+    "sources": [
+      {
+        "title": "Fursac 外套指南：皮夹克与摇滚语汇",
+        "url": "https://eu.fursac.com/en/style-guide/create-outerwear.html",
+        "note": "品牌将部分皮夹克与摇滚、机车文化相联系；此处用短翻领皮夹克作日常演绎，不视作防护骑行装备。"
+      },
+      {
+        "title": "Fursac 2026 春夏系列",
+        "url": "https://eu.fursac.com/en/journal/spring-summer-2026.html",
+        "note": "当前年度系列继续采用印花粘纤、开领与不同裤型；体现当季仍在使用的设计语汇，不是销量榜。"
+      },
+      {
+        "title": "Fursac 黑羊皮短夹克",
+        "url": "https://eu.fursac.com/en/p-leather-jacket-soft-lamb-leather-men-leather-jackets-black-m3gred-gl01-b020.html",
+        "note": "当前具体款式可核实羊皮、翻领、罗纹下摆及金属双向拉链。"
+      }
+    ],
+    "slots": [
+      {
+        "slot": "bag",
+        "itemId": "world-fr-bdc-eclair",
+        "why": "复用泥炭棕皮邮差包，软包体和斜挎方式适合夜间街头的日常比例。"
+      },
+      {
+        "slot": "shoes",
+        "itemId": "global-ol-camion",
+        "why": "黑色侧拉链圆头靴延长裤腿；鞋口被直腿裤盖住，比露袜乐福更整块。"
+      },
+      {
+        "slot": "top",
+        "itemId": "more-fr-fursac-paisley",
+        "why": "深蓝底奶黄佩斯利花纹作为唯一图案，开领只露少量锁骨区域。"
+      },
+      {
+        "slot": "outerwear",
+        "itemId": "more-fr-fursac-leather",
+        "why": "齐腰黑羊皮翻领夹克与前三种法国方向的长大衣、工作服和运动外套分开。"
+      },
+      {
+        "slot": "pants",
+        "itemId": "world-us-wrangler-jean",
+        "why": "复用原色直腿牛仔建立干净裤线；这件是跨国品牌选搭，不宣称法国制造。"
+      },
+      {
+        "slot": "jewelry",
+        "itemId": "more-fr-legramme-cable",
+        "why": "7g拉丝银缆手链在袖口露出一小段亮面，领口已经有花纹时不再叠项链。"
+      },
+      {
+        "slot": "accessory",
+        "itemId": "world-uk-belt",
+        "why": "复用黑色滚轴扣皮带，把腰线与黑靴连起来；只露扣头的一小段。"
+      }
+    ]
+  }
+]

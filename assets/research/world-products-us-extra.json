@@ -1,0 +1,171 @@
+[
+  {
+    "id": "more-us-danner-mountain",
+    "brand": "Danner",
+    "category": "shoes",
+    "name": "Mountain Light 棕色红鞋带皮面徒步靴",
+    "model": "Mountain Light Cascade Clovis – GORE-TEX",
+    "color": "Sienna Clovis",
+    "price": 470,
+    "currency": "USD",
+    "tags": [
+      "复古徒步靴",
+      "红鞋带",
+      "整片皮鞋面"
+    ],
+    "material": "全粒面皮革鞋面；GORE-TEX 内衬；Vibram 148 Kletterlift 外底，未推定皮革动物种类。",
+    "fitNote": "5 英寸靴帮、650 楦；官网列每双约 62 oz，分量明显。按足长、脚宽和计划穿的袜子核对尺码。",
+    "reason": "棕皮、金属登山扣和红鞋带提供清楚的复古户外语言，与原有西部 Roper 靴的弧线靴口和跟形区分。",
+    "styling": "军绿直筒工装裤自然盖住靴口，鞋带保留一处红色，其余衣物用奶白、绿和深蓝。",
+    "availability": "官网商品页显示 USD 470 价目；未逐一核实宽度、尺码库存及中国大陆配送。",
+    "productUrl": "https://www.danner.com/31528",
+    "sku": "31528",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "us",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "国际官网 USD 价目",
+    "storeName": "Danner 官方网站",
+    "image": "assets/catalog/shoes/more-us-danner-mountain.jpg",
+    "imageSource": "https://i.lfi.media/is/image/LaCrosse/danner_22_pdp/31528?wid=1100&hei=1100",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "imageType": "官方商品页同色单品图",
+    "editorialOrder": 200,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://www.danner.com/31528",
+      "text": "全粒面皮革鞋面；GORE-TEX 内衬；Vibram 148 Kletterlift 外底，未推定皮革动物种类。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://www.danner.com/31528",
+      "imagePage": "https://www.danner.com/31528",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "全粒面皮革鞋面；GORE-TEX 内衬；Vibram 148 Kletterlift 外底，未推定皮革动物种类。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "官网商品页显示 USD 470 价目；未逐一核实宽度、尺码库存及中国大陆配送。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "packshot",
+    "shoeType": "boots"
+  },
+  {
+    "id": "more-us-patagonia-retrox",
+    "brand": "Patagonia",
+    "category": "outerwear",
+    "name": "Classic Retro-X 奶白绿口袋抓绒夹克",
+    "model": "Men’s Classic Retro-X Fleece Jacket",
+    "color": "Dark Natural / Treeline Green (DNLT)",
+    "price": 249,
+    "currency": "EUR",
+    "tags": [
+      "长绒抓绒",
+      "奶白拼绿",
+      "立领拉链"
+    ],
+    "material": "23057 官方规格：主体与里料均为 100% 再生聚酯纤维；领部饰边和胸袋采用 100% 再生尼龙。",
+    "fitNote": "Regular fit，绒衣有体积，先留一层薄圆领内搭的余量；不要为了宽松把袖长买到遮手。",
+    "reason": "奶白长绒与绿胸袋形成可见材质对比，使复古户外方向区别于西部牛仔、学院羊毛皮袖和街头飞行夹克。",
+    "styling": "黑色薄 T 恤打底，军绿工装裤配棕皮登山靴；小包放在侧腰，尽量不遮住胸袋。",
+    "availability": "Shelta 商品页标注线上及店铺有货；未逐一核实尺码。价目和图片来自该零售商，23057 材质由 Patagonia 官网交叉核对。",
+    "productUrl": "https://shelta.eu/brand/patagonia/patagonia-ms-classic-retro-x-jkt-dark-natural-treeline-green-23057-dnlt",
+    "sku": "23057-DNLT",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "us",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "Shelta EUR 价目",
+    "storeName": "Shelta 瑞典零售商",
+    "image": "assets/catalog/outerwear/more-us-patagonia-retrox.jpg",
+    "imageSource": "https://shelta.eu/pub_images/large/23057-DNLT_1.jpg?timestamp=1789495154",
+    "catalogAvailable": true,
+    "sourceType": "specialist-retailer",
+    "imageType": "零售商同款同色单品图",
+    "editorialOrder": 201,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://www.patagonia.com/product/mens-classic-retro-x-fleece-jacket/23057.html",
+      "text": "23057 官方规格：主体与里料均为 100% 再生聚酯纤维；领部饰边和胸袋采用 100% 再生尼龙。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://shelta.eu/brand/patagonia/patagonia-ms-classic-retro-x-jkt-dark-natural-treeline-green-23057-dnlt",
+      "imagePage": "https://shelta.eu/brand/patagonia/patagonia-ms-classic-retro-x-jkt-dark-natural-treeline-green-23057-dnlt",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "材质与成分比例核对品牌官网 23057 页面；当前 DNLT 配色、图和 EUR 价目核对 Shelta，分开保留来源。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "Shelta 商品页标注线上及店铺有货；未逐一核实尺码。价目和图片来自该零售商，23057 材质由 Patagonia 官网交叉核对。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。",
+      "materialPage": "https://www.patagonia.com/product/mens-classic-retro-x-fleece-jacket/23057.html"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "packshot",
+    "outerwearType": "jacket"
+  },
+  {
+    "id": "more-us-topo-mini",
+    "brand": "Topo Designs",
+    "category": "bags",
+    "name": "Mini Quick Pack 奶白森林绿小斜挎腰包",
+    "model": "Mini Quick Pack",
+    "color": "Forest / Bone White",
+    "price": 59,
+    "currency": "USD",
+    "tags": [
+      "1.7L小包",
+      "斜挎腰背两用",
+      "奶白拼绿"
+    ],
+    "material": "420D 再生尼龙包布；210D 尼龙内衬，当前页面未把内衬标为再生尼龙。",
+    "fitNote": "约 24.1 × 14 × 5.1 cm，1.7 L；可腰背或斜挎，有内部分隔、钥匙扣及外部挂灯环。",
+    "reason": "以奶白、绿和深蓝织带呼应绒衣，容量只放随身小物；区别于原有全黑双肩包和米白书包。",
+    "styling": "肩带缩短到侧腰上方，穿厚绒衣时放在侧后方，避免横在胸袋正前面。",
+    "availability": "官网公开商品结构化数据标注 InStock、USD 59；未核实中国大陆配送及含税运费。",
+    "productUrl": "https://topodesigns.com/products/mini-quick-pack-forest-bone-white",
+    "sku": "932423343000",
+    "skuType": "manufacturer",
+    "collection": "world",
+    "countryId": "us",
+    "mainlandStatus": "unverified",
+    "purchaseMode": "international-reference",
+    "verifiedAt": "2026-10-23",
+    "market": "国际官网 USD 价目",
+    "storeName": "Topo Designs 官方网站",
+    "image": "assets/catalog/bags/more-us-topo-mini.jpg",
+    "imageSource": "https://topodesigns.com/cdn/shop/files/Mini-Quick-Pack-2.webp?v=1792007542&width=1100",
+    "catalogAvailable": true,
+    "sourceType": "official-brand",
+    "imageType": "官方商品页同色单品图",
+    "editorialOrder": 202,
+    "mainlandNote": "按穿搭语言归入四国风格；品牌所在地、生产地和风格归类分别记录。未核实中国大陆配送、含税到手价或国内现货，不换算人民币。",
+    "materialEvidence": {
+      "url": "https://topodesigns.com/products/mini-quick-pack-forest-bone-white",
+      "text": "420D 再生尼龙包布；210D 尼龙内衬，当前页面未把内衬标为再生尼龙。"
+    },
+    "sourceEvidence": {
+      "productPage": "https://topodesigns.com/products/mini-quick-pack-forest-bone-white",
+      "imagePage": "https://topodesigns.com/products/mini-quick-pack-forest-bone-white",
+      "fields": {
+        "nameSku": "名称、配色及款号来自所列商品页；不从图像文件名推测制造商货号。",
+        "price": "所列站点原币价目快照，不代表中国大陆到手价。",
+        "material": "420D 再生尼龙包布；210D 尼龙内衬，当前页面未把内衬标为再生尼龙。",
+        "image": "下载后已逐一目视核对款式、配色及品类；真人商品图另作标注。",
+        "stock": "官网公开商品结构化数据标注 InStock、USD 59；未核实中国大陆配送及含税运费。"
+      },
+      "relationship": "编辑独立搭配选品，不是品牌官方整套，也不是参考人物已确认同款。"
+    },
+    "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
+    "imageKind": "packshot",
+    "bagType": "crossbody"
+  }
+]
