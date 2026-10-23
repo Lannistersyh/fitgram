@@ -2,7 +2,7 @@
 (function(A){
   'use strict';
   const U=A.utils,C=A.components,S=A.store,E=U.escape;
-  const labels={shoes:'皮鞋',pants:'裤子',shirts:'衬衫',outerwear:'外套',jewelry:'男士首饰',tops:'针织 / 上衣'};
+  const labels={shoes:'鞋履',pants:'裤子',shirts:'衬衫',outerwear:'外套',jewelry:'男士首饰',tops:'针织 / 上衣',bags:'包包',accessories:'配饰'};
   const state=A.state.catalog={scope:'international',category:'all',query:'',saved:false,buying:'all',itemType:'all'};
   const items=()=>window.FITGRAM_CATALOG?.items||[];
   const international=p=>p.collection==='international';
@@ -15,11 +15,12 @@
   const mainland=p=>!international(p)&&['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY';
   const inBudget=p=>mainland(p)&&Number.isFinite(p.price)&&p.price>=prefs().min&&p.price<=prefs().max;
   const channel=p=>p.storeName||p.market+'官网';
-  const buyLabel=p=>p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
+  const buyLabel=p=>p.collection==='world'?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
   const skuLabel=p=>p.skuType==='retailer'?'零售商编号':p.skuType==='website'?'官网款式标识':'货号';
   const route=(scope,category='all')=>scope==='all'?'#/catalog/all'+(category==='all'?'':'/'+category):scope==='reference'?'#/catalog/new'+(category==='all'?'':'/'+category):'#/catalog/'+(scope==='international'?'international'+(category==='all'?'':'/'+category):category);
-  const productRoute=p=>route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
+  const productRoute=p=>p.collection==='world'?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
   function budgetLabel(p){
+    if(p.collection==='world')return '国家风格选品';
     if(p.collection==='reference')return '照片款式补充 · 近似选品';
     if(international(p))return '国际审美参考';
     if(inBudget(p))return '预算内优先';
@@ -29,14 +30,14 @@
   }
   function scopeSummary(){
     const list=scoped();
-    if(state.scope==='all'||state.scope==='reference')return '<div class="catalog-editor-note"><p class="eyebrow">ONE WARDROBE / REAL PIECES</p><strong>把照片里的线索，放进自己的衣橱。</strong><p>已有清单与本次查款合并按类别浏览。打开商品下方的参考照片，可以看它适合怎样的轮廓和配色；关联表示近似选品，没有证据的照片同款不会标成同款。</p><div><span>'+list.length+' 件真实商品</span><span>保留独立来源</span><span>按原币种记录价格</span></div></div>';
+    if(state.scope==='all'||state.scope==='reference')return '<div class="catalog-editor-note"><p class="eyebrow">ONE WARDROBE / REAL PIECES</p><strong>把照片里的线索，放进自己的衣橱。</strong><p>已有清单、照片查款与国家风格选品合并浏览。商品下方可跳到搭配路线或参考照片，查看它适合怎样的轮廓、比例与配色。</p><div><span>'+list.length+' 件真实商品</span><span>保留独立来源</span><span>按原币种记录价格</span></div></div>';
     if(globalView())return '<div class="catalog-editor-note"><p class="eyebrow">SHAPE / TEXTURE / PROPORTION</p><strong>先看设计，再决定要不要拥有。</strong><p>圆钝皮鞋、带垂感的衬衫、有肩线的外套，加一处银饰。借鉴的是轮廓、材质和搭配方式。</p><div><span>'+list.length+' 款真实单品</span><span>'+new Set(list.map(p=>p.brand)).size+' 个品牌</span><span>保留官网原币种</span></div></div>';
     const cn=list.filter(mainland).length,within=list.filter(inBudget).length;
     return '<div class="catalog-budget-note"><div><span class="eyebrow">YOUR BUYING PREFERENCES</span><strong>中国大陆购买 · 单件 ¥1,000–3,000 为主</strong><p>适合搭配的低价基础款仍保留，目录价与实际库存分别说明。</p></div><div><span><b>'+within+'</b> 款在常用预算内</span><span>'+cn+' 款已核实大陆渠道信息</span></div></div>';
   }
   function typeConfig(){
-    if(state.category==='tops')return {key:'topType',options:[['henley','亨利领'],['polo','Polo'],['t-shirt','T 恤'],['tee','T 恤']]};
-    if(state.category==='shoes')return {key:'shoeType',options:[['derby','系带皮鞋'],['loafer','乐福鞋'],['boots','靴子'],['other','穆勒 / 其他']]};
+    if(state.category==='tops')return {key:'topType',options:[['henley','亨利领'],['polo','Polo'],['t-shirt','T 恤'],['tee','T 恤'],['knit','针织衫'],['sweatshirt','卫衣']]};
+    if(state.category==='shoes')return {key:'shoeType',options:[['derby','德比鞋'],['oxford','牛津鞋'],['loafer','乐福鞋'],['boots','靴子'],['other','穆勒 / 其他'],['sneaker','运动 / 休闲鞋'],['sandals','凉鞋']]};
     if(state.category==='jewelry')return {key:'jewelryType',options:[['ring','戒指'],['necklace','项链'],['bracelet','手链 / 手镯'],['earring','耳饰']]};
     if(state.category==='outerwear')return {key:'outerwearType',options:[['jacket','短外套'],['coat','长外套']]};
     return null;
@@ -53,13 +54,13 @@
     return '<article class="product-card product-card--'+E(p.category)+'" id="product-'+E(p.id)+'">'+
       '<div class="product-card__visual"><span class="product-card__number">'+String(i+1).padStart(2,'0')+' / '+E(labels[p.category])+'</span>'+saveButton(p)+
       '<button class="product-card__image" data-action="catalog-preview" data-id="'+E(p.id)+'" aria-label="放大查看 '+E(p.name)+'"><img src="'+E(p.image)+'" alt="'+E(p.brand+' '+p.model+' · '+p.color)+'" loading="lazy" decoding="async" width="720" height="900"></button>'+(p.wearImage?'<button class="catalog-wear" data-action="catalog-preview-worn" data-id="'+E(p.id)+'">看上身图</button>':'')+'</div>'+
-      '<div class="product-card__body"><p class="product-card__brand">'+E(p.brand)+'</p><h2>'+E(p.name)+'</h2><p class="product-card__model">'+E(p.model)+'</p><p class="product-card__sku">'+E(skuLabel(p))+' '+E(p.sku)+' · '+E(p.color)+'</p>'+
+      '<div class="product-card__body">'+(p.imageKind==='worn'||p.imageKind==='styled'?'<p class="world-image-type">'+E(p.imageType)+'</p>':'')+'<p class="product-card__brand">'+E(p.brand)+'</p><h2>'+E(p.name)+'</h2><p class="product-card__model">'+E(p.model)+'</p><p class="product-card__sku">'+E(skuLabel(p))+' '+E(p.sku)+' · '+E(p.color)+'</p>'+
       '<div class="product-card__tags">'+p.tags.map(t=>'<span>'+E(t)+'</span>').join('')+'</div><p class="product-card__reason">'+E(p.reason)+'</p>'+
       '<div class="product-card__price"><strong>'+E(money(p))+'</strong><span>'+E(channel(p))+'</span><span class="catalog-budget-tag '+(inBudget(p)?'is-priority':'')+'">'+E(budgetLabel(p))+'</span></div>'+
       '<details class="product-card__details"><summary>'+(isGlobal?'看设计 · 怎么搭':'怎么搭 · 购买前看')+' '+C.icon('chevron-down',14)+'</summary><dl><dt>搭配建议</dt><dd>'+E(p.styling)+'</dd>'+
       (mat?'<dt>'+(p.category==='shoes'?'鞋面材质 · 商品页资料':'材质与规格 · 商品页资料')+'</dt><dd>'+E(mat)+'</dd>':'')+
       '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自品牌或官方零售商商品页。</dd></dl>'+
-      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+'</div></article>';
+      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+'</div></article>';
   }
   function filtered(){
     const q=state.query.trim().toLowerCase(),cfg=typeConfig();
@@ -85,6 +86,7 @@
   }
   function clearFilters(){state.query='';state.saved=false;state.buying='all';state.itemType='all';}
   A.views.renderCatalog=function(category,subCategory){
+    if(category==='world')return A.world.render(subCategory);
     if(!category||category==='atlas'||category==='reference')return A.atlas.render(category==='reference'?subCategory:null,category==='atlas'?subCategory:null);
     const scope=category==='all'?'all':category==='new'?'reference':category==='international'?'international':'mainland',next=scope!=='mainland'?(subCategory||'all'):category;
     if(scope!==state.scope||next!==state.category){state.itemType='all';if(scope!==state.scope)clearFilters();}
@@ -92,7 +94,7 @@
     const combined=state.scope==='all',addition=state.scope==='reference';
     const list=scoped(),intl=globalView(),categories=Object.keys(labels).filter(c=>list.some(p=>p.category===c));
     return '<div class="page page--catalog page--catalog-'+E(state.category)+' '+(intl?'page--catalog-international':'')+'">'+
-      '<header class="catalog-hero"><div><p class="eyebrow">THE ITEM ATLAS / '+(combined?'ALL PIECES':addition?'REFERENCE SELECTION':intl?'INTERNATIONAL EDIT':'MAINLAND EDIT')+'</p><h1>'+(combined?'一件件，组成你的风格。':addition?'从照片延伸的真实选品。':intl?'眼光可以走得更远。':state.category==='shoes'?'先选一双喜欢的皮鞋。':'把喜欢的风格，<br>穿到自己身上。')+'</h1><p>'+(combined?'皮鞋、裤子、衬衫、外套、针织与首饰。<br>此前的清单与本次查款，在这里按类别合并。':addition?'补充参考照片里出现的上衣和宽裤方向。<br>可见的是款式线索，关联商品为近似选品。':intl?'鞋、衬衫、外套与首饰。<br>从真实单品里，看轮廓、质感和一身衣服的关系。':'皮鞋、裤子、衬衫，各 10 款。<br>从真实商品开始，搭一套你愿意天天穿的衣服。')+'</p></div><div class="catalog-hero__index"><span>'+(combined?'THE COMPLETE ITEM ATLAS':addition?'FROM PHOTO TO WARDROBE':intl?'THE INTERNATIONAL SELECTION':'THE MAINLAND SHOPPING LIST')+'</span><b>'+list.length+'</b><small>REAL PIECES / PERSONAL STYLE</small></div></header>'+
+      '<header class="catalog-hero"><div><p class="eyebrow">THE ITEM ATLAS / '+(combined?'ALL PIECES':addition?'REFERENCE SELECTION':intl?'INTERNATIONAL EDIT':'MAINLAND EDIT')+'</p><h1>'+(combined?'一件件，组成你的风格。':addition?'从照片延伸的真实选品。':intl?'眼光可以走得更远。':state.category==='shoes'?'先选一双喜欢的皮鞋。':'把喜欢的风格，<br>穿到自己身上。')+'</h1><p>'+(combined?'包、鞋、上衣、外套、裤子、首饰与配饰。<br>照片查款与各国风格选品，在这里按类别合并。':addition?'补充参考照片里出现的上衣和宽裤方向。<br>可见的是款式线索，关联商品为近似选品。':intl?'鞋、衬衫、外套与首饰。<br>从真实单品里，看轮廓、质感和一身衣服的关系。':'皮鞋、裤子、衬衫，各 10 款。<br>从真实商品开始，搭一套你愿意天天穿的衣服。')+'</p></div><div class="catalog-hero__index"><span>'+(combined?'THE COMPLETE ITEM ATLAS':addition?'FROM PHOTO TO WARDROBE':intl?'THE INTERNATIONAL SELECTION':'THE MAINLAND SHOPPING LIST')+'</span><b>'+list.length+'</b><small>REAL PIECES / PERSONAL STYLE</small></div></header>'+
       A.atlas.navigation(state.scope)+
       scopeSummary()+'<nav class="catalog-tabs" aria-label="单品类别">'+[['all','全部'],...categories.map(c=>[c,labels[c]])].map(([id,label])=>'<a href="'+route(state.scope,id)+'" class="'+(state.category===id?'is-active':'')+'" '+(state.category===id?'aria-current="page"':'')+'>'+label+'<span>'+list.filter(p=>id==='all'||p.category===id).length+'</span></a>').join('')+'</nav>'+typeFilters()+toolbar()+
       '<div class="catalog-grid" id="catalog-grid"></div><aside class="catalog-shortlist" id="catalog-shortlist" aria-label="本地单品清单">'+shortlist()+'</aside>'+recipes()+'<dialog id="catalog-preview" class="catalog-preview" aria-labelledby="catalog-preview-title"></dialog>'+

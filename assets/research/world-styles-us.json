@@ -1,0 +1,214 @@
+{
+  "country": {
+    "id": "us",
+    "name": "美国",
+    "english": "UNITED STATES",
+    "intro": "从东岸学院、西部工装到城市街头，重点看三种不同的比例和符号。这里是编辑归纳的跨品牌搭配，风格国别不代表商品全部由美国品牌或美国工厂生产；官方常设与畅销标识用于判断持续可见性，不作销量排名。"
+  },
+  "styles": [
+    {
+      "id": "us-ivy",
+      "name": "东岸学院",
+      "english": "IVY / CAMPUS",
+      "summary": "扣领白衬衫、卡其翻边裤和便士乐福构成干净骨架，棒球夹克加入校园运动感；整体合度、清爽，保留帆布包的日常气息。",
+      "silhouette": "合度衬衫＋齐腰棒球夹克＋直筒卡其裤，裤脚利落露出乐福鞋",
+      "palette": [
+        "纯白",
+        "卡其",
+        "深蓝／黑"
+      ],
+      "signatures": [
+        "牛津纺扣领与前襟整齐",
+        "便士乐福配卡其裤",
+        "校园夹克与低调棒球帽"
+      ],
+      "avoid": "裤子保持直筒或轻宽，少堆裤脚；大图案、铆钉和粗重皮带会把这一套推向街头或西部。",
+      "styling": "白衬衫选肩线合适的尺码，把衣摆收进卡其裤，裤脚轻翻一层。黑色棒球夹克敞开，露出衬衫的纵向门襟；便士乐福配白袜或细罗纹袜。米白细格帆布包放在身侧，深蓝帽子与黑鞋保持低饱和呼应。银手镯选细窄的一件即可。这套是用现有款式重组的校园参考，不是历史服装复刻。",
+      "sources": [
+        {
+          "title": "G.H.BASS · Weejuns Through the Decades",
+          "url": "https://www.ghbass.com/blogs/news/the-weejuns-%C2%AE-through-the-decades",
+          "note": "品牌 2026 年回顾明确把 1950–60 年代的便士乐福、卡其裤与牛津纺连接到东岸 Ivy 校园。"
+        },
+        {
+          "title": "Schott · 770 Varsity Jacket",
+          "url": "https://www.schottnyc.com/products/770-men-s-melton-wool-70-s-varsity-jacket-with-leather-sleeves",
+          "note": "当前官方仍展示羊毛衣身、皮袖、条纹罗纹棒球夹克；与学院骨架组合是本站编辑搭配。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-us-baggu-tote",
+          "why": "米白细格帆布书包，让衬衫与皮鞋的组合更适合日常。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "shoes-ghbass-penny",
+          "why": "黑色便士乐福提供学院识别点，复用原有大陆清单。"
+        },
+        {
+          "slot": "top",
+          "itemId": "ref-asket-oxford",
+          "why": "白牛津纺扣领是干净的基础，虽非美国品牌，适合学院语法。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "ref-schott-varsity",
+          "why": "齐腰、条纹罗纹与皮袖给出校园运动比例。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-beamsplus-cuffed",
+          "why": "深卡其直筒和翻边保持裤线整齐，复用已有款。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-cuff",
+          "why": "细窄银手镯只补一点反光，跨国品牌按造型功能搭配。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-us-newera-cap",
+          "why": "弧檐深蓝棒球帽让这套更偏周末校园。"
+        }
+      ]
+    },
+    {
+      "id": "us-western",
+      "name": "西部工装",
+      "english": "WESTERN / WORKWEAR",
+      "summary": "用按扣西部衬衫、高腰重磅牛仔与棕皮 Roper 靴建立粗粝轮廓，棕皮包带与皮带相呼应；少量金属保留工作感。",
+      "silhouette": "短牛仔夹克＋收进腰部的西部衬衫＋高腰牛仔裤＋低跟皮靴",
+      "palette": [
+        "浅牛仔蓝",
+        "深靛蓝",
+        "焦糖棕"
+      ],
+      "signatures": [
+        "尖角育克、按扣和双胸袋",
+        "高腰无弹牛仔与覆盖靴筒的裤脚",
+        "棕皮 Roper 靴与仿古黄铜扣"
+      ],
+      "avoid": "上下牛仔拉开深浅；裤脚自然覆盖靴筒，别塞进靴子。大牛仔帽、流苏和超大带扣同时出现会显得像主题装。",
+      "styling": "先用浅蓝按扣衬衫配深靛蓝高腰牛仔，衬衫收进裤腰，露出棕色皮带。冷一点时叠原色短牛仔夹克；如果上下蓝色过于接近，就把夹克留作另一季的替换层。Roper 靴筒藏在裤管里，裤脚只有一处轻折。周末出行再用棕皮旅行包；首饰只用一枚有纹理的银戒。靴子和腰带的墨西哥制造信息与美国西部风格归类分别记录。",
+      "sources": [
+        {
+          "title": "Wrangler · Cowboy Cut Denim Snap Shirt",
+          "url": "https://www.wrangler.com/shop/cowboy-cut-long-sleeve-western-denim-snap-work-shirt-701.html?dwvar_MS1039_color=MS1039W",
+          "note": "当前官方标注 Best Seller，并明确说明前后 Western yokes、按扣与 W 口袋缝线。"
+        },
+        {
+          "title": "Tecovas · The Earl Roper Boot",
+          "url": "https://www.tecovas.com/products/the-earl?color=scotch-goat",
+          "note": "当前官方标注 Best Seller，说明低于传统牛仔靴的跟高、素面前帮与 Roper 结构；不把生产地当成风格国籍。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-us-tecovas-bag",
+          "why": "棕牛皮周末旅行包与靴子同色系，适合有行李的场景。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-us-tecovas-earl",
+          "why": "低西部跟与无装饰前帮，保留西部轮廓又能日常穿。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-us-wrangler-shirt",
+          "why": "育克、按扣与双翻盖袋比普通牛仔衬衫更有西部识别度。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "global-nm-trucker",
+          "why": "原色短牛仔夹克延续工装材质，与浅蓝衬衫拉开深浅。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "world-us-wrangler-jean",
+          "why": "高腰、无弹重磅丹宁为皮靴提供扎实下半身。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-rauk",
+          "why": "纹理银戒比亮面细链更有手工感，跨品牌编辑搭配。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-us-tecovas-belt",
+          "why": "棕皮与仿古黄铜扣把衬衫、裤子和皮靴连起来。"
+        }
+      ]
+    },
+    {
+      "id": "us-street",
+      "name": "街头滑板",
+      "english": "STREET / SKATE",
+      "summary": "宽松图案 T、宽牛仔与黑高帮帆布鞋建立松弛长线，短飞行夹克截住腰线；背包和棒球帽强调城市实用感。",
+      "silhouette": "宽松圆领 T＋短飞行夹克＋宽牛仔裤＋细长高帮帆布鞋",
+      "palette": [
+        "黑色",
+        "水洗牛仔蓝",
+        "米白"
+      ],
+      "signatures": [
+        "一处可识别的图案或标志",
+        "短外套配宽裤的体积差",
+        "帆布鞋胶边、棒球帽与双肩包"
+      ],
+      "avoid": "衣服不要每件都超长超大；外套在腰附近结束。把图案集中在 T 恤，不把球队标志、文字、粗链一起堆满。",
+      "styling": "T 恤肩线可以略落，衣长控制在裤袋上半部，外搭短飞行夹克，形成横向肩宽与纵向宽裤的对比。牛仔裤选自然宽直，不靠多买两码制造拖地；黑色 Chuck 70 的米白胶边露出一截。全黑背包用侧带收窄，帽檐压低一点即可。银链放在领口外侧只露一段，帽子与 T 恤保留一个视觉主角。",
+      "sources": [
+        {
+          "title": "Stüssy · Basic Stüssy Tee",
+          "url": "https://www.stussy.com/products/1905000-basic-stussy-tee-black",
+          "note": "当前真实商品页及公开商品数据提供 relaxed fit、前后标志印花和棉质短袖，作为街头上衣锚点。"
+        },
+        {
+          "title": "Nike / Converse · Chuck 70 High Top",
+          "url": "https://www.nike.com/t/converse-chuck-70-high-top-unisex-shoe-D7TWU3j3/162050C-001",
+          "note": "当前官方商品页延续 1970 年代篮球鞋结构并强调文化穿着用途；该套是街头／滑板视觉参考，不是滑板性能鞋推荐。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-us-topo-rover",
+          "why": "全黑翻盖双肩包保留城市通勤容量，让宽裤造型偏实用。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-us-converse-chuck70",
+          "why": "高帮黑帆布与米白胶边把宽裤下沿收住；街头方向保留一双运动鞋。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-us-stussy-tee",
+          "why": "前小后大的文字图案作为这一套的视觉中心。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "global-es-echo",
+          "why": "黑色短飞行夹克增加肩部体积，与裤子宽度呼应。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-beams-wide-denim",
+          "why": "复用牛仔蓝阔腿裤，区别于学院卡其与西部高腰原色牛仔。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-cuban",
+          "why": "一条中等宽度古巴银链，在全黑上半身增加少量明亮线条。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-us-newera-cap",
+          "why": "同一顶深蓝帽子在宽裤和帆布鞋旁呈现不同语境。"
+        }
+      ]
+    }
+  ]
+}

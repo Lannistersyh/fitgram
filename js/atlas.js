@@ -14,7 +14,7 @@
   const isSaved=p=>S.has('referenceSaves',p.id);
   const external=(url,text)=>C.externalLink(url,text,'text-link');
   function navigation(mode){
-    const all=products(),links=[['references','#/catalog','穿搭参考',looks().length],['all','#/catalog/all','全部单品',all.length],['international','#/catalog/international','国际选品',all.filter(p=>p.collection==='international').length],['mainland','#/catalog/shoes','大陆清单',all.filter(p=>!p.collection).length],['reference','#/catalog/new','本次补充',all.filter(p=>p.collection==='reference').length]];
+    const all=products(),links=[['world','#/catalog/world','国家风格',window.FITGRAM_WORLD?.styles.length||0],['references','#/catalog','穿搭参考',looks().length],['all','#/catalog/all','全部单品',all.length],['international','#/catalog/international','国际选品',all.filter(p=>p.collection==='international').length],['mainland','#/catalog/shoes','大陆清单',all.filter(p=>!p.collection).length],['reference','#/catalog/new','本次补充',all.filter(p=>p.collection==='reference').length]];
     return '<nav class="atlas-navigation" aria-label="分类图鉴栏目">'+links.filter(x=>x[3]).map(([id,href,label,count])=>'<a href="'+href+'" '+(mode===id?'aria-current="page"':'')+'>'+label+'<span>'+count+'</span></a>').join('')+'</nav>';
   }
   function sourceNote(){

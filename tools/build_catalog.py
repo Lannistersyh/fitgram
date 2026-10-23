@@ -26,6 +26,24 @@ addition_path = ROOT / 'assets/research/catalog-reference-additions.json'
 additions = json.loads(addition_path.read_text()) if addition_path.exists() else []
 assert all(p.get('collection') == 'reference' for p in additions)
 items.extend(additions)
+world_products = []
+world_countries, world_styles = [], []
+for country_id in ('us', 'uk', 'fr', 'it'):
+    product_path = ROOT / 'assets/research' / ('world-products-' + country_id + '.json')
+    style_path = ROOT / 'assets/research' / ('world-styles-' + country_id + '.json')
+    if product_path.exists():
+        records = json.loads(product_path.read_text())
+        assert all(p.get('collection') == 'world' for p in records)
+        world_products.extend(records)
+    if style_path.exists():
+        package = json.loads(style_path.read_text())
+        assert package['country']['id'] == country_id
+        world_countries.append(package['country'])
+        assert len(package['styles']) == 3, country_id
+        for order, style in enumerate(package['styles'], 1):
+            style['countryId'], style['order'] = country_id, order
+            world_styles.append(style)
+items.extend(world_products)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}
 for outfit in outfits:
@@ -38,12 +56,12 @@ for outfit in international_outfits:
     assert len(outfit['items']) == 4
     assert all(item_id in {p['id'] for p in international} for item_id in outfit['items'])
     assert {next(p['category'] for p in international if p['id'] == item_id) for item_id in outfit['items']} == {'shoes', 'shirts', 'outerwear', 'jewelry'}
-data = {'version': 3, 'verifiedAt': '2026-10-22', 'type': 'editorial-style-and-shopping-selection',
+data = {'version': 4, 'verifiedAt': '2026-10-23', 'type': 'editorial-style-and-shopping-selection',
         'note': '搭配选品，不代表已证实的艺人同款。价格按官网地区保留原币种，非大陆到手价。',
         'preferences': json.loads((ROOT / 'assets/research/purchasing-preferences.json').read_text()),
         'items': items, 'outfits': outfits, 'internationalOutfits': international_outfits}
 (ROOT / 'js/catalog-data.js').write_text('/* 真实商品目录；由 tools/build_catalog.py 从核验记录生成。 */\nwindow.FITGRAM_CATALOG = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n')
-print(json.dumps({'items': len(items), 'categories': {c: sum(p['category'] == c for p in items) for c in ('shoes', 'pants', 'shirts', 'outerwear', 'jewelry', 'tops')}, 'international': len(international), 'outfits': len(outfits)}, ensure_ascii=False))
+print(json.dumps({'items': len(items), 'categories': {c: sum(p['category'] == c for p in items) for c in ('shoes', 'pants', 'shirts', 'outerwear', 'jewelry', 'tops', 'bags', 'accessories')}, 'international': len(international), 'outfits': len(outfits)}, ensure_ascii=False))
 
 # 穿搭参考独立于原始 IG 档案，避免把整理选辑当作原作者帖文。
 reference_looks = []
@@ -56,3 +74,15 @@ for look in reference_looks:
 references = {'version': 1, 'source': json.loads((ROOT / 'assets/research/reference-source.json').read_text()), 'looks': reference_looks}
 (ROOT / 'js/reference-data.js').write_text('/* 28 张真实照片及逐张观察，由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_REFERENCES = ' + json.dumps(references, ensure_ascii=False, separators=(',', ':')) + ';\n')
 print('Reference looks:', len(reference_looks))
+
+# 国别风格引用已核验商品；不另建一组无法对应的示意款。
+slot_categories = {'bag': {'bags'}, 'shoes': {'shoes'}, 'top': {'shirts', 'tops'}, 'outerwear': {'outerwear'}, 'pants': {'pants'}, 'jewelry': {'jewelry'}, 'accessory': {'accessories'}}
+for style in world_styles:
+    assert len(style['slots']) == 7
+    assert {slot['slot'] for slot in style['slots']} == set(slot_categories)
+    for slot in style['slots']:
+        product = next((p for p in items if p['id'] == slot['itemId']), None)
+        assert product and product['category'] in slot_categories[slot['slot']], style['id'] + ': ' + slot['itemId']
+world = {'version': 1, 'verifiedAt': '2026-10-23', 'countries': world_countries, 'styles': world_styles}
+(ROOT / 'js/world-data.js').write_text('/* 国别风格、真实商品与品牌依据；由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_WORLD = ' + json.dumps(world, ensure_ascii=False, separators=(',', ':')) + ';\n')
+print('World styles:', len(world_styles), 'New products:', len(world_products))

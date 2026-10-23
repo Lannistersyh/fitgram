@@ -1,0 +1,214 @@
+{
+  "country": {
+    "id": "it",
+    "name": "意大利",
+    "english": "ITALY",
+    "intro": "软剪裁城市穿着、浅色亚麻的Riviera度假，以及实验面料与功能口袋构成的城市机能。看肩线、裤型和材质如何改变一身衣服的气质。"
+  },
+  "styles": [
+    {
+      "id": "it-tailoring",
+      "name": "意式软剪裁通勤",
+      "english": "ITALIAN / SOFT TAILORING",
+      "summary": "深蓝轻结构西装、白衬衫和炭灰单褶羊毛裤，让剪裁顺着身体而不是撑出硬肩。棕色麂皮流苏鞋和细皮带降低商务制服感。",
+      "silhouette": "自然肩单排扣＋合身白衬衫＋直腿单褶翻边裤，腰位清楚而衣身留活动量。",
+      "palette": [
+        "深蓝",
+        "炭灰",
+        "深棕"
+      ],
+      "signatures": [
+        "轻结构单排扣",
+        "单褶翻边羊毛裤",
+        "棕麂皮流苏乐福鞋"
+      ],
+      "avoid": "不把海岸度假亚麻的褶皱或机能口袋搬进来；避免过紧腰身和把裤脚堆在鞋面。",
+      "styling": "外套试穿时先看肩线，再看扣上是否拉出X形褶；白衬衫领口开一颗扣。炭灰单褶裤穿在自然腰位，翻边落在麂皮鞋面上方。棕色细皮带和旅行皮包互相呼应，首饰只留一枚窄银戒。外套和裤装的厚薄可按季节调整。",
+      "sources": [
+        {
+          "title": "Luca Faloni 意式西装系列",
+          "url": "https://lucafaloni.com/en/us/shop/blazers-and-suits",
+          "note": "品牌当前系列强调unstructured elegance，提供亚麻、羊毛及羊绒剪裁。"
+        },
+        {
+          "title": "Luca Faloni 初剪羊毛单褶裤",
+          "url": "https://lucafaloni.com/en/us/shop/charcoal-grey-classic-wool-pleated-trousers",
+          "note": "官网确认直腿、前褶、翻边与腰袢，支持本套下半身结构。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-it-luca-weekender",
+          "why": "深棕旅行皮包适合短途出差，日常通勤可换更小同色皮包。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-it-scarosso-william",
+          "why": "棕色流苏麂皮鞋打破正装皮鞋的镜面感。"
+        },
+        {
+          "slot": "top",
+          "itemId": "ref-asket-oxford",
+          "why": "复用白色牛津纺衬衫，不加繁复领针与大图案。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-it-luca-blazer",
+          "why": "深蓝轻结构单排扣是轮廓中心，按肩胸和衣长试穿。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "world-it-luca-pleated",
+          "why": "炭灰单褶和翻边让裤线利落，保留大腿活动量。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-round-ring",
+          "why": "一枚圆银戒即可；无需一整套金属链。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-it-luca-belt",
+          "why": "深棕3.3cm腰带接住棕鞋与包，细扣不会抢走西装线条。"
+        }
+      ]
+    },
+    {
+      "id": "it-riviera",
+      "name": "Riviera 海岸度假",
+      "english": "RIVIERA / SUMMER TEXTURE",
+      "summary": "沙色一片领亚麻衬衫和内抽绳长裤连成浅色面，棕麂皮鞋与亚麻帽补上细节。傍晚加一件短牛仔外套，体积轻、开领松、肌理明显。",
+      "silhouette": "松开领口的轻衬衫＋略锥形亚麻长裤，短外层在腰附近结束，避免长大衣压住轻面料。",
+      "palette": [
+        "沙色",
+        "原色靛蓝",
+        "巧克力棕"
+      ],
+      "signatures": [
+        "Paramontura一片式领",
+        "内抽绳亚麻裤",
+        "麂皮鞋与暖调旅行包"
+      ],
+      "avoid": "不等同整套正装，也不用镜片帽、尼龙腿袋和厚黑靴；浅色面积与自然褶皱是主角。",
+      "styling": "衬衫解一两颗扣，袖口卷到小臂，选择Regular版让空气感留在腰间。沙色裤与上衣有轻微明度差，棕麂皮鞋压住下半身。原色短牛仔衣作为晚间温差层，白天可放进旅行包；细银项链藏在领口附近，不用粗链。",
+      "sources": [
+        {
+          "title": "Luca Faloni Portofino 亚麻衬衫",
+          "url": "https://lucafaloni.com/en/us/shop/sand-portofino-linen-shirt",
+          "note": "品牌具体说明一片式Paramontura领、纯亚麻及slim/regular版型，定位夏日与周末穿着。"
+        },
+        {
+          "title": "Luca Faloni Lipari 亚麻裤",
+          "url": "https://lucafaloni.com/en/us/shop/sand-lipari-linen-trousers",
+          "note": "官网确认纯亚麻、成衣染色与内抽绳，支持浅色松弛海岸方向。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-it-luca-weekender",
+          "why": "深棕皮革旅行包承担周末行李，带来浅色衣着的暖调落点。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-it-scarosso-william",
+          "why": "复用棕麂皮鞋，让鞋面触感与亚麻相配；穿不外露短袜。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-it-luca-portofino",
+          "why": "沙色一片式领衬衫是核心，可选Regular而非刻意买大修身款。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "global-nm-trucker",
+          "why": "复用原色短牛仔夹克，作为傍晚加层；品牌为美国，按轮廓搭配。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "world-it-luca-lipari",
+          "why": "沙色内抽绳亚麻裤让腰部和裤线比正式西裤更放松。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-string",
+          "why": "42cm细银链留在领口，小面积即可。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-it-luca-cap",
+          "why": "沙色亚麻帽延续浅色面，让帽子与衬衫、裤子的自然肌理呼应。"
+        }
+      ]
+    },
+    {
+      "id": "it-technical",
+      "name": "意大利城市机能",
+      "english": "ITALIAN / EXPERIMENTAL SPORTSWEAR",
+      "summary": "Goggle镜片帽绗缝外套、黑色无侧缝尼龙工装裤与贴身斜挎包，重点在面料光泽、立体口袋和实用体积。和软剪裁、亚麻度假的轮廓明显分开。",
+      "silhouette": "短蓬松上身＋宽体积腿袋裤，黑色厚底鞋落地，斜挎包贴近身体。",
+      "palette": [
+        "蓝色",
+        "黑色",
+        "少量银色"
+      ],
+      "signatures": [
+        "Goggle镜片帽",
+        "Chrome-R成衣染色尼龙",
+        "Lens细节斜挎包与腿袋"
+      ],
+      "avoid": "不加领带、细正装裤或精致长大衣；保留两处功能焦点，避免从帽到鞋堆满机能挂件。",
+      "styling": "蓝色短羽绒外套作为视觉中心，内搭素黑T，裤子用宽松尼龙腿袋款。包带缩短，让包体贴在胸腹之间。皮鞋选择有分量的黑德比，使裤口不拖沓。该套帽子不另戴，配饰槽放沙色帽作为脱掉夹克后的可选替换，避免与Goggle帽叠戴。",
+      "sources": [
+        {
+          "title": "C.P. Company Goggle Jacket 系列",
+          "url": "https://www.cpcompany.com/en-us/shop/focus-on/goggle-jacket/",
+          "note": "品牌当前Goggle专题保留镜片帽这一标志结构，有多个实验面料版本。"
+        },
+        {
+          "title": "C.P. Company Chrome-R 无侧缝裤",
+          "url": "https://www.cpcompany.com/en-us/black-chrome-r-no-side-seams-lens-cargo-pants/21CMPA110A005904G999-46.html",
+          "note": "官网说明再生多纤维尼龙、无侧缝裁片、Lens腿袋和成衣染色，支持实验运动服方向。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-it-cp-lensbag",
+          "why": "黑尼龙Lens包贴身背；官网上身照显示真实包体，不把其他穿着算进商品。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "global-adieu-134",
+          "why": "复用厚底黑德比作为城市落点，避免整套只剩运动鞋语汇。"
+        },
+        {
+          "slot": "top",
+          "itemId": "ref-asket-tee",
+          "why": "复用黑色素T，让绗缝和口袋成为重点。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-it-cp-goggle",
+          "why": "蓝色Goggle帽短羽绒夹克，使用官网真人上身照。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "world-it-cp-cargo",
+          "why": "无侧缝宽腿与Lens腿袋；使用同款同色真人全身照，主要看裤装。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-rauk",
+          "why": "一枚细雕刻银戒足够，功能细节已较多。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-it-luca-cap",
+          "why": "沙色软帽为取下夹克后的可选替换；不与Goggle帽同时叠戴。"
+        }
+      ]
+    }
+  ]
+}

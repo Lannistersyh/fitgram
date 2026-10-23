@@ -1,0 +1,214 @@
+{
+  "country": {
+    "id": "uk",
+    "name": "英国",
+    "english": "UNITED KINGDOM",
+    "intro": "从城市绅士的清楚线条，到蜡棉与粗针织的乡野肌理，再到伦敦 Mod 的短夹克和皮靴：三条至今仍有经典商品延续的英伦方向，适合按廓形与生活场景逐一尝试。"
+  },
+  "styles": [
+    {
+      "id": "uk-tailoring",
+      "name": "城市绅士剪裁",
+      "english": "CITY TAILORING",
+      "summary": "以海军蓝西装、闭合鞋襟牛津鞋和硬挺皮包建立利落线条。借一条小面积图案领带带出装饰趣味，裤子留余量，让成衣剪裁也能融入日常通勤。",
+      "silhouette": "自然肩线单排扣 × 干净直筒裤 × 低轮廓牛津鞋",
+      "palette": [
+        "海军蓝",
+        "纯白",
+        "牛血红"
+      ],
+      "signatures": [
+        "翻领与徽章金属扣",
+        "闭合鞋襟牛津鞋",
+        "硬挺皮包＋领带"
+      ],
+      "avoid": "优先整齐裤线和轻薄内搭；蜡棉、粗针织留给乡野方向，收口短夹克与厚底靴留给 Mod。",
+      "styling": "白衬衫塞入藏青褶裤，先用腰围与裤长建立干净比例，再穿海军蓝西装。不同面料的蓝色应在自然光下核对，若颜色接近却不一致，可换灰西裤。黑牛津鞋配薄深袜；领带只占一条纵线，牛血色皮包提在身侧，银戒保留一枚即可。",
+      "sources": [
+        {
+          "title": "Crockett & Jones Hallam：English Oxford 与当前主线款",
+          "url": "https://www.crockettandjones.com/products/hallam-black-calf",
+          "note": "官网解释闭合鞋襟及 Oxford 传统，并将 Hallam 列为受欢迎的主线包头牛津款。"
+        },
+        {
+          "title": "Peter Christian 当前 Commodore 羊毛西装",
+          "url": "https://www.peterchristian.co.uk/product/the-commodore-luxury-wool-blazer/",
+          "note": "当前具体商品延续单排扣海军蓝、徽章扣及双开衩；该成衣在埃及制造，风格归类不等于产地。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-uk-batchel",
+          "why": "牛血色硬挺皮革和双搭扣构成通勤焦点，压住全套蓝白的轻飘感。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-uk-hallam",
+          "why": "黑色闭合鞋襟牛津鞋把正式度拉起来，包头横线和纤细皮底保留清楚比例。"
+        },
+        {
+          "slot": "top",
+          "itemId": "ref-asket-oxford",
+          "why": "复用纯白牛津纺衬衫，以不夸张的领型承接西装与领带；ASKET 是风格适配选品。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-uk-commodore",
+          "why": "海军蓝单排扣和金属徽章扣确定主线，三种衣长便于按身高调整。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-fredperry-pleated",
+          "why": "复用藏青褶饰阔腿裤做较松弛的城市版本；与外套先核对蓝色色差和裤脚长度。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-round-ring",
+          "why": "复用轮廓简洁的抛光银圆戒，只保留一处光泽，搭配正式鞋与皮包。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-uk-morris-tie",
+          "why": "蓝色 William Morris 棉印花领带提供少量图案，围绕白衬衫形成中心纵线。"
+        }
+      ]
+    },
+    {
+      "id": "uk-heritage",
+      "name": "乡野 Heritage",
+      "english": "COUNTRY HERITAGE",
+      "summary": "蜡棉夹克、粗罗纹针织和棕色灯芯绒先建立有触感的层次，橄榄绿与奶油色控制主色。沿用骑行外套和邮差包的实用结构，转成适合城市散步的年轻版本。",
+      "silhouette": "宽松短蜡棉夹克 × 厚针织 × 有分量的直筒裤靴",
+      "palette": [
+        "橄榄绿",
+        "奶油白",
+        "深棕"
+      ],
+      "signatures": [
+        "蜡棉＋灯芯绒领",
+        "罗纹羊毛与格纹",
+        "仿古五金邮差包"
+      ],
+      "avoid": "保留面料肌理和穿着余量；少用高亮正式牛津鞋与全套蓝西装，也无需叠满 Mod 的条纹和链条。",
+      "styling": "Classic Bedale 外套留出厚毛衣余量，米色针织把深橄榄绿往脸部的重量提亮。棕灯芯绒裤自然盖住靴口，别堆到地面。棕色厚底马丁靴是现有库里的城市化替代，不能当成防水徒步靴。包在侧后方，围巾格纹只露一小段；一枚低调银戒即可。",
+      "sources": [
+        {
+          "title": "Barbour Bedale 官方款式指南",
+          "url": "https://www.barbour.com/gb/bedale-jacket-guide.html",
+          "note": "官网说明 Bedale 于 1980 年从乡野骑行需求出发，并在当前图文中继续展示其设计。"
+        },
+        {
+          "title": "Barbour Classic Bedale 当前具体款式",
+          "url": "https://www.barbour.com/gb/classic-bedale%C2%AE-waxed-jacket-MWX0010OL7140.html",
+          "note": "官网称其年年延续的 Classic 主线；列出蜡棉、宽松骑行版型、棉格纹里层及当期 GBP 价目。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-uk-tarras",
+          "why": "蜡棉主体、棕皮饰边和仿古黄铜色五金延续乡野实用感，与硬挺公文包拉开差异。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "shoes-1460-bex-brown",
+          "why": "复用棕色厚底系带皮靴做城市版本，较传统乡野靴更有街头分量；不推定户外防水性能。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-uk-fisherman",
+          "why": "米色英国羊毛粗罗纹，让平整蜡棉与柔软针织形成可见肌理对比。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-uk-bedale",
+          "why": "橄榄绿短蜡棉、灯芯绒领和风琴袋是这一方向的核心识别点。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-gramicci-corduroy",
+          "why": "复用棕色灯芯绒裤强调纵向绒条和松弛比例；这是跨品牌适配，不把 Gramicci 称为英国品牌。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-rauk",
+          "why": "复用有雕刻肌理的银戒，面积控制在一枚，与粗针织的触感协调。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-uk-tartan-scarf",
+          "why": "Classic Tartan 羔羊毛围巾用小面积棕绿蓝格纹把全套暖中性色连接起来。"
+        }
+      ]
+    },
+    {
+      "id": "uk-mod",
+      "name": "伦敦 Mod 街头",
+      "english": "LONDON MOD",
+      "summary": "用短 Harrington、双线 Polo、黑皮靴和圆筒包做紧凑轮廓。领袖条纹与金属小件承担识别度，裤腿保持直，适合音乐现场和日常街头，留一点年轻而干脆的态度。",
+      "silhouette": "收口短夹克 × 短身 Polo × 黑直筒裤与高帮靴",
+      "palette": [
+        "黑色",
+        "奶油白",
+        "银色"
+      ],
+      "signatures": [
+        "Harrington 与格纹里层",
+        "Polo 领袖双线",
+        "系带皮靴＋圆筒包"
+      ],
+      "avoid": "保持腰胯附近的短上身与直裤腿，不套成长西装；这里以 Mod 为主线，不将它与 Punk 视作同一种历史风格。",
+      "styling": "黑色 M12 领口开一颗，Harrington 拉链停在胸口下，让香槟双线有呼吸空间。现有黑褶工作裤配八孔马丁靴，裤脚自然落在靴上；喜欢更利落可缩短裤脚。圆筒包的奶白条纹呼应领袖，链条只留一条，皮带把上下身的腰线接牢。",
+      "sources": [
+        {
+          "title": "Fred Perry Made in England Harrington 官方说明",
+          "url": "https://www.fredperry.com/men/made-in-england-harrington-jacket-j7320-102.html",
+          "note": "官网说明 Harrington 与 1960 年代 Mods 的关系，以及与 Fred Perry Shirt、格纹里层的组合。"
+        },
+        {
+          "title": "Fred Perry 日本官网 M12 当前款式及历史",
+          "url": "https://www.fredperry.jp/shop/g/gM12-4525626751984",
+          "note": "当前同色款页面解释 M12 自 1950 年代延续、双线比例和从运动到街头的演化；提供英国制造与棉珠地信息。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-uk-barrel",
+          "why": "黑奶白圆筒包把运动与音乐街头的视觉语言带进来，条纹与 Polo 相互呼应。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "shoes-doc1460",
+          "why": "复用黑色八孔马丁靴，以鞋帮和鞋底分量平衡短夹克；风格适配不等于某张照片同款。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-uk-m12",
+          "why": "黑衣身与香槟双线清楚利落，短而稍宽的 M12 是这套的识别点。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-uk-harrington",
+          "why": "短收口 Harrington 把腰线抬高，偶尔露出的格纹里层保留细节。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "ref-nm-dylan",
+          "why": "复用黑色直筒褶工作裤的日常版本；前褶提供余量，裤脚避免过度堆积。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-cuban",
+          "why": "复用 4 mm 古巴银链给黑色衣身一个小面积金属焦点，不与双线领袖争抢。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-uk-belt",
+          "why": "黑色滚轴扣皮带补齐腰线，金属扣与项链轻微呼应；没有额外大徽标。"
+        }
+      ]
+    }
+  ]
+}

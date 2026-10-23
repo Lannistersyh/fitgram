@@ -1,0 +1,214 @@
+{
+  "country": {
+    "id": "fr",
+    "name": "法国",
+    "english": "FRANCE",
+    "intro": "巴黎城市简约、蓝工作服与网球休闲：从长大衣的直线、短工作夹克的纹理，到Polo和球鞋的轻快，比较三种清楚不同的穿法。"
+  },
+  "styles": [
+    {
+      "id": "fr-paris",
+      "name": "巴黎城市简约",
+      "english": "PARIS / UNDERSTATED",
+      "summary": "长直线大衣、细针圆领与光面德比，把视觉重点放在衣长、裤线和少量皮革上。体积克制，适合城市通勤、咖啡馆和晚间约会。",
+      "silhouette": "长外套＋平整贴身内层＋有褶直线西裤，鞋头和包身保持清楚轮廓。",
+      "palette": [
+        "海军蓝",
+        "黑色",
+        "泥炭棕"
+      ],
+      "signatures": [
+        "衬衫领长大衣",
+        "细针美利奴圆领",
+        "光面德比与有中缝裤装"
+      ],
+      "avoid": "区别于三贴袋的劳动服和撞条运动服；保持安静门襟，不叠大标识或过多工具口袋。",
+      "styling": "内搭黑色细针圆领，下摆整理平整；深蓝褶裥裤轻触鞋面。棕色邮差包带一点日常使用感，但五金和首饰各留一个重点。大衣敞开或只扣中段，露出中间完整的深色竖线。此处包与腰带可跨国品牌搭配，风格按轮廓归类。",
+      "sources": [
+        {
+          "title": "Fursac 直线羊毛大衣",
+          "url": "https://eu.fursac.com/en/p-long-coat-men-semi-long-coats-navy-m3losi-jm13-d030.html",
+          "note": "官网列直线剪裁、软肩、衬衫领和羊毛面料，支持该套的安静长线条。"
+        },
+        {
+          "title": "Fursac 黑色细针美利奴圆领",
+          "url": "https://eu.fursac.com/en/p-sweater-men-black-a2orys-la01-b020.html",
+          "note": "当前男装商品页说明细针、直线版型与罗纹收边；本套为编辑搭配。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-fr-bdc-eclair",
+          "why": "棕色中型皮包提供一个温暖落点，功能形状也适合通勤。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-fr-fursac-derby",
+          "why": "光面开放系带鞋收住裤线，让鞋面在深色裤脚下保留清楚边界。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-fr-fursac-knit",
+          "why": "黑色细针平整穿在长外套内，减少肩胸膨胀。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-fr-fursac-coat",
+          "why": "长直身与衬衫领是这一套的核心，不需要夸张驳头。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-fredperry-pleated",
+          "why": "复用藏青褶裥阔腿裤，选合腰围尺寸，裤口保持直落。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-round-ring",
+          "why": "只保留一枚圆戒，抛光银色与黑皮鞋形成细小亮点。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-it-luca-belt",
+          "why": "3.3cm深棕皮带呼应包，腰部五金不再叠挂饰。"
+        }
+      ]
+    },
+    {
+      "id": "fr-workwear",
+      "name": "蓝工作服与水手针织",
+      "english": "FRENCH / WORKWEAR",
+      "summary": "蓝色三贴袋工作夹克配奶白水手针织与直筒棉裤，重心来自结实面料、劳动服细节和皮包。比巴黎简约更有纹理，依旧保持整洁。",
+      "silhouette": "方正短工作外套＋宽直筒棉裤，内搭略厚，鞋底有体积。",
+      "palette": [
+        "工作蓝",
+        "奶白",
+        "棕色"
+      ],
+      "signatures": [
+        "moleskin三贴袋夹克",
+        "珍珠罗纹水手针织",
+        "植鞣皮邮差包"
+      ],
+      "avoid": "不按猎装堆迷彩；与另两套的差异在贴袋、厚棉纹理和短外套方形比例。",
+      "styling": "Germinal敞开，露出奶白略高圆领，袖口只卷一层。用米白直筒棉裤衔接黑色厚底德比，裤脚留少量折痕即可。邮差包自然侧背、帽子选低饱和沙色；银戒替代多层项链，保留厚棉和皮革的触感。",
+      "sources": [
+        {
+          "title": "Bleu de Chauffe Germinal 工作夹克",
+          "url": "https://www.bleu-de-chauffe.com/en/work-jacket/1362-germinal-work-jacket-navy-blue.html",
+          "note": "品牌将Germinal直接溯源到早期劳动服，并列三贴袋和moleskin结构。"
+        },
+        {
+          "title": "Bleu de Chauffe Éclair 邮差包",
+          "url": "https://www.bleu-de-chauffe.com/en/mailman-bag/166-sac-postier-eclair-tourbe-3700716003155.html",
+          "note": "品牌介绍1940年代邮差包原型及2010年的重新设计，并给出工装搭配建议。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-fr-bdc-eclair",
+          "why": "翻盖皮包与工作服有共同使用语汇，棕色为蓝白配色增加厚度。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "global-adieu-134",
+          "why": "复用黑色厚底德比，用鞋底重量接住棉裤。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-fr-bdc-cancale",
+          "why": "奶白珍珠罗纹有足够纹理，领口略高但不挤。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-fr-bdc-germinal",
+          "why": "三贴袋、直身和宽肩活动量构成典型工作外套。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-carhartt-ivory",
+          "why": "复用米白棉质休闲裤；与蓝夹克形成明暗两块。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-rauk",
+          "why": "雕刻窄银戒与皮革的自然纹理相配，保持一枚即可。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-it-luca-cap",
+          "why": "沙色软帽和奶白针织相连，比亮色标识帽更安静。"
+        }
+      ]
+    },
+    {
+      "id": "fr-tennis",
+      "name": "法式网球俱乐部",
+      "english": "FRENCH / TENNIS CLUB",
+      "summary": "珠地Polo、带窄饰条的拉链运动上衣与复古皮面球鞋，来自网球衣橱的日常化穿法。上身明蓝、下身运动直线，比前两套更有速度与颜色。",
+      "silhouette": "短运动外套＋Polo领＋宽直线运动裤，低帮球鞋让下半身轻一些。",
+      "palette": [
+        "明蓝",
+        "海军蓝",
+        "白色"
+      ],
+      "signatures": [
+        "L.12.12珠地Polo",
+        "复古撞条拉链外套",
+        "皮面网球鞋与帆布托特"
+      ],
+      "avoid": "这是一套城市运动休闲搭配，不等同比赛装备；不叠工作夹克和商务公文包。",
+      "styling": "Polo领自然落在半开拉链里，明蓝只作为上半身一块主色。蓝色阔腿运动裤的裤口盖到鞋舌附近，配白袜和白黑复古球鞋。米白细格帆布包装日常物品，NY帽是跨品牌的休闲配饰；两件大标识不同时放在视线中央。",
+      "sources": [
+        {
+          "title": "Lacoste L.12.12 Original Polo",
+          "url": "https://www.lacoste.ae/en/lacoste/men/clothing/polo-shirts/classic-fit-l.12.12-original-polo-shirt/L1212-00-QPT.html",
+          "note": "品牌说明1933年原版Polo与Petit Piqué、鳄鱼绣章，支持网球衣橱的历史核心。"
+        },
+        {
+          "title": "Lacoste Paris Piqué Track Jacket",
+          "url": "https://www.lacoste.ae/en/lacoste/men/clothing/sweatshirts/paris-pique-zip-front-track-jacket/018826728502.html",
+          "note": "官网将这款拉链外套放在French elegance与运动衣技术的结合中，并明确袖部撞条。"
+        }
+      ],
+      "slots": [
+        {
+          "slot": "bag",
+          "itemId": "world-us-baggu-tote",
+          "why": "复用米白细格帆布托特，轻装容量配合运动衣橱；不是专业球拍包。"
+        },
+        {
+          "slot": "shoes",
+          "itemId": "world-fr-lacoste-tclip",
+          "why": "白黑低帮球鞋来自80年代网球式样，皮面和橡胶底更轻快。"
+        },
+        {
+          "slot": "top",
+          "itemId": "world-fr-lacoste-polo",
+          "why": "QPT是明蓝色，具体图片与阿联酋官网款色一致，不写成藏青。"
+        },
+        {
+          "slot": "outerwear",
+          "itemId": "world-fr-lacoste-track",
+          "why": "深蓝拉链外套只用细撞条增加横向结构。"
+        },
+        {
+          "slot": "pants",
+          "itemId": "pants-fredperry-track",
+          "why": "复用蓝色阔腿运动裤，把运动感放在整条直线而非贴腿。"
+        },
+        {
+          "slot": "jewelry",
+          "itemId": "global-ab-cuff",
+          "why": "细银开口手镯可作为城市配饰；真正打球时取下。"
+        },
+        {
+          "slot": "accessory",
+          "itemId": "world-us-newera-cap",
+          "why": "复用深蓝NY软棒球帽，是休闲搭配选择，并不代表法国品牌。"
+        }
+      ]
+    }
+  ]
+}

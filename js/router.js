@@ -22,7 +22,7 @@
 
   function mount(route) {
     if (route === '/') V.mountHome();
-    if (route.startsWith('/catalog')) { A.catalog.mount(); A.atlas.mount(); }
+    if (route.startsWith('/catalog')) { A.catalog.mount(); A.atlas.mount(); A.world.mount(); }
     if (V.mountExtra) V.mountExtra(route.replace(/^\//, ''));
   }
 

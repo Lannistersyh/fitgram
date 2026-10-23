@@ -205,3 +205,5 @@
 .catalog-preview__switch{display:flex;gap:8px;margin-bottom:12px}
 .catalog-preview__switch button{border:1px solid var(--border);border-radius:4px;font-size:11px;padding:9px 13px}
 .catalog-preview__switch button[aria-pressed="true"]{background:var(--sage);border-color:var(--border-strong);color:var(--ink)}
+
+.product-card--bags .product-card__visual,.product-card--accessories .product-card__visual{aspect-ratio:1/1}

@@ -1,8 +1,14 @@
 # FITGRAM
 
-日韩男生穿搭资料站：真实 Instagram 原帖照片、逐件证据、中文搭配观察。原生 HTML/CSS/JavaScript，无依赖安装、构建步骤或 CDN。
+男士穿搭资料站：日韩原帖照片、各国风格与真实单品、逐件证据、中文搭配观察。原生 HTML/CSS/JavaScript，无依赖安装、构建步骤或 CDN。
 
 线上地址：[https://lannistersyh.github.io/fitgram/](https://lannistersyh.github.io/fitgram/)。手机无需与电脑连接同一局域网，Mac 关机不影响访问。收藏与笔记保存在各自浏览器，不跨设备同步。
+
+## 国家风格 / 2026-10-23
+
+打开 [国家风格图鉴](https://lannistersyh.github.io/fitgram/?v=20261023-world1#/catalog/world)：美国、英国、法国、意大利各三种路线，每种配齐包、鞋、上衣、外套、裤子、首饰、配饰。按国家比较三种轮廓，点开风格看真实商品搭配板、选品理由与资料出处；支持品牌/单品搜索、收藏风格、按七类筛选和定位至原商品资料。
+
+本次新增 42 件真实商品，商品目录合计 103 件，覆盖 9 个包、22 双鞋、28 件上衣（含衬衫）、15 件外套、16 条裤子、6 件首饰与 7 件配饰。国家风格新增商品继续并入 [全部单品](https://lannistersyh.github.io/fitgram/?v=20261023-world1#/catalog/all)，与之前的大陆清单、国际选品和照片查款共用收藏。价格保留原币种，没有承诺大陆配送或到手价。真实商品图片与品牌真人上身参考分别标注，风格为本站编辑归纳。详见 [国家风格说明](docs/WORLD-STYLE.md)。
 
 ## 分类图鉴 / 2026-10-22
 
@@ -55,7 +61,7 @@ python3 tools/build_real_data.py
 node tools/check_integrity.js
 ```
 
-独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收，不受上述造型重建覆盖。
+独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；国家风格另由 `node tools/check_world.js` 验收，不受上述造型重建覆盖。
 
 新增实际原帖记录写入 raw_posts.json，保留永久链接、本地图片、真实宽高与图片序号。selected_posts.json 和 analysis.json 是合并结果，直接修改会被下次合并覆盖。已有分析键保留站内 ID，删除内容的 ID 不复用。
 
