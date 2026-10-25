@@ -2,7 +2,7 @@
 (function (A) {
   'use strict';
   const V = A.views, U = A.utils;
-  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/catalog':'分类图鉴','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
+  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/catalog':'分类图鉴','/catalog/history':'潮流历史图集','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
   let first = true;
 
   function renderPage(route) {
@@ -22,7 +22,7 @@
 
   function mount(route) {
     if (route === '/') V.mountHome();
-    if (route.startsWith('/catalog')) { A.catalog.mount(); A.atlas.mount(); A.world.mount(); }
+    if (route.startsWith('/catalog')) { A.catalog.mount(); A.atlas.mount(); A.world.mount(); A.history.mount(); }
     if (V.mountExtra) V.mountExtra(route.replace(/^\//, ''));
   }
 
@@ -33,7 +33,8 @@
 
   function updateNavigation(route) {
     document.querySelectorAll('[data-route]').forEach(el => {
-      const active = route === el.dataset.route || (el.dataset.route === '/catalog' && route.startsWith('/catalog/')) || (el.dataset.route === '/bloggers' && route.startsWith('/blogger/'));
+      const historyRoute = route.startsWith('/catalog/history');
+      const active = route === el.dataset.route || (el.dataset.route === '/catalog' && route.startsWith('/catalog/') && (!historyRoute || !el.closest('#desktop-nav'))) || (el.dataset.route === '/catalog/history' && historyRoute) || (el.dataset.route === '/bloggers' && route.startsWith('/blogger/'));
       el.classList.toggle('is-active', active);
       if (active) el.setAttribute('aria-current', 'page');
       else el.removeAttribute('aria-current');
@@ -42,7 +43,7 @@
 
   function updateMeta(route) {
     updateNavigation(route);
-    document.title = 'FITGRAM · ' + (titles[route] || (route.startsWith('/catalog/')?'分类图鉴':'穿搭图鉴'));
+    document.title = 'FITGRAM · ' + (titles[route] || (route.startsWith('/catalog/history/')?'潮流历史图集':route.startsWith('/catalog/')?'分类图鉴':'穿搭图鉴'));
     A.store.set('recent', [route, ...(A.store.get('recent') || []).filter(x => x !== route)].slice(0, 12));
   }
 

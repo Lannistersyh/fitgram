@@ -1,0 +1,304 @@
+[
+  {
+    "id": "history-us-ivy",
+    "countryId": "us",
+    "title": "学院衣橱：徽章、衬衫与便士乐福",
+    "period": "1910s–1960s",
+    "year": 1910,
+    "endYear": 1969,
+    "summary": "从带校徽的运动外套到日常衬衫和卡其裤，学院风把正式与休闲放进同一套衣橱。",
+    "story": "FIT 将 Ivy 的形成放在20世纪初美国大学校园，并记录其在世纪中期的扩散。图中藏青 blazer 带1916年耶鲁徽章，曾由出借者的曾祖父穿着。它保留校徽与金属扣，也说明学院衣橱并非只有今天的极简基础款。",
+    "signatures": [
+      "藏青衣身与胸袋校徽",
+      "浅色金属纽扣形成纵线",
+      "衬衫、领带与有贴袋的外套并置"
+    ],
+    "today": "保留扣领衬衫、直筒卡其裤和乐福鞋；校徽与条纹选一处即可。现有棒球夹克方案是今天的校园编辑搭配。",
+    "styleIds": [
+      "us-ivy"
+    ],
+    "imageAlt": "FIT展示的藏青男士blazer，胸袋带1916年耶鲁徽章，配衬衫与领带。",
+    "imageDate": "带1916年耶鲁徽章；馆方未在该图注单列服装制作年份",
+    "imageKind": "museum-object",
+    "credit": "The Museum at FIT；服装由 Riley Scripps Ford 出借",
+    "rights": "图片版权归 The Museum at FIT；该页未标注开放许可",
+    "imageSource": "https://sites.fitnyc.edu/depts/museum/Ivy_Style/exhibition/blazer.html",
+    "imageUrl": "https://sites.fitnyc.edu/depts/museum/Ivy_Style/images/blazer-1.jpg",
+    "sources": [
+      {
+        "label": "FIT · Ivy Style：Blazer馆藏与图注",
+        "url": "https://sites.fitnyc.edu/depts/museum/Ivy_Style/exhibition/blazer.html",
+        "supports": "图中为带1916耶鲁徽章的藏青blazer及其出借信息；外套从运动服进入学院衣橱。"
+      },
+      {
+        "label": "FIT · Ivy Style展览导言",
+        "url": "https://sites.fitnyc.edu/depts/museum/Ivy_Style/",
+        "supports": "20世纪初校园背景、核心单品、战后扩散与1980年代复兴。"
+      }
+    ],
+    "notes": "这是历史服装的现代馆藏展示照，不能标作1916年现场照片。原图300×452像素，保留原尺寸，不用AI补细节。",
+    "productIds": [
+      "ref-asket-oxford",
+      "pants-beamsplus-cuffed",
+      "shoes-ghbass-penny"
+    ],
+    "image": "assets/history/history-us-ivy.jpg",
+    "productNotes": {
+      "ref-asket-oxford": "扣领衬衫把领口收整齐；用日常白衬衫替代馆藏里的校徽、领带组合，降低正式程度。",
+      "pants-beamsplus-cuffed": "以翻边休闲裤保留学院衣橱的直落裤线；它不是图中展品的一部分，也不需要复制校服。",
+      "shoes-ghbass-penny": "便士乐福鞋把衬衫与休闲裤连在一起；它是今天的Ivy搭配选择，图中没有鞋部同款依据。"
+    }
+  },
+  {
+    "id": "history-us-work-outdoor",
+    "countryId": "us",
+    "title": "牧场与山野：功能的两种答案",
+    "period": "1940s–1970s",
+    "year": 1940,
+    "endYear": 1979,
+    "summary": "西部服装回应骑乘与劳作，山野装备回应徒步；两条并行的实用传统，如今都进入日常衣橱。",
+    "story": "1940年6月，Russell Lee在新墨西哥州Quemado的牛仔竞技活动拍下此照，衬衫收腰、皮带和牛仔帽清楚可见。另一条并行传统是山地装备：Danner官网将Mountain Light的推出追溯到1979年。这里比较功能如何塑造穿衣，不把户外服说成牛仔服的后代。",
+    "signatures": [
+      "图中大檐牛仔帽与翻领衬衫",
+      "上衣收进高腰长裤并系皮带",
+      "右侧人物的靴筒与长裤、工作绳索并置"
+    ],
+    "today": "西部路线保留按扣衬衫、深牛仔和Roper靴；户外路线另用抓绒、工装裤与徒步靴。皮靴外形相近，结构和用途仍要分别看。",
+    "styleIds": [
+      "us-western",
+      "us-outdoor"
+    ],
+    "productIds": [
+      "world-us-wrangler-shirt",
+      "world-us-tecovas-earl",
+      "more-us-danner-mountain"
+    ],
+    "image": "assets/history/history-us-work-outdoor.jpg",
+    "imageAlt": "1940年Quemado牛仔竞技活动的黑白照片，前景人物穿牛仔帽、翻领衬衫、皮带和高腰裤，倚着挂有绳索的围栏，右侧可见长靴。",
+    "imageDate": "1940年6月",
+    "imageKind": "archive-photo",
+    "credit": "Russell Lee；Library of Congress，FSA/OWI，数字档案fsa.8a28856；Wikimedia Commons副本",
+    "rights": "美国联邦政府FSA/OWI作品，Commons标注Public domain（美国）；LOC记录No known restrictions",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cowboy_at_Rodeo._Quemado,_New_Mexico.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cowboy_at_Rodeo._Quemado%2C_New_Mexico.jpg",
+    "sources": [
+      {
+        "label": "LOC档案影像 · Quemado牛仔，1940（Commons副本）",
+        "url": "https://commons.wikimedia.org/wiki/File:Cowboy_at_Rodeo._Quemado,_New_Mexico.jpg",
+        "supports": "照片作者、地点、1940年6月日期、LOC档案号与公有领域标记。"
+      },
+      {
+        "label": "Danner · Mountain Light历史与当前款",
+        "url": "https://www.danner.com/31528",
+        "supports": "品牌将原始Mountain Light的推出年份记为1979，并说明当前全粒面皮革、登山扣等结构。"
+      }
+    ],
+    "notes": "图片仅展示1940年牛仔竞技场景，不是1970年代徒步照片。户外是有独立Danner史料支持的并列传统；不据这张图确认Wrangler、Tecovas或Danner同款。",
+    "productNotes": {
+      "world-us-wrangler-shirt": "用西部衬衫延续领口、门襟与收进裤腰的穿法；不凭黑白档案确认原人物的品牌或按扣结构。",
+      "world-us-tecovas-earl": "Roper靴与衬衫、深牛仔组成今天的西部路线；照片没有足够证据确认同款。",
+      "more-us-danner-mountain": "沿独立的山地装备线索看Mountain Light的设计延续；徒步靴与Roper靴按用途分别选择。"
+    }
+  },
+  {
+    "id": "history-us-hiphop",
+    "countryId": "us",
+    "title": "Hip-hop：街头的图案与体积",
+    "period": "1980s–1990s",
+    "year": 1980,
+    "endYear": 1999,
+    "summary": "大图案、运动服与宽松比例，让穿衣成为音乐社群表达个人身份的方式。",
+    "story": "FIT 的 Hip Hop Style 展览把街头服装放回黑人及其他少数族裔工薪青年文化的背景，说明1980–90年代艺人与乐迷如何混搭运动服、珠宝和奢侈品。图中是 Michael Hoban 1989年秋的8-Ball夹克馆藏，以大面积拼色和球号图案强化辨识度。",
+    "signatures": [
+      "短飞行夹克式衣身与收口下摆",
+      "背部红绿白色块对比",
+      "背部和袖部重复8号球图案"
+    ],
+    "today": "借短外套与宽裤的体积差，把图案集中在一件衣服。现有街头滑板方案只借造型语法，Hip-hop与滑板各有独立社群。",
+    "styleIds": [
+      "us-street"
+    ],
+    "imageAlt": "Michael Hoban 1989年秋8-Ball夹克馆藏背面，白袖、绿衣身和红色拼块上有黑白8号球图案。",
+    "imageDate": "服装：1989年秋；图片为现代馆藏摄影",
+    "imageKind": "museum-object",
+    "credit": "The Museum at FIT；Michael Hoban / North Beach Leather捐赠，藏品91.192.1",
+    "rights": "图片版权归 The Museum at FIT；该页未标注开放许可",
+    "imageSource": "https://www.fitnyc.edu/museum/exhibitions/hip-hop-style.php",
+    "imageUrl": "https://www.fitnyc.edu/museum/images/hiphop-hoban-600x900.jpg",
+    "sources": [
+      {
+        "label": "FIT · Fifty Years of Hip Hop Style",
+        "url": "https://www.fitnyc.edu/museum/exhibitions/hip-hop-style.php",
+        "supports": "1989秋8-Ball夹克的设计者、藏品编号和Hip-hop穿衣的文化背景。"
+      },
+      {
+        "label": "FIT策展 · Early Style in Hip Hop",
+        "url": "https://artsandculture.google.com/story/early-style-in-hip-hop-the-museum-at-fit/fQVRbFHKwuzsKg?hl=en",
+        "supports": "早期服装实用性、运动服、珠宝与个性化表达，及文化的持续扩散。"
+      }
+    ],
+    "notes": "图片是1989年服装的馆藏摄影，并非1989街头现场。只为街头风格提供历史参照，不将Hip-hop和滑板视为同一传统。",
+    "productIds": [
+      "global-es-echo",
+      "pants-beams-wide-denim",
+      "world-us-converse-chuck70"
+    ],
+    "image": "assets/history/history-us-hiphop.jpg",
+    "productNotes": {
+      "global-es-echo": "借有体积的短外套与收口下摆；这件羽绒外套没有馆藏皮夹克的8号球拼色图案。",
+      "pants-beams-wide-denim": "用宽版牛仔承接短外套的分量；裤型是当前街头搭配选择，不是馆藏夹克照片里的配套裤。",
+      "world-us-converse-chuck70": "以黑色帆布高帮鞋收住宽裤，让图案与体积集中在上身；Hip-hop与滑板不因此被当作同一传统。"
+    }
+  },
+  {
+    "id": "history-uk-city-country",
+    "countryId": "uk",
+    "title": "城市与乡野：两套不同的衣橱",
+    "period": "1900s–1930s",
+    "year": 1900,
+    "endYear": 1939,
+    "summary": "城市西装追求整齐轮廓，乡野服装强调活动余量与储物；英伦衣橱长期存在两条并行路线。",
+    "story": "London Museum 保存的一套1938年三件套来自伦敦法律从业者，他称其为 City suit，也穿它结婚。与之并行的乡野传统可见 Norfolk 外套：FIDM记录其粗羊毛、褶裥和大贴袋用于运动活动。两者是不同场合的衣橱，不能画成同一条演变线。",
+    "signatures": [
+      "图中黑色单排扣翻领外套",
+      "内层深色马甲与整齐门襟",
+      "长裤裤线与完整三件套比例"
+    ],
+    "today": "城市路线保留衬衫、清楚裤线和牛津鞋；乡野路线另选蜡棉、粗针织与宽松裤靴。按场合选其中一条。",
+    "styleIds": [
+      "uk-tailoring",
+      "uk-heritage"
+    ],
+    "imageAlt": "London Museum的1938年男士三件套馆藏正面，黑色单排扣外套与马甲配条纹长裤。",
+    "imageDate": "服装：1938年；图片为现代馆藏摄影",
+    "imageKind": "museum-object",
+    "credit": "London Museum；Doland and Larcombe Ltd，藏品69.1a",
+    "rights": "digital image © London Museum；该藏品未标注CC许可",
+    "imageSource": "https://www.londonmuseum.org.uk/collections/v/object-84518/jacket-lounge-jacket/",
+    "imageUrl": "https://collections.londonmuseum.net/iiif/3/381/580/69_1a_c_va.ptif/full/1000,/0/default.jpg",
+    "sources": [
+      {
+        "label": "London Museum · 1938 City suit",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-84518/jacket-lounge-jacket/",
+        "supports": "制作年份、品牌、原主职业与其City suit的用途记述。"
+      },
+      {
+        "label": "ASU FIDM Museum · Norfolk jacket",
+        "url": "https://fidmmuseum.org/learn/articles/norfolk-jacket",
+        "supports": "乡野外套的活动褶裥、大口袋、粗羊毛与非城市场合。"
+      }
+    ],
+    "notes": "图像只展示城市三件套，不是乡野穿着现场。Norfolk是并行历史背景；不声称图中西装演化成Barbour Bedale。",
+    "productIds": [
+      "world-uk-commodore",
+      "world-uk-hallam",
+      "world-uk-bedale"
+    ],
+    "image": "assets/history/history-uk-city-country.jpg",
+    "productNotes": {
+      "world-uk-commodore": "借清楚的翻领与扣位搭城市路线；此款深蓝外套与1938年黑色三件套的面料、组合不同。",
+      "world-uk-hallam": "黑色牛津鞋与清楚裤线配合，是今天的城市剪裁方案；馆藏照未展示鞋款。",
+      "world-uk-bedale": "蜡棉夹克代表今天另一路乡野选择；它与Norfolk有不同结构，不由图中城市西装直接演化而来。"
+    }
+  },
+  {
+    "id": "history-uk-mod",
+    "countryId": "uk",
+    "title": "Mod：把剪裁带进青年街头",
+    "period": "1950s末–1960s",
+    "year": 1958,
+    "endYear": 1969,
+    "summary": "短夹克、干净裤线与帽饰，让整齐剪裁从父辈规则变成年轻人的身份表达。",
+    "story": "Henry Grant 在1963年6月将这张街头照标为 Mods。London Museum记录Mod风格不断变化，也包含中性化的女性服装。V&A则指出，1950年代末青年男装借意大利窄身西装与巴黎左岸风格发展出短夹克、瘦长裤等新比例。",
+    "signatures": [
+      "图中短翻领外套与长裤",
+      "格纹长裤与素色短外套并列",
+      "帽子与整齐裤线强化头身比例"
+    ],
+    "today": "选择短Harrington、Polo与直裤，先收好衣长和裤脚。它是今天借鉴Mod的方案，照片不能用来确认Fred Perry同款。",
+    "styleIds": [
+      "uk-mod"
+    ],
+    "imageAlt": "Henry Grant拍摄的两位青年并肩走在街道上，穿短外套、长裤和帽子，馆方题名为Mods。",
+    "imageDate": "1963年6月",
+    "imageKind": "archive-photo",
+    "credit": "© Henry Grant Collection / London Museum，HG2226/14",
+    "rights": "CC BY-NC 4.0；署名Henry Grant Collection / London Museum；仅机械缩放",
+    "imageSource": "https://www.londonmuseum.org.uk/collections/v/object-795521/mods/",
+    "imageUrl": "https://collections.londonmuseum.net/download/326/155/download_HG2226_14.jpg",
+    "sources": [
+      {
+        "label": "London Museum · Mods，1963",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-795521/mods/",
+        "supports": "原始题名、摄影者、1963年6月日期及CC BY-NC 4.0许可；包含中性女性服装的说明。"
+      },
+      {
+        "label": "V&A · 1960年代英国男装的孔雀革命",
+        "url": "https://www.vam.ac.uk/articles/the-peacock-revolution-1960s-menswear",
+        "supports": "Mod青年男装、欧陆剪裁、短夹克与窄长裤的历史背景。"
+      }
+    ],
+    "notes": "馆方讨论照片中的中性女性时装；不据面容判定人物身份，也不将其误标为男士街拍。这里比较的是剪裁语法。",
+    "productIds": [
+      "world-uk-harrington",
+      "world-uk-m12",
+      "ref-nm-dylan"
+    ],
+    "image": "assets/history/history-uk-mod.jpg",
+    "productNotes": {
+      "world-uk-harrington": "借短上衣控制衣长，再配直裤；当前Harrington不是照片人物外套的同款确认。",
+      "world-uk-m12": "Polo的领口与双线细节适合今天的Mod编辑路线；这张1963年照片不能证明人物穿了Fred Perry。",
+      "ref-nm-dylan": "用素色长裤让上衣和领口更清楚；替换了照片里明显的格纹裤，不是照搬整套。"
+    }
+  },
+  {
+    "id": "history-uk-punk",
+    "countryId": "uk",
+    "title": "1977音乐现场：穿衣成为态度",
+    "period": "1970s",
+    "year": 1970,
+    "endYear": 1979,
+    "summary": "英国Punk将音乐、身体和服装连在一起，旧衣改造与金属细节留下持续影响。",
+    "story": "挪威国家档案馆保存了Sex Pistols于1977年7月21日在Trondheim演出的照片。Met将DIY、五金和拼贴列为Punk影响服装的重要语言。真实现场也提醒我们，穿衣比后来固定化的“全套朋克”更多样。",
+    "signatures": [
+      "图中无袖上衣与露出的手臂",
+      "高对比大图案集中在胸前",
+      "粗链与方形挂坠集中在领口"
+    ],
+    "today": "以黑皮衣、直裤和皮靴保留紧凑轮廓，孔眼腰带或戒指选一处。现有暗色摇滚方案是日常转译，不是乐队同款复刻。",
+    "styleIds": [
+      "uk-rock"
+    ],
+    "imageAlt": "Sex Pistols于1977年在Trondheim演出，前景乐手穿浅色底黑色大图案无袖上衣、佩戴粗链项饰，旁边为持话筒的表演者。",
+    "imageDate": "1977年7月21日",
+    "imageKind": "archive-photo",
+    "credit": "Billedbladet NÅ / Arne S. Nielsen；Riksarkivet（挪威国家档案馆），PA-797，mappe 8935",
+    "rights": "档案机构发布标记：No known copyright restrictions；不等同于另外核定的全球公有领域结论",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_i_Norge,_1977_(6263353228).jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sex_Pistols_i_Norge%2C_1977_%286263353228%29.jpg",
+    "sources": [
+      {
+        "label": "挪威国家档案馆影像 · Commons档案记录",
+        "url": "https://commons.wikimedia.org/wiki/File:Sex_Pistols_i_Norge,_1977_(6263353228).jpg",
+        "supports": "演出日期、地点、摄影者、档案编号与机构所标权利状态。"
+      },
+      {
+        "label": "Met · PUNK: Chaos to Couture",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2013/punk",
+        "supports": "DIY、五金、拼贴与解构等Punk视觉语言，不将其简化成单一套装。"
+      }
+    ],
+    "notes": "英国乐队在挪威的真实演出照片，不是伦敦街拍；照片未展示全身鞋裤，不据此断言鞋款或皮裤。",
+    "productIds": [
+      "more-uk-allsaints-milo",
+      "shoes-jadon",
+      "more-uk-allsaints-belt"
+    ],
+    "image": "assets/history/history-uk-punk.jpg",
+    "productNotes": {
+      "more-uk-allsaints-milo": "把舞台的紧凑上身转成黑色短皮衣；原照可见的是无袖图案上衣，并非这件皮衣。",
+      "shoes-jadon": "以厚底皮靴增加下端分量，供日常暗色造型参考；舞台照片没有鞋部证据。",
+      "more-uk-allsaints-belt": "用一处金属孔眼呼应五金语言；与戒指或链饰择少量佩戴，避免把历史线索堆成整套符号。"
+    }
+  }
+]

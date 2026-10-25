@@ -4,6 +4,12 @@
 
 线上地址：[https://lannistersyh.github.io/fitgram/](https://lannistersyh.github.io/fitgram/)。手机无需与电脑连接同一局域网，Mac 关机不影响访问。收藏与笔记保存在各自浏览器，不跨设备同步。
 
+## 潮流历史图集 / 2026-10-25
+
+[打开潮流历史图集](https://lannistersyh.github.io/fitgram/?v=20261025-history1#/catalog/history)。本轮新增 12 个历史章节和 12 张真实图，美英法意各 3 章，共 25 条出处记录，连接原有 16 种风格和 35 件商品。6 张为历史照片、4 张为历史实物的馆藏摄影、2 张为品牌档案。在原有国家风格与单品目录之上加入历史图像：按年代和国家浏览、搜索细节、收藏章节、放大查看原图，并从历史章节进入今天的搭配路线与参考单品。旧单品快照保留原核验时间，不因加入历史资料而更新价格。
+
+图片分别标注为历史照片、馆藏实物或品牌档案，显示照片时间或物件年代、作者/机构和权利说明。章节讨论的年代与照片自身年代分别记录；今天的商品是本站按轮廓、颜色或用途选择的参考，不作为历史原物的同款证明。风格可以跨越国家与年代，历史章节按线索组织，不把所有衣服写成单一起源。详见 [历史图集说明](docs/STYLE-HISTORY.md)。
+
 ## 继续扩展 / 2026-10-23
 
 [国家风格图鉴](https://lannistersyh.github.io/fitgram/?v=20261023-world2#/catalog/world) 现为四国各 4 种、共 16 种风格；点击“只看新风格”可看美式复古户外、英伦暗色摇滚、巴黎复古摇滚和意式复古运动。本次新增 14 件商品，包括 4 件新首饰，商品总数从 103 增至 117。包共 11、鞋 23、上衣 30（含衬衫）、外套 19、裤子 16、首饰 10、配饰 8。
@@ -67,11 +73,11 @@ python3 tools/build_real_data.py
 node tools/check_integrity.js
 ```
 
-独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；国家风格另由 `node tools/check_world.js` 验收，不受上述造型重建覆盖。
+独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；国家风格另由 `node tools/check_world.js` 验收；历史图集通过 `python3 tools/build_history.py` 独立生成，由 `node tools/check_history.js` 验收，不受上述造型重建覆盖。
 
 新增实际原帖记录写入 raw_posts.json，保留永久链接、本地图片、真实宽高与图片序号。selected_posts.json 和 analysis.json 是合并结果，直接修改会被下次合并覆盖。已有分析键保留站内 ID，删除内容的 ID 不复用。
 
-Instagram 造型照片仅作等比缩放与压缩；本次抖音参考单图由原帖拼图裁切，并逐张记录来源坐标。均未合成、补绘或生成商品外观。仓库保存当前 48 张原帖造型照片、28 张参考单图及缩略图、8 张来源拼图、61 张商品主图和 12 张品牌上身图；候选图和旧版资料留在本机备份。替换图片构图后重新核对热点，不能沿用旧坐标。
+Instagram 造型照片仅作等比缩放与压缩；本次抖音参考单图由原帖拼图裁切，并逐张记录来源坐标。均未合成、补绘或生成商品外观。仓库保存当前 48 张原帖造型照片、28 张参考单图及缩略图、8 张来源拼图、117 张商品主图和 16 张品牌上身图，以及历史图集中的本地图片；候选图和旧版资料留在本机备份。替换图片构图后重新核对热点，不能沿用旧坐标。
 
 ## 功能与权利
 

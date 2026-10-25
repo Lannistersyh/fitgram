@@ -62,7 +62,7 @@
       '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自所列品牌或零售商商品页。</dd>'+
       (p.materialEvidence?.url&&p.materialEvidence.url!==p.productUrl?'<dt>材质资料出处</dt><dd>'+C.externalLink(p.materialEvidence.url,'查看材质依据')+'</dd>':'')+
       '<dt>图片出处</dt><dd>'+C.externalLink(p.sourceEvidence?.imagePage||p.productUrl,(p.sourceType||'').includes('retailer')?'零售商图片所在页面':'品牌图片所在页面')+'</dd></dl>'+
-      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+'</div></article>';
+      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+(A.history?.relatedProduct(p.id)||'')+'</div></article>';
   }
   function filtered(){
     const q=state.query.trim().toLowerCase(),cfg=typeConfig();
@@ -89,6 +89,7 @@
   function clearFilters(){state.query='';state.saved=false;state.buying='all';state.itemType='all';}
   A.views.renderCatalog=function(category,subCategory){
     if(category==='world')return A.world.render(subCategory);
+    if(category==='history')return A.history.render(subCategory);
     if(!category||category==='atlas'||category==='reference')return A.atlas.render(category==='reference'?subCategory:null,category==='atlas'?subCategory:null);
     const scope=category==='all'?'all':category==='new'?'reference':category==='international'?'international':'mainland',next=scope!=='mainland'?(subCategory||'all'):category;
     if(scope!==state.scope||next!==state.category){state.itemType='all';if(scope!==state.scope)clearFilters();}

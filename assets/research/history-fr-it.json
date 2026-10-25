@@ -1,0 +1,309 @@
+[
+  {
+    "id": "history-fr-sailors",
+    "countryId": "fr",
+    "title": "海员衣橱：宽裤与深浅层次",
+    "period": "1858–1930s",
+    "year": 1858,
+    "endYear": 1939,
+    "summary": "从海军制服看深色外层、浅色领口与宽直裤线，理解法国日常衣橱里的海洋语汇。",
+    "story": "SAINT JAMES的历史资料记载，条纹针织衫于1858年纳入法国海军制服。约1880年的两名水手合影呈现另一层制服结构：深色套头外衣、大翻领、浅色内层和宽裤。条纹衫并未在本图中显露，不能把这张照片当作条纹细节的证据。",
+    "signatures": [
+      "深色外层与浅色领口的明度对比",
+      "套头外衣的平直衣身",
+      "有余量的直腿裤与深色皮鞋"
+    ],
+    "today": "以奶白针织、靛蓝工作夹克和宽直裤取其深浅关系；海员服与蓝工作服是不同用途的服装，这里只比较实用轮廓。",
+    "styleIds": [
+      "fr-workwear"
+    ],
+    "productIds": [
+      "world-fr-bdc-cancale",
+      "world-fr-bdc-germinal",
+      "pants-carhartt-ivory"
+    ],
+    "image": "assets/history/history-fr-sailors.jpg",
+    "imageAlt": "约1880年两名水手的全身合影，一人站立、一人坐着，穿深色大翻领上衣、宽直长裤和皮鞋。",
+    "imageDate": "约1880年",
+    "imageKind": "archive-photo",
+    "credit": "Émile Mage／Musée départemental breton，Quimper；经Wikimedia Commons",
+    "rights": "Public domain；Commons标记PD-old-100-expired及Public Domain Mark 1.0。",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Deux_jeunes_marins_2002.29.2.2.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Deux_jeunes_marins_2002.29.2.2.jpg",
+    "sources": [
+      {
+        "label": "布列塔尼博物馆藏：两名水手／Commons档案",
+        "url": "https://commons.wikimedia.org/wiki/File:Deux_jeunes_marins_2002.29.2.2.jpg",
+        "supports": "照片题名、约1880年日期、摄影者Émile Mage、收藏机构及公版标记。"
+      },
+      {
+        "label": "SAINT JAMES 官方：海员衣橱历史",
+        "url": "https://saint-james.com.au/pages/about-us",
+        "supports": "1858年条纹针织衫被纳入法国海军制服；本文不采用该页更早的中世纪年代叙述。"
+      }
+    ],
+    "notes": "图中是海员制服，非蓝工作服，也不是当代品牌商品；今日工作服页面的关联是对轮廓与配色的编辑比较。",
+    "productNotes": {
+      "world-fr-bdc-cancale": "以奶白罗纹针织保留浅色领口与深色外层的关系；这件是当代针织，不是照片中的海军内衣。",
+      "world-fr-bdc-germinal": "借深蓝、平直衣身和实用口袋搭出另一种工作衣橱；三贴袋夹克与照片的套头海员外衣结构不同。",
+      "pants-carhartt-ivory": "保留有余量的直裤，把照片的深色裤换成米白，令今天的蓝白组合更轻。"
+    }
+  },
+  {
+    "id": "history-fr-tennis",
+    "countryId": "fr",
+    "title": "网球白衣：从球场到Polo",
+    "period": "1920s–1930s",
+    "year": 1920,
+    "endYear": 1939,
+    "summary": "短袖、翻领与轻针织改变运动时的活动感，今天的Polo衣橱仍能读到这些线索。",
+    "story": "1928年法网决赛合影里，Lacoste穿短袖翻领上衣，Cochet穿V领针织，二人都配浅色长裤。Lacoste官方历史将品牌与L.12.12的推出记于1933年。这张早于品牌成立的照片能帮助观察球场衣着的变化，不能据外观认定为已上市的L.12.12。",
+    "signatures": [
+      "短袖翻领与轻薄领口",
+      "V领针织叠出衬衫领",
+      "浅色长裤形成连续直线"
+    ],
+    "today": "Polo搭直腿运动裤，拉链外套只加细撞条；借用球场衣橱的轻快线条，日常可用蓝白配色取代全白。",
+    "styleIds": [
+      "fr-tennis"
+    ],
+    "productIds": [
+      "world-fr-lacoste-polo",
+      "pants-fredperry-track",
+      "world-fr-lacoste-tclip"
+    ],
+    "image": "assets/history/history-fr-tennis.jpg",
+    "imageAlt": "1928年6月4日法网男子单打决赛合影，左侧René Lacoste穿短袖翻领上衣，右侧Henri Cochet穿V领针织，两人手持球拍。",
+    "imageDate": "1928-06-04",
+    "imageKind": "archive-photo",
+    "credit": "Agence Rol／Bibliothèque nationale de France，Gallica；经Wikimedia Commons",
+    "rights": "Public domain；Commons标记PD France，保留原摄影机构署名。",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Lacoste_Henri_Cochet_1928_Roland_Garros_Finale.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ren%C3%A9_Lacoste_Henri_Cochet_1928_Roland_Garros_Finale.jpg",
+    "sources": [
+      {
+        "label": "BnF／Commons：1928年Lacoste与Cochet决赛合影",
+        "url": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Lacoste_Henri_Cochet_1928_Roland_Garros_Finale.jpg",
+        "supports": "照片原题、人物顺序、1928-06-04日期、Agence Rol署名、Gallica馆藏编号与公版说明。"
+      },
+      {
+        "label": "Lacoste 官方：Polo的历史",
+        "url": "https://www.lacoste.com/fr/news/fashion/lacoste-inventor-of-the-polo-shirt.html",
+        "supports": "1933年创立品牌并推出L.12.12；短袖、Petit Piqué与领口结构的品牌史叙述。"
+      }
+    ],
+    "notes": "人物身份来自档案题注；照片为1933年品牌推出前的球场记录，不认定照片衣服的具体款号。",
+    "productNotes": {
+      "world-fr-lacoste-polo": "借短袖与翻领，用明蓝替换档案里的白衣；现款L.12.12有自己的货号，不能据此反认1928年衣服。",
+      "pants-fredperry-track": "用蓝色阔腿运动裤延续上下连续的裤线；抽绳、侧条与材质均是今天的运动服选择。",
+      "world-fr-lacoste-tclip": "以白黑球鞋收住蓝白配色；它是日常球鞋选品，不是历史照片鞋款的复刻证据。"
+    }
+  },
+  {
+    "id": "history-fr-stage",
+    "countryId": "fr",
+    "title": "青年舞台：西装与摇滚",
+    "period": "1960–1963",
+    "year": 1960,
+    "endYear": 1963,
+    "summary": "法国早期摇滚的衣橱并非只有黑皮夹克；窄翻领西装、衬衫与细领带也出现在舞台上。",
+    "story": "INA保存了1960年巴黎Batignolles青年群体的原始采访，France Culture则以亲历者口述回顾1960至1963年法国摇滚的兴起。1963年Hallyday的荷兰演出照片显示深色西装与细领带。音乐文化和城市服装在这里相遇，但它们不能被概括成单一的巴黎制服。",
+    "signatures": [
+      "深色窄翻领西装",
+      "花纹衬衫与细领带形成领口层次",
+      "深色衣身与浅色衬衫集中对比"
+    ],
+    "today": "城市路线保留深色和清楚裤线；摇滚路线换成短皮夹克与开领印花衬衫。两种搭配是今天的编辑延伸，不是历史人物同款。",
+    "styleIds": [
+      "fr-paris",
+      "fr-rock"
+    ],
+    "productIds": [
+      "more-fr-fursac-leather",
+      "more-fr-fursac-paisley",
+      "global-ol-camion"
+    ],
+    "image": "assets/history/history-fr-stage.jpg",
+    "imageAlt": "1963年3月31日Johnny Hallyday演出现场，他穿深色窄翻领西装、花纹衬衫和细领带，身前挂吉他。",
+    "imageDate": "1963-03-31",
+    "imageKind": "archive-photo",
+    "credit": "Noord-Hollands Archief／Fotoburo de Boer；经Wikimedia Commons",
+    "rights": "CC0 1.0 Universal；北荷兰档案馆建议保留机构与摄影机构署名。",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Performance_of_Johnny_Hallyday,_1963_-_08.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Performance_of_Johnny_Hallyday%2C_1963_-_08.jpg",
+    "sources": [
+      {
+        "label": "北荷兰档案馆／Commons：Hallyday 1963演出照",
+        "url": "https://commons.wikimedia.org/wiki/File:Performance_of_Johnny_Hallyday,_1963_-_08.jpg",
+        "supports": "演出照片、1963-03-31日期、机构原始馆藏编号NL-HlmNHA_1478_00710K02_08与CC0许可。"
+      },
+      {
+        "label": "INA：1960年巴黎青年原始采访",
+        "url": "https://www.ina.fr/ina-eclaire-actu/video/i21034148/temoignage-d-un-blouson-noir-la-societe-n-aime-pas-les-jeunes",
+        "supports": "1960-11-04节目记录了巴黎Batignolles青年群体，提供当时的直接采访语境。"
+      },
+      {
+        "label": "France Culture：1960至1963年的法国摇滚口述史",
+        "url": "https://www.radiofrance.fr/franceculture/johnny-hallyday-1960-quand-le-rock-debarquait-en-france-4914673",
+        "supports": "基于1997年采访的亲历者口述，回顾摇滚、青年群体和服装之间的联系。"
+      }
+    ],
+    "notes": "本照片拍摄于荷兰，是法国音乐人的演出记录，不是巴黎街拍；fr-paris只关联深色城市轮廓，不主张巴黎简约源于摇滚。",
+    "productNotes": {
+      "more-fr-fursac-leather": "以短羊皮夹克替换照片里的深色西装，保留紧凑衣长；这一步是今天的摇滚路线转换。",
+      "more-fr-fursac-paisley": "把领口的花纹线索改成开领佩斯利，增加松弛感；短袖、开领与照片中的领带搭法不同。",
+      "global-ol-camion": "黑色侧拉链皮靴为深色衣裤增加下端分量；原照没有足够鞋部细节可确认鞋型。"
+    }
+  },
+  {
+    "id": "history-it-tailoring",
+    "countryId": "it",
+    "title": "战后意式剪裁：让西装更有表情",
+    "period": "1950s–1960s",
+    "year": 1950,
+    "endYear": 1969,
+    "summary": "罗马剪裁以衣身、腰线与面料变化建立辨识度，今天可以分别走向城市西装和轻薄夏日穿法。",
+    "story": "Brioni于1952年在佛罗伦萨Palazzo Pitti展示男装，以流动剪裁、色彩和新面料拓展传统西装。品牌将图中的罗马建筑前模特合影标为1960年代。这里可比较多种翻领、扣位和裤线；黑白照片不能用来判断原本的面料颜色。",
+    "signatures": [
+      "多种翻领与扣位并列",
+      "西装腰部收束但不紧裹",
+      "直落裤线和清楚的鞋面轮廓"
+    ],
+    "today": "通勤用轻结构西装与单褶裤；夏日可把同样的整洁裤线换成亚麻衬衫和浅色长裤。后者是编辑转换，不是照片场景的复刻。",
+    "styleIds": [
+      "it-tailoring",
+      "it-riviera"
+    ],
+    "productIds": [
+      "world-it-luca-blazer",
+      "world-it-luca-pleated",
+      "world-it-scarosso-william"
+    ],
+    "image": "assets/history/history-it-tailoring.jpg",
+    "imageAlt": "Brioni标为1960年代的档案合影，五名男装模特穿不同剪裁的西装，站在罗马Palazzo della Civiltà Italiana建筑及雕塑前。",
+    "imageDate": "1960年代；官网未标具体拍摄日",
+    "imageKind": "brand-archive",
+    "credit": "Brioni 官方历史档案；页面未单独署名摄影者",
+    "rights": "Brioni官网历史档案图；未见开放许可声明。",
+    "imageSource": "https://www.brioni.com/en/it/history",
+    "imageUrl": "https://images.ctfassets.net/w2dr5qwt1rrm/6IMxoutJQbJ9Il1Jx0d0tv/608180bcee05ffec1a383b9725e4eded/Step_1.jpg",
+    "sources": [
+      {
+        "label": "Brioni 官方：品牌历史与1960年代档案照",
+        "url": "https://www.brioni.com/en/it/history",
+        "supports": "1952年Palazzo Pitti男装展示、剪裁与面料叙述，以及本图人物、地点和年代题注。"
+      },
+      {
+        "label": "意大利文化部SIUSA：Brioni企业档案",
+        "url": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=46541&TipoPag=prodente",
+        "supports": "1945年罗马创立、1952年Sala Bianca展示和后续生产发展；独立于品牌的档案机构记录。"
+      }
+    ],
+    "notes": "罗马男装展示图不是海岸度假照片；不把罗马Brioni等同于所有意大利软剪裁传统。Riviera关联只提供今日轻薄材质的转换思路。",
+    "productNotes": {
+      "world-it-luca-blazer": "以半衬亚麻西装借鉴翻领、扣位和腰线；面料与结构属于当代轻薄选择，不认作档案中Brioni原物。",
+      "world-it-luca-pleated": "单褶与翻边让直落裤线更清楚；炭灰色来自当前商品记录，不由黑白照片推断。",
+      "world-it-scarosso-william": "用棕麂皮流苏乐福鞋把正式感放松，鞋面轮廓仍利落；这是本站的日常搭配选择。"
+    }
+  },
+  {
+    "id": "history-it-tennis",
+    "countryId": "it",
+    "title": "FILA：把色块带进运动衣橱",
+    "period": "1974–1976",
+    "year": 1974,
+    "endYear": 1976,
+    "summary": "竖条纹Polo和撞色拉链外套，让运动服的结构同时成为日常造型的图形。",
+    "story": "FILA博物馆档案说明，White Line于1974年登场，1975年Pierluigi Rolando以竖条纹改写Polo。博物馆的1976专题将Settanta外套的推出记于该年，强调其侧片和拉链。配图同属这一官方专题，但没有单独给出拍摄年月，不能把专题年份当成照片日期。",
+    "signatures": [
+      "深蓝外套上的奶白侧片",
+      "红白罗纹集中在袖口和下摆",
+      "短上衣搭浅色裤形成清楚腰线"
+    ],
+    "today": "深蓝短运动外套搭奶白Polo与素色宽直裤，把红色留在罗纹和小标上；使用现款重组档案语汇。",
+    "styleIds": [
+      "it-retro-sport"
+    ],
+    "productIds": [
+      "more-it-fila-settanta",
+      "more-it-fila-bb1",
+      "pants-fredperry-track"
+    ],
+    "image": "assets/history/history-it-tennis.jpg",
+    "imageAlt": "FILA博物馆1976专题的档案图，中央人物穿深蓝奶白侧片、红白罗纹的拉链运动外套，周围是一群持球拍的年轻人。",
+    "imageDate": "1976专题所用档案图；确切拍摄年份未注明",
+    "imageKind": "brand-archive",
+    "credit": "Fondazione FILA Museum；页面未单独署名摄影者",
+    "rights": "© Fondazione FILA Museum；页面声明All Rights Reserved，未标开放许可。",
+    "imageSource": "https://www.fondazionefila.com/time-machine-1976/",
+    "imageUrl": "https://www.fondazionefila.com/wp-content/uploads/2024/10/4NOV2024_BLOG-TIME-MACHINE-1976-783x410.png",
+    "sources": [
+      {
+        "label": "FILA Museum：Time Machine 1976",
+        "url": "https://www.fondazionefila.com/time-machine-1976/",
+        "supports": "配图来源、Settanta于1976年推出，以及拉链和侧片结构。"
+      },
+      {
+        "label": "欧洲服装遗产协会／FILA Museum：White Line档案",
+        "url": "https://fashionheritage.eu/object-voices-introducing-fila-lines/",
+        "supports": "1974年White Line、1975年Rolando以竖条纹改造Polo，以及后续运动档案中的图形延续。"
+      }
+    ],
+    "notes": "按品牌的意大利起源与Biella档案归类，不代表FILA现今所有权或商品产地均在意大利；现款BB1及Settanta不被标为照片人物同款。",
+    "productNotes": {
+      "more-it-fila-settanta": "借用档案中的短拉链上衣和撞色侧片；现款的货号、面料与照片人物服装没有逐项同款证据。",
+      "more-it-fila-bb1": "奶白底竖条纹Polo呼应White Line档案的图形线索；商品面料按今天官网的再生聚酯与氨纶记录。",
+      "pants-fredperry-track": "以蓝色宽直运动裤接上短外套，压低全身图案密度；品牌混搭属于今天的编辑方案。"
+    }
+  },
+  {
+    "id": "history-it-goggle",
+    "countryId": "it",
+    "title": "1988：镜片从用途成为标志",
+    "period": "1988–1990s",
+    "year": 1988,
+    "endYear": 1999,
+    "summary": "Mille Miglia夹克将护目、读表和收纳整合进一件外套，也让功能细节拥有强烈辨识度。",
+    "story": "C.P. Company的档案将这件Mille Miglia版Goggle夹克定为1988年，记录原色天然面料与成衣染色处理。官方回顾解释，帽部镜片对应敞篷车辆的风尘环境，袖部圆镜用于看表。这里看的是1988年服装实物的档案摄影，不是1988年的真人现场照。",
+    "signatures": [
+      "镜片整合进兜帽",
+      "左袖圆形读表镜",
+      "正面多翻盖口袋与浅棕成衣染色"
+    ],
+    "today": "以一件镜片帽外套为中心，内搭素T、宽直工装裤和有分量的鞋；让机能结构集中在一两处。",
+    "styleIds": [
+      "it-technical"
+    ],
+    "productIds": [
+      "world-it-cp-goggle",
+      "world-it-cp-cargo",
+      "global-adieu-134"
+    ],
+    "image": "assets/history/history-it-goggle.jpg",
+    "imageAlt": "C.P. Company档案中的1988年Mille Miglia浅棕夹克实物，正面可见兜帽护目镜片、多翻盖口袋及左袖读表镜。",
+    "imageDate": "服装为1988年；实物摄影年份未标",
+    "imageKind": "museum-object",
+    "credit": "C.P. Company Archive，馆藏编号ARCHCP0008；摄影者未单独署名",
+    "rights": "C.P. Company官方档案实物图；未见开放许可声明。",
+    "imageSource": "https://archive.cpcompany.com/item/mille-miglia-edition-goggle-jacket",
+    "imageUrl": "https://cms-archive.cpcompany.com/uploads/assets/ARCH_TBD_22_1.png",
+    "sources": [
+      {
+        "label": "C.P. Company Archive：1988 Mille Miglia夹克",
+        "url": "https://archive.cpcompany.com/item/mille-miglia-edition-goggle-jacket",
+        "supports": "本件实物的1988年断代、ARCHCP0008编号、天然面料与cotonizzato成衣染色说明。"
+      },
+      {
+        "label": "C.P. Company 官方：Goggle Jacket的起点",
+        "url": "https://cpcompany.substack.com/p/born-to-race-the-origin-of-the-goggle",
+        "supports": "1988年Mille Miglia赞助背景，帽部护目镜与袖口watchviewer的功能说明。"
+      }
+    ],
+    "notes": "历史实物与今日Chrome-R羽绒外套在面料、保暖结构和用途上不同；链接用于观察设计语汇延续，不声称现款是原版复刻。",
+    "productNotes": {
+      "world-it-cp-goggle": "借帽部镜片这个设计标志；现款是蓝色尼龙羽绒夹克，和1988年浅棕原物的材料、保暖结构不同。",
+      "world-it-cp-cargo": "以黑色尼龙工装裤回应收纳与活动需求；减少其它装饰，让外套的镜片保持视觉中心。",
+      "global-adieu-134": "厚橡胶底德比给技术外套增加鞋端分量；这是城市搭配参考，不是Mille Miglia赛事装备。"
+    }
+  }
+]

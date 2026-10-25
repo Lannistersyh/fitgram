@@ -1,5 +1,5 @@
 /* 三种导航布局以及所有页面的宽度。 */
-.sidebar{position:fixed;inset:0 auto 0 0;width:var(--sidebar);border-right:1px solid var(--border);padding:36px 23px 22px;display:flex;flex-direction:column;z-index:30;background:var(--bg)}
+.sidebar{overflow-y:auto;overscroll-behavior:contain;position:fixed;inset:0 auto 0 0;width:var(--sidebar);border-right:1px solid var(--border);padding:36px 23px 22px;display:flex;flex-direction:column;z-index:30;background:var(--bg)}
 .brand{display:flex;align-items:center;gap:9px;font-size:25px;font-weight:800;letter-spacing:-1.2px;line-height:1}
 .brand>span[data-icon]{width:30px}
 .brand__sub{display:block;font:7px/1.5 var(--mono);letter-spacing:1.1px;margin-top:7px;color:var(--text-secondary)}
