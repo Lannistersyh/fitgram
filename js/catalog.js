@@ -15,12 +15,13 @@
   const mainland=p=>!international(p)&&['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY';
   const inBudget=p=>mainland(p)&&Number.isFinite(p.price)&&p.price>=prefs().min&&p.price<=prefs().max;
   const channel=p=>p.storeName||p.market+'官网';
-  const buyLabel=p=>p.collection==='world'?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
+  const buyLabel=p=>['world','leather'].includes(p.collection)?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
   const skuLabel=p=>p.skuType==='retailer'?'零售商编号':p.skuType==='website'?'官网款式标识':'货号';
   const route=(scope,category='all')=>scope==='all'?'#/catalog/all'+(category==='all'?'':'/'+category):scope==='reference'?'#/catalog/new'+(category==='all'?'':'/'+category):'#/catalog/'+(scope==='international'?'international'+(category==='all'?'':'/'+category):category);
-  const productRoute=p=>p.collection==='world'?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
+  const productRoute=p=>['world','leather'].includes(p.collection)?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
   function budgetLabel(p){
     if(p.collection==='world')return '国家风格选品';
+    if(p.collection==='leather')return p.bagTier==='luxury'?'奢侈 / 设计师皮包':inBudget(p)?'日常皮包 · 常用预算内':'日常品牌皮包';
     if(p.collection==='reference')return '照片款式补充 · 近似选品';
     if(international(p))return '国际审美参考';
     if(inBudget(p))return '预算内优先';
@@ -39,6 +40,7 @@
     if(state.category==='tops')return {key:'topType',options:[['henley','亨利领'],['polo','Polo'],['t-shirt','T 恤'],['tee','T 恤'],['knit','针织衫'],['sweatshirt','卫衣']]};
     if(state.category==='shoes')return {key:'shoeType',options:[['derby','德比鞋'],['oxford','牛津鞋'],['loafer','乐福鞋'],['boots','靴子'],['other','穆勒 / 其他'],['sneaker','运动 / 休闲鞋'],['sandals','凉鞋']]};
     if(state.category==='jewelry')return {key:'jewelryType',options:[['ring','戒指'],['necklace','项链'],['bracelet','手链 / 手镯'],['earring','耳饰']]};
+    if(state.category==='bags')return {key:'bagType',options:[['tophandle','结构手提'],['crossbody','小斜挎'],['shoulder','单肩包'],['tote','托特包'],['satchel','翻盖邮差'],['briefcase','公文包'],['duffel','旅行 / 波士顿'],['backpack','双肩包']]};
     if(state.category==='outerwear')return {key:'outerwearType',options:[['jacket','短外套'],['coat','长外套']]};
     return null;
   }
@@ -62,7 +64,7 @@
       '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自所列品牌或零售商商品页。</dd>'+
       (p.materialEvidence?.url&&p.materialEvidence.url!==p.productUrl?'<dt>材质资料出处</dt><dd>'+C.externalLink(p.materialEvidence.url,'查看材质依据')+'</dd>':'')+
       '<dt>图片出处</dt><dd>'+C.externalLink(p.sourceEvidence?.imagePage||p.productUrl,(p.sourceType||'').includes('retailer')?'零售商图片所在页面':'品牌图片所在页面')+'</dd></dl>'+
-      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+(A.history?.relatedProduct(p.id)||'')+'</div></article>';
+      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+(A.history?.relatedProduct(p.id)||'')+(A.leather?.relatedProduct(p.id)||'')+'</div></article>';
   }
   function filtered(){
     const q=state.query.trim().toLowerCase(),cfg=typeConfig();
@@ -90,6 +92,7 @@
   A.views.renderCatalog=function(category,subCategory){
     if(category==='world')return A.world.render(subCategory);
     if(category==='history')return A.history.render(subCategory);
+    if(category==='leather')return A.leather.render(subCategory);
     if(!category||category==='atlas'||category==='reference')return A.atlas.render(category==='reference'?subCategory:null,category==='atlas'?subCategory:null);
     const scope=category==='all'?'all':category==='new'?'reference':category==='international'?'international':'mainland',next=scope!=='mainland'?(subCategory||'all'):category;
     if(scope!==state.scope||next!==state.category){state.itemType='all';if(scope!==state.scope)clearFilters();}

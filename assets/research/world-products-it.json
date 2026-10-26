@@ -323,7 +323,8 @@
       },
       "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
     },
-    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。"
+    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。",
+    "bagType": "duffel"
   },
   {
     "id": "world-it-luca-belt",
@@ -594,6 +595,7 @@
       },
       "relationship": "风格搭配选品，不是任何参考人物穿着同款的认定。"
     },
-    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。"
+    "imageOptimization": "官方图片等比例缩小转为JPEG；不生成、不补绘、不改变款式。",
+    "bagType": "crossbody"
   }
 ]

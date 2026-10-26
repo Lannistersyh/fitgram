@@ -107,7 +107,8 @@
       "catalogPage": "https://us.cambridgesatchel.com/collections/all-products-1"
     },
     "imageOptimization": "官网图片等比例缩小并转 JPEG，保留外观；未生成或补绘。",
-    "imageKind": "packshot"
+    "imageKind": "packshot",
+    "bagType": "briefcase"
   },
   {
     "id": "world-uk-commodore",
@@ -325,7 +326,8 @@
       "relationship": "国家风格编辑选品，非参考人物已确认同款；英国风格不等于全部商品均在英国制造。"
     },
     "imageOptimization": "官网图片等比例缩小并转 JPEG，保留外观；未生成或补绘。",
-    "imageKind": "packshot"
+    "imageKind": "packshot",
+    "bagType": "satchel"
   },
   {
     "id": "world-uk-fisherman",
@@ -604,7 +606,8 @@
     "imageOptimization": "官网图片等比例缩小并转 JPEG，保留外观；未生成或补绘。",
     "imageKind": "packshot",
     "wearImage": "assets/catalog/bags/world-uk-barrel-worn.jpg",
-    "wearImageSource": "https://www.fredperry.jp/img/goods/L7255/L7255_D57_D2.jpg"
+    "wearImageSource": "https://www.fredperry.jp/img/goods/L7255/L7255_D57_D2.jpg",
+    "bagType": "duffel"
   },
   {
     "id": "world-uk-belt",

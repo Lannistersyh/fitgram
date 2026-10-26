@@ -57,6 +57,14 @@ for country_id in ('us', 'uk', 'fr', 'it'):
             assert all(p.get('collection') == 'world' for p in records)
             world_products.extend(records)
 items.extend(world_products)
+leather_products = []
+for tier in ('everyday', 'luxury'):
+    source_path = ROOT / 'assets/research' / ('leather-bags-' + tier + '.json')
+    if source_path.exists():
+        records = json.loads(source_path.read_text())
+        assert all(p.get('collection') == 'leather' and p['category'] == 'bags' and p['bagTier'] == tier for p in records)
+        leather_products.extend(records)
+items.extend(leather_products)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}
 for outfit in outfits:
@@ -69,7 +77,7 @@ for outfit in international_outfits:
     assert len(outfit['items']) == 4
     assert all(item_id in {p['id'] for p in international} for item_id in outfit['items'])
     assert {next(p['category'] for p in international if p['id'] == item_id) for item_id in outfit['items']} == {'shoes', 'shirts', 'outerwear', 'jewelry'}
-data = {'version': 4, 'verifiedAt': '2026-10-23', 'type': 'editorial-style-and-shopping-selection',
+data = {'version': 5, 'verifiedAt': '2026-10-25', 'type': 'editorial-style-and-shopping-selection',
         'note': '搭配选品，不代表已证实的艺人同款。价格按官网地区保留原币种，非大陆到手价。',
         'preferences': json.loads((ROOT / 'assets/research/purchasing-preferences.json').read_text()),
         'items': items, 'outfits': outfits, 'internationalOutfits': international_outfits}

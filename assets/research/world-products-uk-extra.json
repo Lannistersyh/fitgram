@@ -109,7 +109,7 @@
     },
     "imageOptimization": "来源商品图等比例缩小并转 JPEG；透明背景铺白，未生成、补绘或改变商品设计。",
     "imageKind": "packshot",
-    "bagType": "crossbody"
+    "bagType": "satchel"
   },
   {
     "id": "more-uk-allsaints-belt",
