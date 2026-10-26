@@ -15,12 +15,13 @@
   const mainland=p=>!international(p)&&['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY';
   const inBudget=p=>mainland(p)&&Number.isFinite(p.price)&&p.price>=prefs().min&&p.price<=prefs().max;
   const channel=p=>p.storeName||p.market+'官网';
-  const buyLabel=p=>['world','leather'].includes(p.collection)?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
+  const buyLabel=p=>['world','leather','brand'].includes(p.collection)?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
   const skuLabel=p=>p.skuType==='retailer'?'零售商编号':p.skuType==='website'?'官网款式标识':'货号';
   const route=(scope,category='all')=>scope==='all'?'#/catalog/all'+(category==='all'?'':'/'+category):scope==='reference'?'#/catalog/new'+(category==='all'?'':'/'+category):'#/catalog/'+(scope==='international'?'international'+(category==='all'?'':'/'+category):category);
-  const productRoute=p=>['world','leather'].includes(p.collection)?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
+  const productRoute=p=>['world','leather','brand'].includes(p.collection)?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
   function budgetLabel(p){
     if(p.collection==='world')return '国家风格选品';
+    if(p.collection==='brand')return '品牌选款 · 涂层帆布与皮革';
     if(p.collection==='leather')return p.bagTier==='luxury'?'奢侈 / 设计师皮包':inBudget(p)?'日常皮包 · 常用预算内':'日常品牌皮包';
     if(p.collection==='reference')return '照片款式补充 · 近似选品';
     if(international(p))return '国际审美参考';

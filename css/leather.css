@@ -42,3 +42,12 @@
 @media(prefers-reduced-motion:reduce){.page--leather *{scroll-behavior:auto;transition:none}}
 
 .leather-pairing-jump{margin-left:15px}.leather-pairings{scroll-margin-top:85px}
+.leather-brand-nav{display:flex;align-items:center;flex-wrap:wrap;gap:12px 18px;padding:15px 0;margin:-8px 0 20px;border-bottom:1px solid var(--border)}
+.leather-brand-nav>span{font-size:10px;line-height:1.8;color:var(--text-secondary)}
+.leather-brand-nav>a{display:flex;align-items:center;gap:12px;max-width:100%;min-width:0;padding:9px 12px;border:1px solid var(--border);background:var(--bg-secondary);font-size:10px;line-height:1.7}
+.leather-brand-nav strong{font:11px/1.8 var(--mono)}.leather-brand-nav a>span{color:var(--text-secondary);overflow-wrap:anywhere}.leather-brand-nav [aria-current]{border-color:var(--text)}
+.leather-hero--brand h1{font-size:30px;line-height:1.5;letter-spacing:-.5px;text-wrap:balance}
+.leather-brand-sources{margin-top:35px;padding-top:25px;border-top:1px solid var(--border)}.leather-brand-sources h2{font-size:21px;line-height:1.6;margin:8px 0 20px}
+.leather-brand-sources>div{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.leather-brand-sources article{min-width:0;border:1px solid var(--border);padding:16px}.leather-brand-sources article>a{display:inline-flex;gap:6px;align-items:center;font-size:12px;line-height:1.8;overflow-wrap:anywhere;color:var(--link)}.leather-brand-sources article p{font-size:11px;line-height:1.95;color:var(--text-secondary);margin-top:10px}
+@media(max-width:767px){.leather-brand-nav{gap:10px 12px;margin-bottom:18px;padding:13px 0}.leather-brand-nav>span{font-size:9px}.leather-brand-nav>a{padding:8px 10px;gap:9px;font-size:9px}.leather-brand-nav strong{font-size:10px}.leather-hero--brand h1{font-size:27px}.leather-brand-sources>div{grid-template-columns:1fr;gap:12px}.leather-brand-sources h2{font-size:19px}.leather-brand-sources article>a{font-size:11px}.leather-brand-sources article p{font-size:10px}}
+@media(max-width:359px){.leather-hero--brand h1{font-size:25px}.leather-brand-nav>a{width:100%;justify-content:space-between}}

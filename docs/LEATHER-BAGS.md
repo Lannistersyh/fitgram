@@ -1,12 +1,20 @@
 # 皮包专题
 
+## COACH 品牌补充 / 2026-10-26
+
+新增Brooklyn39、Empire40和Tabby26三款主体真皮包；纯真皮专题现为23款（日常13、奢侈／设计师10）。另收录Signature涂层帆布与皮革组合的Venturer旅行包，放入独立品牌选款，不计入真皮专题。
+
+`#/catalog/leather/coach` 集中展示以上四款与原有Charter24，共5款。每款继续共用商品目录、收藏与预览，品牌页标明4款主体真皮与1款涂层帆布组合。品牌入口同时提供官方畅销与商品资料来源；只按已核实的品牌选集称热门或代表，不推断销量名次。
+
+选款以品牌、轮廓和搭配为重点，用户图片用于传达品牌与审美方向。新商品使用具体官方型号图片与资料，不以追查用户图片实物为收录前提。
+
 首轮新增20款皮包、14个品牌，分为日常10款与奢侈／设计师10款，7种包型，20张主图和8张同款同色真人上身图。6组搭包对照关联现有穿法；新增商品关联13种风格。资料核验于2026-10-25，专题发布于2026-10-26。
 
 皮包专题连接现有服装、国家风格与共享商品目录。入口为 `#/catalog/leather`，两个分组为 `#/catalog/leather/everyday`、`#/catalog/leather/luxury`。日常品牌与奢侈／设计师品牌按品牌定位整理，用于比较设计方向，不以价格代替质量判断。
 
 ## 选品范围
 
-本系列只收录主体材料可从具体商品资料确认的真皮包。外层为皮革可以有织物内衬；以帆布、尼龙为主体、仅有皮革饰边的包留在原有“全部包包”目录。品牌或产品线包含皮包，不代表该线所有颜色、尺寸和款式都使用相同皮料，每条按具体型号记录。
+纯真皮入口只收录主体材料可从具体商品资料确认的真皮包。外层为皮革可以有织物内衬；以帆布、尼龙为主体的包在“全部包包”或品牌选款中按材质展示。品牌或产品线包含皮包，不代表该线所有颜色、尺寸和款式都使用相同皮料，每条按具体型号记录。
 
 图片采用真实商品页的单品图，部分另附同款同色上身参考。仅进行等比缩放与JPEG压缩，不生成、补绘或修改商品外观。官网原站可能归男装、女装或中性栏目；原栏目在商品的 `audienceNote` 说明，本站按搭配方向选用，不自动改称官方男款。
 
@@ -26,7 +34,7 @@
 
 ## 维护
 
-新增商品来源分别为 `assets/research/leather-bags-everyday.json` 和 `assets/research/leather-bags-luxury.json`；编辑搭配与选包提示为 `assets/research/leather-editorial.json`。原始商品包含 `bodyLeatherVerified` 标记，只有逐件核对具体主体材料后才设为true。程序检查不能替代对原始材质说明和实际图片的审核。
+首轮商品来源分别为 `assets/research/leather-bags-everyday.json` 和 `assets/research/leather-bags-luxury.json`，品牌补充为 `coach-brand-leather.json` 与 `coach-brand-canvas.json`；品牌视图索引位于 `leather-brand-collections.json`，编辑搭配与选包提示为 `leather-editorial.json`。主体真皮与其他材质分别用 `collection:leather` 和 `collection:brand` 保存；`bodyLeatherVerified` 只有逐件核对具体主体材料后才设为true。程序检查不能替代对原始材质说明和实际图片的审核。
 
 生成与验收：
 

@@ -58,13 +58,17 @@ for country_id in ('us', 'uk', 'fr', 'it'):
             world_products.extend(records)
 items.extend(world_products)
 leather_products = []
-for tier in ('everyday', 'luxury'):
-    source_path = ROOT / 'assets/research' / ('leather-bags-' + tier + '.json')
+for filename in ('leather-bags-everyday.json', 'leather-bags-luxury.json', 'coach-brand-leather.json'):
+    source_path = ROOT / 'assets/research' / filename
     if source_path.exists():
         records = json.loads(source_path.read_text())
-        assert all(p.get('collection') == 'leather' and p['category'] == 'bags' and p['bagTier'] == tier for p in records)
+        assert all(p.get('collection') == 'leather' and p['category'] == 'bags' and p['bagTier'] in ('everyday', 'luxury') for p in records)
         leather_products.extend(records)
 items.extend(leather_products)
+brand_path = ROOT / 'assets/research/coach-brand-canvas.json'
+brand_products = json.loads(brand_path.read_text()) if brand_path.exists() else []
+assert all(p.get('collection') == 'brand' and p['category'] == 'bags' for p in brand_products)
+items.extend(brand_products)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}
 for outfit in outfits:

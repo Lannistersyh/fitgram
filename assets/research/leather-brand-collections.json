@@ -1,0 +1,13 @@
+[
+  {
+    "id": "coach",
+    "name": "COACH",
+    "title": "COACH：日常轮廓与代表包款",
+    "intro": "从Brooklyn软肩包、Empire手提与Tabby翻盖，到Charter随身小包和Signature旅行包。按轮廓与用途选，真皮和涂层帆布分别标注。",
+    "productIds": ["coach-brooklyn39", "coach-empire40", "coach-tabby26", "leather-everyday-coach-charter", "coach-venturer-signature"],
+    "sources": [
+      {"title": "COACH 官方畅销选集", "url": "https://world.coach.com/ad/shop/get-inspired/edits-collections/bestsellers", "note": "Brooklyn与Tabby列于品牌畅销选集；选集中不据出现顺序推断销量排名。"},
+      {"title": "COACH Signature旅行包", "url": "https://www.coach.com/products/venturer-bag-in-signature-canvas/CAR76.html", "note": "Venturer的具体型号、材质和旅行包结构依据；非全皮款单独标明。"}
+    ]
+  }
+]
