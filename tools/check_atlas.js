@@ -42,6 +42,6 @@ for(const p of looks){
 }
 for(let index=2;index<=8;index++){const group=looks.filter(p=>p.provenance.sourceCollage===index);assert.equal(group.length,4);assert.equal(new Set(group.map(p=>p.provenance.position)).size,4);}
 const originals=[1,2,3,4].flatMap(n=>JSON.parse(fs.readFileSync(path.join(root,'assets/research/reference-looks-'+n+'.json'),'utf8')));
-assert.equal(JSON.stringify(originals),JSON.stringify(looks));assert(matched>=24);
+assert.equal(JSON.stringify(originals),JSON.stringify(looks.map(({seasonGuide,...p})=>p)));assert(matched>=24);
 for(const p of products.filter(x=>x.collection==='reference'))assert(looks.some(l=>l.matches.some(m=>m.itemId===p.id)),'新增商品必须实际关联参考图：'+p.id);
 console.log(JSON.stringify({passed:true,referencePhotos:looks.length,originalCollages:source.collages.length,matchedPhotos:matched,similarStyleLinks:links,productTotal:products.length,photoFiles:allHashes.size,exactPhotoMatches:0,categories:Object.fromEntries(categories.map(c=>[c,looks.filter(p=>p.categories.includes(c)).length]))},null,2));

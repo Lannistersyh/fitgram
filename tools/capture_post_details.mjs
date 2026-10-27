@@ -1,6 +1,6 @@
 /* 定向读取已打开公开帖子的媒体、公开日期/计数；不采集用户会话字段。 */
 import fs from 'node:fs/promises';
-const root='/Users/admin/科研项目/fitgram-prompt/fitgram';
+const root=decodeURIComponent(new URL('../',import.meta.url).pathname).replace(/\/$/,'');
 const target=process.env.FITGRAM_CDP_TARGET;
 if(!target)throw Error('请先确认自有采集标签，再设置FITGRAM_CDP_TARGET；禁止并行操作浏览器，全部标签不超过8个。');
 const raw=JSON.parse(await fs.readFile(root+'/assets/research/raw_posts.json','utf8'));

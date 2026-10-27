@@ -94,9 +94,15 @@ for index in range(1, 5):
     reference_looks.extend(json.loads((ROOT / 'assets/research' / ('reference-looks-' + str(index) + '.json')).read_text()))
 assert len(reference_looks) == 28
 assert len({look['id'] for look in reference_looks}) == 28
+season_guides = json.loads((ROOT / 'assets/research/reference-seasons.json').read_text())
+assert len(season_guides) == 28 and {g['id'] for g in season_guides} == {p['id'] for p in reference_looks}
+for look in reference_looks:
+    guide = next(g for g in season_guides if g['id'] == look['id'])
+    assert guide['primary'] in guide['seasons'] and set(guide['seasons']) <= {'spring', 'summer', 'autumn', 'winter'}
+    look['seasonGuide'] = {k: v for k, v in guide.items() if k != 'id'}
 for look in reference_looks:
     assert all(match['itemId'] in ids and match['level'] == 'similar-style' for match in look['matches'])
-references = {'version': 1, 'source': json.loads((ROOT / 'assets/research/reference-source.json').read_text()), 'looks': reference_looks}
+references = {'version': 2, 'source': json.loads((ROOT / 'assets/research/reference-source.json').read_text()), 'looks': reference_looks}
 (ROOT / 'js/reference-data.js').write_text('/* 28 张真实照片及逐张观察，由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_REFERENCES = ' + json.dumps(references, ensure_ascii=False, separators=(',', ':')) + ';\n')
 print('Reference looks:', len(reference_looks))
 

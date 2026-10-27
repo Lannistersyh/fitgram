@@ -4,6 +4,14 @@
 
 线上地址：[https://lannistersyh.github.io/fitgram/](https://lannistersyh.github.io/fitgram/)。手机无需与电脑连接同一局域网，Mac 关机不影响访问。收藏与笔记保存在各自浏览器，不跨设备同步。
 
+## 穿搭日历 / 2026-10-27
+
+[打开穿搭参考](https://lannistersyh.github.io/fitgram/?v=20261027-season1#/catalog)：新增可翻月、选日期和直接跳转日期的日历。默认按北京时间的今天与北半球月份优先展示应季照片，春3–5月、夏6–8月、秋9–11月、冬12–2月；当前季节的主要参考排在跨季参考之前，其余照片保持原顺序。日期与季节可手选，“回到今天”恢复自动；页面跨日或重新进入时同步日期。
+
+28张原照片新增编辑季节说明：春23、夏10、秋20、冬1（跨季照片分别计入，因此不相加为总数）。标签依据可见款式与叠穿层次，原帖发布日期、气温、品牌同款及商品资料均保持原记录。冬季仅将皮衣叠连帽内搭作为温和冬日思路，未把夏装补标为冬装。可勾选“只看本季”，并与服装类别、场景、姿势、文字搜索和本地收藏组合；详情页可读到逐图标注理由。
+
+季节原始记录为 `assets/research/reference-seasons.json`；`tools/build_catalog.py` 合入原有参考数据，`tools/check_seasons.js` 校验时区、闰日、跨年、季节边界和稳定排序。本地项目统一位于 `/Users/admin/开发项目/fitgram`，网站仓库在其 `fitgram/` 子目录。
+
 ## COACH 品牌补充 / 2026-10-26
 
 [打开COACH品牌选款](https://lannistersyh.github.io/fitgram/?v=20261026-coach1#/catalog/leather/coach)：现有Brooklyn39、Soft Empire40、Tabby26、Charter24和Venturer Signature旅行包，共5款。新增3款主体真皮与1款涂层帆布组合旅行包，4张主图和2张同款同色官方上身图；热门系列与代表包型按品牌资料整理，不推断销量排名。

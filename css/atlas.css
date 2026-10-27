@@ -102,4 +102,41 @@
 }
 .atlas-hero .text-link,.atlas-detail-nav>.text-link,.atlas-photo-links>a,.atlas-match .text-link,.atlas-provenance .text-link,.atlas-preview>.text-link{display:inline-flex;align-items:center;gap:6px}
 .atlas-active-filter{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:12px 15px;background:var(--sage);font-size:11px;margin-bottom:14px;line-height:1.7}
+.atlas-season{position:relative;border:1px solid var(--border);padding:22px 24px;margin-bottom:24px;background:var(--bg)}
+.atlas-season__heading{display:flex;justify-content:space-between;gap:20px;align-items:center}
+.atlas-season h2{font-size:23px;letter-spacing:-.5px;margin:9px 0}
+#atlas-season-status{font-size:11px;color:var(--text-secondary);line-height:1.8}
+.atlas-season__date{display:flex;align-items:center;gap:14px;flex-shrink:0}
+.atlas-season__date>.text-link{font-size:11px;white-space:nowrap}
+.atlas-calendar{position:relative}
+.atlas-calendar summary{display:flex;align-items:center;gap:20px;cursor:pointer;list-style:none;padding:12px;border:1px solid var(--border);font:11px var(--mono);background:var(--bg-secondary)}
+.atlas-calendar summary::-webkit-details-marker{display:none}
+.atlas-calendar summary>span+span{font:10px var(--font);color:var(--text-secondary)}
+.atlas-calendar__panel{position:absolute;right:0;top:calc(100% + 8px);z-index:8;width:300px;max-width:calc(100vw - 40px);padding:16px;background:var(--bg);border:1px solid var(--border);box-shadow:0 10px 30px #0002}
+.atlas-calendar__month{display:flex;justify-content:space-between;align-items:center;font-size:12px;margin-bottom:12px}
+.atlas-calendar__month button{width:34px;height:34px;border:1px solid var(--border);border-radius:3px;font-size:16px}
+.atlas-date-input{display:flex;justify-content:space-between;align-items:center;font-size:10px;color:var(--text-secondary);gap:10px;margin-bottom:14px}
+.atlas-date-input input{min-width:0;max-width:170px;border:1px solid var(--border);background:var(--bg);color:var(--text);padding:7px;font:11px var(--mono)}
+.atlas-calendar__week,.atlas-calendar__days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:3px;text-align:center;font:11px var(--mono)}
+.atlas-calendar__week{color:var(--text-secondary);margin-bottom:6px}
+.atlas-calendar__days button{height:33px;min-width:0;position:relative;border:1px solid transparent;border-radius:3px}
+.atlas-calendar__days button:hover,.atlas-calendar__days button[aria-current]{border-color:var(--border)}
+.atlas-calendar__days button[aria-current]::after{content:'';position:absolute;bottom:3px;left:calc(50% - 1.5px);width:3px;height:3px;border-radius:50%;background:currentColor}
+.atlas-calendar__days .is-other-month{color:var(--text-secondary);opacity:.6}
+.atlas-calendar__days button[aria-pressed="true"]{background:var(--text);color:var(--bg);opacity:1}
+.atlas-calendar__panel>p{font-size:9px;color:var(--text-secondary);text-align:center;margin-top:12px}
+.atlas-season__bottom{display:flex;align-items:center;gap:20px;margin-top:20px}
+.atlas-season__tabs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;flex:1;min-width:0}
+.atlas-season__tabs button{display:flex;align-items:center;justify-content:space-between;gap:7px;padding:12px;border:1px solid var(--border);background:var(--bg);color:var(--text-secondary);text-align:left}
+.atlas-season__tabs button[aria-pressed="true"]{border-color:var(--text);background:var(--bg-secondary);color:var(--text)}
+.atlas-season__tabs strong{font-size:18px;font-weight:500}
+.atlas-season__tabs span{font-size:10px;white-space:nowrap}
+.atlas-season__tabs small{font:9px var(--mono);white-space:nowrap}
+.atlas-season__only{display:flex;align-items:center;gap:7px;white-space:nowrap;font-size:11px;cursor:pointer}
+.atlas-season__only input{accent-color:var(--text);width:15px;height:15px}
+.atlas-season__note{font-size:10px;line-height:1.8;color:var(--text-secondary);margin-top:14px}
+.atlas-season-badge{display:inline-block;font-size:9px;border:1px solid var(--border);padding:1px 5px;margin-right:5px;border-radius:2px;color:var(--text)}
+.atlas-hero__images>a:only-child{grid-column:2}
+@media(max-width:1100px){.atlas-season__heading{align-items:flex-start}.atlas-season__date{flex-direction:column;align-items:flex-end;gap:9px}.atlas-season__tabs button{flex-wrap:wrap;justify-content:flex-start}.atlas-season__tabs span{font-size:9px}.atlas-season__tabs small{flex-basis:100%}}
+@media(max-width:767px){.atlas-season{padding:18px 14px;margin-bottom:20px}.atlas-season__heading{flex-direction:column;gap:14px}.atlas-season h2{font-size:22px}#atlas-season-status{font-size:10px}.atlas-season__date{width:100%;flex-direction:row;align-items:center;justify-content:space-between;gap:10px}.atlas-calendar__panel{position:fixed;top:auto;bottom:calc(65px + env(safe-area-inset-bottom));left:16px;right:16px;width:auto;max-width:none;max-height:calc(100dvh - 135px);overflow-y:auto}.atlas-calendar summary{padding:10px;gap:16px}.atlas-season__bottom{flex-direction:column;align-items:stretch;gap:13px;margin-top:16px}.atlas-season__tabs{gap:6px;flex:none}.atlas-season__tabs button{display:flex;flex-direction:column;align-items:flex-start;gap:5px;padding:9px 7px}.atlas-season__tabs strong{font-size:18px}.atlas-season__tabs small{flex-basis:auto}.atlas-season__only{font-size:10px}.atlas-season__note{font-size:9px}.atlas-season-badge{font-size:8px}}
 @media(max-width:767px){.page--catalog .catalog-hero{grid-template-columns:1fr;padding:17px 20px}.page--catalog .catalog-hero__index{display:none}.page--catalog .catalog-hero h1{font-size:23px;line-height:1.4;margin:7px 0 0;letter-spacing:-.5px}.page--catalog .catalog-hero p:not(.eyebrow){display:none}.atlas-active-filter{font-size:10px;align-items:flex-start}.atlas-active-filter .text-link{flex-shrink:0}}
