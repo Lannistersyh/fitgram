@@ -69,6 +69,9 @@ brand_path = ROOT / 'assets/research/coach-brand-canvas.json'
 brand_products = json.loads(brand_path.read_text()) if brand_path.exists() else []
 assert all(p.get('collection') == 'brand' and p['category'] == 'bags' for p in brand_products)
 items.extend(brand_products)
+tailoring_products = json.loads((ROOT / 'assets/research/blazer-products.json').read_text())
+assert all(p.get('collection') == 'tailoring' and p['category'] == 'outerwear' for p in tailoring_products)
+items.extend(tailoring_products)
 assert len({p['id'] for p in items}) == len(items)
 ids = {p['id'] for p in items}
 for outfit in outfits:
@@ -81,7 +84,7 @@ for outfit in international_outfits:
     assert len(outfit['items']) == 4
     assert all(item_id in {p['id'] for p in international} for item_id in outfit['items'])
     assert {next(p['category'] for p in international if p['id'] == item_id) for item_id in outfit['items']} == {'shoes', 'shirts', 'outerwear', 'jewelry'}
-data = {'version': 5, 'verifiedAt': '2026-10-25', 'type': 'editorial-style-and-shopping-selection',
+data = {'version': 6, 'verifiedAt': '2026-10-27', 'type': 'editorial-style-and-shopping-selection',
         'note': '搭配选品，不代表已证实的艺人同款。价格按官网地区保留原币种，非大陆到手价。',
         'preferences': json.loads((ROOT / 'assets/research/purchasing-preferences.json').read_text()),
         'items': items, 'outfits': outfits, 'internationalOutfits': international_outfits}
@@ -117,3 +120,14 @@ for style in world_styles:
 world = {'version': 1, 'verifiedAt': '2026-10-23', 'countries': world_countries, 'styles': world_styles}
 (ROOT / 'js/world-data.js').write_text('/* 国别风格、真实商品与品牌依据；由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_WORLD = ' + json.dumps(world, ensure_ascii=False, separators=(',', ':')) + ';\n')
 print('World styles:', len(world_styles), 'New products:', len(world_products))
+
+# 西装款式课与完整目录共用商品，保留旧记录的价格与核验时间。
+tailoring = json.loads((ROOT / 'assets/research/blazer-lessons.json').read_text())
+assert len({lesson['id'] for lesson in tailoring['lessons']}) == len(tailoring['lessons'])
+for lesson in tailoring['lessons']:
+    assert lesson['productId'] in ids
+    assert all(pid in ids for pid in lesson['pairingIds'])
+tailoring['productIds'] = [lesson['productId'] for lesson in tailoring['lessons']]
+assert len(set(tailoring['productIds'])) == len(tailoring['productIds'])
+(ROOT / 'js/tailoring-data.js').write_text('/* 真实商品对应的西装款式课，由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_TAILORING = ' + json.dumps(tailoring, ensure_ascii=False, separators=(',', ':')) + ';\n')
+print('Tailoring lessons:', len(tailoring['lessons']), 'New products:', len(tailoring_products))

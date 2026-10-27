@@ -14,7 +14,7 @@
   const isSaved=p=>S.has('referenceSaves',p.id);
   const external=(url,text)=>C.externalLink(url,text,'text-link');
   function navigation(mode){
-    const all=products(),links=[['leather','#/catalog/leather','皮包专题',window.FITGRAM_LEATHER?.selectedIds.length||0],['history','#/catalog/history','潮流史',window.FITGRAM_HISTORY?.chapters.length||0],['world','#/catalog/world','国家风格',window.FITGRAM_WORLD?.styles.length||0],['references','#/catalog','穿搭参考',looks().length],['all','#/catalog/all','全部单品',all.length],['international','#/catalog/international','国际选品',all.filter(p=>p.collection==='international').length],['mainland','#/catalog/shoes','大陆清单',all.filter(p=>!p.collection).length],['reference','#/catalog/new','照片查款',all.filter(p=>p.collection==='reference').length]];
+    const all=products(),links=[['tailoring','#/catalog/blazers','西装外套',window.FITGRAM_TAILORING?.lessons.length||0],['leather','#/catalog/leather','皮包专题',window.FITGRAM_LEATHER?.selectedIds.length||0],['history','#/catalog/history','潮流史',window.FITGRAM_HISTORY?.chapters.length||0],['world','#/catalog/world','国家风格',window.FITGRAM_WORLD?.styles.length||0],['references','#/catalog','穿搭参考',looks().length],['all','#/catalog/all','全部单品',all.length],['international','#/catalog/international','国际选品',all.filter(p=>p.collection==='international').length],['mainland','#/catalog/shoes','大陆清单',all.filter(p=>!p.collection).length],['reference','#/catalog/new','照片查款',all.filter(p=>p.collection==='reference').length]];
     return '<nav class="atlas-navigation" aria-label="分类图鉴栏目">'+links.filter(x=>x[3]).map(([id,href,label,count])=>'<a href="'+href+'" '+(mode===id?'aria-current="page"':'')+'>'+label+'<span>'+count+'</span></a>').join('')+'</nav>';
   }
   function sourceNote(){
@@ -41,7 +41,7 @@
   }
   function renderIndex(category){
     state.category=Object.hasOwn(labels,category)?category:'all';
-    return '<div class="page page--atlas">'+navigation('references')+'<header class="atlas-hero"><div><p class="eyebrow">THE STYLE & ITEM ATLAS</p><h1>从一张喜欢的照片，<br>找到穿衣的线索。</h1><p>28 张真实参考，按衣服、场景和姿势拆开看。<br>与已有单品合在一起，慢慢建立自己的衣橱。</p><a href="#/catalog/all" class="text-link">浏览全部 '+products().length+' 件真实单品 '+C.icon('right',15)+'</a></div><div class="atlas-hero__images" id="atlas-hero-images">'+heroImages()+'</div></header><div id="atlas-season-root">'+T.render(state,looks())+'</div>'+filters()+'<div class="atlas-grid" id="atlas-grid"></div>'+sourceNote()+'<dialog class="atlas-preview" id="atlas-preview" aria-label="参考图片大图"></dialog>'+U.footer()+'</div>';
+    return '<div class="page page--atlas">'+navigation('references')+'<header class="atlas-hero"><div><p class="eyebrow">THE STYLE & ITEM ATLAS</p><h1>从一张喜欢的照片，<br>找到穿衣的线索。</h1><p>28 张真实参考，按衣服、场景和姿势拆开看。<br>与已有单品合在一起，慢慢建立自己的衣橱。</p><a href="#/catalog/all" class="text-link">浏览全部 '+products().length+' 件真实单品 '+C.icon('right',15)+'</a></div><div class="atlas-hero__images" id="atlas-hero-images">'+heroImages()+'</div></header><div id="atlas-season-root">'+T.render(state,looks())+'</div>'+(state.category==='outerwear'?A.tailoring.entry():'')+filters()+'<div class="atlas-grid" id="atlas-grid"></div>'+sourceNote()+'<dialog class="atlas-preview" id="atlas-preview" aria-label="参考图片大图"></dialog>'+U.footer()+'</div>';
   }
   function productCard(m){
     const p=products().find(x=>x.id===m.itemId);if(!p)return '';
@@ -101,7 +101,7 @@
   document.addEventListener('keydown',e=>{if(e.key==='Escape'){const calendar=document.querySelector('.atlas-calendar[open]');if(calendar){calendar.open=false;calendar.querySelector('summary').focus();}}});
   document.addEventListener('click',e=>{const calendar=document.querySelector('.atlas-calendar[open]');if(calendar&&!e.target.closest('.atlas-calendar'))calendar.open=false;});
   let lastToday=T.today();
-  const refreshDay=()=>{const today=T.today();if(today===lastToday)return;lastToday=today;if(!state.date&&!state.season&&document.getElementById('atlas-season-root')){state.calendarMonth=null;A.atlas.seasonUI(false);A.atlas.update();}};
+  const refreshDay=()=>{const today=T.today();if(today===lastToday)return;lastToday=today;if(!state.date&&!state.season&&document.getElementById('atlas-season-root')){state.calendarMonth=null;A.atlas.seasonUI(false);A.atlas.update();}if(document.getElementById('blazer-grid'))A.tailoring?.update();};
   window.addEventListener('focus',refreshDay);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshDay();});
   setInterval(()=>{if(!document.hidden)refreshDay();},60000);

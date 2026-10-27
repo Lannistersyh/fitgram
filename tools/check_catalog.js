@@ -16,11 +16,14 @@ const leatherFiles=['everyday','luxury'].map(t=>path.join(root,'assets/research/
 leatherFiles.push(path.join(root,'assets/research/coach-brand-leather.json'));
 const leatherItems=leatherFiles.filter(f=>fs.existsSync(f)).flatMap(f=>JSON.parse(fs.readFileSync(f,'utf8')));
 const brandFile=path.join(root,'assets/research/coach-brand-canvas.json'),brandItems=fs.existsSync(brandFile)?JSON.parse(fs.readFileSync(brandFile,'utf8')):[];
+const tailoringItems=JSON.parse(fs.readFileSync(path.join(root,'assets/research/blazer-products.json'),'utf8'));
+allow.push('suitsupply.com','pauljamesknitwear.com');
 allow.push('thehorse.com.au','statusanxiety.com.au','statusanxiety.com','letanneur.com','paulmarius.com','fossil.com','coach.com','cos.com','arket.com','massimodutti.com','lemaire.fr','bottegaveneta.com','prada.com','loewe.com','ysl.com','fendi.com','miumiu.com','acnestudios.com','gucci.com','louisvuitton.com','nordstrom.com','mrporter.com','mytheresa.com','ssense.com','saksfifthavenue.com','tods.com','ferragamo.com','zegna.com');
 assert.equal(JSON.stringify(all.filter(p=>p.collection==='world')),JSON.stringify(worldItems));
 assert.equal(JSON.stringify(all.filter(p=>p.collection==='leather')),JSON.stringify(leatherItems));
 assert.equal(JSON.stringify(all.filter(p=>p.collection==='brand')),JSON.stringify(brandItems));
-assert.equal(all.length,54+additions.length+worldItems.length+leatherItems.length+brandItems.length);assert.equal(new Set(all.map(p=>p.id)).size,all.length);assert.equal(new Set(all.map(p=>p.productUrl)).size,all.length);
+assert.equal(JSON.stringify(all.filter(p=>p.collection==='tailoring')),JSON.stringify(tailoringItems));
+assert.equal(all.length,54+additions.length+worldItems.length+leatherItems.length+brandItems.length+tailoringItems.length);assert.equal(new Set(all.map(p=>p.id)).size,all.length);assert.equal(new Set(all.map(p=>p.productUrl)).size,all.length);
 assert.equal(JSON.stringify(all.filter(p=>p.collection==='reference')),JSON.stringify(additions));assert.equal(list.length,30);assert.equal(new Set(list.map(p=>p.id)).size,30);assert.equal(new Set(list.map(p=>p.productUrl)).size,30);
 for(const c of categories){assert.equal(list.filter(p=>p.category===c).length,10);const source=JSON.parse(fs.readFileSync(path.join(root,'assets/research/catalog-'+c+'.json'),'utf8'));assert.equal(JSON.stringify(list.filter(p=>p.category===c)),JSON.stringify(source));}
 for(const p of all){

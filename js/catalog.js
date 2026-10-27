@@ -15,11 +15,12 @@
   const mainland=p=>!international(p)&&['verified','catalog'].includes(p.mainlandStatus)&&p.currency==='CNY';
   const inBudget=p=>mainland(p)&&Number.isFinite(p.price)&&p.price>=prefs().min&&p.price<=prefs().max;
   const channel=p=>p.storeName||p.market+'官网';
-  const buyLabel=p=>['world','leather','brand'].includes(p.collection)?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
+  const buyLabel=p=>['world','leather','brand','tailoring'].includes(p.collection)?'查看商品来源 · 款式与库存':p.collection?'品牌官网 · 查看款式':p.purchaseMode==='official-store-search'?'官方旗舰店查款':p.mainlandStatus==='catalog'?'大陆型号与购买指引':mainland(p)?'大陆购买入口':'海外型号参考';
   const skuLabel=p=>p.skuType==='retailer'?'零售商编号':p.skuType==='website'?'官网款式标识':'货号';
   const route=(scope,category='all')=>scope==='all'?'#/catalog/all'+(category==='all'?'':'/'+category):scope==='reference'?'#/catalog/new'+(category==='all'?'':'/'+category):'#/catalog/'+(scope==='international'?'international'+(category==='all'?'':'/'+category):category);
-  const productRoute=p=>['world','leather','brand'].includes(p.collection)?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
+  const productRoute=p=>['world','leather','brand','tailoring'].includes(p.collection)?'#/catalog/all/'+p.category:route(p.collection==='reference'?'reference':international(p)?'international':'mainland',p.category);
   function budgetLabel(p){
+    if(p.collection==='tailoring')return '西装外套学习选品';
     if(p.collection==='world')return '国家风格选品';
     if(p.collection==='brand')return '品牌选款 · 涂层帆布与皮革';
     if(p.collection==='leather')return p.bagTier==='luxury'?'奢侈 / 设计师皮包':inBudget(p)?'日常皮包 · 常用预算内':'日常品牌皮包';
@@ -42,7 +43,7 @@
     if(state.category==='shoes')return {key:'shoeType',options:[['derby','德比鞋'],['oxford','牛津鞋'],['loafer','乐福鞋'],['boots','靴子'],['other','穆勒 / 其他'],['sneaker','运动 / 休闲鞋'],['sandals','凉鞋']]};
     if(state.category==='jewelry')return {key:'jewelryType',options:[['ring','戒指'],['necklace','项链'],['bracelet','手链 / 手镯'],['earring','耳饰']]};
     if(state.category==='bags')return {key:'bagType',options:[['tophandle','结构手提'],['crossbody','小斜挎'],['shoulder','单肩包'],['tote','托特包'],['satchel','翻盖邮差'],['briefcase','公文包'],['duffel','旅行 / 波士顿'],['backpack','双肩包']]};
-    if(state.category==='outerwear')return {key:'outerwearType',options:[['jacket','短外套'],['coat','长外套']]};
+    if(state.category==='outerwear')return {key:'outerwearType',options:[['blazer','西装外套'],['tailored-hybrid','西装化混合夹克'],['jacket','短外套'],['coat','长外套']]};
     return null;
   }
   function typeFilters(){
@@ -65,7 +66,7 @@
       '<dt>'+(p.category==='jewelry'?'佩戴参考':'试穿重点')+'</dt><dd>'+E(p.fitNote)+'</dd><dt>官网记录与来源</dt><dd>'+E(p.mainlandNote||'')+(p.mainlandNote?'<br>':'')+E(p.availability)+'<br>核验日期 '+E(p.verifiedAt)+' · 图片来自所列品牌或零售商商品页。</dd>'+
       (p.materialEvidence?.url&&p.materialEvidence.url!==p.productUrl?'<dt>材质资料出处</dt><dd>'+C.externalLink(p.materialEvidence.url,'查看材质依据')+'</dd>':'')+
       '<dt>图片出处</dt><dd>'+C.externalLink(p.sourceEvidence?.imagePage||p.productUrl,(p.sourceType||'').includes('retailer')?'零售商图片所在页面':'品牌图片所在页面')+'</dd></dl>'+
-      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+(A.history?.relatedProduct(p.id)||'')+(A.leather?.relatedProduct(p.id)||'')+'</div></article>';
+      '<button class="text-link" data-action="catalog-copy" data-id="'+E(p.id)+'">复制款名与编号</button></details><a class="product-card__buy" href="'+E(U.safeURL(p.purchaseUrl||p.productUrl))+'" target="_blank" rel="noopener noreferrer">'+E(buyLabel(p))+' '+C.icon('external',15)+'</a>'+(A.atlas?.related(p.id)||'')+(A.world?.related(p.id)||'')+(A.history?.relatedProduct(p.id)||'')+(A.leather?.relatedProduct(p.id)||'')+(A.tailoring?.relatedProduct(p.id)||'')+'</div></article>';
   }
   function filtered(){
     const q=state.query.trim().toLowerCase(),cfg=typeConfig();
@@ -94,6 +95,7 @@
     if(category==='world')return A.world.render(subCategory);
     if(category==='history')return A.history.render(subCategory);
     if(category==='leather')return A.leather.render(subCategory);
+    if(category==='blazers')return A.tailoring.render(subCategory);
     if(!category||category==='atlas'||category==='reference')return A.atlas.render(category==='reference'?subCategory:null,category==='atlas'?subCategory:null);
     const scope=category==='all'?'all':category==='new'?'reference':category==='international'?'international':'mainland',next=scope!=='mainland'?(subCategory||'all'):category;
     if(scope!==state.scope||next!==state.category){state.itemType='all';if(scope!==state.scope)clearFilters();}
@@ -103,7 +105,7 @@
     return '<div class="page page--catalog page--catalog-'+E(state.category)+' '+(intl?'page--catalog-international':'')+'">'+
       '<header class="catalog-hero"><div><p class="eyebrow">THE ITEM ATLAS / '+(combined?'ALL PIECES':addition?'REFERENCE SELECTION':intl?'INTERNATIONAL EDIT':'MAINLAND EDIT')+'</p><h1>'+(combined?'一件件，组成你的风格。':addition?'从照片延伸的真实选品。':intl?'眼光可以走得更远。':state.category==='shoes'?'先选一双喜欢的皮鞋。':'把喜欢的风格，<br>穿到自己身上。')+'</h1><p>'+(combined?'包、鞋、上衣、外套、裤子、首饰与配饰。<br>照片查款与各国风格选品，在这里按类别合并。':addition?'补充参考照片里出现的上衣和宽裤方向。<br>可见的是款式线索，关联商品为近似选品。':intl?'鞋、衬衫、外套与首饰。<br>从真实单品里，看轮廓、质感和一身衣服的关系。':'皮鞋、裤子、衬衫，各 10 款。<br>从真实商品开始，搭一套你愿意天天穿的衣服。')+'</p></div><div class="catalog-hero__index"><span>'+(combined?'THE COMPLETE ITEM ATLAS':addition?'FROM PHOTO TO WARDROBE':intl?'THE INTERNATIONAL SELECTION':'THE MAINLAND SHOPPING LIST')+'</span><b>'+list.length+'</b><small>REAL PIECES / PERSONAL STYLE</small></div></header>'+
       A.atlas.navigation(state.scope)+
-      scopeSummary()+'<nav class="catalog-tabs" aria-label="单品类别">'+[['all','全部'],...categories.map(c=>[c,labels[c]])].map(([id,label])=>'<a href="'+route(state.scope,id)+'" class="'+(state.category===id?'is-active':'')+'" '+(state.category===id?'aria-current="page"':'')+'>'+label+'<span>'+list.filter(p=>id==='all'||p.category===id).length+'</span></a>').join('')+'</nav>'+typeFilters()+toolbar()+
+      scopeSummary()+(state.category==='outerwear'?A.tailoring.entry():'')+'<nav class="catalog-tabs" aria-label="单品类别">'+[['all','全部'],...categories.map(c=>[c,labels[c]])].map(([id,label])=>'<a href="'+route(state.scope,id)+'" class="'+(state.category===id?'is-active':'')+'" '+(state.category===id?'aria-current="page"':'')+'>'+label+'<span>'+list.filter(p=>id==='all'||p.category===id).length+'</span></a>').join('')+'</nav>'+typeFilters()+toolbar()+
       '<div class="catalog-grid" id="catalog-grid"></div><aside class="catalog-shortlist" id="catalog-shortlist" aria-label="本地单品清单">'+shortlist()+'</aside>'+recipes()+'<dialog id="catalog-preview" class="catalog-preview" aria-labelledby="catalog-preview-title"></dialog>'+
       '<div class="catalog-source-note"><strong>关于选品与来源</strong><p>图片来自品牌官网与商品零售商页面，版权归品牌及摄影师。款名、材质、颜色、编号与图片对应具体来源；搭配观察为本站编辑判断，不代表已证实的艺人同款。国际选品保留官网原币种，作为设计与搭配参考，不承诺向大陆配送或有货。大陆清单保留原有预算偏好，目录价与实际成交价分别说明。各卡片注明核验日期，最终价格和库存以商店为准。</p></div>'+U.footer()+'</div>';
   };
