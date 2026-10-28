@@ -96,6 +96,7 @@
     if(category==='history')return A.history.render(subCategory);
     if(category==='leather')return A.leather.render(subCategory);
     if(category==='blazers')return A.tailoring.render(subCategory);
+    if(category==='japan'||category==='douyin')return A.atlas.render(null,subCategory,category);
     if(!category||category==='atlas'||category==='reference')return A.atlas.render(category==='reference'?subCategory:null,category==='atlas'?subCategory:null);
     const scope=category==='all'?'all':category==='new'?'reference':category==='international'?'international':'mainland',next=scope!=='mainland'?(subCategory||'all'):category;
     if(scope!==state.scope||next!==state.category){state.itemType='all';if(scope!==state.scope)clearFilters();}

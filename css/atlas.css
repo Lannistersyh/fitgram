@@ -95,13 +95,25 @@
 @media(max-width:767px){
 .atlas-navigation{gap:23px;margin-bottom:18px}.atlas-navigation a{font-size:11px;padding:11px 0}
 .atlas-hero{grid-template-columns:1fr;padding:22px 18px;gap:20px;margin-bottom:20px}.atlas-hero h1{font-size:28px}.atlas-hero p:not(.eyebrow){font-size:11px}.atlas-hero__images{max-width:360px;gap:9px}.atlas-hero__images a:nth-child(2){margin-top:12px}.atlas-hero__images a:nth-child(3){margin-top:24px}
-.atlas-hero__images img{max-height:150px;object-fit:cover}.atlas-hero__images span{font-size:8px;padding-top:5px}
+.atlas-hero__images img{max-height:150px;object-fit:contain}.atlas-hero__images span{font-size:8px;padding-top:5px}
 .atlas-categories{gap:20px}.atlas-categories a{font-size:12px}.atlas-controls{gap:10px}.atlas-controls .catalog-search{flex-basis:100%;min-width:0}.atlas-controls label:not(.catalog-search){gap:5px;font-size:10px}.atlas-controls select{font-size:10px;padding:8px 5px;max-width:105px}.atlas-controls>.chip{font-size:10px;padding:8px 10px}.atlas-results{font-size:9px;margin-bottom:16px}.atlas-results p{max-width:230px}
 .atlas-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 10px}.atlas-card__caption{padding:9px 0}.atlas-card__caption>div{display:block;font-size:8px}.atlas-card__caption>div>span+span{margin-left:7px}.atlas-card h2{font-size:12px;line-height:1.6}.atlas-card__caption>p{font-size:9px}.atlas-card__number{font-size:8px;left:7px;bottom:7px;padding:4px 5px}.atlas-save{width:29px;height:29px;right:7px;top:7px}
 .atlas-detail-nav{gap:7px;margin-bottom:15px}.atlas-detail-nav>.text-link{font-size:11px}.atlas-detail-nav>div{gap:6px}.atlas-detail{grid-template-columns:1fr;gap:22px}.atlas-detail__text h1{font-size:25px}.atlas-detail__photo{max-width:500px;margin:auto}.atlas-detail__analysis{font-size:13px}.atlas-match-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 12px}.atlas-match h3{font-size:12px}.atlas-match p{font-size:10px}.atlas-matches>.section-title{display:block}.atlas-matches>.section-title h2{font-size:19px;margin-bottom:8px}.atlas-source-sheets{grid-template-columns:repeat(2,minmax(0,1fr))}.atlas-source-sheets span{font-size:9px}.atlas-preview{padding:12px}.atlas-preview>img{max-height:75dvh}
 }
 .atlas-hero .text-link,.atlas-detail-nav>.text-link,.atlas-photo-links>a,.atlas-match .text-link,.atlas-provenance .text-link,.atlas-preview>.text-link{display:inline-flex;align-items:center;gap:6px}
 .atlas-active-filter{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:12px 15px;background:var(--sage);font-size:11px;margin-bottom:14px;line-height:1.7}
+.atlas-collections{display:flex;gap:10px;margin:0 0 20px;overflow-x:auto;white-space:nowrap}
+.atlas-collections a{display:flex;gap:10px;align-items:center;border:1px solid var(--border);padding:10px 13px;font-size:11px;color:var(--text-secondary)}
+.atlas-collections a[aria-current]{color:var(--text);border-color:var(--text);background:var(--bg-secondary)}
+.atlas-collections span{font:10px var(--mono)}
+.atlas-japan-sources{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:18px 0}
+.atlas-japan-sources>div{min-width:0;border-top:1px solid var(--border);padding-top:12px}
+.atlas-japan-sources .text-link{font-size:11px;overflow-wrap:anywhere}.atlas-japan-sources span{display:block;font-size:9px;line-height:1.8;margin-top:5px}
+.atlas-card__caption>.atlas-card__origin{font-size:9px;color:var(--text-secondary);margin-bottom:7px;overflow-wrap:anywhere}
+.atlas-distinction{background:var(--bg-secondary);padding:16px!important;margin:20px 0;border:1px solid var(--border)}
+.atlas-distinction .atlas-formula{font-size:11px!important;color:var(--text)!important;margin-top:12px}
+.atlas-hero__empty{grid-column:1/-1;font-size:13px;line-height:2;color:var(--text-secondary);text-align:center;padding:25px}
+@media(max-width:767px){.atlas-collections{gap:7px}.atlas-collections a{font-size:10px;padding:9px 10px;gap:7px}.atlas-collections span{font-size:9px}.atlas-japan-sources{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.atlas-japan-sources .text-link{font-size:10px}.atlas-japan-sources span{font-size:8px}.atlas-card__caption>.atlas-card__origin{font-size:8px;line-height:1.8}.atlas-distinction{padding:14px!important}}
 .atlas-season{position:relative;border:1px solid var(--border);padding:22px 24px;margin-bottom:24px;background:var(--bg)}
 .atlas-season__heading{display:flex;justify-content:space-between;gap:20px;align-items:center}
 .atlas-season h2{font-size:23px;letter-spacing:-.5px;margin:9px 0}

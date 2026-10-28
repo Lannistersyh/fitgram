@@ -4,6 +4,14 @@
 
 线上地址：[https://lannistersyh.github.io/fitgram/](https://lannistersyh.github.io/fitgram/)。手机无需与电脑连接同一局域网，Mac 关机不影响访问。收藏与笔记保存在各自浏览器，不跨设备同步。
 
+## 日系新选 / 2026-10-28
+
+[打开日系新选 · 20 套](https://lannistersyh.github.io/fitgram/?v=20261028-japan1#/catalog/japan)：筛过 47 个照片帖封面与 55 张轮播帧，收录 5 个发布账号、19 篇原帖中的 20 张不同搭配。包含 DAI、Genji、犬飼京 / ADRER、Ryo Takashima、げんき的公开内容；粉丝量以当日主页缩略显示为准。3 张为独立品牌模特帧，保留原图文字和轮播序号。
+
+从立领短夹克、皮衣工装、黑色套装、灰色弧线裤，到毛领 B-3、挂钩夹克、针织帽衫、牛角扣、格纹与夏日开领衬衫，逐套写明学习重点与区别。同套换角度、只换颜色、模特架搭配和宣传拼图不计入。所有入围照片完整等比缩小，未生成服装外观。
+
+新增日系分组与路线筛选，与原 28 张参考合为 48 张；共用服装分类、日历、收藏、大图和商品跳转。新图春 15、夏 3、秋 18、冬 4，默认当前季节优先；49 条已有单品关联均为近似选品并说明差别。首页 IG 档案与 149 件商品保持独立。详见[选图与维护说明](docs/JAPAN-REFERENCES.md)。
+
 ## 西装外套款式课 / 2026-10-27
 
 [打开西装外套款式课](https://lannistersyh.github.io/fitgram/?v=20261027-blazers1#/catalog/blazers)：新增8件真实选品，与已有2件合为10个剪裁样本，涵盖平驳领单排扣、海军蓝金属扣、戗驳领双排扣、亚麻、粗花呢、泡泡纱、针织、短身翻领、四袋Safari混合设计与缎面青果领晚宴外套。6个品牌为Suitsupply、Peter Christian、Luca Faloni、Paul James Knitwear、TONYWACK、Our Legacy。
@@ -74,7 +82,7 @@
 
 Dr. Martens 大陆目录价与旗舰店现货分别说明；国际区缺货和未核实配送的款式仍可作为审美参考。真实图片、资料边界与维护方式见 [图鉴说明](docs/ITEM-ATLAS.md)。
 
-## 当前选图
+## 首页 IG 档案 / 2026-10-21（保留记录）
 
 2026-10-21 按用户反馈更新：下架旧日系来源，改用高粉日本创作者；韩国内容重点转向 CORTIS 等年轻男团。
 
@@ -105,11 +113,11 @@ python3 tools/build_real_data.py
 node tools/check_integrity.js
 ```
 
-独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；国家风格另由 `node tools/check_world.js` 验收；历史图集通过 `python3 tools/build_history.py` 独立生成，由 `node tools/check_history.js` 验收，不受上述造型重建覆盖。
+独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；新增日系参考另由 `node tools/check_japan.js` 验收；国家风格另由 `node tools/check_world.js` 验收；历史图集通过 `python3 tools/build_history.py` 独立生成，由 `node tools/check_history.js` 验收，不受上述造型重建覆盖。
 
 新增实际原帖记录写入 raw_posts.json，保留永久链接、本地图片、真实宽高与图片序号。selected_posts.json 和 analysis.json 是合并结果，直接修改会被下次合并覆盖。已有分析键保留站内 ID，删除内容的 ID 不复用。
 
-Instagram 造型照片仅作等比缩放与压缩；本次抖音参考单图由原帖拼图裁切，并逐张记录来源坐标。均未合成、补绘或生成商品外观。仓库保存当前 48 张原帖造型照片、28 张参考单图及缩略图、8 张来源拼图、141 张商品主图和 26 张品牌上身图，以及历史图集中的本地图片；候选图和旧版资料留在本机备份。替换图片构图后重新核对热点，不能沿用旧坐标。
+Instagram 造型照片仅作等比缩放与压缩；本次抖音参考单图由原帖拼图裁切，并逐张记录来源坐标。均未合成、补绘或生成商品外观。仓库保存当前 48 张首页原帖造型照片、48 张参考单图及缩略图（新增日系 20、原抖音 28）、8 张来源拼图、149 张商品主图和 34 张品牌上身图，以及历史图集中的本地图片；候选图和旧版资料留在本机备份。替换图片构图后重新核对热点，不能沿用旧坐标。
 
 ## 功能与权利
 

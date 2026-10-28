@@ -109,6 +109,24 @@ references = {'version': 2, 'source': json.loads((ROOT / 'assets/research/refere
 (ROOT / 'js/reference-data.js').write_text('/* 28 张真实照片及逐张观察，由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_REFERENCES = ' + json.dumps(references, ensure_ascii=False, separators=(',', ':')) + ';\n')
 print('Reference looks:', len(reference_looks))
 
+# 日系新选保留 Instagram 发布原帖，独立于既有抖音选辑与首页 IG 档案。
+japan_looks = []
+for index in range(1, 5):
+    japan_looks.extend(json.loads((ROOT / 'assets/research' / ('japan-looks-' + str(index) + '.json')).read_text()))
+assert len(japan_looks) == 20 and len({p['id'] for p in japan_looks}) == 20
+assert not {p['id'] for p in japan_looks} & {p['id'] for p in reference_looks}
+japan_sources = json.loads((ROOT / 'assets/research/japan-sources.json').read_text())
+assert {p['provenance']['handle'] for p in japan_looks} == {s['handle'] for s in japan_sources}
+for look in japan_looks:
+    assert look['collection'] == 'japan' and look['provenance']['kind'] == 'instagram-post'
+    assert look['seasonGuide']['primary'] in look['seasonGuide']['seasons']
+    assert set(look['seasonGuide']['seasons']) <= {'spring', 'summer', 'autumn', 'winter'}
+    assert all(m['itemId'] in ids and m['level'] == 'similar-style' for m in look['matches'])
+japan = {'version': 1, 'collectedAt': '2026-10-28', 'sources': japan_sources, 'looks': japan_looks,
+         'audit': json.loads((ROOT / 'assets/research/japan-selection-audit.json').read_text())}
+(ROOT / 'js/japan-data.js').write_text('/* 20 张 Instagram 原帖参考；由 tools/build_catalog.py 生成。 */\nwindow.FITGRAM_JAPAN = ' + json.dumps(japan, ensure_ascii=False, separators=(',', ':')) + ';\n')
+print('Japanese references:', len(japan_looks), 'Source accounts:', len(japan_sources))
+
 # 国别风格引用已核验商品；不另建一组无法对应的示意款。
 slot_categories = {'bag': {'bags'}, 'shoes': {'shoes'}, 'top': {'shirts', 'tops'}, 'outerwear': {'outerwear'}, 'pants': {'pants'}, 'jewelry': {'jewelry'}, 'accessory': {'accessories'}}
 for style in world_styles:

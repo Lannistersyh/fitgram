@@ -12,7 +12,7 @@
   }
   ;
   function renderNavigation(){
-    const links=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','分类图鉴'],['/catalog/blazers','hanger','西装外套'],['/catalog/leather','hanger','皮包专题'],['/catalog/history','compass','潮流史'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
+    const links=[['/','home','首页'],['/explore','compass','发现'],['/catalog','hanger','分类图鉴'],['/catalog/japan','hanger','日系新选'],['/catalog/blazers','hanger','西装外套'],['/catalog/leather','hanger','皮包专题'],['/catalog/history','compass','潮流史'],['/reels','reels','造型速览'],['/bloggers','users','来源图鉴']];
     const item=([route,icon,label])=>'<a class="nav-link" href="#'+route+'" data-route="'+route+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></a>';
     const action=(name,icon,label)=>'<button class="nav-link" data-action="'+name+'" aria-label="'+label+'">'+C.icon(icon)+'<span>'+label+'</span></button>';
     document.getElementById('desktop-nav').innerHTML=links.map(item).join('')+action('messages','external','来源链接')+action('notifications','info','资料状态')+action('create','plus-square','创建')+item(['/closet','hanger','我的衣橱']);

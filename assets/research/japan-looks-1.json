@@ -1,0 +1,440 @@
+[
+  {
+    "title": "立领短夹克，配一条宽牛仔裤",
+    "scene": "公园",
+    "pose": "坐姿",
+    "palette": "近黑 / 白 / 牛仔蓝",
+    "styleFamily": "城市休闲",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "深色立领短夹克",
+      "白色内搭",
+      "宽腿蓝色牛仔裤",
+      "深色墨镜与腕表"
+    ],
+    "analysis": "外套敞开，让白色内搭在胸前留出一道亮面；牛仔裤的宽度从大腿一直延伸到膝部。袖口略微卷起，深色上身也不会显得封闭。",
+    "distinctReason": "与 JP04 的棕色皮夹克相比，这套用立领、宽牛仔和坐姿表达日常感；关键在休闲外套与蓝色牛仔的体积关系。",
+    "formula": "立领短夹克 + 白内搭 + 宽牛仔 + 一副墨镜",
+    "poseNote": "坐在长椅边，身体略转向一侧，一只手靠近下巴；膝盖留出空间，别把宽裤压成一条线。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "短夹克搭薄内搭适合春秋过渡季；图中没有可据以判断保暖性能的面料资料。"
+    },
+    "matches": [
+      {
+        "itemId": "world-uk-bedale",
+        "level": "similar-style",
+        "note": "可借鉴深色 Barbour 外套配宽牛仔的思路。目录是橄榄绿蜡棉 Bedale，图中原帖标为 TRANSPORT 立领款，领型、长度与表面处理不同。"
+      },
+      {
+        "itemId": "pants-beams-wide-denim",
+        "level": "similar-style",
+        "note": "借鉴蓝色宽腿牛仔的体积；目录 BEAMS 款的水洗、腰线与膝部轮廓需单独核对。"
+      }
+    ],
+    "searchTerms": [
+      "Barbour TRANSPORT 立领短夹克",
+      "蓝色 宽腿 牛仔裤"
+    ],
+    "captionNote": "发布者标注外套为 Barbour TRANSPORT Peach Skin Full Lining；这条说明仅对应外套。",
+    "contrast": {
+      "main": "stand-collar-blouson",
+      "silhouette": "seated-wide-denim",
+      "layering": "white-base-open-front",
+      "palette": "dark-white-blue"
+    },
+    "id": "JP01",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP01.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP01.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "dai.fashion510",
+      "postCode": "Dev_z0gE9xs",
+      "sourceUrl": "https://www.instagram.com/p/Dev_z0gE9xs/",
+      "profileUrl": "https://www.instagram.com/dai.fashion510/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-21",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2621,
+      "sourceHeight": 3493,
+      "originalImageSha256": "fce479c924c297fc87ba91866655f2ad3757ecfb4e468a3ea4b3c0730f0464b7",
+      "display": {
+        "width": 900,
+        "height": 1199,
+        "sha256": "926ea9a248768e68ea871b7b61933c5e6eb43e09a6f9f5907a1f634a165e1a2a",
+        "bytes": 163292
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "097f30cc6b043c0bfa01239987bcb1060322d2b7c1eef4344bf8876a4af70e36",
+        "bytes": 32901
+      },
+      "differenceHash": "e9a59c4f43c87073"
+    }
+  },
+  {
+    "title": "黑色套装，领口留一点白",
+    "scene": "室内活动",
+    "pose": "站姿",
+    "palette": "黑 / 白",
+    "styleFamily": "城市正装",
+    "categories": [
+      "outerwear",
+      "shirts",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "黑色西装外套与长裤",
+      "白色开领衬衫",
+      "黑色皮面鞋",
+      "胸袋白色点缀"
+    ],
+    "analysis": "黑色外套与长裤连成纵线，白衬衫只露在领口和胸前。裤腿比本组大部分宽裤更收敛，适合观察日常休闲之外的干净正装比例。",
+    "distinctReason": "本组唯一一套完整黑色西装配白衬衫的活动造型。与 JP09 的全黑挂钩夹克相比，这套靠驳领和白领口建立正式感。",
+    "formula": "黑西装 + 白色开领衬衫 + 黑长裤 + 简洁皮鞋",
+    "poseNote": "双脚自然分开，身体略侧，双手在腰前整理外套；保持肩膀放松，衣领自然打开。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "长袖衬衫加西装适合春秋及室内活动；拍摄日期不等于服装适穿季节。"
+    },
+    "matches": [
+      {
+        "itemId": "blazer-havana-navy",
+        "level": "similar-style",
+        "note": "借鉴单排扣西装与白衬衫的组合。目录 Havana 为海军蓝，图中为黑色，不能用作同色同款替代。"
+      },
+      {
+        "itemId": "ref-asket-oxford",
+        "level": "similar-style",
+        "note": "可用白色牛津纺学习开领的留白；图中衬衫面料与领型未确认，目录款的织纹更明显。"
+      },
+      {
+        "itemId": "world-fr-fursac-derby",
+        "level": "similar-style",
+        "note": "提供简洁黑色皮鞋的搭配方向；图中鞋面细节不充分，不能据此确认德比结构。"
+      }
+    ],
+    "searchTerms": [
+      "黑色 单排扣 西装 开领白衬衫",
+      "黑色 正装 皮鞋"
+    ],
+    "captionNote": "原帖为 TOM FORD BEAUTY 香水活动记录；活动品牌不等于这套服装的品牌。",
+    "contrast": {
+      "main": "black-suit",
+      "silhouette": "straight-formal-length",
+      "layering": "white-open-collar",
+      "palette": "black-white"
+    },
+    "id": "JP02",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP02.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP02.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "dai.fashion510",
+      "postCode": "Dbk2j8NE7FC",
+      "sourceUrl": "https://www.instagram.com/p/Dbk2j8NE7FC/",
+      "profileUrl": "https://www.instagram.com/dai.fashion510/",
+      "photoIndex": 1,
+      "postedAt": "2026-08-03",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1292,
+      "sourceHeight": 1722,
+      "originalImageSha256": "5c2f08f13dc4991b8bc0b5b26af3b353484f9633fc08103a34bd7b09e233c2f4",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "b6e3d5d5cce574dd08541e5ed38e9338ee89da18640f73d2ab6bb9c924b34b54",
+        "bytes": 99341
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "a2325a6ff65f3471372254d5f87cf36f0820977c3a41e90d163aeee56226bf79",
+        "bytes": 19643
+      },
+      "differenceHash": "47e1f0f8cc0c6aaa"
+    }
+  },
+  {
+    "title": "短袖亨利领，把大包背轻松",
+    "scene": "楼梯",
+    "pose": "侧身",
+    "palette": "白 / 黑",
+    "styleFamily": "干净日常",
+    "categories": [
+      "tops",
+      "pants",
+      "bags",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "白色短袖亨利领针织上衣",
+      "黑色高腰宽长裤",
+      "黑色大号波士顿手提包",
+      "黑色乐福凉鞋款式"
+    ],
+    "analysis": "上衣收进长裤，让包的体积落在腰线上方；短袖露出手臂，黑色宽裤顺着楼梯向下延伸。大包成为造型的一部分。",
+    "distinctReason": "与 JP06 长袖黑亨利领的室内穿法不同，这套用短袖、高腰和横向大包形成轻薄的黑白组合，适合作为暖季参考。",
+    "formula": "白短袖亨利领 + 黑宽裤 + 黑色波士顿包",
+    "poseNote": "站在阶梯上侧身回看，把包自然搭在肩前；手臂留出空隙，避免包完全挡住衣服腰线。",
+    "seasonGuide": {
+      "primary": "summer",
+      "seasons": [
+        "spring",
+        "summer"
+      ],
+      "note": "短袖、薄内搭和凉鞋款式适合暖季；春季需结合温度加薄外套。"
+    },
+    "matches": [
+      {
+        "itemId": "ref-nm-strata",
+        "level": "similar-style",
+        "note": "共同点是亨利领与针织质感；目录 Strata 是灰酒红配色，袖长和图中白色短袖不同。"
+      },
+      {
+        "itemId": "pants-fredperry-pleated",
+        "level": "similar-style",
+        "note": "借鉴褶饰阔腿长裤的垂直线条；目录为藏青，图中为黑色。"
+      },
+      {
+        "itemId": "coach-venturer-signature",
+        "level": "similar-style",
+        "note": "可比较波士顿旅行包的双提手和横向容量。目录 COACH 是灰黑 Signature 涂层帆布，图中发布者标注为素黑尼龙包，材质与花纹不同。"
+      }
+    ],
+    "searchTerms": [
+      "白色 短袖 亨利领 针织",
+      "黑色 尼龙 波士顿包"
+    ],
+    "captionNote": "发布者标注上衣、尼龙波士顿包和乐福凉鞋来自 W.R，裤子为 UNIQLO Tuck Wide Pants 长版。目录关联另作近似选品。",
+    "contrast": {
+      "main": "short-sleeve-henley",
+      "silhouette": "high-waist-wide-with-boston",
+      "layering": "tucked-single-layer",
+      "palette": "white-black"
+    },
+    "id": "JP03",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP03.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP03.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "dai.fashion510",
+      "postCode": "Da-UD9Xk-0r",
+      "sourceUrl": "https://www.instagram.com/p/Da-UD9Xk-0r/",
+      "profileUrl": "https://www.instagram.com/dai.fashion510/",
+      "photoIndex": 1,
+      "postedAt": "2026-07-19",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1440,
+      "sourceHeight": 1920,
+      "originalImageSha256": "07499b265084d92b151beb8099e01bb6878ca4336c411f1f7c4cd28a6e8be786",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "1bee5fc7b8aa1a4634fd57d89d9539a221e90be145cf8aa32347e933dcfaa3ab",
+        "bytes": 135464
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "4899d540b333b55ac1540f1c88256d54486cf2c3684a1f184ceee17faa884238",
+        "bytes": 22366
+      },
+      "differenceHash": "6c38e8f0f0f0f0d4"
+    }
+  },
+  {
+    "title": "棕色短皮衣，接住灰绿工装裤",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "深棕 / 灰绿 / 黑",
+    "styleFamily": "复古工装",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "深棕色短皮夹克",
+      "深色亨利领内搭",
+      "灰绿色宽工装长裤",
+      "黑色圆头皮鞋"
+    ],
+    "analysis": "短外套在腰附近结束，宽长裤从臀部直落。皮面的光泽与裤子的低光泽形成差别，脚下黑皮鞋把宽裤的末端收住。",
+    "distinctReason": "与 JP01 的牛仔休闲相比，这套靠棕色皮面、灰绿工装裤和皮鞋建立复古感；短外套与长宽裤的分界更清楚。",
+    "formula": "棕色短皮夹克 + 深色亨利领 + 灰绿宽工装裤 + 黑皮鞋",
+    "poseNote": "双手自然放进口袋，肩膀放松，脚尖略向外；让裤脚盖住鞋面一部分。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "短皮夹克加薄内搭适合春秋；进入寒冬时，这张照片的层数不足以单独作保暖参考。"
+    },
+    "matches": [
+      {
+        "itemId": "global-ol-mini",
+        "level": "similar-style",
+        "note": "同为深棕短皮夹克，可比较腰部落点。目录 Our Legacy Mini 为牛皮，原帖外套为 LIDNM 羊皮 Cossack，领口、皮纹和版型不同。"
+      },
+      {
+        "itemId": "ref-nm-velum",
+        "level": "similar-style",
+        "note": "借鉴低饱和军绿宽裤与深棕外套的关系；目录款的口袋、褶线与图中 A.PRESSE 不同。"
+      },
+      {
+        "itemId": "shoes-doc1461",
+        "level": "similar-style",
+        "note": "可练习圆头黑皮鞋承接宽裤；1461 的黄线和鞋底更鲜明，图中不是已确认同款。"
+      }
+    ],
+    "searchTerms": [
+      "LIDNM Milled Lamb Cossack Jacket",
+      "灰绿色 宽 工装裤 黑皮鞋"
+    ],
+    "captionNote": "发布者逐件标注外套 LIDNM Milled Lamb Cossack Jacket、裤子 A.PRESSE、内搭 WYM；鞋标为 WYM Coming Soon，未给型号。",
+    "contrast": {
+      "main": "brown-leather-cossack",
+      "silhouette": "short-top-wide-work-pants",
+      "layering": "dark-henley-under-jacket",
+      "palette": "brown-olive-black"
+    },
+    "id": "JP04",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP04.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP04.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "genji_official_",
+      "postCode": "DfCJfwKE-yz",
+      "sourceUrl": "https://www.instagram.com/p/DfCJfwKE-yz/",
+      "profileUrl": "https://www.instagram.com/genji_official_/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-28",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2507,
+      "sourceHeight": 3342,
+      "originalImageSha256": "f33779456ddaec8ab7ab6c5835cee6b92e095eebe33234f3a5b7c1bd1dbc584f",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "0212bed6374e8142f040bbfaae36a03d19b5b86ac2b787a0de68ace67bf868ff",
+        "bytes": 210217
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "d893a152dc93bb8ccd7b2a762b9ba91569cdebd48b7c8797f2ee178870871319",
+        "bytes": 25178
+      },
+      "differenceHash": "c4f26868d3d13163"
+    }
+  },
+  {
+    "title": "蓝灰长袖 T，帽子补一点轮廓",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "蓝灰 / 黑 / 灰",
+    "styleFamily": "干净日常",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "蓝灰色圆领长袖 T 恤",
+      "黑色宽长裤",
+      "灰色字母棒球帽",
+      "蓝灰色运动鞋"
+    ],
+    "analysis": "上半身没有复杂叠穿，颜色集中在蓝灰区间；帽檐和鞋头呼应，黑裤负责把长袖 T 的柔和颜色稳定下来。",
+    "distinctReason": "这套是单层长袖 T 与运动鞋的低难度组合。它与 JP17 红色半拉链抓绒的区别在领口、厚度、配色强度和鞋型。",
+    "formula": "蓝灰长袖 T + 黑宽裤 + 灰帽子 + 运动鞋",
+    "poseNote": "低头看向地面，手放进口袋，脚保持自然距离；不要为了低头把脖子缩进领口。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "单层长袖 T 恤适合温和春秋；不能因照片在十月发布就当成厚卫衣冬装。"
+    },
+    "matches": [
+      {
+        "itemId": "pants-fredperry-pleated",
+        "level": "similar-style",
+        "note": "提供深色阔腿长裤的选择；目录为藏青褶饰款，图中发布者描述为黑色宽裤。"
+      },
+      {
+        "itemId": "world-us-newera-cap",
+        "level": "similar-style",
+        "note": "可用棒球帽补足简单上衣的轮廓；目录是深蓝 Yankees，图中为灰色字母帽，图案和颜色不同。"
+      }
+    ],
+    "searchTerms": [
+      "蓝灰色 圆领 长袖T恤",
+      "灰色 棒球帽 黑色宽裤"
+    ],
+    "captionNote": "原帖明确称上衣为蓝灰色长袖 T、裤子为黑色宽裤，并提及 On 鞋；没有给出鞋的具体型号。",
+    "contrast": {
+      "main": "blue-grey-long-tee",
+      "silhouette": "relaxed-straight-sports",
+      "layering": "single-long-sleeve",
+      "palette": "blue-grey-black"
+    },
+    "id": "JP05",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP05.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP05.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "genji_official_",
+      "postCode": "De9E2BBEzOG",
+      "sourceUrl": "https://www.instagram.com/p/De9E2BBEzOG/",
+      "profileUrl": "https://www.instagram.com/genji_official_/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-26",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2505,
+      "sourceHeight": 3340,
+      "originalImageSha256": "ee896de10aaf600613a9ade4fe2a3579fb4b4176210b8ef6f7c46cb7a0bb9336",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "7b58fb981e2c1a60b6d1ee3ea840fca4246e0e3aad5fa1f3f30a6790b9eceb52",
+        "bytes": 306687
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "776c16fa43d6ce2b1ceae7b6cf9e06e70a4112cb58e7fa9b38188b0adae0e30c",
+        "bytes": 45763
+      },
+      "differenceHash": "e6ccccc9f0b07361"
+    }
+  }
+]

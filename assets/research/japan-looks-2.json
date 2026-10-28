@@ -1,0 +1,426 @@
+[
+  {
+    "title": "黑亨利领，让灰色弧线裤做主角",
+    "scene": "摄影棚",
+    "pose": "站姿",
+    "palette": "黑 / 花灰",
+    "styleFamily": "干净日常",
+    "categories": [
+      "tops",
+      "pants",
+      "shoes"
+    ],
+    "garments": [
+      "黑色长袖亨利领上衣",
+      "花灰色弧线阔腿西裤",
+      "黑色皮面鞋"
+    ],
+    "analysis": "领口的纵向纽扣与裤子的垂直褶线形成连续方向。上衣下摆停在腰附近，裤腿中段有弧度，脚下深色鞋避免灰裤显得飘。",
+    "distinctReason": "重点是弧线裤型与有织纹的灰色表面。与 JP03 的短袖黑白组合相比，这套下身的弯曲轮廓和长袖层次更明显。",
+    "formula": "黑色长袖亨利领 + 灰色弧线西裤 + 黑皮鞋",
+    "poseNote": "正面站稳，一只手入袋，另一只手自然垂下；两腿不要完全并拢，给弧线裤留空间。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "note": "原帖把裤子说明为冬季混纺粗花呢款；上身单层穿法更适合秋季或冬季室内，室外需再加外套。"
+    },
+    "matches": [
+      {
+        "itemId": "ref-nm-strata",
+        "level": "similar-style",
+        "note": "同样可以学习亨利领的纵线；目录是灰酒红针织，图中为黑色，领口和袖口细节不同。"
+      },
+      {
+        "itemId": "world-it-luca-pleated",
+        "level": "similar-style",
+        "note": "借鉴灰色褶饰长裤的方向；目录 Luca Faloni 的裤腿更直、织面更细，不能替代图中的弧线粗花呢效果。"
+      },
+      {
+        "itemId": "global-adieu-134",
+        "level": "similar-style",
+        "note": "作为黑色厚底皮鞋方向；图中鞋面结构未完全展示，目录 134 的鞋底和系带细节需另看。"
+      }
+    ],
+    "searchTerms": [
+      "WYM TWEED ARC CURVED SLACKS",
+      "黑色 亨利领 灰色 弧线西裤"
+    ],
+    "captionNote": "原帖的主推单品为 WYM TWEED ARC CURVED SLACKS，并说明为羊毛与聚酯混纺粗花呢；这段面料依据只属于该裤款。",
+    "contrast": {
+      "main": "black-henley",
+      "silhouette": "curved-tweed-wide",
+      "layering": "single-button-neck",
+      "palette": "black-mottled-grey"
+    },
+    "id": "JP06",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP06.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP06.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "genji_official_",
+      "postCode": "DetgHU7EyLn",
+      "sourceUrl": "https://www.instagram.com/p/DetgHU7EyLn/",
+      "profileUrl": "https://www.instagram.com/genji_official_/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-20",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2816,
+      "sourceHeight": 3754,
+      "originalImageSha256": "91bf1afe94f10239485198e652c98d6b8cf33d0e11b4977e78ccf74d064a6b4b",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "8b9765dae0346dfc944f92c9bf901001b83c391ef510b267d9983d201b4447e9",
+        "bytes": 129105
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "8a9af11da4bacb3679f69e8490cc7a2d9afb22f0f604e26ff99c094847a434ab",
+        "bytes": 17590
+      },
+      "differenceHash": "3032317133b23331"
+    }
+  },
+  {
+    "title": "黑色猎装外套，搭深色宽牛仔",
+    "scene": "摄影棚",
+    "pose": "站姿",
+    "palette": "黑 / 深灰蓝",
+    "styleFamily": "复古工装",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "shoes"
+    ],
+    "garments": [
+      "黑色中长猎装式外套",
+      "深灰色圆领内搭",
+      "深色水洗宽牛仔裤",
+      "黑色皮面鞋"
+    ],
+    "analysis": "外套下摆比短夹克长，覆盖髋部；前片口袋和门襟增加工装线条，深色牛仔与内搭把整个造型维持在相邻色里。",
+    "distinctReason": "它与 JP18 的蓝色工装套装不同：外套更长、面料对比更明显，下身是水洗牛仔。学习的是长一点的外套如何搭宽裤。",
+    "formula": "中长猎装外套 + 深灰内搭 + 深色宽牛仔",
+    "poseNote": "身体略转向一侧，一手入袋，让外套前片自然敞开；重心放在后脚，显出下摆长度。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "图中猎装外套搭薄内搭，可作春秋叠穿参考；冬季需要增加中层与保暖内搭。"
+    },
+    "matches": [
+      {
+        "itemId": "world-fr-bdc-germinal",
+        "level": "similar-style",
+        "note": "可借鉴工作夹克的口袋线条。目录 Germinal 为海军蓝三贴袋短夹克，图中是黑色、更长的 WYM Field Coat，结构不同。"
+      },
+      {
+        "itemId": "pants-nomanual-washed-denim",
+        "level": "similar-style",
+        "note": "借鉴深色水洗宽牛仔的重量感；目录是藏青，图中水洗和裤腿弧度不同。"
+      }
+    ],
+    "searchTerms": [
+      "WYM DETACHABLE COLLAR FIELD COAT",
+      "黑色 猎装外套 深色宽牛仔"
+    ],
+    "captionNote": "发布者将外套标注为 WYM DETACHABLE COLLAR FIELD COAT，并介绍可拆合皮领；不是照片中所有深色单品的材质说明。",
+    "contrast": {
+      "main": "long-black-field-jacket",
+      "silhouette": "hip-covering-wide-denim",
+      "layering": "dark-tee-open-coat",
+      "palette": "black-dark-indigo"
+    },
+    "id": "JP07",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP07.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP07.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "genji_official_",
+      "postCode": "Deochxxk4O6",
+      "sourceUrl": "https://www.instagram.com/p/Deochxxk4O6/",
+      "profileUrl": "https://www.instagram.com/genji_official_/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-18",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2725,
+      "sourceHeight": 3633,
+      "originalImageSha256": "b4c7cb7346b0c08dfc206f5d8b9a0927f5f6c2037ad017233ad517f75f8358d5",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "b1650f0866e8fa7606c14432422c016075c781657f7b1a31128d1ac019c5d4ac",
+        "bytes": 125387
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "d6461debe9764819326e8b8484ba94403dd11b2a75a4664e4d7ee64d0a8532db",
+        "bytes": 17850
+      },
+      "differenceHash": "1232706172b23333"
+    }
+  },
+  {
+    "title": "毛领 B-3，把体积放在上半身",
+    "scene": "品牌模特图",
+    "pose": "站姿",
+    "palette": "黑 / 炭灰",
+    "styleFamily": "暗色个性",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "jewelry",
+      "accessories"
+    ],
+    "garments": [
+      "黑色丹宁感毛领短外套",
+      "黑色内搭与长裤局部",
+      "银色调项链与裤链"
+    ],
+    "analysis": "毛领、宽肩和收拢的下摆，让上身形成明显的短宽轮廓。黑灰相邻色保留质感差别，银色调链条只作小面积亮点。",
+    "distinctReason": "与 JP09 的硬朗挂钩夹克不同，这套的重点是毛领和蓬松袖形。照片只显示到大腿附近，主要用于学习上身，不能据图确认完整鞋裤比例。",
+    "formula": "毛领短 B-3 + 黑内搭 + 少量银色调链条",
+    "poseNote": "站姿自然，手臂稍离开身体，给宽袖留空间；不需要把肩膀刻意耸高。",
+    "seasonGuide": {
+      "primary": "winter",
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "note": "毛领与有体积的外套轮廓更适合深秋冬季学习；保暖强度还需以实际面料与里料为准。"
+    },
+    "matches": [
+      {
+        "itemId": "global-es-pod",
+        "level": "similar-style",
+        "note": "可比较短而蓬松的黑色外套比例。目录 Pod 为尼龙蓬松外套，没有图中的 B-3 毛领和丹宁表面。"
+      },
+      {
+        "itemId": "global-ab-cuban",
+        "level": "similar-style",
+        "note": "提供少量银链配黑衣的方向；链节形状、长度与图中项链和裤链都不同，且目录是银材质，照片不能确认材质。"
+      }
+    ],
+    "searchTerms": [
+      "ADRER The B-3 Reversible Fur Blouson",
+      "黑色 毛领 短外套 银链"
+    ],
+    "captionNote": "来自 @kei_adrer 发布的 ADRER 模特 LOOK；本帧标注 The B-3 Reversible Fur Blouson。",
+    "contrast": {
+      "main": "fur-collar-b3",
+      "silhouette": "cropped-voluminous-upper",
+      "layering": "black-base-with-chains",
+      "palette": "black-charcoal-silver"
+    },
+    "id": "JP08",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP08.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP08.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "kei_adrer",
+      "postCode": "DerJJ41EuYM",
+      "sourceUrl": "https://www.instagram.com/p/DerJJ41EuYM/",
+      "profileUrl": "https://www.instagram.com/kei_adrer/",
+      "photoIndex": 6,
+      "postedAt": "2026-10-19",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 3098,
+      "sourceHeight": 3872,
+      "originalImageSha256": "0736d5fc3b400d5076301ef32cb248b371445751650bbd6ab41771d2aa4e436c",
+      "display": {
+        "width": 900,
+        "height": 1125,
+        "sha256": "66a95fbd5fc0723e19c995f2e3ac1e8ad4ef55bad2aae37ab932572117b02b1b",
+        "bytes": 121730
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 450,
+        "sha256": "ce18e706f7c593e3ef0a54c17e00718d4d828fb43387d9276ad9517c0e8ad60f",
+        "bytes": 21772
+      },
+      "differenceHash": "432f316164606169"
+    }
+  },
+  {
+    "title": "挂钩短夹克，接一条喇叭长裤",
+    "scene": "品牌模特图",
+    "pose": "坐姿",
+    "palette": "全黑 / 银色调",
+    "styleFamily": "暗色个性",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "黑色金属挂钩短夹克",
+      "深色条纹内搭",
+      "黑色宽喇叭长裤",
+      "黑色厚底靴款式"
+    ],
+    "analysis": "短夹克上的金属挂钩成为焦点，裤腿从膝下向外展开。坐姿抬起一条腿后，鞋底与裤脚开口都很明显，全黑也能看出上下结构。",
+    "distinctReason": "与 JP02 的黑色西装相比，金属挂钩、短衣长和喇叭裤让轮廓更有戏剧性；它与 JP08 的毛领宽肩也有清楚区别。",
+    "formula": "挂钩短夹克 + 深色内搭 + 黑喇叭长裤 + 厚底靴",
+    "poseNote": "坐在椅面前段，一脚抬起形成高低，双手轻放；先确认椅子稳定，再练习这个动作。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "短夹克与内搭适合春秋层次参考；裤脚较长，实际穿着要核对落地长度。"
+    },
+    "matches": [
+      {
+        "itemId": "blazer-tonywack-cropped",
+        "level": "similar-style",
+        "note": "可以比较黑色短身外套与高腰长裤的比例。目录 TONYWACK 是翻领羊毛混纺夹克，没有图中丹宁骑士外套的金属挂钩。"
+      },
+      {
+        "itemId": "global-ol-camion",
+        "level": "similar-style",
+        "note": "提供黑色厚底靴的搭配方向；Camion 的靴筒、鞋头与鞋底轮廓并非照片中同款。"
+      }
+    ],
+    "searchTerms": [
+      "ADRER denim riders short jacket",
+      "黑色 喇叭长裤 厚底靴"
+    ],
+    "captionNote": "本帧标题标注 ADRER denim riders short jacket，原帖介绍其骑士细节和消防员式挂钩；裤子与鞋的具体型号未确认。",
+    "contrast": {
+      "main": "hook-denim-riders",
+      "silhouette": "cropped-top-flared-pants",
+      "layering": "dark-striped-underlayer",
+      "palette": "all-black-metal"
+    },
+    "id": "JP09",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP09.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP09.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "kei_adrer",
+      "postCode": "DeJnvK2klsK",
+      "sourceUrl": "https://www.instagram.com/p/DeJnvK2klsK/",
+      "profileUrl": "https://www.instagram.com/kei_adrer/",
+      "photoIndex": 2,
+      "postedAt": "2026-10-06",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2771,
+      "sourceHeight": 3463,
+      "originalImageSha256": "502ec36cc356a6b18cc960fbdd4d71b984de270b8f07137196064563992e1ee2",
+      "display": {
+        "width": 900,
+        "height": 1125,
+        "sha256": "792b4324490f89fd63e1bccfdd0400f182319f4790ac58b3cecb99c93edd57d9",
+        "bytes": 81433
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 450,
+        "sha256": "17b22f8ce1e419fe6317c301536c3486c62a13360ec83a1740e7b03d89998d5c",
+        "bytes": 17645
+      },
+      "differenceHash": "1b137169c1e4644e"
+    },
+    "heroPriority": 3
+  },
+  {
+    "title": "棕色针织帽衫，配灰色宽裤",
+    "scene": "品牌模特图",
+    "pose": "坐姿",
+    "palette": "棕 / 白 / 深灰",
+    "styleFamily": "柔和针织",
+    "categories": [
+      "tops",
+      "pants",
+      "jewelry"
+    ],
+    "garments": [
+      "棕色拉链连帽针织上衣",
+      "白色圆领内搭",
+      "深灰色宽长裤",
+      "银色调项链与戒指"
+    ],
+    "analysis": "拉链只拉一部分，白色内搭在领口形成浅色三角。针织帽衫的柔软表面与灰色裤子的垂直折线分工，上身松、下身仍有线条。",
+    "distinctReason": "同属 @kei_adrer 的模特 LOOK，这套用针织帽衫、白内搭和棕灰色调，与 JP09 的挂钩、全黑和靴子形成明显区别。照片未展示鞋履。",
+    "formula": "棕色短针织帽衫 + 白圆领 + 灰宽裤 + 一处银色调首饰",
+    "poseNote": "坐姿前倾一点，单手轻托下巴，另一只手放在大腿；让连帽和领口的两层保持自然。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "针织帽衫加白色内搭适合春秋；照片没有足够信息判断其单独应对寒冬的能力。"
+    },
+    "matches": [
+      {
+        "itemId": "world-uk-fisherman",
+        "level": "similar-style",
+        "note": "可借鉴有织纹的针织上衣与灰裤组合。目录是米色渔夫圆领毛衣，没有图中的棕色、帽子和拉链，属于换一种穿法。"
+      },
+      {
+        "itemId": "world-it-luca-pleated",
+        "level": "similar-style",
+        "note": "可学习深灰垂感西裤的下身线条；裤腿宽度和织纹与本帧并非同款。"
+      }
+    ],
+    "searchTerms": [
+      "ADRER wool blend full zip knit short parker",
+      "棕色 拉链 连帽 针织 灰色宽裤"
+    ],
+    "captionNote": "本帧标注 wool blend full zip knit short parker；来自 ADRER 品牌模特 LOOK，针织成分以发布者这一单品说明为据。",
+    "contrast": {
+      "main": "brown-knit-zip-hoodie",
+      "silhouette": "soft-cropped-wide-grey",
+      "layering": "white-tee-in-zip-neck",
+      "palette": "brown-white-grey"
+    },
+    "id": "JP10",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP10.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP10.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "kei_adrer",
+      "postCode": "DeJnvK2klsK",
+      "sourceUrl": "https://www.instagram.com/p/DeJnvK2klsK/",
+      "profileUrl": "https://www.instagram.com/kei_adrer/",
+      "photoIndex": 12,
+      "postedAt": "2026-10-06",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2528,
+      "sourceHeight": 3160,
+      "originalImageSha256": "60d7f3eaa359645509d94838868fa4febff5ab73fc638d2ba5541ea141e4dede",
+      "display": {
+        "width": 900,
+        "height": 1125,
+        "sha256": "9c203187e4bed3ca75e9408736b577edd03a9c96025457acec51d60df96e7bc2",
+        "bytes": 205093
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 450,
+        "sha256": "7c23d818763e7e4ae2a81a0d9cbed49093d50ce89310719d5e89e3ffcd6c5b2b",
+        "bytes": 30723
+      },
+      "differenceHash": "a77259c8cce08c8e"
+    }
+  }
+]

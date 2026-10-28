@@ -1,0 +1,446 @@
+[
+  {
+    "title": "开衫里面再露一层牛仔蓝",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "灰褐 / 深蓝 / 军绿",
+    "styleFamily": "柔和针织",
+    "categories": [
+      "tops",
+      "shirts",
+      "pants",
+      "jewelry",
+      "accessories"
+    ],
+    "garments": [
+      "灰褐色翻领开衫式上衣",
+      "深蓝色纽扣衬衫中层",
+      "白色圆领内搭",
+      "军绿色宽长裤",
+      "银色调项链与腰间挂饰"
+    ],
+    "analysis": "灰褐外层、深蓝纽扣中层和白色内搭逐层露出，亮面只留在颈部和腰边。军绿宽裤压低饱和度，让三层也保持松弛。",
+    "distinctReason": "与 JP10 的针织帽衫相比，这套去掉帽子，增加衬衫门襟和白色下摆，学习三层错位。与 JP12 的棕蓝三层相比，外层更软、下身更偏工装。",
+    "formula": "翻领开衫 + 深蓝衬衫 + 白圆领 + 军绿宽裤",
+    "poseNote": "一手轻扶前襟，另一手入袋，身体略侧；把门襟轻轻打开，让三层宽度都能看到。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "开衫与衬衫叠穿适合偏凉春秋；图中外层纤维成分未确认。"
+    },
+    "matches": [
+      {
+        "itemId": "world-uk-fisherman",
+        "level": "similar-style",
+        "note": "可借鉴中性色针织上衣与军绿裤的关系；目录是米色圆领渔夫毛衣，没有翻领开衫与纽扣。"
+      },
+      {
+        "itemId": "global-nm-cpo",
+        "level": "similar-style",
+        "note": "提供深蓝工装衬衫中层方向；目录为靛蓝青年布，图中具体款型未确认。"
+      },
+      {
+        "itemId": "pants-carhartt-army-cargo",
+        "level": "similar-style",
+        "note": "可用军绿宽工装裤承接中性上衣；口袋位置与裤腿轮廓不等于照片中的裤款。"
+      }
+    ],
+    "searchTerms": [
+      "灰褐 翻领 开衫 牛仔衬衫 叠穿",
+      "军绿 宽裤 三层 叠穿"
+    ],
+    "captionNote": "原帖介绍 CPCM 的弧线工装牛仔与 5X Easy Pants；未逐帧标注所有上衣的款名，不据此确认外层成分。",
+    "contrast": {
+      "main": "taupe-collar-cardigan",
+      "silhouette": "soft-layer-wide-olive",
+      "layering": "cardigan-denim-shirt-white-tee",
+      "palette": "taupe-denim-olive"
+    },
+    "id": "JP16",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP16.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP16.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "Ddv4NrYmEBl",
+      "sourceUrl": "https://www.instagram.com/p/Ddv4NrYmEBl/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-09-26",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2464,
+      "sourceHeight": 3285,
+      "originalImageSha256": "dd30b0a58a11dd901d1261632973225c465b387040640a2c8a28deeb60450b39",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "3573502b305b37bf6f9fa6edde850f576a199560c55ccb7cb477b0d1bb5f4e08",
+        "bytes": 218272
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "27cebef90a7bea088ca6263481dfe3d9faaf8eed8f626d9d0d8f3f5a23cb65da",
+        "bytes": 41409
+      },
+      "differenceHash": "ab585111a7776173"
+    }
+  },
+  {
+    "title": "红色半拉链，配军绿灯芯绒",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "红 / 军绿 / 棕",
+    "styleFamily": "复古户外",
+    "categories": [
+      "tops",
+      "pants",
+      "bags",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "红色半拉链抓绒上衣",
+      "军绿色宽灯芯绒长裤",
+      "棕色皮面休闲鞋",
+      "黑色软手提包与深色帽子"
+    ],
+    "analysis": "红与军绿对比强，棕鞋把户外色调连在一起。上衣下摆落在腰部，裤子腰部的抽绳和褶量都显出来，包保持素黑即可。",
+    "distinctReason": "本组唯一的大面积红色半拉链抓绒。与 JP05 的蓝灰长袖相比，这套领型、表面、配色和棕鞋都更偏复古户外。",
+    "formula": "红色半拉链抓绒 + 军绿灯芯绒宽裤 + 棕鞋 + 黑软包",
+    "poseNote": "一只手拿包，另一只手轻扶眼镜；身体侧一点，脚自然错开，别把包提到胸前。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "note": "原帖确认抓绒与灯芯绒，适合深秋和较温和冬季；寒冷室外还需防风外层。"
+    },
+    "matches": [
+      {
+        "itemId": "pants-gramicci-corduroy",
+        "level": "similar-style",
+        "note": "可借鉴灯芯绒长裤的秋冬质感；目录为棕色，图中为军绿，裤腿与腰部设计不同。"
+      },
+      {
+        "itemId": "world-it-scarosso-william",
+        "level": "similar-style",
+        "note": "提供棕色鞋承接军绿裤的思路；目录为麂皮流苏乐福，图中是较圆的皮面休闲鞋，鞋面与结构不同。"
+      },
+      {
+        "itemId": "leather-everyday-status-light",
+        "level": "similar-style",
+        "note": "可比较素黑软托特的配色作用；目录为皮革，图中包的材质未确认，不能等同。"
+      }
+    ],
+    "searchTerms": [
+      "红色 半拉链 抓绒 军绿 灯芯绒",
+      "CPCM fleece half zip corduroy"
+    ],
+    "captionNote": "发布者明确说明红色抓绒半拉链与军绿色灯芯绒的组合，并标记 CPCM；没有给出鞋包型号。",
+    "contrast": {
+      "main": "red-halfzip-fleece",
+      "silhouette": "waist-top-balloon-corduroy",
+      "layering": "single-halfzip-neck",
+      "palette": "red-olive-brown"
+    },
+    "id": "JP17",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP17.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP17.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "DdbK9iik7hi",
+      "sourceUrl": "https://www.instagram.com/p/DdbK9iik7hi/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-09-18",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1824,
+      "sourceHeight": 2432,
+      "originalImageSha256": "8b75172b89ff754e610baf3af100fae994b28dcf4eaddd8d0f5f73ef8ae3f6be",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "bfa45431b6251c77c7378377ef9e9aa444d991826bce224f9d39cd2a48f2b5e0",
+        "bytes": 318612
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "19b4b46e1800bfbb6562d6ae7bf1018f0abd8650cbd1b808b82719a9eaecb772",
+        "bytes": 48738
+      },
+      "differenceHash": "f2d9d969d3b4b432"
+    },
+    "heroPriority": 2
+  },
+  {
+    "title": "蓝色工装套装，条纹只露一角",
+    "scene": "街边",
+    "pose": "低头",
+    "palette": "深蓝 / 棕 / 米白",
+    "styleFamily": "复古工装",
+    "categories": [
+      "outerwear",
+      "shirts",
+      "tops",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "深蓝多口袋工作外套",
+      "深蓝宽工装长裤",
+      "棕米细条纹内搭",
+      "棕色棒球帽与腰间挂饰"
+    ],
+    "analysis": "外套和裤子形成同色连续面，条纹只在门襟下面露一点。棕色帽子把注意力移到头部，多口袋细节让同色套装仍有层次。",
+    "distinctReason": "与 JP07 的黑色猎装配牛仔不同，这套是蓝色工装上下呼应，加棕色帽子和条纹内搭；重点是同色工装的完整感。",
+    "formula": "蓝工作外套 + 蓝工装裤 + 条纹内搭 + 棕帽子",
+    "poseNote": "低头稍前倾，双手放在身后或裤袋附近；把外套下摆自然打开，保留一点条纹。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "工作外套叠长袖内搭适合春秋；照片下方未完整显示鞋履，不据此推荐具体鞋型。"
+    },
+    "matches": [
+      {
+        "itemId": "world-fr-bdc-germinal",
+        "level": "similar-style",
+        "note": "同为海军蓝工作夹克方向；图中口袋与门襟形状不同，目录三贴袋不能视作原帖同款。"
+      },
+      {
+        "itemId": "pants-ralphlauren-navy-cargo",
+        "level": "similar-style",
+        "note": "借鉴蓝色宽工装裤与外套同色的思路；目录口袋、裤脚与图中不同。"
+      },
+      {
+        "itemId": "world-fr-bdc-cancale",
+        "level": "similar-style",
+        "note": "可用条纹中层建立同色套装的间隔；目录为奶白底水手针织，图中条纹更细、更偏棕色。"
+      }
+    ],
+    "searchTerms": [
+      "深蓝 工装套装 条纹内搭 棕帽子",
+      "宽松 多口袋 工作夹克"
+    ],
+    "captionNote": "原帖由 @ultrabra1n 发布；衣服品牌与货号没有在本帧中逐件确认。",
+    "contrast": {
+      "main": "navy-workwear-set",
+      "silhouette": "oversized-matching-utility",
+      "layering": "striped-base-under-workwear",
+      "palette": "navy-brown-cream"
+    },
+    "id": "JP18",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP18.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP18.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "Dc3l9UFGEIG",
+      "sourceUrl": "https://www.instagram.com/p/Dc3l9UFGEIG/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-09-04",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1903,
+      "sourceHeight": 2344,
+      "originalImageSha256": "c5f37f66b8919b16c2b4ef4bf5b85c3afe1a2c6cd9e2cae11faa01be78cb1b86",
+      "display": {
+        "width": 900,
+        "height": 1109,
+        "sha256": "38d77c1980654e0233b359802381f1fb2fe9fa1a2ed80ec8571a50f3f2e4fab9",
+        "bytes": 204604
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 444,
+        "sha256": "a05b513e05b0eba7c5de10b2f6dfb64831b0009c2534fa058a13b448da92cfec",
+        "bytes": 36142
+      },
+      "differenceHash": "98c8e0e86163e363"
+    }
+  },
+  {
+    "title": "格纹衬衫，配一条灰色垂感裤",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "蓝绿棕格纹 / 灰",
+    "styleFamily": "城市休闲",
+    "categories": [
+      "shirts",
+      "pants",
+      "shoes",
+      "jewelry",
+      "accessories"
+    ],
+    "garments": [
+      "蓝绿棕格纹长袖衬衫",
+      "灰色宽腿西裤",
+      "深色低帮休闲鞋",
+      "腰链或挂饰局部"
+    ],
+    "analysis": "格纹已经提供足够信息，下身用灰色整块承接。衬衫不完全收进裤腰，袖口略卷起，裤腿的直线让松弛上衣更有秩序。",
+    "distinctReason": "与 JP13 的蓝色素衬衫相比，这套以格纹和灰色西裤制造软硬差别；裤子按原帖描述为西裤，不能因为灰色就写成水洗牛仔。",
+    "formula": "格纹长袖衬衫 + 灰宽西裤 + 简洁低帮鞋",
+    "poseNote": "一只手放进口袋，身体微侧，另一手自然垂下；卷起一点袖口，让衬衫下摆保持不对称。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "长袖衬衫配西裤适合春秋；外层较薄，冬季可借鉴配色再加大衣。"
+    },
+    "matches": [
+      {
+        "itemId": "shirt-cn-chxsti037122rgrd",
+        "level": "similar-style",
+        "note": "提供低饱和格纹翻领衬衫的方向；目录格纹的配色和方格尺度不同。"
+      },
+      {
+        "itemId": "world-it-luca-pleated",
+        "level": "similar-style",
+        "note": "可借鉴灰色垂感西裤配格纹上衣；目录 Luca Faloni 的裤型与织面需另外核对。"
+      }
+    ],
+    "searchTerms": [
+      "蓝绿棕 格纹 衬衫 灰色宽西裤",
+      "CPCM center crease slacks"
+    ],
+    "captionNote": "原帖明确将裤子说明为带中线处理的 slacks，并讨论与低帮鞋搭配时的裤长；不是牛仔裤资料。",
+    "contrast": {
+      "main": "plaid-shirt",
+      "silhouette": "loose-shirt-grey-drape",
+      "layering": "open-neck-single-shirt",
+      "palette": "green-blue-brown-grey"
+    },
+    "id": "JP19",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP19.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP19.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "DcyFyEamOlT",
+      "sourceUrl": "https://www.instagram.com/p/DcyFyEamOlT/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-09-02",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1889,
+      "sourceHeight": 2518,
+      "originalImageSha256": "eb7693828dbb70a9f8bca4fba8a38ec2258f7e2e6d483618ab4f66c1fa3bad3a",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "7d6f13331d3800e0a4800c7f5841edf48caf6bb04f135ab85d992888a1a2e8fa",
+        "bytes": 289920
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "b6de7655bc35b478b6ef14b22cd03779087a6e76c7a0ee615bc42ceba5c9e509",
+        "bytes": 46384
+      },
+      "differenceHash": "6353936de4b012b0"
+    }
+  },
+  {
+    "title": "黑短袖敞开穿，米色宽裤去散步",
+    "scene": "街边",
+    "pose": "行走",
+    "palette": "黑 / 米白 / 紫",
+    "styleFamily": "夏日休闲",
+    "categories": [
+      "shirts",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories",
+      "jewelry"
+    ],
+    "garments": [
+      "黑色宽松开领短袖衬衫",
+      "米白色背心内搭",
+      "米色抽绳极宽长裤",
+      "黑色凉鞋",
+      "紫色棒球帽与腰间彩色布饰"
+    ],
+    "analysis": "深色衬衫敞开，浅色内搭与裤子连接起来。短袖、凉鞋和宽裤保持通风感，紫色帽子与腰边布饰只作小面积点色。",
+    "distinctReason": "与 JP03 的白短袖加黑高腰裤相比，这套使用敞开的短袖衬衫、抽绳米色宽裤和凉鞋，颜色、腰部处理与层次都不同。",
+    "formula": "黑短袖开衫式穿法 + 浅色背心 + 米色宽裤 + 凉鞋 + 紫帽",
+    "poseNote": "边走边轻扶帽檐，视线略向下；自然迈步，让裤脚和敞开的衬衫一起摆动。",
+    "seasonGuide": {
+      "primary": "summer",
+      "seasons": [
+        "summer"
+      ],
+      "note": "短袖、背心和凉鞋是明确的暖季组合；本站不把它排作当前秋冬的保暖示范。"
+    },
+    "matches": [
+      {
+        "itemId": "more-fr-fursac-paisley",
+        "level": "similar-style",
+        "note": "可以练习深色开领短袖叠浅色背心；目录是海军蓝佩斯利印花，图中为素黑，图案与颜色不同。"
+      },
+      {
+        "itemId": "pants-carhartt-ivory",
+        "level": "similar-style",
+        "note": "借鉴浅色宽裤与黑色衬衫的组合；目录工装裤的口袋和腰头不同，图中为抽绳极宽款。"
+      }
+    ],
+    "searchTerms": [
+      "黑色 短袖 开领衬衫 米色 抽绳宽裤",
+      "CPCM AIRHOLE 5XL Easy Pants"
+    ],
+    "captionNote": "原帖介绍 CPCM AIRHOLE 半袖衬衫与 5XL Easy Pants，并称与背心叠穿；凉鞋和帽子的具体型号未确认。",
+    "contrast": {
+      "main": "black-short-sleeve-open-shirt",
+      "silhouette": "summer-extra-wide-drawstring",
+      "layering": "open-short-shirt-over-tank",
+      "palette": "black-cream-purple"
+    },
+    "id": "JP20",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP20.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP20.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "DazzTAQkwFy",
+      "sourceUrl": "https://www.instagram.com/p/DazzTAQkwFy/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-07-15",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 1987,
+      "sourceHeight": 2649,
+      "originalImageSha256": "e98a54d71e434ac4d79ebf8048eedd08fdfc9d76759b043dbc66110eef7e96df",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "d0d93ec44bfbdc279a639757ee5ed47f392bc79a681bc04ad07cf991b264bbd3",
+        "bytes": 302066
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "821e68134bb63b053234e82f2d6507afa1a7a2ddd70f449acc5351f984ea6d93",
+        "bytes": 52055
+      },
+      "differenceHash": "cb4f296969721878"
+    },
+    "heroPriority": 5
+  }
+]

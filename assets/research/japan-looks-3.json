@@ -1,0 +1,437 @@
+[
+  {
+    "title": "一件橘色帽衫，把造型提亮",
+    "scene": "室内活动",
+    "pose": "坐姿",
+    "palette": "橘 / 蓝绿",
+    "styleFamily": "美式混搭",
+    "categories": [
+      "tops",
+      "pants"
+    ],
+    "garments": [
+      "橘色字母连帽上衣",
+      "领口露出的格纹衬衫",
+      "蓝绿色调牛仔长裤"
+    ],
+    "analysis": "亮橘占据上半身，格纹只在领口和袖口露出少量。牛仔裤把高饱和颜色拉回日常，不必再叠加第二件抢眼配件。",
+    "distinctReason": "本组最明亮的帽衫搭配，学习日式穿法中对美式元素的重新组合。它与 JP05 蓝灰单层长袖的低饱和路线差别明显。",
+    "formula": "橘色帽衫 + 少量格纹衬衫边 + 蓝色牛仔",
+    "poseNote": "靠坐在椅子上，身体朝前一点，手自然放在腿上；让衣服自己形成褶皱，不必完全拉平。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "连帽上衣叠衬衫适合春秋；图中没有展示全身鞋履，主要学习上半身的配色与叠穿。"
+    },
+    "matches": [
+      {
+        "itemId": "pants-beams-wide-denim",
+        "level": "similar-style",
+        "note": "提供蓝色宽牛仔的搭配方向；图中坐姿下的水洗色与目录款不同，不能据此确认裤型完全一致。"
+      },
+      {
+        "itemId": "shirt-cn-chxsti037122rgrd",
+        "level": "similar-style",
+        "note": "可以用低饱和格纹衬衫露领口的方式叠穿；目录格纹颜色、尺寸和图中不同。"
+      }
+    ],
+    "searchTerms": [
+      "橘色 连帽卫衣 格纹衬衫 叠穿",
+      "PoloFest Tokyo outfit"
+    ],
+    "captionNote": "原帖记录 PoloFest Tokyo 并标记 Polo Ralph Lauren；没有逐件给出所穿服装的型号。",
+    "contrast": {
+      "main": "orange-letter-hoodie",
+      "silhouette": "seated-hoodie-denim",
+      "layering": "plaid-collar-under-hoodie",
+      "palette": "orange-blue-green"
+    },
+    "id": "JP11",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP11.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP11.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ryo__takashima",
+      "postCode": "DezEw0NmT2n",
+      "sourceUrl": "https://www.instagram.com/p/DezEw0NmT2n/",
+      "profileUrl": "https://www.instagram.com/ryo__takashima/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-22",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2227,
+      "sourceHeight": 2969,
+      "originalImageSha256": "cd8425bb45a30e71e33f8733fa400df9800bf844d61f0e0fca3cea62f762ee63",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "4ec247fc2574acf03a8be36ba422a934b1daa73541ab3d8b100072dd1ec257f2",
+        "bytes": 209438
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "210a361bc80d261609c2de884d88bad63f796b15a340abb0735e7e88c5968fb5",
+        "bytes": 36971
+      },
+      "differenceHash": "3216ae1c0e0e0603"
+    }
+  },
+  {
+    "title": "棕蓝三层，宽裤也有通勤感",
+    "scene": "街边",
+    "pose": "行走",
+    "palette": "灰棕 / 亮蓝 / 深蓝",
+    "styleFamily": "城市休闲",
+    "categories": [
+      "outerwear",
+      "shirts",
+      "tops",
+      "pants",
+      "bags",
+      "shoes"
+    ],
+    "garments": [
+      "灰棕色短外套",
+      "深灰针织中层与亮蓝衬衫领口",
+      "深色宽长裤",
+      "棕色小手提包",
+      "棕色调运动鞋"
+    ],
+    "analysis": "外套、针织和衬衫形成三层，亮蓝只露在脸旁。裤腿虽然宽，仍由短外套和前襟的纵线把视线向下引，手提包补足通勤感觉。",
+    "distinctReason": "与 JP04 的皮夹克工装组合相比，这套多了针织、衬衫和手提包，鞋也是运动鞋方向。重点是棕蓝配色与三层领口。",
+    "formula": "灰棕短外套 + 深灰针织 + 亮蓝衬衫 + 深宽裤 + 棕包",
+    "poseNote": "缓步走向镜头，包自然垂在身侧，视线稍偏；拍下迈步中裤脚打开的瞬间。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "autumn",
+        "spring"
+      ],
+      "note": "短外套、针织、衬衫三层适合偏凉春秋；可按温度先减少中层。"
+    },
+    "matches": [
+      {
+        "itemId": "blazer-ourlegacy-trip",
+        "level": "similar-style",
+        "note": "可比较棕色方形短外套与宽裤的比例；目录 Trip 是四袋夹克，图中外套的面料与细节不同。"
+      },
+      {
+        "itemId": "shirt-cn-4best111213xrblz",
+        "level": "similar-style",
+        "note": "可借鉴领口的一点蓝色；目录 BEAMS 为蓝条纹，图中衬衫为更明亮的蓝色，图案不同。"
+      },
+      {
+        "itemId": "coach-empire40",
+        "level": "similar-style",
+        "note": "可用棕色软结构手提包延续外套色调；目录 Empire 40 容量、提把与图中小包不同。"
+      }
+    ],
+    "searchTerms": [
+      "棕色 短外套 蓝衬衫 针织 叠穿",
+      "CLESSTE plusphenix autumn outfit"
+    ],
+    "captionNote": "原帖列外套 CLESSTE × plusphenix，衬衫、针织、裤子、包为 CLESSTE，鞋为 Mizuno Sportstyle；未列具体型号。",
+    "contrast": {
+      "main": "brown-city-blouson",
+      "silhouette": "short-jacket-wide-commuter",
+      "layering": "blue-shirt-grey-knit-jacket",
+      "palette": "brown-blue-navy"
+    },
+    "id": "JP12",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP12.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP12.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ryo__takashima",
+      "postCode": "DeV5vaJAXi9",
+      "sourceUrl": "https://www.instagram.com/p/DeV5vaJAXi9/",
+      "profileUrl": "https://www.instagram.com/ryo__takashima/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-11",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 3077,
+      "sourceHeight": 4096,
+      "originalImageSha256": "4e0ea55bda556c9295b577b45fb5592d323966e8970b6f010f5a9bfd9d737706",
+      "display": {
+        "width": 900,
+        "height": 1198,
+        "sha256": "78ca73bd1b8494f6e6be1a3c10255a1d7b8172c7a95409796de966d5e4b2168c",
+        "bytes": 190285
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 479,
+        "sha256": "f67da1a1ac7641a32673346f1ed47d4922a0e823b516b80aed67b5df43556964",
+        "bytes": 36091
+      },
+      "differenceHash": "f8ac2565f1f1b033"
+    }
+  },
+  {
+    "title": "蓝衬衫与棕宽裤，两件就够",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "蓝 / 深棕",
+    "styleFamily": "干净日常",
+    "categories": [
+      "shirts",
+      "pants",
+      "bags",
+      "shoes"
+    ],
+    "garments": [
+      "蓝色宽松翻领长袖衬衫",
+      "深棕色极宽长裤",
+      "深棕色小手提包",
+      "黑色皮面鞋"
+    ],
+    "analysis": "衬衫下摆自然落在腰下，宽裤保留深而直的褶线。蓝棕本身已经形成对比，小包延续裤子的颜色，让全身保持两大色块。",
+    "distinctReason": "与 JP12 的三层棕蓝叠穿相比，这套去掉外套和针织，学习蓝衬衫单穿与极宽棕裤的比例。它没有连帽外套结构。",
+    "formula": "宽松蓝衬衫 + 深棕极宽裤 + 小号棕手提包",
+    "poseNote": "一只手入袋，另一只手轻拿包，视线略向上；双脚自然错开，让裤子的褶线显出来。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "autumn"
+      ],
+      "note": "长袖衬衫单穿适合温和春秋；裤子较宽，穿着时需配合身高调整裤长。"
+    },
+    "matches": [
+      {
+        "itemId": "global-ol-faubourg",
+        "level": "similar-style",
+        "note": "可用宽松浅蓝衬衫练习同样的上下比例；目录有细条纹，图中蓝色更深、表面效果不同。"
+      },
+      {
+        "itemId": "pants-gramicci-corduroy",
+        "level": "similar-style",
+        "note": "提供棕色宽松长裤方向；目录为灯芯绒且有腰带细节，不能还原图中更垂直的极宽褶线。"
+      },
+      {
+        "itemId": "coach-empire40",
+        "level": "similar-style",
+        "note": "可比较深棕手提包与裤子同色的效果；目录包明显更大，轮廓和提把不同。"
+      }
+    ],
+    "searchTerms": [
+      "CLESSTE 蓝色 衬衫",
+      "SAGE NATION 深棕 宽裤"
+    ],
+    "captionNote": "原帖列衬衫 CLESSTE、裤子 SAGE NATION、鞋 The Row、包 CLESSTE；没有给出各件的具体型号。",
+    "contrast": {
+      "main": "blue-open-shirt",
+      "silhouette": "untucked-shirt-extra-wide-brown",
+      "layering": "single-button-shirt",
+      "palette": "blue-brown"
+    },
+    "id": "JP13",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP13.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP13.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ryo__takashima",
+      "postCode": "DeJ0kETFOug",
+      "sourceUrl": "https://www.instagram.com/p/DeJ0kETFOug/",
+      "profileUrl": "https://www.instagram.com/ryo__takashima/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-06",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 3072,
+      "sourceHeight": 4096,
+      "originalImageSha256": "db63b6e4969c0069e5ec8765973570a93415e0e5b3d7009e3bc9972b585914dc",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "393a863252d35a90a2afed566a00956a132660d3e3b5ac3dbbc87424eb6449c3",
+        "bytes": 183777
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "e26deb50661db898387a2c66e98cd1168068d9ec61950056cac4980996610b3a",
+        "bytes": 30290
+      },
+      "differenceHash": "b434e46979713131"
+    },
+    "heroPriority": 1
+  },
+  {
+    "title": "长百慕大短裤，换一种套装比例",
+    "scene": "室内活动",
+    "pose": "站姿",
+    "palette": "深橄榄 / 黑",
+    "styleFamily": "设计感比例",
+    "categories": [
+      "outerwear",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories"
+    ],
+    "garments": [
+      "深色宽松开襟外套",
+      "同色系圆领内搭",
+      "接近膝部的宽百慕大短裤",
+      "黑色中筒袜与黑白低帮运动鞋",
+      "深色墨镜"
+    ],
+    "analysis": "外套和长短裤处于相邻色，露出的膝下腿部成为间隔。中筒袜把短裤与低帮鞋连接起来，适合观察“套装感”如何通过裤长改变。",
+    "distinctReason": "本组唯一的长百慕大短裤造型。与所有全长宽裤的差别在露腿比例、袜筒和低帮运动鞋；不把短裤当成长裤的缩小版本。",
+    "formula": "宽松深色外套 + 同色内搭 + 长百慕大短裤 + 中筒袜 + 低帮鞋",
+    "poseNote": "站姿微微偏重心，双手放进口袋，脚保持轻微外开；不要让外套盖住短裤的全部长度。",
+    "seasonGuide": {
+      "primary": "autumn",
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "note": "长袖外层配短裤适合温暖春秋或较凉的夏日；盛夏可减少外层，冬季不据此推荐露腿。"
+    },
+    "matches": [
+      {
+        "itemId": "blazer-knit-grey",
+        "level": "similar-style",
+        "note": "可学习柔软开襟外套的松弛感；目录为浅灰针织西装，图中颜色、长度和领口不同。本站尚无合适的宽百慕大短裤可直接对应。"
+      },
+      {
+        "itemId": "world-fr-lacoste-tclip",
+        "level": "similar-style",
+        "note": "作为黑白低帮运动鞋的替代思路；目录鞋以白色为主，图中以黑色为主，品牌与鞋型不同。"
+      }
+    ],
+    "searchTerms": [
+      "深色 外套 百慕大短裤 中筒袜",
+      "KHOKI SS27 runway guest outfit"
+    ],
+    "captionNote": "原帖记录 KHOKI SS27 秀场活动，未逐件确认所穿服装品牌；不能把活动名称当成全身品牌。",
+    "contrast": {
+      "main": "bermuda-set-layer",
+      "silhouette": "loose-top-knee-shorts-socks",
+      "layering": "tonal-open-jacket-tee",
+      "palette": "dark-olive-black"
+    },
+    "id": "JP14",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP14.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP14.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ryo__takashima",
+      "postCode": "Dc3UZaEAXPM",
+      "sourceUrl": "https://www.instagram.com/p/Dc3UZaEAXPM/",
+      "profileUrl": "https://www.instagram.com/ryo__takashima/",
+      "photoIndex": 1,
+      "postedAt": "2026-09-04",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2558,
+      "sourceHeight": 3410,
+      "originalImageSha256": "dda8ec71a529be8198c8958956776959b63f20ea0da87e94bec82243f114d7ab",
+      "display": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "278704c5048e532300f64112adfe097e5455cb5991bdc7dbd7f21095933877e0",
+        "bytes": 109934
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "ea7c2c1eacf36cc51028793c0c1cf3db8d5fda01f407ea9c2831fd8cadc9c1dd",
+        "bytes": 19532
+      },
+      "differenceHash": "2f17d3d7f7b72763"
+    },
+    "heroPriority": 6
+  },
+  {
+    "title": "海军蓝牛角扣，下面留一片奶白",
+    "scene": "街边",
+    "pose": "站姿",
+    "palette": "海军蓝 / 奶白",
+    "styleFamily": "学院休闲",
+    "categories": [
+      "outerwear",
+      "pants",
+      "accessories"
+    ],
+    "garments": [
+      "海军蓝牛角扣连帽大衣",
+      "奶白色宽长裤",
+      "蓝色衬衫袖口局部",
+      "深色墨镜"
+    ],
+    "analysis": "牛角扣在深色大衣上形成清楚横线，下身奶白把冬季外层的重量提亮。衣长覆盖髋部，裤腿仍保持宽松，气质比短皮衣更柔和。",
+    "distinctReason": "本组唯一的传统牛角扣大衣方向。与 JP08 的毛领 B-3 相比，衣长、扣具和深浅色块都不同，适合学习学院感冬装。",
+    "formula": "海军蓝牛角扣大衣 + 奶白宽裤 + 少量蓝袖口",
+    "poseNote": "双手轻扶领口或扣袢，侧头看向一边；让扣具保持自然，不用每个都扣满。",
+    "seasonGuide": {
+      "primary": "winter",
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "note": "中长连帽大衣和长裤可作深秋冬季参考；具体保暖仍以成分、里料和温度为准。"
+    },
+    "matches": [
+      {
+        "itemId": "world-fr-fursac-coat",
+        "level": "similar-style",
+        "note": "提供海军蓝中长大衣方向；目录为普通门襟羊毛大衣，没有图中的连帽与牛角扣，不能当成同款外观。"
+      },
+      {
+        "itemId": "pants-carhartt-ivory",
+        "level": "similar-style",
+        "note": "借鉴深蓝大衣配奶白长裤的对比；目录裤有工装口袋，与图中宽裤的细节不同。"
+      }
+    ],
+    "searchTerms": [
+      "CHIL O 牛角扣 海军蓝 大衣",
+      "奶白 宽裤 深蓝 大衣"
+    ],
+    "captionNote": "发布者在该帖宣布 CHIL O’ 与 CPCM 的合作线，照片有 CHIL O’ 字样；未提供这套各件的完整货号。",
+    "contrast": {
+      "main": "navy-duffle-coat",
+      "silhouette": "mid-coat-ivory-wide",
+      "layering": "shirt-cuff-under-duffle",
+      "palette": "navy-ivory"
+    },
+    "id": "JP15",
+    "collection": "japan",
+    "image": "assets/references/japan2026/full/JP15.jpg",
+    "thumbnail": "assets/references/japan2026/thumb/JP15.jpg",
+    "provenance": {
+      "kind": "instagram-post",
+      "handle": "ultrabra1n",
+      "postCode": "Dd8r8JsmOOo",
+      "sourceUrl": "https://www.instagram.com/p/Dd8r8JsmOOo/",
+      "profileUrl": "https://www.instagram.com/ultrabra1n/",
+      "photoIndex": 1,
+      "postedAt": "2026-10-01",
+      "collectedAt": "2026-10-28",
+      "sourceWidth": 2374,
+      "sourceHeight": 3163,
+      "originalImageSha256": "12f8382249d8d138f70bfb02fa4d2ae72affa939b7b02abb0e4b62ef1d33d48c",
+      "display": {
+        "width": 900,
+        "height": 1199,
+        "sha256": "d0f851aa51c722589ecc22fe35a4a834d128a8345f2d101f48d9a860700fe861",
+        "bytes": 284127
+      },
+      "thumbnail": {
+        "width": 360,
+        "height": 480,
+        "sha256": "2385dbfcce2ccb850467a5d37f5a6a0cdaeac586c89251e49668764431050958",
+        "bytes": 49597
+      },
+      "differenceHash": "fa7444e8f971f045"
+    },
+    "heroPriority": 4
+  }
+]

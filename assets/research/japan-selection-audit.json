@@ -1,0 +1,472 @@
+{
+  "collectedAt": "2026-10-28",
+  "scope": "定向 Instagram 站内关键词发现与六个公开账号的已加载照片帖；不声称穷尽 Instagram。",
+  "keywords": [
+    "メンズコーデ",
+    "シティボーイ",
+    "きれいめカジュアル"
+  ],
+  "profilesReviewed": [
+    "dai.fashion510",
+    "genji_official_",
+    "kei_adrer",
+    "ryo__takashima",
+    "ultrabra1n",
+    "yooshiakiii"
+  ],
+  "photoPostCoversReviewed": 47,
+  "additionalCarouselFramesReviewed": 55,
+  "carouselPostsReviewed": [
+    {
+      "postCode": "DerJJ41EuYM",
+      "frames": 20
+    },
+    {
+      "postCode": "DeOjM5sktf-",
+      "frames": 15
+    },
+    {
+      "postCode": "DeJnvK2klsK",
+      "frames": 20
+    }
+  ],
+  "selectedLooks": 20,
+  "selectedPosts": 19,
+  "selectedAccounts": 5,
+  "rejectedExplicitAiAccount": "looksnote11",
+  "selectionRule": "比较主单品、廓形、叠穿与配色；同套换角度、只换颜色、宣传拼图、静物、合照与模特架搭配不计入。单人品牌模特原帧可保留并标注。",
+  "manualReview": "入围 20 张逐张检查；每张说明学习重点与相近条目的区别，模特图原有文字未去除。",
+  "records": [
+    {
+      "candidate": 1,
+      "postCode": "Dev_z0gE9xs",
+      "handle": "dai.fashion510",
+      "decision": "selected",
+      "lookIds": [
+        "JP01"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 2,
+      "postCode": "Dc0fyGjE_61",
+      "handle": "dai.fashion510",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "建筑照片，缺少可学习的真人穿搭"
+    },
+    {
+      "candidate": 3,
+      "postCode": "Dbk2j8NE7FC",
+      "handle": "dai.fashion510",
+      "decision": "selected",
+      "lookIds": [
+        "JP02"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 4,
+      "postCode": "Da-UD9Xk-0r",
+      "handle": "dai.fashion510",
+      "decision": "selected",
+      "lookIds": [
+        "JP03"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 5,
+      "postCode": "Da4pZMDEdvJ",
+      "handle": "dai.fashion510",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "双人活动造型，优先保留独立穿搭"
+    },
+    {
+      "candidate": 6,
+      "postCode": "DeT7YUGk8fH",
+      "handle": "genji_official_",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "封面为上身特写，未补足与入围造型的区别"
+    },
+    {
+      "candidate": 7,
+      "postCode": "DfCJfwKE-yz",
+      "handle": "genji_official_",
+      "decision": "selected",
+      "lookIds": [
+        "JP04"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 8,
+      "postCode": "De_qB-xE-KG",
+      "handle": "genji_official_",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "上身与商品宣传拼图，不作一套真人参考"
+    },
+    {
+      "candidate": 9,
+      "postCode": "De9E2BBEzOG",
+      "handle": "genji_official_",
+      "decision": "selected",
+      "lookIds": [
+        "JP05"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 10,
+      "postCode": "De6doqNE6w8",
+      "handle": "genji_official_",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "上身特写，冬季方向由差别更明显的 B-3 与牛角扣替代"
+    },
+    {
+      "candidate": 11,
+      "postCode": "Deq5QXpE-Vm",
+      "handle": "genji_official_",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "亨利领上身特写，与入围 JP06 接近"
+    },
+    {
+      "candidate": 12,
+      "postCode": "DetgHU7EyLn",
+      "handle": "genji_official_",
+      "decision": "selected",
+      "lookIds": [
+        "JP06"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 13,
+      "postCode": "Deochxxk4O6",
+      "handle": "genji_official_",
+      "decision": "selected",
+      "lookIds": [
+        "JP07"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 14,
+      "postCode": "DerJJ41EuYM",
+      "handle": "kei_adrer",
+      "decision": "selected",
+      "lookIds": [
+        "JP08"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 15,
+      "postCode": "De9EmshE7_M",
+      "handle": "kei_adrer",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "宣传与模特架拼图，不计作独立真人搭配"
+    },
+    {
+      "candidate": 16,
+      "postCode": "DeOjM5sktf-",
+      "handle": "kei_adrer",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "查看全部 15 帧后确认主要为模特架搭配板，不收录"
+    },
+    {
+      "candidate": 17,
+      "postCode": "DeJnvK2klsK",
+      "handle": "kei_adrer",
+      "decision": "selected",
+      "lookIds": [
+        "JP09",
+        "JP10"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 18,
+      "postCode": "Cm1NbvJhuoY",
+      "handle": "ryo__takashima",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "多套历史造型拼图，不作一张单套参考"
+    },
+    {
+      "candidate": 19,
+      "postCode": "DezEw0NmT2n",
+      "handle": "ryo__takashima",
+      "decision": "selected",
+      "lookIds": [
+        "JP11"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 20,
+      "postCode": "DZClg_2gbRs",
+      "handle": "ryo__takashima",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "鞋履静物，非穿搭参考"
+    },
+    {
+      "candidate": 21,
+      "postCode": "DEOhTYZBINh",
+      "handle": "ryo__takashima",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "旅行用品静物，非穿搭参考"
+    },
+    {
+      "candidate": 22,
+      "postCode": "DeV5vaJAXi9",
+      "handle": "ryo__takashima",
+      "decision": "selected",
+      "lookIds": [
+        "JP12"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 23,
+      "postCode": "DeY4qIxgRUX",
+      "handle": "ryo__takashima",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "多套造型拼图，不作一张单套参考"
+    },
+    {
+      "candidate": 24,
+      "postCode": "DeJ0kETFOug",
+      "handle": "ryo__takashima",
+      "decision": "selected",
+      "lookIds": [
+        "JP13"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 25,
+      "postCode": "Dc3UZaEAXPM",
+      "handle": "ryo__takashima",
+      "decision": "selected",
+      "lookIds": [
+        "JP14"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 26,
+      "postCode": "DdNR99qk4KJ",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "紫色针织上衣与宽裤组合，优先保留层次更不同的针织路线"
+    },
+    {
+      "candidate": 27,
+      "postCode": "De1KGamE3Jt",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "封面灰色上衣宽裤与其他日常路线接近，原帖元信息留档但不纳入"
+    },
+    {
+      "candidate": 28,
+      "postCode": "Dd8r8JsmOOo",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP15"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 29,
+      "postCode": "Ddv4NrYmEBl",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP16"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 30,
+      "postCode": "DdgUgYMk0Nb",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "棕色短外套与牛仔配方，已由 JP04、JP12 覆盖更明显差别"
+    },
+    {
+      "candidate": 31,
+      "postCode": "DdbK9iik7hi",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP17"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 32,
+      "postCode": "DdGz9TBGL24",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "棕色短外套加蓝衬衫，与 JP12 接近"
+    },
+    {
+      "candidate": 33,
+      "postCode": "Dc3l9UFGEIG",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP18"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 34,
+      "postCode": "DcyFyEamOlT",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP19"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 35,
+      "postCode": "Deb12z2GCOt",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "牛角扣加宽裤，与 JP15 接近"
+    },
+    {
+      "candidate": 36,
+      "postCode": "DeF9nilGMEi",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "品牌标识照片，非穿搭参考"
+    },
+    {
+      "candidate": 37,
+      "postCode": "DcqQJg4mOIC",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "大 T 恤蹲姿，仅保留更完整且季节清楚的暖季穿法"
+    },
+    {
+      "candidate": 38,
+      "postCode": "Db5Uu5TGBhk",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "图上宣传文字与局部遮挡，优先保留清楚的独立造型"
+    },
+    {
+      "candidate": 39,
+      "postCode": "DbOgp_xk9uf",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "灰 T 配牛仔的局部画面，差异与学习信息不足"
+    },
+    {
+      "candidate": 40,
+      "postCode": "Da6Ez-ikyq-",
+      "handle": "ultrabra1n",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "领口特写，缺少搭配比例"
+    },
+    {
+      "candidate": 41,
+      "postCode": "DazzTAQkwFy",
+      "handle": "ultrabra1n",
+      "decision": "selected",
+      "lookIds": [
+        "JP20"
+      ],
+      "reason": "独立真人搭配，详情保留差异说明"
+    },
+    {
+      "candidate": 42,
+      "postCode": "DeOxuJDEqjN",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "车内近景，鞋裤与完整比例信息不足"
+    },
+    {
+      "candidate": 43,
+      "postCode": "DdeBrXbErBV",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "活动合照，非单人穿搭"
+    },
+    {
+      "candidate": 44,
+      "postCode": "Dcv4J7hki9S",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "生日蛋糕照片，非穿搭参考"
+    },
+    {
+      "candidate": 45,
+      "postCode": "DcqST2zErDY",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "生日合照拼图，非单套穿搭"
+    },
+    {
+      "candidate": 46,
+      "postCode": "Dc0njnUEo67",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "化妆品合作场景，优先保留配色与比例更清楚的独立造型"
+    },
+    {
+      "candidate": 47,
+      "postCode": "Da2l0TIEuSt",
+      "handle": "yooshiakiii",
+      "decision": "excluded",
+      "lookIds": [],
+      "reason": "香水活动宣传拼图，不作独立穿搭参考"
+    }
+  ],
+  "imageSimilarityReview": {
+    "algorithm": "64-bit difference hash on complete resized image",
+    "withinNewMinimum": 8,
+    "withinNewClosestPair": [
+      "JP06",
+      "JP07"
+    ],
+    "withinNewManualReview": "同一摄影棚背景；亨利领加灰色弧线裤与中长猎装加深色牛仔的服装及比例不同。",
+    "existingImagesCompared": 76,
+    "againstExistingMinimum": 14,
+    "againstExistingClosestPair": [
+      "JP06",
+      "22"
+    ],
+    "note": "作为近似图片提示；不替代逐图款式筛选。"
+  }
+}
