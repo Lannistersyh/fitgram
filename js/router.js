@@ -2,7 +2,7 @@
 (function (A) {
   'use strict';
   const V = A.views, U = A.utils;
-  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/catalog':'分类图鉴','/catalog/japan':'日系新选 · 20 套穿搭','/catalog/douyin':'原抖音穿搭选辑','/catalog/history':'潮流历史图集','/catalog/leather':'皮包专题','/catalog/blazers':'西装外套款式课','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
+  const titles = {'/':'日韩男生秋冬穿搭灵感图鉴','/catalog':'穿搭图鉴','/learn':'搭配原理','/learn/pairing':'鞋裤搭配','/catalog/japan':'日系新选 · 20 套穿搭','/catalog/douyin':'原抖音穿搭选辑','/catalog/history':'潮流历史图集','/catalog/leather':'皮包专题','/catalog/blazers':'西装外套款式课','/explore':'发现','/closet':'我的衣橱','/compare':'日韩对照','/trends':'造型观察','/bloggers':'来源图鉴','/reels':'造型速览','/about':'关于'};
   let first = true;
 
   function renderPage(route) {
@@ -12,6 +12,7 @@
       return V.renderExplore();
     }
     if (name === 'home') return V.renderHome();
+    if (name === 'learn') return A.balance.render(path[1]);
     if (name === 'catalog') return V.renderCatalog(path[1],path[2]);
     if (name === 'explore') return V.renderExplore();
     if (name === 'blogger') return V.renderBlogger(path[1]);
@@ -22,6 +23,7 @@
 
   function mount(route) {
     if (route === '/') V.mountHome();
+    if (route.startsWith('/learn')) A.balance.mount();
     if (route.startsWith('/catalog')) { A.catalog.mount(); A.atlas.mount(); A.world.mount(); A.history.mount(); A.leather.mount(); A.tailoring.mount(); }
     if (V.mountExtra) V.mountExtra(route.replace(/^\//, ''));
   }
@@ -31,21 +33,12 @@
     if (V.cleanupExtra) V.cleanupExtra();
   }
 
-  function updateNavigation(route) {
-    const japanReference=route.startsWith('/catalog/reference/')&&(window.FITGRAM_JAPAN?.looks||[]).some(p=>route==='/catalog/reference/'+p.id);
-    const section = ['/catalog/japan','/catalog/history','/catalog/leather','/catalog/blazers'].find(p=>route.startsWith(p))||(japanReference?'/catalog/japan':null);
-    document.querySelectorAll('[data-route]').forEach(el => {
-      const active = route === el.dataset.route || (el.dataset.route === '/catalog' && route.startsWith('/catalog/') && (!section || !el.closest('#desktop-nav'))) || (section && el.dataset.route === section) || (el.dataset.route === '/bloggers' && route.startsWith('/blogger/'));
-      el.classList.toggle('is-active', active);
-      if (active) el.setAttribute('aria-current', 'page');
-      else el.removeAttribute('aria-current');
-    });
-  }
+  function updateNavigation(route) {A.navigation.update(route);}
 
   function updateMeta(route) {
     updateNavigation(route);
     const reference=route.startsWith('/catalog/reference/')?[...(window.FITGRAM_JAPAN?.looks||[]),...(window.FITGRAM_REFERENCES?.looks||[])].find(p=>p.id===route.split('/')[3]):null;
-    document.title = 'FITGRAM · ' + (reference?.title || titles[route] || (route.startsWith('/catalog/japan/')?'日系新选 · 20 套穿搭':route.startsWith('/catalog/blazers/')?'西装外套款式课':route.startsWith('/catalog/leather/')?'皮包专题':route.startsWith('/catalog/history/')?'潮流历史图集':route.startsWith('/catalog/')?'分类图鉴':'穿搭图鉴'));
+    document.title = 'FITGRAM · ' + (reference?.title || titles[route] || (route.startsWith('/learn/')?(A.balance.title(route.split('/')[2])||'搭配原理'):route.startsWith('/catalog/japan/')?'日系新选 · 20 套穿搭':route.startsWith('/catalog/blazers/')?'西装外套款式课':route.startsWith('/catalog/leather/')?'皮包专题':route.startsWith('/catalog/history/')?'潮流历史图集':route.startsWith('/catalog/')?'分类图鉴':'穿搭图鉴'));
     A.store.set('recent', [route, ...(A.store.get('recent') || []).filter(x => x !== route)].slice(0, 12));
   }
 

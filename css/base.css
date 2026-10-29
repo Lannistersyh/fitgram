@@ -36,7 +36,8 @@ small{font-size:12px}
 .text-link:hover{color:var(--accent-hover)}
 .divider{height:1px;background:var(--border);margin:24px 0}
 .footer{margin-top:42px;padding:24px 0 36px;border-top:1px solid var(--border);font-size:11px;line-height:1.8;color:var(--text-secondary)}
-.footer__links{display:flex;gap:16px;margin-bottom:10px;font-size:12px}
+.footer__links{display:flex;flex-wrap:wrap;gap:10px 16px;margin-bottom:10px;font-size:12px}
+.footer__links a{white-space:nowrap}
 .footer p{max-width:650px}
 .footer__wordmark{margin:20px 0 8px;font:600 12px var(--mono);letter-spacing:2px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}

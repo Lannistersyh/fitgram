@@ -1,0 +1,238 @@
+{
+  "reviewedAt": "2026-10-28",
+  "note": "三双鞋的量感为彼此相对的外观归纳；商品图机位、缩放不同，不用像素推算真实尺寸。两件商品分别展示，非真人试穿或已确认同款。",
+  "shoes": [
+    {
+      "itemId": "shoes-ghbass-penny",
+      "key": "penny",
+      "label": "薄底乐福",
+      "level": "small",
+      "note": "低鞋口、较薄的底和简洁横带，外露轮廓较收敛。",
+      "image": "assets/learning/balance/products/shoes-ghbass-penny.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/shoes/ghbsh11010hmqbkx.jpg",
+        "sourceSha256": "382e0042315e23992baeaa2b048051482b036f011e85cc8770965e537d0ffa6d",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 489,
+        "trimmedHeight": 175,
+        "offsetLeft": 39,
+        "offsetTop": 411,
+        "sha256": "7181a739a6d5e7161774f850b243d1beac87641a2379a877fe19b77cc74233e9",
+        "width": 529,
+        "height": 215
+      }
+    },
+    {
+      "itemId": "shoes-doc1461",
+      "key": "derby",
+      "label": "常规德比",
+      "level": "medium",
+      "note": "圆头、可见沿条和黄线，比薄底乐福更有脚部存在感。",
+      "image": "assets/learning/balance/products/shoes-doc1461.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/shoes/doc1461.jpg",
+        "sourceSha256": "b0a15c31dc6d31ba6e0fa4e24212886c540cdc8a3f72cef95598f6ce110d1fe4",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 714,
+        "trimmedHeight": 303,
+        "offsetLeft": 80,
+        "offsetTop": 681,
+        "sha256": "382e0c18d1a0ab2aaf150063e84800ce54a709594251faa3183544705017296e",
+        "width": 640,
+        "height": 295
+      }
+    },
+    {
+      "itemId": "global-adieu-134",
+      "key": "chunky",
+      "label": "大底德比",
+      "level": "large",
+      "note": "突出的橡胶底与圆头形成更明确的外轮廓。",
+      "image": "assets/learning/balance/products/global-adieu-134.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/shoes/global-adieu-134.jpg",
+        "sourceSha256": "65c33eba5e488654a99b054a64158179c2f1b12f2e565d42d87978e016d86fbc",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 342,
+        "trimmedHeight": 147,
+        "offsetLeft": 190,
+        "offsetTop": 207,
+        "sha256": "8340aaa83243a4161e93ce564b28622549ab0708b460f4c12b65563639b5462f",
+        "width": 382,
+        "height": 187
+      }
+    }
+  ],
+  "pants": [
+    {
+      "itemId": "pants-beamsplus-cuffed",
+      "key": "straight",
+      "label": "直筒翻边",
+      "level": "medium",
+      "note": "直筒裤腿与翻边形成清楚的下摆落点。",
+      "image": "assets/learning/balance/products/pants-beamsplus-cuffed.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/pants/pants-beamsplus-cuffed.jpg",
+        "sourceSha256": "d147fff6ceaa2927f55106f0f60af71cf43b93a713fa6f03f6748ae1cd1b9680",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 536,
+        "trimmedHeight": 874,
+        "offsetLeft": 132,
+        "offsetTop": 63,
+        "sha256": "e10f9aeae5690237363b7b9c8d8286eb04d75e114d171ae28bac983436f10538",
+        "width": 500,
+        "height": 790
+      }
+    },
+    {
+      "itemId": "pants-fredperry-pleated",
+      "key": "drape",
+      "label": "垂感阔腿",
+      "level": "large",
+      "note": "褶量与宽裤腿把下身体积展开。",
+      "image": "assets/learning/balance/products/pants-fredperry-pleated.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/pants/pants-fredperry-pleated.jpg",
+        "sourceSha256": "87e800daedfff252df7197610d1a858e73eb3da24153533a78edbc0a66329388",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 498,
+        "trimmedHeight": 882,
+        "offsetLeft": 150,
+        "offsetTop": 58,
+        "sha256": "77dbbd48134c4951a3e3bdace34472479c5c167124b2ec15fbe6999f687fbead",
+        "width": 463,
+        "height": 790
+      }
+    },
+    {
+      "itemId": "pants-beams-wide-denim",
+      "key": "denim",
+      "label": "宽腿牛仔",
+      "level": "large",
+      "note": "牛仔裤面与明显宽腿轮廓让下半身更有分量。",
+      "image": "assets/learning/balance/products/pants-beams-wide-denim.jpg",
+      "imageEvidence": {
+        "sourceImage": "assets/catalog/pants/pants-beams-wide-denim.jpg",
+        "sourceSha256": "c7970088fdba56227661390e425602fdb7bc81e849f033d63b04f9d892b20287",
+        "operation": "仅去除白边并等比例缩小；未补绘或改变商品设计",
+        "trimmedWidth": 492,
+        "trimmedHeight": 879,
+        "offsetLeft": 156,
+        "offsetTop": 57,
+        "sha256": "a27f6e735901f830ce8765ccdb279551c7d10de22efa71ab347c9271ba54dd78",
+        "width": 460,
+        "height": 790
+      }
+    }
+  ],
+  "pairs": [
+    {
+      "shoeKey": "penny",
+      "pantsKey": "straight",
+      "title": "裤脚轻落，保留横带",
+      "relation": "直筒翻边给小量感乐福留下清楚的鞋面，整体可以比较收敛。",
+      "hem": "翻边别压住全部横带；先穿鞋确认脚跟不会踩到裤口。",
+      "upper": "上身可从短衬衫或薄针织开始，领口留一点空隙。",
+      "lookIds": [
+        "JP02",
+        "JP19"
+      ]
+    },
+    {
+      "shoeKey": "penny",
+      "pantsKey": "drape",
+      "title": "宽裤也能接薄底鞋",
+      "relation": "宽度留在裤腿，脚部保持简洁；两者通过干净落地连接。",
+      "hem": "若裤脚把鞋面吞掉，先减裤长或堆量，不急着换更厚鞋底。",
+      "upper": "上衣下摆靠近腰线，内搭较短、较柔软。",
+      "lookIds": [
+        "JP06",
+        "JP13"
+      ]
+    },
+    {
+      "shoeKey": "penny",
+      "pantsKey": "denim",
+      "title": "减一点裤脚堆量",
+      "relation": "较有分量的宽牛仔配小鞋体，能形成明确的上下对比。",
+      "hem": "保留完整鞋头和稳定落脚；裤脚不要堆成一团遮住鞋面。",
+      "upper": "用短身外套或单层衬衫控制上身体积，再决定是否加包。",
+      "lookIds": [
+        "JP19",
+        "JP13"
+      ]
+    },
+    {
+      "shoeKey": "derby",
+      "pantsKey": "straight",
+      "title": "让圆头与翻边都可见",
+      "relation": "常规德比给直筒裤一个较明确的落点，风格会更硬朗一点。",
+      "hem": "翻边与沿条之间留出鞋面，黄线已是细节，袜子先选较安静的颜色。",
+      "upper": "短夹克与薄内搭可以延续干净的腰部线条。",
+      "lookIds": [
+        "JP04",
+        "JP19"
+      ]
+    },
+    {
+      "shoeKey": "derby",
+      "pantsKey": "drape",
+      "title": "宽垂线，接适中的鞋体",
+      "relation": "阔腿西裤的垂线和圆头德比可以平衡下半身，鞋不需要成为唯一焦点。",
+      "hem": "裤脚轻覆系带区域，别让多层折痕全部压在鞋面上。",
+      "upper": "用单层针织或短外套，领口保持一处清楚的开口。",
+      "lookIds": [
+        "JP06",
+        "JP12"
+      ]
+    },
+    {
+      "shoeKey": "derby",
+      "pantsKey": "denim",
+      "title": "宽牛仔与圆头的工作感",
+      "relation": "裤面和鞋底都较有存在感，适合把下半身做得扎实。",
+      "hem": "检查裤脚是否踩跟；若堆量太多，先调裤长。",
+      "upper": "皮夹克或工作夹克可作外层，内搭较薄，避免胸腹继续膨胀。",
+      "lookIds": [
+        "JP04",
+        "JP09"
+      ]
+    },
+    {
+      "shoeKey": "chunky",
+      "pantsKey": "straight",
+      "title": "把大底作为明确焦点",
+      "relation": "较大的鞋体会比直筒裤更突出，可以把它当作造型重点。",
+      "hem": "先确认裤口有足够开口自然落下，不被鞋口顶成一团。",
+      "upper": "外层可以保留一点肩袖余量，配件减少到一处。",
+      "lookIds": [
+        "JP04",
+        "JP09"
+      ]
+    },
+    {
+      "shoeKey": "chunky",
+      "pantsKey": "drape",
+      "title": "让宽裤有一个稳的落点",
+      "relation": "较宽裤腿与突出的鞋底彼此承接，下半身的量感会更充足。",
+      "hem": "鞋头要能辨认，裤长仍需避免拖地；不能用鞋底厚度代替裤长调整。",
+      "upper": "上身以短衣长或柔软内搭收住腰腹，领口别叠得太满。",
+      "lookIds": [
+        "JP06",
+        "JP09"
+      ]
+    },
+    {
+      "shoeKey": "chunky",
+      "pantsKey": "denim",
+      "title": "体积集中在下半身",
+      "relation": "宽牛仔与大底鞋都很有存在感，整体会更厚实。",
+      "hem": "先减少裤脚堆量；大包与长厚外套会继续增加整身体积。",
+      "upper": "想轻一点，可先换小包或减少中层，保留短外套的分界。",
+      "lookIds": [
+        "JP04",
+        "JP09"
+      ]
+    }
+  ]
+}

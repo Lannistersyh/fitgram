@@ -1,0 +1,300 @@
+{
+  "reviewedAt": "2026-10-28",
+  "note": "逐条复核原有 49 条近似款关联；角色仅描述本站搭配用途，不升级原帖同款证据。",
+  "reviews": [
+    {
+      "lookId": "JP01",
+      "itemId": "world-uk-bedale",
+      "kind": "alternative",
+      "note": "Bedale 衣长更长，可能覆盖更多裤腰；先把白内搭收短，再检查外套和宽牛仔的分界。"
+    },
+    {
+      "lookId": "JP01",
+      "itemId": "pants-beams-wide-denim",
+      "kind": "reference",
+      "note": "宽牛仔保留下身体积；照着试时补看站姿与裤脚，照片没有提供鞋的依据。"
+    },
+    {
+      "lookId": "JP02",
+      "itemId": "blazer-havana-navy",
+      "kind": "alternative",
+      "note": "海军蓝会比全黑稍亮；保持外套肩胸和裤腿收敛，白领口仍只露少量。"
+    },
+    {
+      "lookId": "JP02",
+      "itemId": "ref-asket-oxford",
+      "kind": "reference",
+      "note": "牛津纺更有织纹，领口不必开得太深，避免亮色胸前面积突然增大。"
+    },
+    {
+      "lookId": "JP02",
+      "itemId": "world-fr-fursac-derby",
+      "kind": "reference",
+      "note": "简洁鞋体可延续正装末端；试穿时让裤脚轻落，保留鞋头与鞋面。"
+    },
+    {
+      "lookId": "JP03",
+      "itemId": "ref-nm-strata",
+      "kind": "alternative",
+      "note": "长袖和灰酒红会增加上身体积与色块；大包照旧使用时，把下摆收进裤腰。"
+    },
+    {
+      "lookId": "JP03",
+      "itemId": "pants-fredperry-pleated",
+      "kind": "reference",
+      "note": "阔腿褶线可以保留高腰长线；裤长先配鞋调整，别把末端堆成一团。"
+    },
+    {
+      "lookId": "JP03",
+      "itemId": "coach-venturer-signature",
+      "kind": "alternative",
+      "note": "Signature 花纹会让大包更醒目；其他配饰减少，并保留可辨认的腰线。"
+    },
+    {
+      "lookId": "JP04",
+      "itemId": "global-ol-mini",
+      "kind": "reference",
+      "note": "保持短衣长与较收敛内搭，宽工装裤才有明确的上方边界。"
+    },
+    {
+      "lookId": "JP04",
+      "itemId": "ref-nm-velum",
+      "kind": "reference",
+      "note": "灰绿宽裤继续承担下身体积；先核对腰臀余量，再穿鞋看裤脚。"
+    },
+    {
+      "lookId": "JP04",
+      "itemId": "shoes-doc1461",
+      "kind": "reference",
+      "note": "1461 鞋底和黄线更显眼；减少裤脚堆量，先让圆头完整露出。"
+    },
+    {
+      "lookId": "JP05",
+      "itemId": "pants-fredperry-pleated",
+      "kind": "reference",
+      "note": "藏青宽裤仍能作深色整块；若改配小皮鞋，先缩短裤脚外露堆量。"
+    },
+    {
+      "lookId": "JP05",
+      "itemId": "world-us-newera-cap",
+      "kind": "alternative",
+      "note": "深蓝帽与原图灰帽的明暗不同；只加这一处深色即可，不必再添亮配件。"
+    },
+    {
+      "lookId": "JP06",
+      "itemId": "ref-nm-strata",
+      "kind": "alternative",
+      "note": "长袖亨利领可保留领口纵线，但灰酒红会改变黑上衣的深色整块；灰裤仍作主角。"
+    },
+    {
+      "lookId": "JP06",
+      "itemId": "world-it-luca-pleated",
+      "kind": "alternative",
+      "note": "更直、更细的裤面会减弱原图弧线体积；搭配思路随之更偏收敛的西裤穿法。"
+    },
+    {
+      "lookId": "JP06",
+      "itemId": "global-adieu-134",
+      "kind": "compare",
+      "note": "大底德比会增加脚部量感；用于比较另一种落脚效果，不能还原原图较小的外露鞋面。"
+    },
+    {
+      "lookId": "JP07",
+      "itemId": "world-fr-bdc-germinal",
+      "kind": "alternative",
+      "note": "短工作夹克会露出更多裤腰；保持内搭简短，别沿用中长猎装的衣摆覆盖关系。"
+    },
+    {
+      "lookId": "JP07",
+      "itemId": "pants-nomanual-washed-denim",
+      "kind": "reference",
+      "note": "深色宽牛仔仍可接外套；加厚内搭时检查胸腹是否被撑起，脚部需另试。"
+    },
+    {
+      "lookId": "JP08",
+      "itemId": "global-es-pod",
+      "kind": "compare",
+      "note": "Pod 的蓬松来自充填体积，原图重点在毛领和宽袖；对照短宽外套的两种体积来源。"
+    },
+    {
+      "lookId": "JP08",
+      "itemId": "global-ab-cuban",
+      "kind": "reference",
+      "note": "链条只作小亮点，选长度时避开毛领最厚的位置，不继续增加大吊坠焦点。"
+    },
+    {
+      "lookId": "JP09",
+      "itemId": "blazer-tonywack-cropped",
+      "kind": "alternative",
+      "note": "翻领夹克没有挂钩焦点，可维持短上衣配长裤的比例；内搭不要突然换成长宽款。"
+    },
+    {
+      "lookId": "JP09",
+      "itemId": "global-ol-camion",
+      "kind": "reference",
+      "note": "靴子可提供裤脚末端的分量；穿实际靴子检查喇叭裤是否盖筒、是否踩跟。"
+    },
+    {
+      "lookId": "JP10",
+      "itemId": "world-uk-fisherman",
+      "kind": "alternative",
+      "note": "圆领毛衣会失去连帽与拉链开口；改用窄幅白领边，把它理解为另一套针织穿法。"
+    },
+    {
+      "lookId": "JP10",
+      "itemId": "world-it-luca-pleated",
+      "kind": "reference",
+      "note": "灰色垂感裤可保留长线；上衣控制在腰附近，鞋另作全身核对。"
+    },
+    {
+      "lookId": "JP11",
+      "itemId": "pants-beams-wide-denim",
+      "kind": "reference",
+      "note": "蓝牛仔能接橘色帽衫；站立后再确认臀腿余量，坐姿不用于决定裤长。"
+    },
+    {
+      "lookId": "JP11",
+      "itemId": "shirt-cn-chxsti037122rgrd",
+      "kind": "reference",
+      "note": "格纹只露领口和袖边；如果大面积外露，帽衫和格纹会形成两个上身焦点。"
+    },
+    {
+      "lookId": "JP12",
+      "itemId": "blazer-ourlegacy-trip",
+      "kind": "alternative",
+      "note": "Trip 的四袋会增加前片信息；蓝领口露窄一些，内搭不要再形成大面积衣摆。"
+    },
+    {
+      "lookId": "JP12",
+      "itemId": "shirt-cn-4best111213xrblz",
+      "kind": "reference",
+      "note": "条纹蓝衬衫只用在领口的小面积蓝色；大片外露会改变原图三层的分工。"
+    },
+    {
+      "lookId": "JP12",
+      "itemId": "coach-empire40",
+      "kind": "alternative",
+      "note": "Empire 40 更大，会成为第二个体积主体；减少外套口袋和其他手边配饰的存在感。"
+    },
+    {
+      "lookId": "JP13",
+      "itemId": "global-ol-faubourg",
+      "kind": "reference",
+      "note": "宽松衬衫可以维持上轻下宽；条纹比素蓝更有信息，配件先保持简单。"
+    },
+    {
+      "lookId": "JP13",
+      "itemId": "pants-gramicci-corduroy",
+      "kind": "alternative",
+      "note": "灯芯绒表面更厚，未必有原图极宽垂线；先控制衬衫衣摆，再看裤脚怎样接鞋。"
+    },
+    {
+      "lookId": "JP13",
+      "itemId": "coach-empire40",
+      "kind": "alternative",
+      "note": "目录大包会改变小包陪衬宽裤的关系；若要保留原图重心，优先找更小体量的包。"
+    },
+    {
+      "lookId": "JP14",
+      "itemId": "blazer-knit-grey",
+      "kind": "alternative",
+      "note": "浅灰针织西装会让上身更亮；袜鞋的深色连续面与短裤外露长度都需要重新检查。"
+    },
+    {
+      "lookId": "JP14",
+      "itemId": "world-fr-lacoste-tclip",
+      "kind": "alternative",
+      "note": "白底面积变大后，脚部更亮；先保留深袜作为间隔，再确认鞋体是否过于突出。"
+    },
+    {
+      "lookId": "JP15",
+      "itemId": "world-fr-fursac-coat",
+      "kind": "alternative",
+      "note": "直线大衣少了扣具和帽子的体积；把它当更收敛的深蓝大衣路线，重新看领口留白。"
+    },
+    {
+      "lookId": "JP15",
+      "itemId": "pants-carhartt-ivory",
+      "kind": "reference",
+      "note": "奶白宽裤继续展开下身；鞋未在参考图入镜，须按实际裤长与鞋型决定落脚。"
+    },
+    {
+      "lookId": "JP16",
+      "itemId": "world-uk-fisherman",
+      "kind": "alternative",
+      "note": "圆领毛衣替代翻领开衫后会改变三层结构；减少一层或缩小外露面积，别把领口叠满。"
+    },
+    {
+      "lookId": "JP16",
+      "itemId": "global-nm-cpo",
+      "kind": "reference",
+      "note": "蓝色中层保留一条门襟即可；内搭较短、较柔软时外层更容易垂落。"
+    },
+    {
+      "lookId": "JP16",
+      "itemId": "pants-carhartt-army-cargo",
+      "kind": "reference",
+      "note": "军绿宽裤可接多层上身；下身未完整入镜，不能沿用照片推断鞋底厚度。"
+    },
+    {
+      "lookId": "JP17",
+      "itemId": "pants-gramicci-corduroy",
+      "kind": "alternative",
+      "note": "棕色灯芯绒会让红绿对比转为红棕；裤面的厚度仍需配合短上衣控制。"
+    },
+    {
+      "lookId": "JP17",
+      "itemId": "world-it-scarosso-william",
+      "kind": "alternative",
+      "note": "细长流苏乐福会减轻脚部体积；减少裤脚堆量，让鞋面可见，不能只按同为棕色替换。"
+    },
+    {
+      "lookId": "JP17",
+      "itemId": "leather-everyday-status-light",
+      "kind": "alternative",
+      "note": "皮托特的支撑与反光可能更明显；若包变硬变大，就减少上身配件焦点。"
+    },
+    {
+      "lookId": "JP18",
+      "itemId": "world-fr-bdc-germinal",
+      "kind": "reference",
+      "note": "同色工作夹克可保留整套感；条纹内搭露窄幅，让前襟能自然打开。"
+    },
+    {
+      "lookId": "JP18",
+      "itemId": "pants-ralphlauren-navy-cargo",
+      "kind": "reference",
+      "note": "蓝色宽工装裤继续连成整块；裤口与鞋的关系须补看全身试穿。"
+    },
+    {
+      "lookId": "JP18",
+      "itemId": "world-fr-bdc-cancale",
+      "kind": "alternative",
+      "note": "奶白粗针织会明显增加门襟亮面与厚度；只露少量，必要时减少一层。"
+    },
+    {
+      "lookId": "JP19",
+      "itemId": "shirt-cn-chxsti037122rgrd",
+      "kind": "reference",
+      "note": "格纹衬衫维持单层穿法；卷袖留出手腕，避免腰间继续添加多个大配件。"
+    },
+    {
+      "lookId": "JP19",
+      "itemId": "world-it-luca-pleated",
+      "kind": "reference",
+      "note": "灰色直落裤面能接格纹；先穿实际鞋检查裤脚，别让翻边压住全部鞋面。"
+    },
+    {
+      "lookId": "JP20",
+      "itemId": "more-fr-fursac-paisley",
+      "kind": "alternative",
+      "note": "佩斯利图案增加上身信息；先收起彩色腰饰、简化帽子颜色，再看胸前留白。"
+    },
+    {
+      "lookId": "JP20",
+      "itemId": "pants-carhartt-ivory",
+      "kind": "reference",
+      "note": "浅色宽裤可延续夏日体积；敞开短袖配较贴身背心，裤脚也要避开凉鞋后跟。"
+    }
+  ]
+}

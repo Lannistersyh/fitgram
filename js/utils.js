@@ -35,5 +35,5 @@
     let timer;
     return function () { clearTimeout(timer); const args = arguments; timer = setTimeout(() => fn.apply(null, args), ms); };
   };
-  U.footer = () => '<footer class="footer"><div class="footer__links"><a href="#/catalog/japan">日系新选 · 20 套</a><a href="#/catalog/blazers">西装外套款式课</a><a href="#/catalog/leather">皮包专题</a><a href="#/catalog/history">潮流历史图集</a><a href="#/catalog">分类图鉴</a><a href="#/about">关于与来源说明</a><a href="#/compare">日韩对照</a><a href="#/bloggers">来源图鉴</a><a href="#/trends">造型观察</a></div><p>本地穿搭资料索引。图片版权归原作者及品牌所有，每套均保留来源链接。单品按证据标注为已确认型号、仅确认品牌或视觉判断；未核实的型号、材质、价格和互动量不补造。收藏与评论只保存在本机，不会同步到 Instagram。</p><div class="footer__wordmark">FITGRAM · REAL LOOKS, TRACEABLE SOURCES</div></footer>';
+  U.footer = () => '<footer class="footer"><div class="footer__links"><a href="#/learn">搭配原理</a><a href="#/learn/pairing">鞋裤搭配</a><a href="#/catalog/japan">日系新选</a><a href="#/catalog/blazers">西装款式</a><a href="#/catalog/leather">皮包专题</a><a href="#/catalog/history">潮流历史</a><a href="#/catalog">穿搭图鉴</a><a href="#/about">来源说明</a><a href="#/compare">日韩对照</a><a href="#/bloggers">来源账号</a><a href="#/trends">造型观察</a></div><p>本地穿搭资料索引。图片版权归原作者及品牌所有，每套均保留来源链接。单品按证据标注为已确认型号、仅确认品牌或视觉判断；未核实的型号、材质、价格和互动量不补造。收藏与评论只保存在本机，不会同步到 Instagram。</p><div class="footer__wordmark">FITGRAM · REAL LOOKS, TRACEABLE SOURCES</div></footer>';
 })();

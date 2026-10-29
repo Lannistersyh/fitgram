@@ -4,6 +4,14 @@
 
 线上地址：[https://lannistersyh.github.io/fitgram/](https://lannistersyh.github.io/fitgram/)。手机无需与电脑连接同一局域网，Mac 关机不影响访问。收藏与笔记保存在各自浏览器，不跨设备同步。
 
+## 搭配原理与导航整理 / 2026-10-29
+
+[打开搭配原理](https://lannistersyh.github.io/fitgram/?v=20261029-balance1#/learn)或[鞋裤搭配](https://lannistersyh.github.io/fitgram/?v=20261029-balance1#/learn/pairing)：四组真实视频原帧课，分别学习上下体积、明暗落点、鞋裤关系和内外层次；保留卡Q因原帖、截帧时间与同时变化的条件。三双已有皮鞋与三条裤子可交互组合，九组分别说明裤脚与上身体积怎样调整。
+
+20 套日系穿搭增加逐部位量感、领口、明暗与替换建议；49 条商品关系复核为 24 条搭配方向、23 条换一种搭法、2 条款式对照。图鉴支持画面量感筛选，鞋未完整显示时注明观察范围。商品原价格、核验日期与来源保留，目录仍为 149 件。
+
+侧栏按“穿搭灵感、搭配学习、单品衣橱”分三组，主要入口统一四字名称、字号、行距与图标；辅助入口收进“全部栏目”。手机底栏增加文字，顶部菜单可达全部栏目；低高度笔记本、图标侧栏和页脚换行一并整理。维护与来源见[搭配学习说明](docs/BALANCE.md)。
+
 ## 日系新选 / 2026-10-28
 
 [打开日系新选 · 20 套](https://lannistersyh.github.io/fitgram/?v=20261028-japan2#/catalog/japan)：筛过 47 个照片帖封面与 55 张轮播帧，收录 5 个发布账号、19 篇原帖中的 20 张不同搭配。包含 DAI、Genji、犬飼京 / ADRER、Ryo Takashima、げんき的公开内容；粉丝量以当日主页缩略显示为准。3 张为独立品牌模特帧，保留原图文字和轮播序号。
@@ -113,7 +121,7 @@ python3 tools/build_real_data.py
 node tools/check_integrity.js
 ```
 
-独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；新增日系参考另由 `node tools/check_japan.js` 验收；国家风格另由 `node tools/check_world.js` 验收；历史图集通过 `python3 tools/build_history.py` 独立生成，由 `node tools/check_history.js` 验收，不受上述造型重建覆盖。
+量感课程与复核通过 `python3 tools/build_balance.py` 生成，由 `node tools/check_balance.js` 验收。独立选品目录通过 `python3 tools/build_catalog.py` 生成，通过 `node tools/check_catalog.js` 和 `node tools/check_atlas.js` 验收；新增日系参考另由 `node tools/check_japan.js` 验收；国家风格另由 `node tools/check_world.js` 验收；历史图集通过 `python3 tools/build_history.py` 独立生成，由 `node tools/check_history.js` 验收，不受上述造型重建覆盖。
 
 新增实际原帖记录写入 raw_posts.json，保留永久链接、本地图片、真实宽高与图片序号。selected_posts.json 和 analysis.json 是合并结果，直接修改会被下次合并覆盖。已有分析键保留站内 ID，删除内容的 ID 不复用。
 

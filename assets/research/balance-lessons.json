@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-10-28",
+  "source": {
+    "title": "穿搭和谐的重点是量感",
+    "author": "卡Q因",
+    "url": "https://xhslink.cn/o/AaSmiZgVonM",
+    "canonicalUrl": "https://www.xiaohongshu.com/explore/6addbdc3000000003101c925",
+    "collectedAt": "2026-10-28",
+    "durationSeconds": 97.934,
+    "originalVideoSha256": "b6f2b6d767825d0936e0325eba3334245a70ff0d012d4229e72b89b1055cd3df"
+  },
+  "note": "视频原帧保留字幕；以下观察和商品练习由本站整理。量感是照片外观判断，不代表重量、尺码或测量分数。",
+  "lessons": [
+    {
+      "id": "volume",
+      "title": "上下体积，怎样衔接",
+      "shortTitle": "上下体积",
+      "principle": "看上衣与裤子分别占据多少空间，再决定把宽度放在哪里。",
+      "before": {
+        "image": "assets/learning/balance/volume-before.jpg",
+        "timeSeconds": 14,
+        "width": 720,
+        "height": 1280,
+        "label": "较宽上衣配收窄裤腿",
+        "sha256": "ccc98dd98e0b44a5959e27d0036a201190ea1dee4d7509576ea57139f2d4e1e5"
+      },
+      "after": {
+        "image": "assets/learning/balance/volume-after.jpg",
+        "timeSeconds": 23,
+        "width": 720,
+        "height": 1280,
+        "label": "上衣搭配更宽的浅色长裤",
+        "sha256": "721a432d8536fa8160424c55d299b12fd864a4c3d34fbb8341f81dee9808e769"
+      },
+      "observations": [
+        "第一帧中毛衣在肩、袖和腰侧留下较多余量，裤腿沿小腿收窄。",
+        "第二帧把下身的外轮廓展开，上下宽度的落差减小。",
+        "裤子有宽度时，裤长仍需让鞋头和落脚位置看得清楚。"
+      ],
+      "comparisonNote": "两帧同时改变了裤型和裤色，手臂姿势也有变化；这里比较外轮廓，不能把全部效果只归于裤宽。",
+      "tryIt": "拿一件已有的宽毛衣，分别搭两条宽度不同的裤子，在同一位置拍正面全身照；先看轮廓，再看颜色。",
+      "relatedLookIds": [
+        "JP04",
+        "JP06",
+        "JP13"
+      ],
+      "relatedProductIds": [
+        "pants-beamsplus-cuffed",
+        "pants-fredperry-pleated",
+        "pants-beams-wide-denim"
+      ]
+    },
+    {
+      "id": "light",
+      "title": "浅色搭配，也需要落点",
+      "shortTitle": "明暗落点",
+      "principle": "先看整身的明暗分布，再用小面积深色建立停顿。",
+      "before": {
+        "image": "assets/learning/balance/light-before.jpg",
+        "timeSeconds": 31,
+        "width": 720,
+        "height": 1280,
+        "label": "浅灰上衣与浅色裤装",
+        "sha256": "b3df67a8e7c3d637a2ebecdce937d63e1e9a1ee58ec5a3f7ae98e4ab012a13e1"
+      },
+      "after": {
+        "image": "assets/learning/balance/light-after.jpg",
+        "timeSeconds": 41,
+        "width": 720,
+        "height": 1280,
+        "label": "加入深色鞋、腰带与肩包",
+        "sha256": "303221e23d6dfea0dced294e16683ddb970d118dfec29bea1f2e9b05f0758beb"
+      },
+      "observations": [
+        "第一帧大部分面积处于浅色区间，上衣与裤装容易连成一片。",
+        "第二帧的黑鞋、腰带与包形成几处深色落点，浅色衣裤仍是主体。",
+        "深色不必占很大面积，位置和重复出现的关系同样值得观察。"
+      ],
+      "comparisonNote": "原片此处同时增添包、腰带并更换鞋，站姿也不同；这是明暗分布的组合示范。",
+      "tryIt": "先保留浅色衣裤，只加一件深色配件拍照；再决定是否需要第二个呼应点。",
+      "relatedLookIds": [
+        "JP03",
+        "JP10",
+        "JP15",
+        "JP20"
+      ],
+      "relatedProductIds": [
+        "shoes-ghbass-penny",
+        "world-uk-belt",
+        "leather-everyday-status-light"
+      ]
+    },
+    {
+      "id": "shoes",
+      "title": "鞋的体积，要回看整身",
+      "shortTitle": "鞋裤关系",
+      "principle": "鞋头、鞋底和露出的鞋面，都会改变裤脚末端的分量。",
+      "before": {
+        "image": "assets/learning/balance/shoes-before.jpg",
+        "timeSeconds": 42,
+        "width": 720,
+        "height": 1280,
+        "label": "短身外套与体积较大的运动鞋",
+        "sha256": "0ed2b0582567afb8fd5ef174899c5698ab16c7438c445ed2e7128e944c2944e9"
+      },
+      "after": {
+        "image": "assets/learning/balance/shoes-after.jpg",
+        "timeSeconds": 57,
+        "width": 720,
+        "height": 1280,
+        "label": "衣裤搭配小巧的黑色皮鞋",
+        "sha256": "f584714741231feb2947d14118db6a75e5e1e45e9d055618976d02158ae32369"
+      },
+      "observations": [
+        "衣裤轮廓比较收敛时，突出的鞋体会成为明显焦点。",
+        "第二帧的黑色皮鞋外露体积更小，与短身上衣及裤脚的关系更接近。",
+        "宽裤也可以配小量感鞋；需要检查裤脚是否遮掉鞋面，以及上身是否继续膨胀。"
+      ],
+      "comparisonNote": "鞋的体积和明度同时改变，衣裤基本相同；两帧站姿有别，鞋的实际尺寸不能按画面像素比较。",
+      "tryIt": "穿同一套衣裤，分别试薄底乐福与厚底德比；观察裤脚盖住多少鞋面，再调整裤长。",
+      "relatedLookIds": [
+        "JP02",
+        "JP04",
+        "JP06",
+        "JP09"
+      ],
+      "relatedProductIds": [
+        "shoes-ghbass-penny",
+        "shoes-doc1461",
+        "global-adieu-134"
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "内搭，给外套留出空间",
+      "shortTitle": "内外层次",
+      "principle": "外套已经有余量时，内搭的长度和宽度会决定它能否自然垂落。",
+      "before": {
+        "image": "assets/learning/balance/layers-before.jpg",
+        "timeSeconds": 80,
+        "width": 720,
+        "height": 1280,
+        "label": "较长较宽的印花内搭",
+        "sha256": "f65bb20155f7904a700ede49e4646c5bcf50d68d60ee24cb4bd9d5100797c98a"
+      },
+      "after": {
+        "image": "assets/learning/balance/layers-after.jpg",
+        "timeSeconds": 87,
+        "width": 720,
+        "height": 1280,
+        "label": "更收敛的浅色内搭",
+        "sha256": "2b891cead600a17cadb98e34c070e4887d44ecbc57584f33eb51e78d66e6208b"
+      },
+      "observations": [
+        "第一帧的内搭较长、较宽，衣摆与图案一起增加了胸腹的视觉面积。",
+        "第二帧的内搭更收敛，外套前片能自然垂下，领口和门襟线条更清楚。",
+        "开衫在腰附近适当收束，也能把上身与宽裤分开；以自己的活动舒适度为准。"
+      ],
+      "comparisonNote": "内搭的宽度、长度和图案一起改变；不是单独检验某一种面料，也不据照片推断人物身材。",
+      "tryIt": "用已有外套分别叠一件长宽 T 和一件较短柔软内搭，比较前片、侧面与衣摆是否被撑起。",
+      "relatedLookIds": [
+        "JP07",
+        "JP10",
+        "JP12",
+        "JP16"
+      ],
+      "relatedProductIds": [
+        "ref-asket-tee",
+        "global-nm-cpo",
+        "global-es-pod"
+      ]
+    }
+  ]
+}
